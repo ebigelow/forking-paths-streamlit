@@ -1,0 +1,1 @@
+./streamlit/pages/1_individual.py
