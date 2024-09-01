@@ -1,0 +1,1609 @@
+,idx,tok,ans,tok_p,ans_mean,ext_p,weighted
+0,0,"
+",$\it{Other}$,0.0840768244669734,0.03333333333333333,0.026573008528205072,0.00280256081556578
+1,0,"
+",Adam Gontier is not a member of Shiny Toy Guns.,0.0840768244669734,0.03333333333333333,0.031112884033622997,0.00280256081556578
+2,0,"
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.0840768244669734,0.16666666666666666,0.16402802236888817,0.0140128040778289
+3,0,"
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.0840768244669734,0.1,0.0971176587895205,0.00840768244669734
+4,0,"
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.0840768244669734,0.1,0.09863442333040204,0.00840768244669734
+5,0,"
+",No.,0.0840768244669734,0.5666666666666667,0.5825340029493613,0.04764353386461826
+6,0,"
+
+",$\it{Other}$,0.32551200993848706,0.03333333333333333,0.02789276845733936,0.010850400331282902
+7,0,"
+
+",Adam Gontier is not a member of Shiny Toy Guns.,0.32551200993848706,0.06666666666666667,0.06904629494520137,0.021700800662565804
+8,0,"
+
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.32551200993848706,0.3333333333333333,0.32525493866393623,0.10850400331282901
+9,0,"
+
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.32551200993848706,0.23333333333333334,0.2398507562334124,0.07595280231898031
+10,0,"
+
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.32551200993848706,0.1,0.09822334021702668,0.03255120099384871
+11,0,"
+
+",No.,0.32551200993848706,0.23333333333333334,0.23973190148308443,0.07595280231898031
+12,0," 
+",$\it{Other}$,0.11176186002728716,0.0,0.0,0.0
+13,0," 
+",Adam Gontier is not a member of Shiny Toy Guns.,0.11176186002728716,0.06666666666666667,0.07036865047151644,0.007450790668485811
+14,0," 
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.11176186002728716,0.3333333333333333,0.3239261361239055,0.03725395334242905
+15,0," 
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.11176186002728716,0.1,0.09769839577436594,0.011176186002728718
+16,0," 
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.11176186002728716,0.2,0.19212147274101968,0.022352372005457435
+17,0," 
+",No.,0.11176186002728716,0.3,0.3158853448891926,0.033528558008186146
+18,0," 
+
+",$\it{Other}$,0.22833452255722814,0.03333333333333333,0.03149794489213476,0.0076111507519076044
+19,0," 
+
+",Adam Gontier is not a member of Shiny Toy Guns.,0.22833452255722814,0.06666666666666667,0.06116578470645874,0.015222301503815209
+20,0," 
+
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.22833452255722814,0.26666666666666666,0.25309686509713286,0.060889206015260836
+21,0," 
+
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.22833452255722814,0.06666666666666667,0.063156774605296,0.015222301503815209
+22,0," 
+
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.22833452255722814,0.23333333333333334,0.23386378889367912,0.05327805526335323
+23,0," 
+
+",No.,0.22833452255722814,0.3333333333333333,0.3572188418052987,0.07611150751907604
+24,0, First,$\it{Other}$,0.2503147830100243,0.03333333333333333,0.026861719924630736,0.008343826100334142
+25,0, First,Adam Gontier is not a member of Shiny Toy Guns.,0.2503147830100243,0.26666666666666666,0.2658239310089217,0.06675060880267314
+26,0, First,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.2503147830100243,0.16666666666666666,0.17147630353403903,0.04171913050167071
+27,0, First,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.2503147830100243,0.23333333333333334,0.24196527213287425,0.058406782702339004
+28,0, First,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.2503147830100243,0.0,0.0,0.0
+29,0, First,No.,0.2503147830100243,0.3,0.2938727733995342,0.07509443490300728
+30,1,1,$\it{Other}$,0.7377442886389888,0.03333333333333333,0.02334581753391938,0.02459147628796629
+31,1,1,Adam Gontier is not a member of Shiny Toy Guns.,0.7377442886389888,0.0,0.0,0.0
+32,1,1,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7377442886389888,0.1,0.09790936955788909,0.07377442886389889
+33,1,1,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7377442886389888,0.2,0.19143028242810925,0.14754885772779777
+34,1,1,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7377442886389888,0.06666666666666667,0.05836421715756289,0.04918295257593258
+35,1,1,No.,0.7377442886389888,0.6,0.6289503133225199,0.44264657318339323
+36,1,First,$\it{Other}$,0.07029376771605429,0.03333333333333333,0.031312082845053754,0.002343125590535143
+37,1,First,Adam Gontier is not a member of Shiny Toy Guns.,0.07029376771605429,0.1,0.10131116399958032,0.007029376771605429
+38,1,First,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.07029376771605429,0.26666666666666666,0.25969962871516356,0.018745004724281145
+39,1,First,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.07029376771605429,0.16666666666666666,0.16498365312264193,0.011715627952675715
+40,1,First,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.07029376771605429,0.3,0.31085270800649634,0.021088130314816288
+41,1,First,No.,0.07029376771605429,0.13333333333333333,0.13184076331106415,0.009372502362140572
+42,1,Step,$\it{Other}$,0.19196194364495697,0.0,0.0,0.0
+43,1,Step,Adam Gontier is not a member of Shiny Toy Guns.,0.19196194364495697,0.23333333333333334,0.21877636959100624,0.044791120183823294
+44,1,Step,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.19196194364495697,0.3,0.2963218694102694,0.05758858309348709
+45,1,Step,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.19196194364495697,0.06666666666666667,0.07135908309878772,0.012797462909663798
+46,1,Step,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.19196194364495697,0.3333333333333333,0.3415509409668856,0.06398731454831899
+47,1,Step,No.,0.19196194364495697,0.06666666666666667,0.07199173693305108,0.012797462909663798
+48,10,-,$\it{Other}$,0.10641840593262829,0.03333333333333333,0.03654645621359827,0.0035472801977542764
+49,10,-,Adam Gontier is not a member of Shiny Toy Guns.,0.10641840593262829,0.03333333333333333,0.03250005559276427,0.0035472801977542764
+50,10,-,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.10641840593262829,0.0,0.0,0.0
+51,10,-,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.10641840593262829,0.2,0.19844572889573814,0.021283681186525658
+52,10,-,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.10641840593262829,0.0,0.0,0.0
+53,10,-,No.,0.10641840593262829,0.7333333333333333,0.7325077592978994,0.07804016435059408
+54,10,Adam,$\it{Other}$,0.8935815940673717,0.0,0.0,0.0
+55,10,Adam,Adam Gontier is not a member of Shiny Toy Guns.,0.8935815940673717,0.06666666666666667,0.06464443041267155,0.05957210627115811
+56,10,Adam,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8935815940673717,0.03333333333333333,0.03188194651244218,0.029786053135579055
+57,10,Adam,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8935815940673717,0.06666666666666667,0.062099043128819774,0.05957210627115811
+58,10,Adam,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8935815940673717,0.0,0.0,0.0
+59,10,Adam,No.,0.8935815940673717,0.8333333333333334,0.8413745799460663,0.7446513283894765
+60,100,"),",$\it{Other}$,1.0,0.0,0.0,0.0
+61,100,"),",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.0291867849387552,0.03333333333333333
+62,100,"),",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+63,100,"),","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09469989749613003,0.1
+64,100,"),","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03260633564772668,0.03333333333333333
+65,100,"),",No.,1.0,0.8333333333333334,0.8435069819173882,0.8333333333333334
+66,101, Jeremy,$\it{Other}$,0.6940800774463481,0.03333333333333333,0.03595215162005276,0.023136002581544936
+67,101, Jeremy,Adam Gontier is not a member of Shiny Toy Guns.,0.6940800774463481,0.0,0.0,0.0
+68,101, Jeremy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6940800774463481,0.0,0.0,0.0
+69,101, Jeremy,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6940800774463481,0.26666666666666666,0.24328408764809625,0.1850880206523595
+70,101, Jeremy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6940800774463481,0.0,0.0,0.0
+71,101, Jeremy,No.,0.6940800774463481,0.7,0.7207637607318509,0.48585605421244366
+72,101, Mi,$\it{Other}$,0.10498205588500578,0.0,0.0,0.0
+73,101, Mi,Adam Gontier is not a member of Shiny Toy Guns.,0.10498205588500578,0.0,0.0,0.0
+74,101, Mi,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.10498205588500578,0.03333333333333333,0.030214841865530636,0.003499401862833526
+75,101, Mi,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.10498205588500578,0.06666666666666667,0.059578567582686225,0.006998803725667052
+76,101, Mi,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.10498205588500578,0.03333333333333333,0.030024655928683624,0.003499401862833526
+77,101, Mi,No.,0.10498205588500578,0.8666666666666667,0.8801819346230998,0.09098444843367168
+78,101, and,$\it{Other}$,0.200937866668646,0.0,0.0,0.0
+79,101, and,Adam Gontier is not a member of Shiny Toy Guns.,0.200937866668646,0.0,0.0,0.0
+80,101, and,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.200937866668646,0.0,0.0,0.0
+81,101, and,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.200937866668646,0.2,0.1884351491908545,0.0401875733337292
+82,101, and,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.200937866668646,0.0,0.0,0.0
+83,101, and,No.,0.200937866668646,0.8,0.8115648508091453,0.1607502933349168
+84,102, Dawson,$\it{Other}$,1.0,0.0,0.0,0.0
+85,102, Dawson,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.05770645688150336,0.06666666666666667
+86,102, Dawson,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+87,102, Dawson,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03333333333333333,0.024226374522180284,0.03333333333333333
+88,102, Dawson,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+89,102, Dawson,No.,1.0,0.9,0.9180671685963162,0.9
+90,103, (,$\it{Other}$,1.0,0.0,0.0,0.0
+91,103, (,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+92,103, (,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+93,103, (,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09122343692217104,0.1
+94,103, (,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03020177026559265,0.03333333333333333
+95,103, (,No.,1.0,0.8666666666666667,0.8785747928122365,0.8666666666666667
+96,104,key,$\it{Other}$,0.7069241442161397,0.0,0.0,0.0
+97,104,key,Adam Gontier is not a member of Shiny Toy Guns.,0.7069241442161397,0.0,0.0,0.0
+98,104,key,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7069241442161397,0.0,0.0,0.0
+99,104,key,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7069241442161397,0.26666666666666666,0.23948267774175358,0.18851310512430391
+100,104,key,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7069241442161397,0.0,0.0,0.0
+101,104,key,No.,0.7069241442161397,0.7333333333333333,0.7605173222582465,0.5184110390918357
+102,104,keyboard,$\it{Other}$,0.13497287976932462,0.0,0.0,0.0
+103,104,keyboard,Adam Gontier is not a member of Shiny Toy Guns.,0.13497287976932462,0.0,0.0,0.0
+104,104,keyboard,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.13497287976932462,0.0,0.0,0.0
+105,104,keyboard,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.13497287976932462,0.16666666666666666,0.14452630141855366,0.022495479961554102
+106,104,keyboard,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.13497287976932462,0.0,0.0,0.0
+107,104,keyboard,No.,0.13497287976932462,0.8333333333333334,0.8554736985814467,0.11247739980777052
+108,104,syn,$\it{Other}$,0.1581029760145356,0.0,0.0,0.0
+109,104,syn,Adam Gontier is not a member of Shiny Toy Guns.,0.1581029760145356,0.0,0.0,0.0
+110,104,syn,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1581029760145356,0.0,0.0,0.0
+111,104,syn,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.1581029760145356,0.23333333333333334,0.21388123617128754,0.03689069440339164
+112,104,syn,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1581029760145356,0.0,0.0,0.0
+113,104,syn,No.,0.1581029760145356,0.7666666666666667,0.7861187638287126,0.12121228161114397
+114,105,boards,$\it{Other}$,1.0,0.0,0.0,0.0
+115,105,boards,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+116,105,boards,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+117,105,boards,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06666666666666667,0.061501399738426304,0.06666666666666667
+118,105,boards,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+119,105,boards,No.,1.0,0.9333333333333333,0.938498600261574,0.9333333333333333
+120,106,"),",$\it{Other}$,0.7531441033875211,0.0,0.0,0.0
+121,106,"),",Adam Gontier is not a member of Shiny Toy Guns.,0.7531441033875211,0.06896551724137931,0.05744523639253701,0.05194097264741525
+122,106,"),",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7531441033875211,0.0,0.0,0.0
+123,106,"),","No, Adam Gontier is not a member of Shiny Toy Guns.",0.7531441033875211,0.06896551724137931,0.05968386687761822,0.05194097264741525
+124,106,"),","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7531441033875211,0.0,0.0,0.0
+125,106,"),",No.,0.7531441033875211,0.8620689655172413,0.8456137437532053,0.6492621580926906
+126,106,",",$\it{Other}$,0.24685589661247898,0.03333333333333333,0.03127541794808547,0.008228529887082633
+127,106,",",Adam Gontier is not a member of Shiny Toy Guns.,0.24685589661247898,0.03333333333333333,0.027925911910856183,0.008228529887082633
+128,106,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.24685589661247898,0.0,0.0,0.0
+129,106,",","No, Adam Gontier is not a member of Shiny Toy Guns.",0.24685589661247898,0.23333333333333334,0.21473736570331944,0.05759970920957843
+130,106,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.24685589661247898,0.0,0.0,0.0
+131,106,",",No.,0.24685589661247898,0.7,0.7260613044377388,0.17279912762873528
+132,107, and,$\it{Other}$,1.0,0.0,0.0,0.0
+133,107, and,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+134,107, and,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+135,107, and,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09056437352012121,0.1
+136,107, and,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.023960179887484664,0.03333333333333333
+137,107, and,No.,1.0,0.8666666666666667,0.8854754465923946,0.8666666666666667
+138,108, Mi,$\it{Other}$,1.0,0.0,0.0,0.0
+139,108, Mi,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+140,108, Mi,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+141,108, Mi,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.3103448275862069,0.27793632053584444,0.3103448275862069
+142,108, Mi,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+143,108, Mi,No.,1.0,0.6896551724137931,0.6834472765089086,0.6896551724137931
+144,109,key,$\it{Other}$,1.0,0.0,0.0,0.0
+145,109,key,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+146,109,key,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+147,109,key,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.07692307692307693,0.05885536331418173,0.07692307692307693
+148,109,key,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+149,109,key,No.,1.0,0.9230769230769231,0.788737483365636,0.9230769230769231
+150,11, G,$\it{Other}$,1.0,0.03333333333333333,0.028801892042309242,0.03333333333333333
+151,11, G,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+152,11, G,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+153,11, G,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.1280027404461489,0.13333333333333333
+154,11, G,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.02873445745884116,0.03333333333333333
+155,11, G,No.,1.0,0.8,0.8144609100527007,0.8
+156,110, Martin,$\it{Other}$,1.0,0.0,0.0,0.0
+157,110, Martin,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+158,110, Martin,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+159,110, Martin,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09000759393667981,0.1
+160,110, Martin,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+161,110, Martin,No.,1.0,0.9,0.9099924060633203,0.9
+162,111, (,$\it{Other}$,1.0,0.0,0.0,0.0
+163,111, (,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+164,111, (,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+165,111, (,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2413793103448276,0.21504958653197676,0.2413793103448276
+166,111, (,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+167,111, (,No.,1.0,0.7586206896551724,0.7496361227670003,0.7586206896551724
+168,112,dr,$\it{Other}$,1.0,0.0,0.0,0.0
+169,112,dr,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+170,112,dr,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.034482758620689655,0.02772340021336985,0.034482758620689655
+171,112,dr,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.3448275862068966,0.2959033479975995,0.3448275862068966
+172,112,dr,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+173,112,dr,No.,1.0,0.6206896551724138,0.637229296905348,0.6206896551724138
+174,113,ums,$\it{Other}$,1.0,0.0,0.0,0.0
+175,113,ums,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+176,113,ums,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+177,113,ums,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.08175470131193427,0.1
+178,113,ums,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+179,113,ums,No.,1.0,0.9,0.9182452986880653,0.9
+180,114,").
+
+",$\it{Other}$,1.0,0.0,0.0,0.0
+181,114,").
+
+",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+182,114,").
+
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+183,114,").
+
+","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06666666666666667,0.06351504923259205,0.06666666666666667
+184,114,").
+
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.023759891097295104,0.03333333333333333
+185,114,").
+
+",No.,1.0,0.9,0.9127250596701129,0.9
+186,115,3,$\it{Other}$,1.0,0.0,0.0,0.0
+187,115,3,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+188,115,3,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+189,115,3,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13793103448275862,0.12363990492549524,0.13793103448275862
+190,115,3,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+191,115,3,No.,1.0,0.8620689655172413,0.8369812493226582,0.8620689655172413
+192,116,.,$\it{Other}$,1.0,0.0,0.0,0.0
+193,116,.,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+194,116,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03254384191883694,0.03333333333333333
+195,116,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09587358147672678,0.1
+196,116,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+197,116,.,No.,1.0,0.8666666666666667,0.8715825766044362,0.8666666666666667
+198,117, Is,$\it{Other}$,1.0,0.0,0.0,0.0
+199,117, Is,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+200,117, Is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.032423718596413104,0.03333333333333333
+201,117, Is,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.08602039530732879,0.1
+202,117, Is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+203,117, Is,No.,1.0,0.8666666666666667,0.8815558860962573,0.8666666666666667
+204,118, Adam,$\it{Other}$,1.0,0.0,0.0,0.0
+205,118, Adam,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03571428571428571,0.030264018924510274,0.03571428571428571
+206,118, Adam,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+207,118, Adam,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.14285714285714285,0.11998622142290934,0.14285714285714285
+208,118, Adam,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+209,118, Adam,No.,1.0,0.8214285714285714,0.7723454084358539,0.8214285714285714
+210,119, G,$\it{Other}$,1.0,0.0,0.0,0.0
+211,119, G,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03571428571428571,0.02836806142093681,0.03571428571428571
+212,119, G,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+213,119, G,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.07142857142857142,0.05717164341409901,0.07142857142857142
+214,119, G,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+215,119, G,No.,1.0,0.8928571428571429,0.8384192015691398,0.8928571428571429
+216,12,ont,$\it{Other}$,1.0,0.0,0.0,0.0
+217,12,ont,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.1,0.09302294188574438,0.1
+218,12,ont,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+219,12,ont,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.23333333333333334,0.22301959289584655,0.23333333333333334
+220,12,ont,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+221,12,ont,No.,1.0,0.6666666666666666,0.6839574652184093,0.6666666666666666
+222,120,ont,$\it{Other}$,1.0,0.0,0.0,0.0
+223,120,ont,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+224,120,ont,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+225,120,ont,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13793103448275862,0.1252506533262564,0.13793103448275862
+226,120,ont,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+227,120,ont,No.,1.0,0.8620689655172413,0.8362130407686755,0.8620689655172413
+228,121,ier,$\it{Other}$,1.0,0.0,0.0,0.0
+229,121,ier,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+230,121,ier,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+231,121,ier,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03333333333333333,0.028293386070634852,0.03333333333333333
+232,121,ier,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+233,121,ier,No.,1.0,0.9666666666666667,0.971706613929365,0.9666666666666667
+234,122, a,$\it{Other}$,1.0,0.0,0.0,0.0
+235,122, a,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+236,122, a,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+237,122, a,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.17857142857142858,0.15789790796792885,0.17857142857142858
+238,122, a,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03571428571428571,0.029216491078450157,0.03571428571428571
+239,122, a,No.,1.0,0.7857142857142857,0.7342732222341531,0.7857142857142857
+240,123, member,$\it{Other}$,1.0,0.0,0.0,0.0
+241,123, member,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+242,123, member,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+243,123, member,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.1803996998845208,0.2
+244,123, member,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+245,123, member,No.,1.0,0.8,0.8196003001154792,0.8
+246,124, of,$\it{Other}$,1.0,0.0,0.0,0.0
+247,124, of,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03052610486586805,0.03333333333333333
+248,124, of,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+249,124, of,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.14854614733526086,0.16666666666666666
+250,124, of,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+251,124, of,No.,1.0,0.8,0.8209277477988705,0.8
+252,125, Sh,$\it{Other}$,1.0,0.0,0.0,0.0
+253,125, Sh,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+254,125, Sh,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+255,125, Sh,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.17841377121381094,0.2
+256,125, Sh,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+257,125, Sh,No.,1.0,0.8,0.821586228786189,0.8
+258,126,iny,$\it{Other}$,1.0,0.0,0.0,0.0
+259,126,iny,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+260,126,iny,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+261,126,iny,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.0811031870960293,0.1
+262,126,iny,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+263,126,iny,No.,1.0,0.9,0.918896812903971,0.9
+264,127, Toy,$\it{Other}$,1.0,0.0,0.0,0.0
+265,127, Toy,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+266,127, Toy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+267,127, Toy,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.11508229865484251,0.13333333333333333
+268,127, Toy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+269,127, Toy,No.,1.0,0.8666666666666667,0.8849177013451575,0.8666666666666667
+270,128, Guns,$\it{Other}$,1.0,0.0,0.0,0.0
+271,128, Guns,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+272,128, Guns,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+273,128, Guns,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13793103448275862,0.12164023812714633,0.13793103448275862
+274,128, Guns,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+275,128, Guns,No.,1.0,0.8620689655172413,0.8372416379621619,0.8620689655172413
+276,129,"?
+",$\it{Other}$,1.0,0.0,0.0,0.0
+277,129,"?
+",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+278,129,"?
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+279,129,"?
+","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.17655379702049467,0.2
+280,129,"?
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+281,129,"?
+",No.,1.0,0.8,0.8234462029795058,0.8
+282,13,ier,$\it{Other}$,1.0,0.0,0.0,0.0
+283,13,ier,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.06469105095497757,0.06666666666666667
+284,13,ier,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.1,0.10194573188303281,0.1
+285,13,ier,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.1944222864064006,0.2
+286,13,ier,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+287,13,ier,No.,1.0,0.6333333333333333,0.6389409307555889,0.6333333333333333
+288,130,Based,$\it{Other}$,0.06820897900466129,0.0,0.0,0.0
+289,130,Based,Adam Gontier is not a member of Shiny Toy Guns.,0.06820897900466129,0.0,0.0,0.0
+290,130,Based,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.06820897900466129,0.0,0.0,0.0
+291,130,Based,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.06820897900466129,0.9333333333333333,0.9176647739369488,0.06366171373768387
+292,130,Based,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.06820897900466129,0.0,0.0,0.0
+293,130,Based,No.,0.06820897900466129,0.06666666666666667,0.08233522606305081,0.004547265266977419
+294,130,No,$\it{Other}$,0.9317910209953386,0.0,0.0,0.0
+295,130,No,Adam Gontier is not a member of Shiny Toy Guns.,0.9317910209953386,0.0,0.0,0.0
+296,130,No,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9317910209953386,0.0,0.0,0.0
+297,130,No,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9317910209953386,0.03333333333333333,0.029521361662524243,0.03105970069984462
+298,130,No,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9317910209953386,0.0,0.0,0.0
+299,130,No,No.,0.9317910209953386,0.9666666666666667,0.9704786383374757,0.900731320295494
+300,131,",",$\it{Other}$,1.0,0.0,0.0,0.0
+301,131,",",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+302,131,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+303,131,",","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06896551724137931,0.06054930250006377,0.06896551724137931
+304,131,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+305,131,",",No.,1.0,0.9310344827586207,0.9001529124703906,0.9310344827586207
+306,132, Adam,$\it{Other}$,1.0,0.0,0.0,0.0
+307,132, Adam,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+308,132, Adam,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+309,132, Adam,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03333333333333333,0.03227206692240207,0.03333333333333333
+310,132, Adam,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+311,132, Adam,No.,1.0,0.9666666666666667,0.9677279330775981,0.9666666666666667
+312,133, G,$\it{Other}$,1.0,0.0,0.0,0.0
+313,133, G,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+314,133, G,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+315,133, G,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.08253118253605525,0.1
+316,133, G,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+317,133, G,No.,1.0,0.9,0.9174688174639446,0.9
+318,134,ont,$\it{Other}$,1.0,0.0,0.0,0.0
+319,134,ont,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+320,134,ont,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+321,134,ont,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.21428571428571427,0.178766206842372,0.21428571428571427
+322,134,ont,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+323,134,ont,No.,1.0,0.7857142857142857,0.741398239099274,0.7857142857142857
+324,135,ier,$\it{Other}$,1.0,0.0,0.0,0.0
+325,135,ier,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+326,135,ier,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+327,135,ier,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.10344827586206896,0.0945016399259143,0.10344827586206896
+328,135,ier,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+329,135,ier,No.,1.0,0.896551724137931,0.8649459081658308,0.896551724137931
+330,136, is,$\it{Other}$,1.0,0.0,0.0,0.0
+331,136, is,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+332,136, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+333,136, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.11817390753983174,0.13333333333333333
+334,136, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+335,136, is,No.,1.0,0.8666666666666667,0.8818260924601677,0.8666666666666667
+336,137, not,$\it{Other}$,1.0,0.0,0.0,0.0
+337,137, not,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+338,137, not,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+339,137, not,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.08941180072284201,0.1
+340,137, not,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+341,137, not,No.,1.0,0.9,0.9105881992771575,0.9
+342,138, a,$\it{Other}$,1.0,0.0,0.0,0.0
+343,138, a,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+344,138, a,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+345,138, a,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.07407407407407407,0.04608023392951565,0.07407407407407407
+346,138, a,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+347,138, a,No.,1.0,0.9259259259259259,0.8264289127642124,0.9259259259259259
+348,139, member,$\it{Other}$,1.0,0.0,0.0,0.0
+349,139, member,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+350,139, member,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+351,139, member,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.0,0.0,0.0
+352,139, member,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+353,139, member,No.,1.0,1.0,1.0,1.0
+354,14, is,$\it{Other}$,1.0,0.0,0.0,0.0
+355,14, is,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+356,14, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03176526248338328,0.03333333333333333
+357,14, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.3,0.286473062459744,0.3
+358,14, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+359,14, is,No.,1.0,0.6666666666666666,0.6817616750568726,0.6666666666666666
+360,140, of,$\it{Other}$,1.0,0.0,0.0,0.0
+361,140, of,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+362,140, of,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+363,140, of,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.0,0.0,0.0
+364,140, of,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+365,140, of,No.,1.0,1.0,0.9999999999999996,1.0
+366,141, Sh,$\it{Other}$,1.0,0.0,0.0,0.0
+367,141, Sh,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+368,141, Sh,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+369,141, Sh,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.037037037037037035,0.031589930047580476,0.037037037037037035
+370,141, Sh,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+371,141, Sh,No.,1.0,0.9629629629629629,0.8375187543464224,0.9629629629629629
+372,142,iny,$\it{Other}$,1.0,0.0,0.0,0.0
+373,142,iny,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+374,142,iny,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+375,142,iny,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06666666666666667,0.06309334910162867,0.06666666666666667
+376,142,iny,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+377,142,iny,No.,1.0,0.9333333333333333,0.9369066508983716,0.9333333333333333
+378,143, Toy,$\it{Other}$,1.0,0.0,0.0,0.0
+379,143, Toy,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+380,143, Toy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+381,143, Toy,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.07142857142857142,0.06189646973141893,0.07142857142857142
+382,143, Toy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+383,143, Toy,No.,1.0,0.9285714285714286,0.8705296649118811,0.9285714285714286
+384,144, Guns,$\it{Other}$,1.0,0.0,0.0,0.0
+385,144, Guns,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+386,144, Guns,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+387,144, Guns,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06896551724137931,0.05795706575748075,0.06896551724137931
+388,144, Guns,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+389,144, Guns,No.,1.0,0.9310344827586207,0.9009224820378857,0.9310344827586207
+390,145,.,$\it{Other}$,1.0,0.0,0.0,0.0
+391,145,.,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+392,145,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03571428571428571,0.035575183578727715,0.03571428571428571
+393,145,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.21428571428571427,0.17595573015042526,0.21428571428571427
+394,145,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+395,145,.,No.,1.0,0.75,0.7108979650461333,0.75
+396,146, He,$\it{Other}$,1.0,0.0,0.0,0.0
+397,146, He,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+398,146, He,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+399,146, He,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.037037037037037035,0.03193909130910232,0.037037037037037035
+400,146, He,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+401,146, He,No.,1.0,0.9629629629629629,0.853123502330306,0.9629629629629629
+402,147, has,$\it{Other}$,0.7238228479375134,0.0,0.0,0.0
+403,147, has,Adam Gontier is not a member of Shiny Toy Guns.,0.7238228479375134,0.0,0.0,0.0
+404,147, has,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7238228479375134,0.03333333333333333,0.03240202850724017,0.024127428264583778
+405,147, has,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7238228479375134,0.06666666666666667,0.06504919267674304,0.048254856529167556
+406,147, has,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7238228479375134,0.0,0.0,0.0
+407,147, has,No.,0.7238228479375134,0.9,0.9025487788160169,0.6514405631437621
+408,147, is,$\it{Other}$,0.05711399924489653,0.0,0.0,0.0
+409,147, is,Adam Gontier is not a member of Shiny Toy Guns.,0.05711399924489653,0.0,0.0,0.0
+410,147, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05711399924489653,0.0,0.0,0.0
+411,147, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05711399924489653,0.16666666666666666,0.15523903184638072,0.009518999874149421
+412,147, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05711399924489653,0.0,0.0,0.0
+413,147, is,No.,0.05711399924489653,0.8333333333333334,0.844760968153619,0.04759499937074711
+414,147, was,$\it{Other}$,0.21906315281759017,0.0,0.0,0.0
+415,147, was,Adam Gontier is not a member of Shiny Toy Guns.,0.21906315281759017,0.0,0.0,0.0
+416,147, was,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.21906315281759017,0.0,0.0,0.0
+417,147, was,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.21906315281759017,0.1,0.09805999896299969,0.021906315281759018
+418,147, was,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.21906315281759017,0.0,0.0,0.0
+419,147, was,No.,0.21906315281759017,0.9,0.9019400010370003,0.19715683753583116
+420,148, never,$\it{Other}$,0.8763134842634074,0.0,0.0,0.0
+421,148, never,Adam Gontier is not a member of Shiny Toy Guns.,0.8763134842634074,0.0,0.0,0.0
+422,148, never,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8763134842634074,0.0,0.0,0.0
+423,148, never,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8763134842634074,0.14814814814814814,0.13756019302178116,0.12982421989087517
+424,148, never,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8763134842634074,0.0,0.0,0.0
+425,148, never,No.,0.8763134842634074,0.8518518518518519,0.7489823523131653,0.7464892643725323
+426,148, not,$\it{Other}$,0.1236865157365925,0.0,0.0,0.0
+427,148, not,Adam Gontier is not a member of Shiny Toy Guns.,0.1236865157365925,0.0,0.0,0.0
+428,148, not,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1236865157365925,0.0,0.0,0.0
+429,148, not,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.1236865157365925,0.08,0.07272404558378247,0.009894921258927401
+430,148, not,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1236865157365925,0.0,0.0,0.0
+431,148, not,No.,0.1236865157365925,0.92,0.7365203625428126,0.11379159447766511
+432,149, been,$\it{Other}$,1.0,0.0,0.0,0.0
+433,149, been,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+434,149, been,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+435,149, been,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.10714285714285714,0.07359441100899454,0.10714285714285714
+436,149, been,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+437,149, been,No.,1.0,0.8928571428571429,0.8494343095146519,0.8928571428571429
+438,15, a,$\it{Other}$,1.0,0.0,0.0,0.0
+439,15, a,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.031231470428492482,0.03333333333333333
+440,15, a,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+441,15, a,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.26632072988953637,0.26666666666666666
+442,15, a,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+443,15, a,No.,1.0,0.7,0.702447799681971,0.7
+444,150, a,$\it{Other}$,0.7686555027083913,0.0,0.0,0.0
+445,150, a,Adam Gontier is not a member of Shiny Toy Guns.,0.7686555027083913,0.0,0.0,0.0
+446,150, a,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7686555027083913,0.0,0.0,0.0
+447,150, a,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7686555027083913,0.08,0.06760694669570946,0.06149244021667131
+448,150, a,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7686555027083913,0.0,0.0,0.0
+449,150, a,No.,0.7686555027083913,0.92,0.7712693548081625,0.70716306249172
+450,150, associated,$\it{Other}$,0.14239704085636187,0.0,0.0,0.0
+451,150, associated,Adam Gontier is not a member of Shiny Toy Guns.,0.14239704085636187,0.0,0.0,0.0
+452,150, associated,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.14239704085636187,0.0,0.0,0.0
+453,150, associated,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.14239704085636187,0.03333333333333333,0.021806882801450947,0.004746568028545396
+454,150, associated,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.14239704085636187,0.0,0.0,0.0
+455,150, associated,No.,0.14239704085636187,0.9666666666666667,0.9781931171985491,0.13765047282781648
+456,150, listed,$\it{Other}$,0.08894745643524683,0.0,0.0,0.0
+457,150, listed,Adam Gontier is not a member of Shiny Toy Guns.,0.08894745643524683,0.0,0.0,0.0
+458,150, listed,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.08894745643524683,0.0,0.0,0.0
+459,150, listed,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.08894745643524683,0.13793103448275862,0.12620171444604025,0.0122686146807237
+460,150, listed,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.08894745643524683,0.0,0.0,0.0
+461,150, listed,No.,0.08894745643524683,0.8620689655172413,0.8282179775967857,0.07667884175452312
+462,151, member,$\it{Other}$,0.2542550224296465,0.0,0.0,0.0
+463,151, member,Adam Gontier is not a member of Shiny Toy Guns.,0.2542550224296465,0.0,0.0,0.0
+464,151, member,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.2542550224296465,0.0,0.0,0.0
+465,151, member,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.2542550224296465,0.037037037037037035,0.023759517239239702,0.009416852682579498
+466,151, member,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.2542550224296465,0.0,0.0,0.0
+467,151, member,No.,0.2542550224296465,0.9629629629629629,0.8666284913265613,0.24483816974706696
+468,151, part,$\it{Other}$,0.7457449775703536,0.0,0.0,0.0
+469,151, part,Adam Gontier is not a member of Shiny Toy Guns.,0.7457449775703536,0.0,0.0,0.0
+470,151, part,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7457449775703536,0.0,0.0,0.0
+471,151, part,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7457449775703536,0.03571428571428571,0.03145026462029009,0.0266337491989412
+472,151, part,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7457449775703536,0.0,0.0,0.0
+473,151, part,No.,0.7457449775703536,0.9642857142857143,0.9040696109952505,0.7191112283714124
+474,152, of,$\it{Other}$,1.0,0.0,0.0,0.0
+475,152, of,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+476,152, of,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+477,152, of,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03571428571428571,0.035455967683968574,0.03571428571428571
+478,152, of,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+479,152, of,No.,1.0,0.9642857142857143,0.9047880454123837,0.9642857142857143
+480,153, the,$\it{Other}$,1.0,0.0,0.0,0.0
+481,153, the,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+482,153, the,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+483,153, the,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.038461538461538464,0.038173513301076156,0.038461538461538464
+484,153, the,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+485,153, the,No.,1.0,0.9615384615384616,0.8369333172590899,0.9615384615384616
+486,154, band,$\it{Other}$,1.0,0.0,0.0,0.0
+487,154, band,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+488,154, band,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+489,154, band,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.07407407407407407,0.03801003969066597,0.07407407407407407
+490,154, band,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+491,154, band,No.,1.0,0.9259259259259259,0.8933996516088724,0.9259259259259259
+492,155, and,$\it{Other}$,0.6228973943809291,0.0,0.0,0.0
+493,155, and,Adam Gontier is not a member of Shiny Toy Guns.,0.6228973943809291,0.0,0.0,0.0
+494,155, and,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6228973943809291,0.0,0.0,0.0
+495,155, and,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6228973943809291,0.16666666666666666,0.18416297453130234,0.1038162323968215
+496,155, and,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6228973943809291,0.0,0.0,0.0
+497,155, and,No.,0.6228973943809291,0.8333333333333334,0.8158370254686976,0.5190811619841076
+498,155,",",$\it{Other}$,0.1290521490928589,0.0,0.0,0.0
+499,155,",",Adam Gontier is not a member of Shiny Toy Guns.,0.1290521490928589,0.0,0.0,0.0
+500,155,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1290521490928589,0.0,0.0,0.0
+501,155,",","No, Adam Gontier is not a member of Shiny Toy Guns.",0.1290521490928589,0.13333333333333333,0.09375274624117358,0.017206953212381186
+502,155,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1290521490928589,0.0,0.0,0.0
+503,155,",",No.,0.1290521490928589,0.8666666666666667,0.9062472537588269,0.11184519588047771
+504,155,.,$\it{Other}$,0.24805045652621213,0.0,0.0,0.0
+505,155,.,Adam Gontier is not a member of Shiny Toy Guns.,0.24805045652621213,0.0,0.0,0.0
+506,155,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.24805045652621213,0.0,0.0,0.0
+507,155,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.24805045652621213,0.375,0.07893763054114956,0.09301892119732955
+508,155,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.24805045652621213,0.0,0.0,0.0
+509,155,.,No.,0.24805045652621213,0.625,0.14332499143669972,0.15503153532888259
+510,156, does,$\it{Other}$,0.05678111406115206,0.0,0.0,0.0
+511,156, does,Adam Gontier is not a member of Shiny Toy Guns.,0.05678111406115206,0.0,0.0,0.0
+512,156, does,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05678111406115206,0.0,0.0,0.0
+513,156, does,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05678111406115206,0.03571428571428571,3.58294325384584e-169,0.0020278969307554306
+514,156, does,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05678111406115206,0.0,0.0,0.0
+515,156, does,No.,0.05678111406115206,0.9642857142857143,0.9411337371596351,0.05475321713039663
+516,156, has,$\it{Other}$,0.21211410722805468,0.0,0.0,0.0
+517,156, has,Adam Gontier is not a member of Shiny Toy Guns.,0.21211410722805468,0.0,0.0,0.0
+518,156, has,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.21211410722805468,0.0,0.0,0.0
+519,156, has,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.21211410722805468,0.13793103448275862,0.13490616289788723,0.02925711823835237
+520,156, has,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.21211410722805468,0.0,0.0,0.0
+521,156, has,No.,0.21211410722805468,0.8620689655172413,0.8251978177982064,0.1828569889897023
+522,156, is,$\it{Other}$,0.4284152654235173,0.0,0.0,0.0
+523,156, is,Adam Gontier is not a member of Shiny Toy Guns.,0.4284152654235173,0.0,0.0,0.0
+524,156, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.4284152654235173,0.0,0.0,0.0
+525,156, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.4284152654235173,0.03571428571428571,0.029426048444316608,0.015300545193697047
+526,156, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.4284152654235173,0.0,0.0,0.0
+527,156, is,No.,0.4284152654235173,0.9642857142857143,0.885041692706932,0.41311472022982026
+528,156, there,$\it{Other}$,0.30268951328727595,0.0,0.0,0.0
+529,156, there,Adam Gontier is not a member of Shiny Toy Guns.,0.30268951328727595,0.0,0.0,0.0
+530,156, there,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.30268951328727595,0.0,0.0,0.0
+531,156, there,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.30268951328727595,0.08,0.06480536220478456,0.024215161062982077
+532,156, there,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.30268951328727595,0.0,0.0,0.0
+533,156, there,No.,0.30268951328727595,0.92,0.7233527523521157,0.2784743522242939
+534,157, not,$\it{Other}$,1.0,0.0,0.0,0.0
+535,157, not,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+536,157, not,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+537,157, not,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.037037037037037035,0.03875481874276489,0.037037037037037035
+538,157, not,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+539,157, not,No.,1.0,0.9629629629629629,0.8666722540490933,0.9629629629629629
+540,158, currently,$\it{Other}$,0.05675182263770243,0.0,0.0,0.0
+541,158, currently,Adam Gontier is not a member of Shiny Toy Guns.,0.05675182263770243,0.0,0.0,0.0
+542,158, currently,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05675182263770243,0.0,0.0,0.0
+543,158, currently,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05675182263770243,0.13333333333333333,0.058006096356882135,0.007566909685026991
+544,158, currently,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05675182263770243,0.0,0.0,0.0
+545,158, currently,No.,0.05675182263770243,0.8666666666666667,0.4172651414825124,0.04918491295267544
+546,158, listed,$\it{Other}$,0.8925391183788961,0.0,0.0,0.0
+547,158, listed,Adam Gontier is not a member of Shiny Toy Guns.,0.8925391183788961,0.0,0.0,0.0
+548,158, listed,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8925391183788961,0.0,0.0,0.0
+549,158, listed,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8925391183788961,0.1111111111111111,0.09737930768054419,0.09917101315321067
+550,158, listed,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8925391183788961,0.0,0.0,0.0
+551,158, listed,No.,0.8925391183788961,0.8888888888888888,0.7813527570095983,0.7933681052256853
+552,158, mentioned,$\it{Other}$,0.05070905898340147,0.0,0.0,0.0
+553,158, mentioned,Adam Gontier is not a member of Shiny Toy Guns.,0.05070905898340147,0.0,0.0,0.0
+554,158, mentioned,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05070905898340147,0.0,0.0,0.0
+555,158, mentioned,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05070905898340147,0.11538461538461539,0.0729003991939503,0.005851045267315555
+556,158, mentioned,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05070905898340147,0.0,0.0,0.0
+557,158, mentioned,No.,0.05070905898340147,0.8846153846153846,0.7740251653654548,0.044858013716085915
+558,159, as,$\it{Other}$,1.0,0.0,0.0,0.0
+559,159, as,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+560,159, as,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+561,159, as,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.07407407407407407,0.06684678795037045,0.07407407407407407
+562,159, as,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+563,159, as,No.,1.0,0.9259259259259259,0.7997121467365169,0.9259259259259259
+564,16, Canadian,$\it{Other}$,1.0,0.0,0.0,0.0
+565,16, Canadian,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.029987523692738997,0.03333333333333333
+566,16, Canadian,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+567,16, Canadian,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.18466925152499625,0.2
+568,16, Canadian,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+569,16, Canadian,No.,1.0,0.7666666666666667,0.7853432247822647,0.7666666666666667
+570,160, a,$\it{Other}$,1.0,0.0,0.0,0.0
+571,160, a,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+572,160, a,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+573,160, a,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1111111111111111,0.09502471210060033,0.1111111111111111
+574,160, a,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+575,160, a,No.,1.0,0.8888888888888888,0.7834425859807683,0.8888888888888888
+576,161, current,$\it{Other}$,0.6450942483810208,0.0,0.0,0.0
+577,161, current,Adam Gontier is not a member of Shiny Toy Guns.,0.6450942483810208,0.0,0.0,0.0
+578,161, current,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6450942483810208,0.0,0.0,0.0
+579,161, current,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6450942483810208,0.08,0.04905204850092146,0.05160753987048167
+580,161, current,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6450942483810208,0.0,0.0,0.0
+581,161, current,No.,0.6450942483810208,0.92,0.7493519991154919,0.5934867085105392
+582,161, member,$\it{Other}$,0.19588292466848692,0.0,0.0,0.0
+583,161, member,Adam Gontier is not a member of Shiny Toy Guns.,0.19588292466848692,0.0,0.0,0.0
+584,161, member,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.19588292466848692,0.0,0.0,0.0
+585,161, member,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.19588292466848692,0.125,0.0954147509759552,0.024485365583560865
+586,161, member,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.19588292466848692,0.0,0.0,0.0
+587,161, member,No.,0.19588292466848692,0.875,0.6802378104085668,0.17139755908492604
+588,161, past,$\it{Other}$,0.15902282695049227,0.0,0.0,0.0
+589,161, past,Adam Gontier is not a member of Shiny Toy Guns.,0.15902282695049227,0.0,0.0,0.0
+590,161, past,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.15902282695049227,0.0,0.0,0.0
+591,161, past,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.15902282695049227,0.13636363636363635,0.05907310239399782,0.0216849309477944
+592,161, past,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.15902282695049227,0.0,0.0,0.0
+593,161, past,No.,0.15902282695049227,0.8636363636363636,0.6225674917391435,0.13733789600269788
+594,162, or,$\it{Other}$,1.0,0.0,0.0,0.0
+595,162, or,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+596,162, or,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+597,162, or,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.08695652173913043,0.0643776749585162,0.08695652173913043
+598,162, or,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+599,162, or,No.,1.0,0.9130434782608695,0.6540985059917135,0.9130434782608695
+600,163, former,$\it{Other}$,0.8811363014649816,0.0,0.0,0.0
+601,163, former,Adam Gontier is not a member of Shiny Toy Guns.,0.8811363014649816,0.0,0.0,0.0
+602,163, former,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8811363014649816,0.0,0.0,0.0
+603,163, former,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8811363014649816,0.16666666666666666,0.07602279712602919,0.1468560502441636
+604,163, former,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8811363014649816,0.0,0.0,0.0
+605,163, former,No.,0.8811363014649816,0.8333333333333334,0.46684806340659496,0.734280251220818
+606,163, past,$\it{Other}$,0.1188636985350184,0.0,0.0,0.0
+607,163, past,Adam Gontier is not a member of Shiny Toy Guns.,0.1188636985350184,0.0,0.0,0.0
+608,163, past,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1188636985350184,0.0,0.0,0.0
+609,163, past,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.1188636985350184,0.0,0.0,0.0
+610,163, past,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1188636985350184,0.0,0.0,0.0
+611,163, past,No.,0.1188636985350184,1.0,0.7118700852301013,0.1188636985350184
+612,164, member,$\it{Other}$,1.0,0.0,0.0,0.0
+613,164, member,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+614,164, member,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+615,164, member,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.05555555555555555,0.03339136146184462,0.05555555555555555
+616,164, member,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+617,164, member,No.,1.0,0.9444444444444444,0.5347020300107396,0.9444444444444444
+618,165, on,$\it{Other}$,1.0,0.0,0.0,0.0
+619,165, on,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+620,165, on,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+621,165, on,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.09523809523809523,0.05551465592221133,0.09523809523809523
+622,165, on,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+623,165, on,No.,1.0,0.9047619047619048,0.5964926309687113,0.9047619047619048
+624,166, the,$\it{Other}$,0.057094597750027294,0.0,0.0,0.0
+625,166, the,Adam Gontier is not a member of Shiny Toy Guns.,0.057094597750027294,0.0,0.0,0.0
+626,166, the,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.057094597750027294,0.0,0.0,0.0
+627,166, the,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.057094597750027294,0.11764705882352941,0.05395034459382834,0.006717011500003211
+628,166, the,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.057094597750027294,0.0,0.0,0.0
+629,166, the,No.,0.057094597750027294,0.8823529411764706,0.4607461064698288,0.05037758625002408
+630,166, their,$\it{Other}$,0.9429054022499727,0.0,0.0,0.0
+631,166, their,Adam Gontier is not a member of Shiny Toy Guns.,0.9429054022499727,0.0,0.0,0.0
+632,166, their,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9429054022499727,0.0,0.0,0.0
+633,166, their,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9429054022499727,0.0,0.0,0.0
+634,166, their,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9429054022499727,0.0,0.0,0.0
+635,166, their,No.,0.9429054022499727,1.0,0.6224002216884531,0.9429054022499727
+636,167, official,$\it{Other}$,1.0,0.0,0.0,0.0
+637,167, official,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+638,167, official,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+639,167, official,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.0,0.0,0.0
+640,167, official,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+641,167, official,No.,1.0,1.0,0.6552103708702594,1.0
+642,168, website,$\it{Other}$,1.0,0.0,0.0,0.0
+643,168, website,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+644,168, website,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+645,168, website,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.09523809523809523,0.0706865467297892,0.09523809523809523
+646,168, website,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+647,168, website,No.,1.0,0.9047619047619048,0.5434848927122268,0.9047619047619048
+648,169, or,$\it{Other}$,1.0,0.0,0.0,0.0
+649,169, or,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+650,169, or,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+651,169, or,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.0,0.0,0.0
+652,169, or,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+653,169, or,No.,1.0,1.0,0.38837986939304076,1.0
+654,17, musician,$\it{Other}$,0.9152847898260528,0.0,0.0,0.0
+655,17, musician,Adam Gontier is not a member of Shiny Toy Guns.,0.9152847898260528,0.0,0.0,0.0
+656,17, musician,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9152847898260528,0.0,0.0,0.0
+657,17, musician,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9152847898260528,0.23333333333333334,0.2287040174401213,0.21356645095941232
+658,17, musician,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9152847898260528,0.0,0.0,0.0
+659,17, musician,No.,0.9152847898260528,0.7666666666666667,0.7712959825598783,0.7017183388666405
+660,17, singer,$\it{Other}$,0.08471521017394727,0.0,0.0,0.0
+661,17, singer,Adam Gontier is not a member of Shiny Toy Guns.,0.08471521017394727,0.0,0.0,0.0
+662,17, singer,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.08471521017394727,0.03333333333333333,0.030745473806704806,0.002823840339131576
+663,17, singer,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.08471521017394727,0.26666666666666666,0.25375212216712617,0.022590722713052607
+664,17, singer,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.08471521017394727,0.0,0.0,0.0
+665,17, singer,No.,0.08471521017394727,0.7,0.7155024040261688,0.059300647121763084
+666,170, any,$\it{Other}$,0.43323391178006027,0.0,0.0,0.0
+667,170, any,Adam Gontier is not a member of Shiny Toy Guns.,0.43323391178006027,0.0,0.0,0.0
+668,170, any,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.43323391178006027,0.0,0.0,0.0
+669,170, any,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.43323391178006027,0.25,0.12455253957896037,0.10830847794501507
+670,170, any,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.43323391178006027,0.0,0.0,0.0
+671,170, any,No.,0.43323391178006027,0.75,0.3880382669124792,0.3249254338350452
+672,170, other,$\it{Other}$,0.1901792396604394,0.0,0.0,0.0
+673,170, other,Adam Gontier is not a member of Shiny Toy Guns.,0.1901792396604394,0.0,0.0,0.0
+674,170, other,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1901792396604394,0.0,0.0,0.0
+675,170, other,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.1901792396604394,0.16666666666666666,0.025334883909013315,0.031696539943406564
+676,170, other,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1901792396604394,0.0,0.0,0.0
+677,170, other,No.,0.1901792396604394,0.8333333333333334,0.1282214324693631,0.15848269971703283
+678,170, social,$\it{Other}$,0.37658684855950036,0.0,0.0,0.0
+679,170, social,Adam Gontier is not a member of Shiny Toy Guns.,0.37658684855950036,0.0,0.0,0.0
+680,170, social,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.37658684855950036,0.0,0.0,0.0
+681,170, social,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.37658684855950036,0.16666666666666666,0.018937600396312905,0.06276447475991673
+682,170, social,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.37658684855950036,0.0,0.0,0.0
+683,170, social,No.,0.37658684855950036,0.8333333333333334,0.13985091631908406,0.31382237379958366
+684,171, other,$\it{Other}$,1.0,0.0,0.0,0.0
+685,171, other,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+686,171, other,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+687,171, other,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06666666666666667,0.030782690156985218,0.06666666666666667
+688,171, other,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+689,171, other,No.,1.0,0.9333333333333333,0.44201664047012185,0.9333333333333333
+690,172, credible,$\it{Other}$,0.23279474621894364,0.0,0.0,0.0
+691,172, credible,Adam Gontier is not a member of Shiny Toy Guns.,0.23279474621894364,0.0,0.0,0.0
+692,172, credible,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.23279474621894364,0.0,0.0,0.0
+693,172, credible,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.23279474621894364,0.2857142857142857,0.04182460648466034,0.0665127846339839
+694,172, credible,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.23279474621894364,0.0,0.0,0.0
+695,172, credible,No.,0.23279474621894364,0.7142857142857143,0.12375874037931706,0.16628196158495975
+696,172, reliable,$\it{Other}$,0.22907458467899597,0.0,0.0,0.0
+697,172, reliable,Adam Gontier is not a member of Shiny Toy Guns.,0.22907458467899597,0.0,0.0,0.0
+698,172, reliable,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.22907458467899597,0.0,0.0,0.0
+699,172, reliable,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.22907458467899597,0.14285714285714285,0.025475434776818646,0.032724940668427994
+700,172, reliable,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.22907458467899597,0.0,0.0,0.0
+701,172, reliable,No.,0.22907458467899597,0.8571428571428571,0.16017646243453196,0.19634964401056795
+702,172, reputable,$\it{Other}$,0.25847576776024395,0.0,0.0,0.0
+703,172, reputable,Adam Gontier is not a member of Shiny Toy Guns.,0.25847576776024395,0.0,0.0,0.0
+704,172, reputable,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.25847576776024395,0.0,0.0,0.0
+705,172, reputable,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.25847576776024395,0.14285714285714285,0.025695722208643645,0.036925109680034846
+706,172, reputable,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.25847576776024395,0.0,0.0,0.0
+707,172, reputable,No.,0.25847576776024395,0.8571428571428571,0.15836712322105836,0.22155065808020907
+708,172, sources,$\it{Other}$,0.2796549013418165,0.0,0.0,0.0
+709,172, sources,Adam Gontier is not a member of Shiny Toy Guns.,0.2796549013418165,0.0,0.0,0.0
+710,172, sources,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.2796549013418165,0.0,0.0,0.0
+711,172, sources,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.2796549013418165,0.0,0.0,0.0
+712,172, sources,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.2796549013418165,0.0,0.0,0.0
+713,172, sources,No.,0.2796549013418165,1.0,0.12155822400373403,0.2796549013418165
+714,173,.,$\it{Other}$,0.922158207150689,0.0,0.0,0.0
+715,173,.,Adam Gontier is not a member of Shiny Toy Guns.,0.922158207150689,0.0,0.0,0.0
+716,173,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.922158207150689,0.0,0.0,0.0
+717,173,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.922158207150689,0.2,0.03686019734551628,0.1844316414301378
+718,173,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.922158207150689,0.0,0.0,0.0
+719,173,.,No.,0.922158207150689,0.8,0.10133670015151186,0.7377265657205512
+720,173,".
+
+",$\it{Other}$,0.07784179284931099,0.0,0.0,0.0
+721,173,".
+
+",Adam Gontier is not a member of Shiny Toy Guns.,0.07784179284931099,0.0,0.0,0.0
+722,173,".
+
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.07784179284931099,0.0,0.0,0.0
+723,173,".
+
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.07784179284931099,0.3157894736842105,0.16984537683320725,0.02458161879451926
+724,173,".
+
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.07784179284931099,0.0,0.0,0.0
+725,173,".
+
+",No.,0.07784179284931099,0.6842105263157895,0.42970179408224435,0.053260174054791734
+726,18, and,$\it{Other}$,0.23113257353931346,0.0,0.0,0.0
+727,18, and,Adam Gontier is not a member of Shiny Toy Guns.,0.23113257353931346,0.03333333333333333,0.03394072131513405,0.007704419117977116
+728,18, and,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.23113257353931346,0.03333333333333333,0.03387843738025164,0.007704419117977116
+729,18, and,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.23113257353931346,0.16666666666666666,0.16045917441066426,0.03852209558988558
+730,18, and,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.23113257353931346,0.03333333333333333,0.029864959202773572,0.007704419117977116
+731,18, and,No.,0.23113257353931346,0.7333333333333333,0.7418567076911766,0.16949722059549652
+732,18,",",$\it{Other}$,0.7688674264606865,0.0,0.0,0.0
+733,18,",",Adam Gontier is not a member of Shiny Toy Guns.,0.7688674264606865,0.0,0.0,0.0
+734,18,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7688674264606865,0.1,0.09994695094813685,0.07688674264606865
+735,18,",","No, Adam Gontier is not a member of Shiny Toy Guns.",0.7688674264606865,0.2,0.18487289420516165,0.1537734852921373
+736,18,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7688674264606865,0.0,0.0,0.0
+737,18,",",No.,0.7688674264606865,0.7,0.7151801548467019,0.5382071985224806
+738,19, singer,$\it{Other}$,1.0,0.0,0.0,0.0
+739,19, singer,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+740,19, singer,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.0331051700886731,0.03333333333333333
+741,19, singer,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.16793604534949044,0.16666666666666666
+742,19, singer,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+743,19, singer,No.,1.0,0.8,0.7989587845618362,0.8
+744,2,.,$\it{Other}$,1.0,0.0,0.0,0.0
+745,2,.,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03169579130511192,0.03333333333333333
+746,2,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.2,0.17959272389651992,0.2
+747,2,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.26671651757585835,0.26666666666666666
+748,2,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.13333333333333333,0.12801147978149477,0.13333333333333333
+749,2,.,No.,1.0,0.36666666666666664,0.3939834874410149,0.36666666666666664
+750,20,",",$\it{Other}$,1.0,0.03333333333333333,0.03453913536149511,0.03333333333333333
+751,20,",",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+752,20,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03217275398241322,0.03333333333333333
+753,20,",","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.25431140201489294,0.26666666666666666
+754,20,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.028961219819724018,0.03333333333333333
+755,20,",",No.,1.0,0.6333333333333333,0.6500154888214743,0.6333333333333333
+756,21, and,$\it{Other}$,1.0,0.03333333333333333,0.030701544017358532,0.03333333333333333
+757,21, and,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.0633390685493902,0.06666666666666667
+758,21, and,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+759,21, and,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.23333333333333334,0.2319291871847995,0.23333333333333334
+760,21, and,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.028859290070224464,0.03333333333333333
+761,21, and,No.,1.0,0.6333333333333333,0.645170910178227,0.6333333333333333
+762,22, songwriter,$\it{Other}$,1.0,0.0,0.0,0.0
+763,22, songwriter,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.0321952514411576,0.03333333333333333
+764,22, songwriter,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03540284183088841,0.03333333333333333
+765,22, songwriter,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.19344653851719948,0.2
+766,22, songwriter,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+767,22, songwriter,No.,1.0,0.7333333333333333,0.7389553682107548,0.7333333333333333
+768,23, best,$\it{Other}$,0.13596379294316174,0.0,0.0,0.0
+769,23, best,Adam Gontier is not a member of Shiny Toy Guns.,0.13596379294316174,0.03333333333333333,0.03252732045326185,0.004532126431438725
+770,23, best,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.13596379294316174,0.03333333333333333,0.03404369573301424,0.004532126431438725
+771,23, best,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.13596379294316174,0.13333333333333333,0.1291602083786933,0.0181285057257549
+772,23, best,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.13596379294316174,0.06666666666666667,0.06387800224293556,0.00906425286287745
+773,23, best,No.,0.13596379294316174,0.7333333333333333,0.7403907731920949,0.09970678149165194
+774,23,",",$\it{Other}$,0.09789556252808256,0.0,0.0,0.0
+775,23,",",Adam Gontier is not a member of Shiny Toy Guns.,0.09789556252808256,0.03333333333333333,0.03178119109851851,0.003263185417602752
+776,23,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.09789556252808256,0.06666666666666667,0.06572854513039736,0.006526370835205504
+777,23,",","No, Adam Gontier is not a member of Shiny Toy Guns.",0.09789556252808256,0.23333333333333334,0.2307600205526373,0.022842297923219262
+778,23,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.09789556252808256,0.0,0.0,0.0
+779,23,",",No.,0.09789556252808256,0.6666666666666666,0.6717302432184471,0.06526370835205503
+780,23,.,$\it{Other}$,0.7661406445287557,0.0,0.0,0.0
+781,23,.,Adam Gontier is not a member of Shiny Toy Guns.,0.7661406445287557,0.0,0.0,0.0
+782,23,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7661406445287557,0.03333333333333333,0.031868186366993366,0.025538021484291858
+783,23,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7661406445287557,0.06666666666666667,0.06730582101760117,0.051076042968583715
+784,23,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7661406445287557,0.03333333333333333,0.03226301137695144,0.025538021484291858
+785,23,.,No.,0.7661406445287557,0.8666666666666667,0.868562981238454,0.6639885585915883
+786,24, He,$\it{Other}$,1.0,0.0,0.0,0.0
+787,24, He,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.0663497306627036,0.06666666666666667
+788,24, He,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03166289131462823,0.03333333333333333
+789,24, He,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06666666666666667,0.06425458642879059,0.06666666666666667
+790,24, He,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.030757761195584692,0.03333333333333333
+791,24, He,No.,1.0,0.8,0.8069750303982932,0.8
+792,25, is,$\it{Other}$,0.9445172865375805,0.0,0.0,0.0
+793,25, is,Adam Gontier is not a member of Shiny Toy Guns.,0.9445172865375805,0.0,0.0,0.0
+794,25, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9445172865375805,0.0,0.0,0.0
+795,25, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9445172865375805,0.2,0.19990076725287254,0.18890345730751612
+796,25, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9445172865375805,0.03333333333333333,0.03165930787415241,0.03148390955125268
+797,25, is,No.,0.9445172865375805,0.7666666666666667,0.7684399248729747,0.7241299196788118
+798,25, was,$\it{Other}$,0.055482713462419446,0.0,0.0,0.0
+799,25, was,Adam Gontier is not a member of Shiny Toy Guns.,0.055482713462419446,0.0,0.0,0.0
+800,25, was,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.055482713462419446,0.03333333333333333,0.02912021947077482,0.001849423782080648
+801,25, was,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.055482713462419446,0.2,0.1931971096348945,0.01109654269248389
+802,25, was,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.055482713462419446,0.0,0.0,0.0
+803,25, was,No.,0.055482713462419446,0.7666666666666667,0.7776826708943307,0.04253674698785491
+804,26, best,$\it{Other}$,1.0,0.0,0.0,0.0
+805,26, best,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.036127633390422374,0.03333333333333333
+806,26, best,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03115105078392669,0.03333333333333333
+807,26, best,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.155407793966327,0.16666666666666666
+808,26, best,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03230616025116131,0.03333333333333333
+809,26, best,No.,1.0,0.7333333333333333,0.745007361608163,0.7333333333333333
+810,27, known,$\it{Other}$,1.0,0.0,0.0,0.0
+811,27, known,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.06915168608786729,0.06666666666666667
+812,27, known,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03311382724494016,0.03333333333333333
+813,27, known,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.23333333333333334,0.22523315017866632,0.23333333333333334
+814,27, known,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.029945489810908797,0.03333333333333333
+815,27, known,No.,1.0,0.6333333333333333,0.6425558466776174,0.6333333333333333
+816,28, as,$\it{Other}$,1.0,0.0,0.0,0.0
+817,28, as,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03488290008830544,0.03333333333333333
+818,28, as,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+819,28, as,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.16221458199292008,0.16666666666666666
+820,28, as,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.06666666666666667,0.0650051380117308,0.06666666666666667
+821,28, as,No.,1.0,0.7333333333333333,0.7378973799070441,0.7333333333333333
+822,29, the,$\it{Other}$,1.0,0.0,0.0,0.0
+823,29, the,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.029879157105322122,0.03333333333333333
+824,29, the,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+825,29, the,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.1615076376737699,0.16666666666666666
+826,29, the,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+827,29, the,No.,1.0,0.8,0.808613205220908,0.8
+828,3, First,$\it{Other}$,0.094214415984254,0.06666666666666667,0.06417285736674751,0.006280961065616933
+829,3, First,Adam Gontier is not a member of Shiny Toy Guns.,0.094214415984254,0.1,0.09377759858568455,0.0094214415984254
+830,3, First,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.094214415984254,0.23333333333333334,0.2401935682229117,0.021983363729659266
+831,3, First,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.094214415984254,0.16666666666666666,0.15974061568521986,0.015702402664042332
+832,3, First,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.094214415984254,0.43333333333333335,0.4421153601394363,0.04082624692651007
+833,3, First,No.,0.094214415984254,0.0,0.0,0.0
+834,3, Who,$\it{Other}$,0.9057855840157459,0.0,0.0,0.0
+835,3, Who,Adam Gontier is not a member of Shiny Toy Guns.,0.9057855840157459,0.03333333333333333,0.03503255954414959,0.030192852800524864
+836,3, Who,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9057855840157459,0.0,0.0,0.0
+837,3, Who,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9057855840157459,0.23333333333333334,0.2302465904683294,0.21134996960367405
+838,3, Who,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9057855840157459,0.0,0.0,0.0
+839,3, Who,No.,0.9057855840157459,0.7333333333333333,0.7347208499875205,0.6642427616115469
+840,30, former,$\it{Other}$,0.9303883687018287,0.0,0.0,0.0
+841,30, former,Adam Gontier is not a member of Shiny Toy Guns.,0.9303883687018287,0.03333333333333333,0.03201236990462504,0.03101294562339429
+842,30, former,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9303883687018287,0.0,0.0,0.0
+843,30, former,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9303883687018287,0.1,0.09195022776528405,0.09303883687018288
+844,30, former,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9303883687018287,0.0,0.0,0.0
+845,30, former,No.,0.9303883687018287,0.8666666666666667,0.8760374023300909,0.8063365862082515
+846,30, lead,$\it{Other}$,0.06961163129817137,0.0,0.0,0.0
+847,30, lead,Adam Gontier is not a member of Shiny Toy Guns.,0.06961163129817137,0.03333333333333333,0.029484874795286272,0.0023203877099390456
+848,30, lead,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.06961163129817137,0.0,0.0,0.0
+849,30, lead,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.06961163129817137,0.13333333333333333,0.12988757096980744,0.009281550839756183
+850,30, lead,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.06961163129817137,0.0,0.0,0.0
+851,30, lead,No.,0.06961163129817137,0.8333333333333334,0.8406275542349062,0.058009692748476144
+852,31, lead,$\it{Other}$,1.0,0.0,0.0,0.0
+853,31, lead,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.16666666666666666,0.16085885917396925,0.16666666666666666
+854,31, lead,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+855,31, lead,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.3,0.2981611160142918,0.3
+856,31, lead,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03334985995132191,0.03333333333333333
+857,31, lead,No.,1.0,0.5,0.507630164860417,0.5
+858,32, singer,$\it{Other}$,0.23733072162032784,0.0,0.0,0.0
+859,32, singer,Adam Gontier is not a member of Shiny Toy Guns.,0.23733072162032784,0.0,0.0,0.0
+860,32, singer,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.23733072162032784,0.06666666666666667,0.065879992006461,0.015822048108021857
+861,32, singer,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.23733072162032784,0.13333333333333333,0.12219012552890685,0.031644096216043714
+862,32, singer,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.23733072162032784,0.0,0.0,0.0
+863,32, singer,No.,0.23733072162032784,0.8,0.811929882464632,0.18986457729626227
+864,32, vocalist,$\it{Other}$,0.7626692783796721,0.0,0.0,0.0
+865,32, vocalist,Adam Gontier is not a member of Shiny Toy Guns.,0.7626692783796721,0.03333333333333333,0.025645286190524336,0.025422309279322403
+866,32, vocalist,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7626692783796721,0.0,0.0,0.0
+867,32, vocalist,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7626692783796721,0.13333333333333333,0.13350463201916224,0.10168923711728961
+868,32, vocalist,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7626692783796721,0.0,0.0,0.0
+869,32, vocalist,No.,0.7626692783796721,0.8333333333333334,0.8408500817903137,0.6355577319830601
+870,33, and,$\it{Other}$,1.0,0.0,0.0,0.0
+871,33, and,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03249251059009648,0.03333333333333333
+872,33, and,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+873,33, and,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.19164351765175655,0.2
+874,33, and,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+875,33, and,No.,1.0,0.7666666666666667,0.7758639717581466,0.7666666666666667
+876,34, guitarist,$\it{Other}$,0.8576610219614558,0.0,0.0,0.0
+877,34, guitarist,Adam Gontier is not a member of Shiny Toy Guns.,0.8576610219614558,0.06666666666666667,0.05764343904669202,0.05717740146409705
+878,34, guitarist,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8576610219614558,0.0,0.0,0.0
+879,34, guitarist,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8576610219614558,0.23333333333333334,0.23198129547877258,0.2001209051243397
+880,34, guitarist,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8576610219614558,0.0,0.0,0.0
+881,34, guitarist,No.,0.8576610219614558,0.7,0.7103752654745357,0.600362715373019
+882,34, rhythm,$\it{Other}$,0.1423389780385443,0.0,0.0,0.0
+883,34, rhythm,Adam Gontier is not a member of Shiny Toy Guns.,0.1423389780385443,0.0,0.0,0.0
+884,34, rhythm,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1423389780385443,0.03333333333333333,0.032858991114577456,0.0047446326012848105
+885,34, rhythm,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.1423389780385443,0.13333333333333333,0.13117475654739835,0.018978530405139242
+886,34, rhythm,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1423389780385443,0.0,0.0,0.0
+887,34, rhythm,No.,0.1423389780385443,0.8333333333333334,0.8359662523380241,0.11861581503212026
+888,35, for,$\it{Other}$,0.3381505505905509,0.0,0.0,0.0
+889,35, for,Adam Gontier is not a member of Shiny Toy Guns.,0.3381505505905509,0.03333333333333333,0.034048875050355316,0.01127168501968503
+890,35, for,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.3381505505905509,0.03333333333333333,0.03317687673451968,0.01127168501968503
+891,35, for,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.3381505505905509,0.2,0.20089406056790932,0.06763011011811018
+892,35, for,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.3381505505905509,0.0,0.0,0.0
+893,35, for,No.,0.3381505505905509,0.7333333333333333,0.7318801876472163,0.24797707043307063
+894,35, of,$\it{Other}$,0.6618494494094491,0.0,0.0,0.0
+895,35, of,Adam Gontier is not a member of Shiny Toy Guns.,0.6618494494094491,0.06666666666666667,0.06760528833534508,0.04412329662729661
+896,35, of,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6618494494094491,0.03333333333333333,0.03274585214685037,0.022061648313648305
+897,35, of,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6618494494094491,0.16666666666666666,0.1665929756969241,0.11030824156824151
+898,35, of,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6618494494094491,0.06666666666666667,0.059713819879927875,0.04412329662729661
+899,35, of,No.,0.6618494494094491,0.6666666666666666,0.6733420639409525,0.44123296627296604
+900,36, the,$\it{Other}$,1.0,0.0,0.0,0.0
+901,36, the,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+902,36, the,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+903,36, the,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.19172021515354543,0.2
+904,36, the,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.06666666666666667,0.066609942814676,0.06666666666666667
+905,36, the,No.,1.0,0.7333333333333333,0.7416698420317789,0.7333333333333333
+906,37, Canadian,$\it{Other}$,0.05652524447597346,0.0,0.0,0.0
+907,37, Canadian,Adam Gontier is not a member of Shiny Toy Guns.,0.05652524447597346,0.03333333333333333,0.031290561993663146,0.0018841748158657818
+908,37, Canadian,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05652524447597346,0.0,0.0,0.0
+909,37, Canadian,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05652524447597346,0.2,0.19031749217456334,0.011305048895194693
+910,37, Canadian,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05652524447597346,0.0,0.0,0.0
+911,37, Canadian,No.,0.05652524447597346,0.7666666666666667,0.7783919458317733,0.04333602076491299
+912,37, rock,$\it{Other}$,0.9434747555240265,0.0,0.0,0.0
+913,37, rock,Adam Gontier is not a member of Shiny Toy Guns.,0.9434747555240265,0.0,0.0,0.0
+914,37, rock,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9434747555240265,0.0,0.0,0.0
+915,37, rock,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9434747555240265,0.06666666666666667,0.0691933192244376,0.06289831703493509
+916,37, rock,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9434747555240265,0.0,0.0,0.0
+917,37, rock,No.,0.9434747555240265,0.9333333333333333,0.9308066807755625,0.8805764384890914
+918,38, band,$\it{Other}$,1.0,0.0,0.0,0.0
+919,38, band,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+920,38, band,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+921,38, band,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.2606077340473365,0.26666666666666666
+922,38, band,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+923,38, band,No.,1.0,0.7333333333333333,0.7393922659526637,0.7333333333333333
+924,39, Three,$\it{Other}$,1.0,0.0,0.0,0.0
+925,39, Three,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+926,39, Three,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.06666666666666667,0.05894551935984729,0.06666666666666667
+927,39, Three,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03333333333333333,0.03475157048460396,0.03333333333333333
+928,39, Three,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03093489034934202,0.03333333333333333
+929,39, Three,No.,1.0,0.8666666666666667,0.875368019806207,0.8666666666666667
+930,4, is,$\it{Other}$,1.0,0.0,0.0,0.0
+931,4, is,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.034135868278335604,0.03333333333333333
+932,4, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+933,4, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.2622456058884542,0.26666666666666666
+934,4, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+935,4, is,No.,1.0,0.7,0.7036185258332097,0.7
+936,40, Days,$\it{Other}$,1.0,0.0,0.0,0.0
+937,40, Days,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+938,40, Days,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+939,40, Days,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.1213204774481812,0.13333333333333333
+940,40, Days,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.06666666666666667,0.06366702311731826,0.06666666666666667
+941,40, Days,No.,1.0,0.8,0.8150124994345003,0.8
+942,41, Grace,$\it{Other}$,1.0,0.0,0.0,0.0
+943,41, Grace,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03171115321434281,0.03333333333333333
+944,41, Grace,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03363847616209405,0.03333333333333333
+945,41, Grace,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.15815837100945712,0.16666666666666666
+946,41, Grace,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03021259302809316,0.03333333333333333
+947,41, Grace,No.,1.0,0.7333333333333333,0.7462794065860129,0.7333333333333333
+948,42,".
+
+",$\it{Other}$,1.0,0.0,0.0,0.0
+949,42,".
+
+",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.029902648354229608,0.03333333333333333
+950,42,".
+
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+951,42,".
+
+","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.1671578904334074,0.16666666666666666
+952,42,".
+
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03494715444628681,0.03333333333333333
+953,42,".
+
+",No.,1.0,0.7666666666666667,0.7679923067660761,0.7666666666666667
+954,43,2,$\it{Other}$,1.0,0.0,0.0,0.0
+955,43,2,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03258674310838427,0.03333333333333333
+956,43,2,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03274301941528052,0.03333333333333333
+957,43,2,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.23333333333333334,0.20853556724595468,0.23333333333333334
+958,43,2,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+959,43,2,No.,1.0,0.7,0.7261346702303807,0.7
+960,44,.,$\it{Other}$,1.0,0.0,0.0,0.0
+961,44,.,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+962,44,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+963,44,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.15680415772904677,0.16666666666666666
+964,44,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03290225974941865,0.03333333333333333
+965,44,.,No.,1.0,0.8,0.8102935825215345,0.8
+966,45, What,$\it{Other}$,0.33179853055284964,0.03333333333333333,0.03242476490913614,0.011059951018428322
+967,45, What,Adam Gontier is not a member of Shiny Toy Guns.,0.33179853055284964,0.0,0.0,0.0
+968,45, What,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.33179853055284964,0.0,0.0,0.0
+969,45, What,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.33179853055284964,0.13333333333333333,0.12995456864013383,0.044239804073713286
+970,45, What,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.33179853055284964,0.0,0.0,0.0
+971,45, What,No.,0.33179853055284964,0.8333333333333334,0.8376206664507302,0.27649877546070806
+972,45, Who,$\it{Other}$,0.6682014694471503,0.0,0.0,0.0
+973,45, Who,Adam Gontier is not a member of Shiny Toy Guns.,0.6682014694471503,0.03333333333333333,0.031566547172594855,0.02227338231490501
+974,45, Who,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6682014694471503,0.03333333333333333,0.030272341200443705,0.02227338231490501
+975,45, Who,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6682014694471503,0.23333333333333334,0.22245260491167565,0.15591367620433508
+976,45, Who,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6682014694471503,0.03333333333333333,0.03133843602574748,0.02227338231490501
+977,45, Who,No.,0.6682014694471503,0.6666666666666666,0.6843700706895384,0.4454676462981002
+978,46, are,$\it{Other}$,0.7649334677947512,0.0,0.0,0.0
+979,46, are,Adam Gontier is not a member of Shiny Toy Guns.,0.7649334677947512,0.1,0.0970562571679085,0.07649334677947513
+980,46, are,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7649334677947512,0.06666666666666667,0.06452024672681626,0.05099556451965008
+981,46, are,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7649334677947512,0.23333333333333334,0.22629371987258876,0.1784844758187753
+982,46, are,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7649334677947512,0.03333333333333333,0.02939618658552551,0.02549778225982504
+983,46, are,No.,0.7649334677947512,0.5666666666666667,0.5827335896471613,0.4334622984170257
+984,46, is,$\it{Other}$,0.23506653220524876,0.0,0.0,0.0
+985,46, is,Adam Gontier is not a member of Shiny Toy Guns.,0.23506653220524876,0.0,0.0,0.0
+986,46, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.23506653220524876,0.03333333333333333,0.032662955067693206,0.007835551073508291
+987,46, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.23506653220524876,0.16666666666666666,0.16214727607359103,0.03917775536754146
+988,46, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.23506653220524876,0.06666666666666667,0.061588820167452096,0.015671102147016582
+989,46, is,No.,0.23506653220524876,0.7333333333333333,0.7436009486912639,0.17238212361718241
+990,47, Sh,$\it{Other}$,0.6698435755141786,0.0,0.0,0.0
+991,47, Sh,Adam Gontier is not a member of Shiny Toy Guns.,0.6698435755141786,0.03333333333333333,0.036835371507122266,0.022328119183805954
+992,47, Sh,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6698435755141786,0.0,0.0,0.0
+993,47, Sh,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6698435755141786,0.13333333333333333,0.1248224725972938,0.08931247673522381
+994,47, Sh,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6698435755141786,0.0,0.0,0.0
+995,47, Sh,No.,0.6698435755141786,0.8333333333333334,0.8383421558955834,0.5582029795951489
+996,47, the,$\it{Other}$,0.33015642448582144,0.03333333333333333,0.036129268032833665,0.011005214149527381
+997,47, the,Adam Gontier is not a member of Shiny Toy Guns.,0.33015642448582144,0.13333333333333333,0.1251804032775241,0.044020856598109524
+998,47, the,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.33015642448582144,0.03333333333333333,0.03270976683659651,0.011005214149527381
+999,47, the,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.33015642448582144,0.2,0.18684039899975244,0.0660312848971643
+1000,47, the,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.33015642448582144,0.0,0.0,0.0
+1001,47, the,No.,0.33015642448582144,0.6,0.6191401628532938,0.19809385469149285
+1002,48,iny,$\it{Other}$,1.0,0.0,0.0,0.0
+1003,48,iny,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1004,48,iny,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1005,48,iny,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12350225898573625,0.13333333333333333
+1006,48,iny,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1007,48,iny,No.,1.0,0.8666666666666667,0.8764977410142636,0.8666666666666667
+1008,49, Toy,$\it{Other}$,1.0,0.0,0.0,0.0
+1009,49, Toy,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.06208432597502811,0.06666666666666667
+1010,49, Toy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1011,49, Toy,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.1983060836871188,0.2
+1012,49, Toy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1013,49, Toy,No.,1.0,0.7333333333333333,0.7396095903378533,0.7333333333333333
+1014,5, Adam,$\it{Other}$,1.0,0.0,0.0,0.0
+1015,5, Adam,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1016,5, Adam,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.031090640429189378,0.03333333333333333
+1017,5, Adam,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.24745181834529337,0.26666666666666666
+1018,5, Adam,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1019,5, Adam,No.,1.0,0.7,0.721457541225517,0.7
+1020,50, Guns,$\it{Other}$,1.0,0.0,0.0,0.0
+1021,50, Guns,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1022,50, Guns,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1023,50, Guns,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.15009648553672347,0.16666666666666666
+1024,50, Guns,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1025,50, Guns,No.,1.0,0.8333333333333334,0.849903514463276,0.8333333333333334
+1026,51,"?
+",$\it{Other}$,1.0,0.0,0.0,0.0
+1027,51,"?
+",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03343032694811265,0.03333333333333333
+1028,51,"?
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03026781055121316,0.03333333333333333
+1029,51,"?
+","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12518499293415294,0.13333333333333333
+1030,51,"?
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1031,51,"?
+",No.,1.0,0.8,0.8111168695665211,0.8
+1032,52,Sh,$\it{Other}$,1.0,0.0,0.0,0.0
+1033,52,Sh,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1034,52,Sh,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1035,52,Sh,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.23333333333333334,0.2152982017926555,0.23333333333333334
+1036,52,Sh,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1037,52,Sh,No.,1.0,0.7666666666666667,0.7847017982073443,0.7666666666666667
+1038,53,iny,$\it{Other}$,1.0,0.0,0.0,0.0
+1039,53,iny,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03107672345283768,0.03333333333333333
+1040,53,iny,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1041,53,iny,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.15396137669456736,0.16666666666666666
+1042,53,iny,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1043,53,iny,No.,1.0,0.8,0.8149618998525953,0.8
+1044,54, Toy,$\it{Other}$,1.0,0.0,0.0,0.0
+1045,54, Toy,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1046,54, Toy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1047,54, Toy,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.18410457674968891,0.2
+1048,54, Toy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1049,54, Toy,No.,1.0,0.8,0.8158954232503112,0.8
+1050,55, Guns,$\it{Other}$,1.0,0.0,0.0,0.0
+1051,55, Guns,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1052,55, Guns,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.030493938379449564,0.03333333333333333
+1053,55, Guns,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.0985639305265043,0.1
+1054,55, Guns,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1055,55, Guns,No.,1.0,0.8666666666666667,0.8709421310940462,0.8666666666666667
+1056,56, is,$\it{Other}$,1.0,0.0,0.0,0.0
+1057,56, is,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.02350011660729292,0.03333333333333333
+1058,56, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1059,56, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.20060618036755395,0.2
+1060,56, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.028822415184421718,0.03333333333333333
+1061,56, is,No.,1.0,0.7333333333333333,0.7470712878407313,0.7333333333333333
+1062,57, an,$\it{Other}$,1.0,0.0,0.0,0.0
+1063,57, an,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1064,57, an,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1065,57, an,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12172227284857406,0.13333333333333333
+1066,57, an,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1067,57, an,No.,1.0,0.8666666666666667,0.8782777271514262,0.8666666666666667
+1068,58, American,$\it{Other}$,1.0,0.03333333333333333,0.03134731640992841,0.03333333333333333
+1069,58, American,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03274205880874461,0.03333333333333333
+1070,58, American,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03299294319609883,0.03333333333333333
+1071,58, American,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12171015717210752,0.13333333333333333
+1072,58, American,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1073,58, American,No.,1.0,0.7666666666666667,0.7812075244131208,0.7666666666666667
+1074,59, alternative,$\it{Other}$,0.05436357097000567,0.0,0.0,0.0
+1075,59, alternative,Adam Gontier is not a member of Shiny Toy Guns.,0.05436357097000567,0.03333333333333333,0.035054238030997394,0.0018121190323335224
+1076,59, alternative,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05436357097000567,0.0,0.0,0.0
+1077,59, alternative,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05436357097000567,0.23333333333333334,0.21955860516825415,0.012684833226334657
+1078,59, alternative,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05436357097000567,0.03333333333333333,0.031903589959806015,0.0018121190323335224
+1079,59, alternative,No.,0.05436357097000567,0.7,0.7134835668409426,0.03805449967900397
+1080,59, indie,$\it{Other}$,0.0661936262607512,0.0,0.0,0.0
+1081,59, indie,Adam Gontier is not a member of Shiny Toy Guns.,0.0661936262607512,0.03333333333333333,0.031225201549540726,0.0022064542086917068
+1082,59, indie,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.0661936262607512,0.0,0.0,0.0
+1083,59, indie,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.0661936262607512,0.2,0.1945682893421496,0.013238725252150241
+1084,59, indie,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.0661936262607512,0.0,0.0,0.0
+1085,59, indie,No.,0.0661936262607512,0.7666666666666667,0.7742065091083095,0.05074844679990926
+1086,59, rock,$\it{Other}$,0.8794428027692432,0.0,0.0,0.0
+1087,59, rock,Adam Gontier is not a member of Shiny Toy Guns.,0.8794428027692432,0.0,0.0,0.0
+1088,59, rock,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8794428027692432,0.0,0.0,0.0
+1089,59, rock,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8794428027692432,0.06666666666666667,0.05961961806805527,0.058629520184616216
+1090,59, rock,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8794428027692432,0.0,0.0,0.0
+1091,59, rock,No.,0.8794428027692432,0.9333333333333333,0.9403803819319447,0.820813282584627
+1092,6, G,$\it{Other}$,1.0,0.03333333333333333,0.03450884141307546,0.03333333333333333
+1093,6, G,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1094,6, G,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.027994427370850908,0.03333333333333333
+1095,6, G,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.3,0.29027863529287073,0.3
+1096,6, G,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1097,6, G,No.,1.0,0.6333333333333333,0.6472180959232027,0.6333333333333333
+1098,60, band,$\it{Other}$,1.0,0.0,0.0,0.0
+1099,60, band,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.029498313206555285,0.03333333333333333
+1100,60, band,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1101,60, band,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09504866879633322,0.1
+1102,60, band,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1103,60, band,No.,1.0,0.8666666666666667,0.8754530179971117,0.8666666666666667
+1104,61, formed,$\it{Other}$,0.8349674631068239,0.0,0.0,0.0
+1105,61, formed,Adam Gontier is not a member of Shiny Toy Guns.,0.8349674631068239,0.0,0.0,0.0
+1106,61, formed,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8349674631068239,0.0,0.0,0.0
+1107,61, formed,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8349674631068239,0.3,0.2860101807461214,0.25049023893204714
+1108,61, formed,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8349674631068239,0.0,0.0,0.0
+1109,61, formed,No.,0.8349674631068239,0.7,0.7139898192538788,0.5844772241747767
+1110,61, from,$\it{Other}$,0.16503253689317604,0.0,0.0,0.0
+1111,61, from,Adam Gontier is not a member of Shiny Toy Guns.,0.16503253689317604,0.0,0.0,0.0
+1112,61, from,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.16503253689317604,0.0,0.0,0.0
+1113,61, from,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.16503253689317604,0.23333333333333334,0.21767635118873727,0.038507591941741075
+1114,61, from,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.16503253689317604,0.0,0.0,0.0
+1115,61, from,No.,0.16503253689317604,0.7666666666666667,0.7823236488112626,0.126524944951435
+1116,62, in,$\it{Other}$,1.0,0.0,0.0,0.0
+1117,62, in,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1118,62, in,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1119,62, in,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.23333333333333334,0.22105755885352452,0.23333333333333334
+1120,62, in,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03372835592874718,0.03333333333333333
+1121,62, in,No.,1.0,0.7333333333333333,0.7452140852177283,0.7333333333333333
+1122,63, ,$\it{Other}$,0.7507598167890779,0.0,0.0,0.0
+1123,63, ,Adam Gontier is not a member of Shiny Toy Guns.,0.7507598167890779,0.0,0.0,0.0
+1124,63, ,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7507598167890779,0.0,0.0,0.0
+1125,63, ,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7507598167890779,0.2,0.1824117758319762,0.15015196335781558
+1126,63, ,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7507598167890779,0.03333333333333333,0.029094151809777223,0.025025327226302595
+1127,63, ,No.,0.7507598167890779,0.7666666666666667,0.7884940723582464,0.5755825262049598
+1128,63, Los,$\it{Other}$,0.2492401832109221,0.0,0.0,0.0
+1129,63, Los,Adam Gontier is not a member of Shiny Toy Guns.,0.2492401832109221,0.0,0.0,0.0
+1130,63, Los,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.2492401832109221,0.1,0.09811109998955396,0.02492401832109221
+1131,63, Los,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.2492401832109221,0.26666666666666666,0.2533540848767,0.06646404885624589
+1132,63, Los,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.2492401832109221,0.0,0.0,0.0
+1133,63, Los,No.,0.2492401832109221,0.6333333333333333,0.6485348151337461,0.15785211603358398
+1134,64,200,$\it{Other}$,1.0,0.0,0.0,0.0
+1135,64,200,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03630833081374654,0.03333333333333333
+1136,64,200,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1137,64,200,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.16051855796382195,0.16666666666666666
+1138,64,200,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1139,64,200,No.,1.0,0.8,0.8031731112224316,0.8
+1140,65,2,$\it{Other}$,1.0,0.0,0.0,0.0
+1141,65,2,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.0333722848015592,0.03333333333333333
+1142,65,2,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1143,65,2,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.14653387402128135,0.16666666666666666
+1144,65,2,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.030211923559300875,0.03333333333333333
+1145,65,2,No.,1.0,0.7666666666666667,0.7898819176178583,0.7666666666666667
+1146,66, in,$\it{Other}$,0.6204446659177663,0.0,0.0,0.0
+1147,66, in,Adam Gontier is not a member of Shiny Toy Guns.,0.6204446659177663,0.0,0.0,0.0
+1148,66, in,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6204446659177663,0.0,0.0,0.0
+1149,66, in,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6204446659177663,0.2,0.19003526609287866,0.12408893318355325
+1150,66, in,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6204446659177663,0.0,0.0,0.0
+1151,66, in,No.,0.6204446659177663,0.8,0.8099647339071211,0.496355732734213
+1152,66,.,$\it{Other}$,0.37955533408223385,0.0,0.0,0.0
+1153,66,.,Adam Gontier is not a member of Shiny Toy Guns.,0.37955533408223385,0.0,0.0,0.0
+1154,66,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.37955533408223385,0.03333333333333333,0.02691370449353186,0.012651844469407795
+1155,66,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.37955533408223385,0.2,0.18255523690883277,0.07591106681644677
+1156,66,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.37955533408223385,0.0,0.0,0.0
+1157,66,.,No.,0.37955533408223385,0.7666666666666667,0.7905310585976355,0.2909924227963793
+1158,67, Los,$\it{Other}$,1.0,0.03333333333333333,0.024609681272028217,0.03333333333333333
+1159,67, Los,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1160,67, Los,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1161,67, Los,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.25851217662501935,0.26666666666666666
+1162,67, Los,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1163,67, Los,No.,1.0,0.7,0.7168781421029522,0.7
+1164,68, Angeles,$\it{Other}$,1.0,0.0,0.0,0.0
+1165,68, Angeles,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03362971900289217,0.03333333333333333
+1166,68, Angeles,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1167,68, Angeles,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12322892202696463,0.13333333333333333
+1168,68, Angeles,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1169,68, Angeles,No.,1.0,0.8333333333333334,0.8431413589701432,0.8333333333333334
+1170,69,",",$\it{Other}$,0.922627881383006,0.0,0.0,0.0
+1171,69,",",Adam Gontier is not a member of Shiny Toy Guns.,0.922627881383006,0.0,0.0,0.0
+1172,69,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.922627881383006,0.0,0.0,0.0
+1173,69,",","No, Adam Gontier is not a member of Shiny Toy Guns.",0.922627881383006,0.2,0.17959945191837262,0.1845255762766012
+1174,69,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.922627881383006,0.03333333333333333,0.027539188705945804,0.030754262712766867
+1175,69,",",No.,0.922627881383006,0.7666666666666667,0.7928613593756815,0.707348042393638
+1176,69,.,$\it{Other}$,0.07737211861699396,0.0,0.0,0.0
+1177,69,.,Adam Gontier is not a member of Shiny Toy Guns.,0.07737211861699396,0.1,0.103226352401331,0.007737211861699397
+1178,69,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.07737211861699396,0.0,0.0,0.0
+1179,69,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.07737211861699396,0.13333333333333333,0.12695254586464508,0.01031628248226586
+1180,69,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.07737211861699396,0.0,0.0,0.0
+1181,69,.,No.,0.07737211861699396,0.7666666666666667,0.769821101734024,0.059318624273028704
+1182,7,ont,$\it{Other}$,1.0,0.0,0.0,0.0
+1183,7,ont,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.06742908070115297,0.06666666666666667
+1184,7,ont,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1185,7,ont,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09241944558882569,0.1
+1186,7,ont,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03139392287372125,0.03333333333333333
+1187,7,ont,No.,1.0,0.8,0.8087575508362999,0.8
+1188,70, California,$\it{Other}$,1.0,0.0,0.0,0.0
+1189,70, California,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1190,70, California,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1191,70, California,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.0959549818606712,0.1
+1192,70, California,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1193,70, California,No.,1.0,0.9,0.9040450181393289,0.9
+1194,71,.,$\it{Other}$,0.9002910169937555,0.0,0.0,0.0
+1195,71,.,Adam Gontier is not a member of Shiny Toy Guns.,0.9002910169937555,0.03333333333333333,0.031551496005744036,0.030009700566458516
+1196,71,.,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9002910169937555,0.0,0.0,0.0
+1197,71,.,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9002910169937555,0.16666666666666666,0.16338740233558388,0.15004850283229257
+1198,71,.,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9002910169937555,0.0,0.0,0.0
+1199,71,.,No.,0.9002910169937555,0.8,0.8050611016586722,0.7202328135950045
+1200,71,".
+
+",$\it{Other}$,0.09970898300624446,0.0,0.0,0.0
+1201,71,".
+
+",Adam Gontier is not a member of Shiny Toy Guns.,0.09970898300624446,0.03333333333333333,0.032872835216712436,0.0033236327668748154
+1202,71,".
+
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.09970898300624446,0.03333333333333333,0.022509913395489946,0.0033236327668748154
+1203,71,".
+
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.09970898300624446,0.1,0.07658400006493551,0.009970898300624448
+1204,71,".
+
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.09970898300624446,0.06666666666666667,0.061046005096920986,0.006647265533749631
+1205,71,".
+
+",No.,0.09970898300624446,0.7666666666666667,0.8069872462259409,0.07644355363812076
+1206,72, The,$\it{Other}$,0.9406018318290449,0.0,0.0,0.0
+1207,72, The,Adam Gontier is not a member of Shiny Toy Guns.,0.9406018318290449,0.0,0.0,0.0
+1208,72, The,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9406018318290449,0.0,0.0,0.0
+1209,72, The,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9406018318290449,0.26666666666666666,0.2553187389666682,0.25082715515441195
+1210,72, The,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9406018318290449,0.0,0.0,0.0
+1211,72, The,No.,0.9406018318290449,0.7333333333333333,0.7446812610333319,0.6897746766746329
+1212,72, They,$\it{Other}$,0.05939816817095512,0.0,0.0,0.0
+1213,72, They,Adam Gontier is not a member of Shiny Toy Guns.,0.05939816817095512,0.03333333333333333,0.029084691466007184,0.001979938939031837
+1214,72, They,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.05939816817095512,0.03333333333333333,0.03397705451831343,0.001979938939031837
+1215,72, They,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.05939816817095512,0.13333333333333333,0.12925419702190744,0.007919755756127349
+1216,72, They,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.05939816817095512,0.0,0.0,0.0
+1217,72, They,No.,0.05939816817095512,0.8,0.8076840569937718,0.0475185345367641
+1218,73, band,$\it{Other}$,0.8200330025676207,0.03333333333333333,0.032523394211634624,0.027334433418920688
+1219,73, band,Adam Gontier is not a member of Shiny Toy Guns.,0.8200330025676207,0.03333333333333333,0.029930850458748954,0.027334433418920688
+1220,73, band,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8200330025676207,0.0,0.0,0.0
+1221,73, band,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8200330025676207,0.16666666666666666,0.1618344831225123,0.13667216709460345
+1222,73, band,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8200330025676207,0.0,0.0,0.0
+1223,73, band,No.,0.8200330025676207,0.7666666666666667,0.7757112722071043,0.6286919686351758
+1224,73, current,$\it{Other}$,0.17996699743237934,0.03333333333333333,0.031908920273785064,0.005998899914412645
+1225,73, current,Adam Gontier is not a member of Shiny Toy Guns.,0.17996699743237934,0.03333333333333333,0.03304312312972117,0.005998899914412645
+1226,73, current,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.17996699743237934,0.0,0.0,0.0
+1227,73, current,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.17996699743237934,0.03333333333333333,0.03246300616244992,0.005998899914412645
+1228,73, current,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.17996699743237934,0.0,0.0,0.0
+1229,73, current,No.,0.17996699743237934,0.9,0.9025849504340435,0.16197029768914142
+1230,74, consists,$\it{Other}$,0.21751850244246257,0.0,0.0,0.0
+1231,74, consists,Adam Gontier is not a member of Shiny Toy Guns.,0.21751850244246257,0.0,0.0,0.0
+1232,74, consists,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.21751850244246257,0.0,0.0,0.0
+1233,74, consists,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.21751850244246257,0.06666666666666667,0.06309755418180782,0.014501233496164171
+1234,74, consists,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.21751850244246257,0.03333333333333333,0.03445886872881108,0.0072506167480820855
+1235,74, consists,No.,0.21751850244246257,0.9,0.9024435770893815,0.19576665219821632
+1236,74, is,$\it{Other}$,0.14876314579473987,0.0,0.0,0.0
+1237,74, is,Adam Gontier is not a member of Shiny Toy Guns.,0.14876314579473987,0.03333333333333333,0.032104272389374175,0.004958771526491329
+1238,74, is,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.14876314579473987,0.03333333333333333,0.029900073866232176,0.004958771526491329
+1239,74, is,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.14876314579473987,0.13333333333333333,0.12973523333847894,0.019835086105965315
+1240,74, is,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.14876314579473987,0.0,0.0,0.0
+1241,74, is,No.,0.14876314579473987,0.8,0.8082604204059151,0.1190105166357919
+1242,74,'s,$\it{Other}$,0.6337183517627976,0.03333333333333333,0.03482548008250002,0.02112394505875992
+1243,74,'s,Adam Gontier is not a member of Shiny Toy Guns.,0.6337183517627976,0.0,0.0,0.0
+1244,74,'s,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6337183517627976,0.0,0.0,0.0
+1245,74,'s,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6337183517627976,0.1,0.09416278717241118,0.06337183517627976
+1246,74,'s,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6337183517627976,0.0,0.0,0.0
+1247,74,'s,No.,0.6337183517627976,0.8666666666666667,0.8710117327450886,0.5492225715277579
+1248,75, current,$\it{Other}$,0.7700290978917893,0.0,0.0,0.0
+1249,75, current,Adam Gontier is not a member of Shiny Toy Guns.,0.7700290978917893,0.0,0.0,0.0
+1250,75, current,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7700290978917893,0.0,0.0,0.0
+1251,75, current,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7700290978917893,0.26666666666666666,0.24947401235456187,0.20534109277114382
+1252,75, current,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7700290978917893,0.0,0.0,0.0
+1253,75, current,No.,0.7700290978917893,0.7333333333333333,0.7505259876454387,0.5646880051206454
+1254,75, music,$\it{Other}$,0.1200151354530121,0.03333333333333333,0.035935826080950965,0.0040005045151004035
+1255,75, music,Adam Gontier is not a member of Shiny Toy Guns.,0.1200151354530121,0.03333333333333333,0.0352824386654284,0.0040005045151004035
+1256,75, music,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.1200151354530121,0.0,0.0,0.0
+1257,75, music,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.1200151354530121,0.26666666666666666,0.2501396506374434,0.03200403612080323
+1258,75, music,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.1200151354530121,0.0,0.0,0.0
+1259,75, music,No.,0.1200151354530121,0.6666666666666666,0.6786420846161775,0.08001009030200806
+1260,75, sound,$\it{Other}$,0.10995576665519856,0.03333333333333333,0.03363444118205634,0.003665192221839952
+1261,75, sound,Adam Gontier is not a member of Shiny Toy Guns.,0.10995576665519856,0.0,0.0,0.0
+1262,75, sound,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.10995576665519856,0.03333333333333333,0.033994228662805374,0.003665192221839952
+1263,75, sound,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.10995576665519856,0.23333333333333334,0.23542990701443242,0.025656345552879663
+1264,75, sound,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.10995576665519856,0.0,0.0,0.0
+1265,75, sound,No.,0.10995576665519856,0.7,0.6969414231407054,0.07696903665863898
+1266,76, lineup,$\it{Other}$,0.7055005675848294,0.0,0.0,0.0
+1267,76, lineup,Adam Gontier is not a member of Shiny Toy Guns.,0.7055005675848294,0.03333333333333333,0.033009807723468496,0.02351668558616098
+1268,76, lineup,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7055005675848294,0.0,0.0,0.0
+1269,76, lineup,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.7055005675848294,0.23333333333333334,0.2192581578114846,0.16461679910312685
+1270,76, lineup,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7055005675848294,0.0,0.0,0.0
+1271,76, lineup,No.,0.7055005675848294,0.7333333333333333,0.7477320344650468,0.5173670828955415
+1272,76, members,$\it{Other}$,0.29449943241517057,0.0,0.0,0.0
+1273,76, members,Adam Gontier is not a member of Shiny Toy Guns.,0.29449943241517057,0.0,0.0,0.0
+1274,76, members,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.29449943241517057,0.0,0.0,0.0
+1275,76, members,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.29449943241517057,0.13333333333333333,0.12249425085636494,0.03926659098868941
+1276,76, members,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.29449943241517057,0.03333333333333333,0.03264875420163158,0.009816647747172353
+1277,76, members,No.,0.29449943241517057,0.8333333333333334,0.8448569949420038,0.2454161936793088
+1278,77, consists,$\it{Other}$,0.8505166343654706,0.0,0.0,0.0
+1279,77, consists,Adam Gontier is not a member of Shiny Toy Guns.,0.8505166343654706,0.03333333333333333,0.035539763435455285,0.02835055447884902
+1280,77, consists,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8505166343654706,0.0,0.0,0.0
+1281,77, consists,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8505166343654706,0.13333333333333333,0.12535960256703377,0.11340221791539608
+1282,77, consists,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8505166343654706,0.0,0.0,0.0
+1283,77, consists,No.,0.8505166343654706,0.8333333333333334,0.8391006339975109,0.7087638619712255
+1284,77, includes,$\it{Other}$,0.14948336563452938,0.0,0.0,0.0
+1285,77, includes,Adam Gontier is not a member of Shiny Toy Guns.,0.14948336563452938,0.0,0.0,0.0
+1286,77, includes,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.14948336563452938,0.0,0.0,0.0
+1287,77, includes,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.14948336563452938,0.2,0.1875500306808221,0.029896673126905877
+1288,77, includes,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.14948336563452938,0.03333333333333333,0.030452192778312535,0.0049827788544843125
+1289,77, includes,No.,0.14948336563452938,0.7666666666666667,0.7819977765408653,0.1146039136531392
+1290,78, of,$\it{Other}$,1.0,0.0,0.0,0.0
+1291,78, of,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1292,78, of,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1293,78, of,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.14859250806852622,0.16666666666666666
+1294,78, of,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1295,78, of,No.,1.0,0.8333333333333334,0.8514074919314736,0.8333333333333334
+1296,79, Car,$\it{Other}$,0.2801470075488454,0.0,0.0,0.0
+1297,79, Car,Adam Gontier is not a member of Shiny Toy Guns.,0.2801470075488454,0.0,0.0,0.0
+1298,79, Car,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.2801470075488454,0.0,0.0,0.0
+1299,79, Car,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.2801470075488454,0.3333333333333333,0.3160427392069208,0.09338233584961514
+1300,79, Car,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.2801470075488454,0.0,0.0,0.0
+1301,79, Car,No.,0.2801470075488454,0.6666666666666666,0.6839572607930794,0.18676467169923028
+1302,79, Chad,$\it{Other}$,0.21516808047389802,0.0,0.0,0.0
+1303,79, Chad,Adam Gontier is not a member of Shiny Toy Guns.,0.21516808047389802,0.0,0.0,0.0
+1304,79, Chad,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.21516808047389802,0.0,0.0,0.0
+1305,79, Chad,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.21516808047389802,0.1,0.08681498002317468,0.021516808047389802
+1306,79, Chad,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.21516808047389802,0.0,0.0,0.0
+1307,79, Chad,No.,0.21516808047389802,0.9,0.9131850199768253,0.19365127242650823
+1308,79, Jeremy,$\it{Other}$,0.10457751767580717,0.0,0.0,0.0
+1309,79, Jeremy,Adam Gontier is not a member of Shiny Toy Guns.,0.10457751767580717,0.0,0.0,0.0
+1310,79, Jeremy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.10457751767580717,0.0,0.0,0.0
+1311,79, Jeremy,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.10457751767580717,0.23333333333333334,0.22043230429788274,0.024401420791021672
+1312,79, Jeremy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.10457751767580717,0.0,0.0,0.0
+1313,79, Jeremy,No.,0.10457751767580717,0.7666666666666667,0.7795676957021171,0.0801760968847855
+1314,79, members,$\it{Other}$,0.13026580180965786,0.0,0.0,0.0
+1315,79, members,Adam Gontier is not a member of Shiny Toy Guns.,0.13026580180965786,0.03333333333333333,0.032458055848335735,0.0043421933936552614
+1316,79, members,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.13026580180965786,0.03333333333333333,0.03310483649906206,0.0043421933936552614
+1317,79, members,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.13026580180965786,0.03333333333333333,0.031950415477582976,0.0043421933936552614
+1318,79, members,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.13026580180965786,0.03333333333333333,0.030540158203081993,0.0043421933936552614
+1319,79, members,No.,0.13026580180965786,0.8666666666666667,0.8719465339719377,0.1128970282350368
+1320,79, vocalist,$\it{Other}$,0.26984159249179157,0.0,0.0,0.0
+1321,79, vocalist,Adam Gontier is not a member of Shiny Toy Guns.,0.26984159249179157,0.06666666666666667,0.05759362650347164,0.01798943949945277
+1322,79, vocalist,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.26984159249179157,0.0,0.0,0.0
+1323,79, vocalist,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.26984159249179157,0.13333333333333333,0.11377475115893015,0.03597887899890554
+1324,79, vocalist,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.26984159249179157,0.0,0.0,0.0
+1325,79, vocalist,No.,0.26984159249179157,0.8,0.828631622337598,0.21587327399343326
+1326,8,ier,$\it{Other}$,1.0,0.0,0.0,0.0
+1327,8,ier,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1328,8,ier,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1329,8,ier,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09038370596667075,0.1
+1330,8,ier,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03161318493460688,0.03333333333333333
+1331,8,ier,No.,1.0,0.8666666666666667,0.8780031090987224,0.8666666666666667
+1332,80,ah,$\it{Other}$,1.0,0.0,0.0,0.0
+1333,80,ah,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.0325881280276995,0.03333333333333333
+1334,80,ah,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03019656621621478,0.03333333333333333
+1335,80,ah,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12660898705336726,0.13333333333333333
+1336,80,ah,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1337,80,ah,No.,1.0,0.8,0.8106063187027186,0.8
+1338,81, F,$\it{Other}$,1.0,0.0,0.0,0.0
+1339,81, F,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03093714889044016,0.03333333333333333
+1340,81, F,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1341,81, F,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.1588643777703949,0.16666666666666666
+1342,81, F,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1343,81, F,No.,1.0,0.8,0.8101984733391652,0.8
+1344,82,aye,$\it{Other}$,1.0,0.0,0.0,0.0
+1345,82,aye,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.03245896676124725,0.03333333333333333
+1346,82,aye,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1347,82,aye,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.23903463504174563,0.26666666666666666
+1348,82,aye,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1349,82,aye,No.,1.0,0.7,0.7285063981970076,0.7
+1350,83, (,$\it{Other}$,0.06753624974841319,0.0,0.0,0.0
+1351,83, (,Adam Gontier is not a member of Shiny Toy Guns.,0.06753624974841319,0.0,0.0,0.0
+1352,83, (,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.06753624974841319,0.0,0.0,0.0
+1353,83, (,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.06753624974841319,0.13333333333333333,0.11965132585633166,0.009004833299788425
+1354,83, (,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.06753624974841319,0.0,0.0,0.0
+1355,83, (,No.,0.06753624974841319,0.8666666666666667,0.8803486741436684,0.058531416448624765
+1356,83, Ch,$\it{Other}$,0.9324637502515868,0.0,0.0,0.0
+1357,83, Ch,Adam Gontier is not a member of Shiny Toy Guns.,0.9324637502515868,0.0,0.0,0.0
+1358,83, Ch,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.9324637502515868,0.0,0.0,0.0
+1359,83, Ch,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.9324637502515868,0.13333333333333333,0.13082890350594362,0.1243285000335449
+1360,83, Ch,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.9324637502515868,0.0,0.0,0.0
+1361,83, Ch,No.,0.9324637502515868,0.8666666666666667,0.8691710964940561,0.8081352502180419
+1362,84,arn,$\it{Other}$,1.0,0.0,0.0,0.0
+1363,84,arn,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.027115685219190555,0.03333333333333333
+1364,84,arn,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.03176490510610845,0.03333333333333333
+1365,84,arn,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.2,0.1864606210456121,0.2
+1366,84,arn,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1367,84,arn,No.,1.0,0.7333333333333333,0.7546587886290891,0.7333333333333333
+1368,85,ow,$\it{Other}$,1.0,0.0,0.0,0.0
+1369,85,ow,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.02751981319781127,0.03333333333333333
+1370,85,ow,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1371,85,ow,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.1489755530656772,0.16666666666666666
+1372,85,ow,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.06666666666666667,0.06220747203335704,0.06666666666666667
+1373,85,ow,No.,1.0,0.7333333333333333,0.7612971617031541,0.7333333333333333
+1374,86, (,$\it{Other}$,1.0,0.0,0.0,0.0
+1375,86, (,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1376,86, (,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1377,86, (,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.24303199390320063,0.26666666666666666
+1378,86, (,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1379,86, (,No.,1.0,0.7333333333333333,0.7569680060967996,0.7333333333333333
+1380,87,lead,$\it{Other}$,0.15506247362246472,0.0,0.0,0.0
+1381,87,lead,Adam Gontier is not a member of Shiny Toy Guns.,0.15506247362246472,0.0,0.0,0.0
+1382,87,lead,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.15506247362246472,0.03333333333333333,0.03275032464547686,0.005168749120748824
+1383,87,lead,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.15506247362246472,0.13333333333333333,0.12344067980200861,0.020674996482995298
+1384,87,lead,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.15506247362246472,0.0,0.0,0.0
+1385,87,lead,No.,0.15506247362246472,0.8333333333333334,0.8438089955525144,0.1292187280187206
+1386,87,v,$\it{Other}$,0.8449375263775353,0.0,0.0,0.0
+1387,87,v,Adam Gontier is not a member of Shiny Toy Guns.,0.8449375263775353,0.0,0.0,0.0
+1388,87,v,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8449375263775353,0.03333333333333333,0.03199819510915208,0.02816458421258451
+1389,87,v,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.8449375263775353,0.1,0.09282779829309928,0.08449375263775354
+1390,87,v,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8449375263775353,0.0,0.0,0.0
+1391,87,v,No.,0.8449375263775353,0.8666666666666667,0.8751740065977489,0.7322791895271973
+1392,88,oc,$\it{Other}$,1.0,0.0,0.0,0.0
+1393,88,oc,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1394,88,oc,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1395,88,oc,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.13333333333333333,0.12406461461940602,0.13333333333333333
+1396,88,oc,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1397,88,oc,No.,1.0,0.8666666666666667,0.8759353853805939,0.8666666666666667
+1398,89,als,$\it{Other}$,1.0,0.0,0.0,0.0
+1399,89,als,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1400,89,als,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1401,89,als,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03333333333333333,0.029318385113359893,0.03333333333333333
+1402,89,als,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1403,89,als,No.,1.0,0.9666666666666667,0.97068161488664,0.9666666666666667
+1404,9,?,$\it{Other}$,0.25303169442407436,0.0,0.0,0.0
+1405,9,?,Adam Gontier is not a member of Shiny Toy Guns.,0.25303169442407436,0.0,0.0,0.0
+1406,9,?,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.25303169442407436,0.03333333333333333,0.030117983190991494,0.008434389814135811
+1407,9,?,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.25303169442407436,0.13333333333333333,0.12281073411711939,0.033737559256543245
+1408,9,?,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.25303169442407436,0.0,0.0,0.0
+1409,9,?,No.,0.25303169442407436,0.8333333333333334,0.847071282691889,0.2108597453533953
+1410,9,"?
+",$\it{Other}$,0.7469683055759258,0.0,0.0,0.0
+1411,9,"?
+",Adam Gontier is not a member of Shiny Toy Guns.,0.7469683055759258,0.03333333333333333,0.03326893515497938,0.024898943519197525
+1412,9,"?
+",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.7469683055759258,0.0,0.0,0.0
+1413,9,"?
+","No, Adam Gontier is not a member of Shiny Toy Guns.",0.7469683055759258,0.23333333333333334,0.2204277362632123,0.17429260463438268
+1414,9,"?
+","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.7469683055759258,0.0,0.0,0.0
+1415,9,"?
+",No.,0.7469683055759258,0.7333333333333333,0.7463033285818083,0.5477767574223456
+1416,90,"),",$\it{Other}$,0.8302986841090857,0.0,0.0,0.0
+1417,90,"),",Adam Gontier is not a member of Shiny Toy Guns.,0.8302986841090857,0.0,0.0,0.0
+1418,90,"),",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.8302986841090857,0.0,0.0,0.0
+1419,90,"),","No, Adam Gontier is not a member of Shiny Toy Guns.",0.8302986841090857,0.13333333333333333,0.11730853077367286,0.11070649121454476
+1420,90,"),","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.8302986841090857,0.0,0.0,0.0
+1421,90,"),",No.,0.8302986841090857,0.8666666666666667,0.8826914692263268,0.7195921928945409
+1422,90,",",$\it{Other}$,0.16970131589091425,0.0,0.0,0.0
+1423,90,",",Adam Gontier is not a member of Shiny Toy Guns.,0.16970131589091425,0.0,0.0,0.0
+1424,90,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.16970131589091425,0.0,0.0,0.0
+1425,90,",","No, Adam Gontier is not a member of Shiny Toy Guns.",0.16970131589091425,0.13333333333333333,0.1145254498825551,0.022626842118788567
+1426,90,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.16970131589091425,0.0,0.0,0.0
+1427,90,",",No.,0.16970131589091425,0.8666666666666667,0.8854745501174447,0.14707447377212568
+1428,91, Chad,$\it{Other}$,0.5771896804429283,0.0,0.0,0.0
+1429,91, Chad,Adam Gontier is not a member of Shiny Toy Guns.,0.5771896804429283,0.03333333333333333,0.03341695549437933,0.019239656014764277
+1430,91, Chad,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.5771896804429283,0.0,0.0,0.0
+1431,91, Chad,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.5771896804429283,0.16666666666666666,0.14661962303681875,0.09619828007382138
+1432,91, Chad,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.5771896804429283,0.0,0.0,0.0
+1433,91, Chad,No.,0.5771896804429283,0.8,0.8199634214688024,0.46175174435434263
+1434,91, Daniel,$\it{Other}$,0.08146431308467741,0.0,0.0,0.0
+1435,91, Daniel,Adam Gontier is not a member of Shiny Toy Guns.,0.08146431308467741,0.06666666666666667,0.06495346107446,0.005430954205645161
+1436,91, Daniel,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.08146431308467741,0.03333333333333333,0.03220123538669022,0.0027154771028225803
+1437,91, Daniel,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.08146431308467741,0.03333333333333333,0.027488896801503553,0.0027154771028225803
+1438,91, Daniel,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.08146431308467741,0.0,0.0,0.0
+1439,91, Daniel,No.,0.08146431308467741,0.8666666666666667,0.8753564067373459,0.07060240467338709
+1440,91, Greg,$\it{Other}$,0.142185941483408,0.0,0.0,0.0
+1441,91, Greg,Adam Gontier is not a member of Shiny Toy Guns.,0.142185941483408,0.0,0.0,0.0
+1442,91, Greg,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.142185941483408,0.0,0.0,0.0
+1443,91, Greg,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.142185941483408,0.06666666666666667,0.052763186242570634,0.009479062765560533
+1444,91, Greg,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.142185941483408,0.03333333333333333,0.032767970739533483,0.004739531382780267
+1445,91, Greg,No.,0.142185941483408,0.9,0.9144688430178958,0.1279673473350672
+1446,91, Jeremy,$\it{Other}$,0.19916006498898636,0.0,0.0,0.0
+1447,91, Jeremy,Adam Gontier is not a member of Shiny Toy Guns.,0.19916006498898636,0.0,0.0,0.0
+1448,91, Jeremy,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.19916006498898636,0.0,0.0,0.0
+1449,91, Jeremy,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.19916006498898636,0.06666666666666667,0.06336291922970774,0.013277337665932424
+1450,91, Jeremy,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.19916006498898636,0.06666666666666667,0.058188501615056155,0.013277337665932424
+1451,91, Jeremy,No.,0.19916006498898636,0.8666666666666667,0.8784485791552357,0.17260538965712152
+1452,92, Pet,$\it{Other}$,1.0,0.0,0.0,0.0
+1453,92, Pet,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.06666666666666667,0.06111712461453652,0.06666666666666667
+1454,92, Pet,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.02820434461056248,0.03333333333333333
+1455,92, Pet,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.06666666666666667,0.057900225705170894,0.06666666666666667
+1456,92, Pet,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1457,92, Pet,No.,1.0,0.8333333333333334,0.8527783050697301,0.8333333333333334
+1458,93,ree,$\it{Other}$,1.0,0.0,0.0,0.0
+1459,93,ree,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1460,93,ree,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.03333333333333333,0.02932682842857385,0.03333333333333333
+1461,93,ree,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.08925022429563152,0.1
+1462,93,ree,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1463,93,ree,No.,1.0,0.8666666666666667,0.8814229472757945,0.8666666666666667
+1464,94, (,$\it{Other}$,1.0,0.0,0.0,0.0
+1465,94, (,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1466,94, (,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1467,94, (,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.3,0.28616249228483925,0.3
+1468,94, (,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.03333333333333333,0.03010879645976121,0.03333333333333333
+1469,94, (,No.,1.0,0.6666666666666666,0.6837287112553995,0.6666666666666666
+1470,95,g,$\it{Other}$,0.36842922015280605,0.0,0.0,0.0
+1471,95,g,Adam Gontier is not a member of Shiny Toy Guns.,0.36842922015280605,0.0,0.0,0.0
+1472,95,g,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.36842922015280605,0.0,0.0,0.0
+1473,95,g,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.36842922015280605,0.13333333333333333,0.12448612931050458,0.04912389602037414
+1474,95,g,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.36842922015280605,0.0,0.0,0.0
+1475,95,g,No.,0.36842922015280605,0.8666666666666667,0.8755138706894956,0.3193053241324319
+1476,95,v,$\it{Other}$,0.6315707798471939,0.0,0.0,0.0
+1477,95,v,Adam Gontier is not a member of Shiny Toy Guns.,0.6315707798471939,0.0,0.0,0.0
+1478,95,v,Adam Gontier is not a member of the rock band Shiny Toy Guns.,0.6315707798471939,0.03333333333333333,0.027052381644194573,0.021052359328239796
+1479,95,v,"No, Adam Gontier is not a member of Shiny Toy Guns.",0.6315707798471939,0.3,0.28299406027297347,0.18947123395415816
+1480,95,v,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",0.6315707798471939,0.0,0.0,0.0
+1481,95,v,No.,0.6315707798471939,0.6666666666666666,0.6899535580828315,0.4210471865647959
+1482,96,oc,$\it{Other}$,1.0,0.0,0.0,0.0
+1483,96,oc,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.03333333333333333,0.025923721963467084,0.03333333333333333
+1484,96,oc,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.06666666666666667,0.058660604869476995,0.06666666666666667
+1485,96,oc,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.03333333333333333,0.031904696936050005,0.03333333333333333
+1486,96,oc,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1487,96,oc,No.,1.0,0.8666666666666667,0.8835109762310056,0.8666666666666667
+1488,97,als,$\it{Other}$,1.0,0.0,0.0,0.0
+1489,97,als,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1490,97,als,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1491,97,als,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.16666666666666666,0.16117121538667523,0.16666666666666666
+1492,97,als,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1493,97,als,No.,1.0,0.8333333333333334,0.8388287846133247,0.8333333333333334
+1494,98,",",$\it{Other}$,1.0,0.0,0.0,0.0
+1495,98,",",Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1496,98,",",Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1497,98,",","No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.26666666666666666,0.2510956653008057,0.26666666666666666
+1498,98,",","No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1499,98,",",No.,1.0,0.7333333333333333,0.7489043346991944,0.7333333333333333
+1500,99, guitar,$\it{Other}$,1.0,0.0,0.0,0.0
+1501,99, guitar,Adam Gontier is not a member of Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1502,99, guitar,Adam Gontier is not a member of the rock band Shiny Toy Guns.,1.0,0.0,0.0,0.0
+1503,99, guitar,"No, Adam Gontier is not a member of Shiny Toy Guns.",1.0,0.1,0.09118275932458345,0.1
+1504,99, guitar,"No, Adam Gontier is not a member of the rock band Shiny Toy Guns.",1.0,0.0,0.0,0.0
+1505,99, guitar,No.,1.0,0.9,0.9088172406754168,0.9

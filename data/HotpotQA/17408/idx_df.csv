@@ -1,0 +1,1453 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,1.0
+1,0,Henry Espy was born in the late 1960s or early 1970s.,0.0
+2,0,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+3,0,that Henry Espy was born in the late 1960s or early ,0.0
+4,0,that Henry Espy was likely born in the late 1960s or early,0.0
+5,0,that Henry Espy was most likely born in the late 1960s or,0.0
+6,1,$\it{Other}$,0.9943724389137266
+7,1,Henry Espy was born in the late 1960s or early 1970s.,0.0
+8,1,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+9,1,that Henry Espy was born in the late 1960s or early ,0.0
+10,1,that Henry Espy was likely born in the late 1960s or early,0.005627561086273248
+11,1,that Henry Espy was most likely born in the late 1960s or,0.0
+12,2,$\it{Other}$,1.0
+13,2,Henry Espy was born in the late 1960s or early 1970s.,0.0
+14,2,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+15,2,that Henry Espy was born in the late 1960s or early ,0.0
+16,2,that Henry Espy was likely born in the late 1960s or early,0.0
+17,2,that Henry Espy was most likely born in the late 1960s or,0.0
+18,3,$\it{Other}$,0.99730018922364
+19,3,Henry Espy was born in the late 1960s or early 1970s.,0.0
+20,3,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+21,3,that Henry Espy was born in the late 1960s or early ,0.0
+22,3,that Henry Espy was likely born in the late 1960s or early,0.0
+23,3,that Henry Espy was most likely born in the late 1960s or,0.0026998107763599715
+24,4,$\it{Other}$,0.9666666666666667
+25,4,Henry Espy was born in the late 1960s or early 1970s.,0.0
+26,4,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+27,4,that Henry Espy was born in the late 1960s or early ,0.0
+28,4,that Henry Espy was likely born in the late 1960s or early,0.0
+29,4,that Henry Espy was most likely born in the late 1960s or,0.0
+30,5,$\it{Other}$,1.0
+31,5,Henry Espy was born in the late 1960s or early 1970s.,0.0
+32,5,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+33,5,that Henry Espy was born in the late 1960s or early ,0.0
+34,5,that Henry Espy was likely born in the late 1960s or early,0.0
+35,5,that Henry Espy was most likely born in the late 1960s or,0.0
+36,6,$\it{Other}$,1.0
+37,6,Henry Espy was born in the late 1960s or early 1970s.,0.0
+38,6,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+39,6,that Henry Espy was born in the late 1960s or early ,0.0
+40,6,that Henry Espy was likely born in the late 1960s or early,0.0
+41,6,that Henry Espy was most likely born in the late 1960s or,0.0
+42,7,$\it{Other}$,1.0
+43,7,Henry Espy was born in the late 1960s or early 1970s.,0.0
+44,7,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+45,7,that Henry Espy was born in the late 1960s or early ,0.0
+46,7,that Henry Espy was likely born in the late 1960s or early,0.0
+47,7,that Henry Espy was most likely born in the late 1960s or,0.0
+48,8,$\it{Other}$,1.0
+49,8,Henry Espy was born in the late 1960s or early 1970s.,0.0
+50,8,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+51,8,that Henry Espy was born in the late 1960s or early ,0.0
+52,8,that Henry Espy was likely born in the late 1960s or early,0.0
+53,8,that Henry Espy was most likely born in the late 1960s or,0.0
+54,9,$\it{Other}$,1.0
+55,9,Henry Espy was born in the late 1960s or early 1970s.,0.0
+56,9,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+57,9,that Henry Espy was born in the late 1960s or early ,0.0
+58,9,that Henry Espy was likely born in the late 1960s or early,0.0
+59,9,that Henry Espy was most likely born in the late 1960s or,0.0
+60,10,$\it{Other}$,0.9965550126493786
+61,10,Henry Espy was born in the late 1960s or early 1970s.,0.0
+62,10,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+63,10,that Henry Espy was born in the late 1960s or early ,0.0034449873506213207
+64,10,that Henry Espy was likely born in the late 1960s or early,0.0
+65,10,that Henry Espy was most likely born in the late 1960s or,0.0
+66,11,$\it{Other}$,1.0
+67,11,Henry Espy was born in the late 1960s or early 1970s.,0.0
+68,11,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+69,11,that Henry Espy was born in the late 1960s or early ,0.0
+70,11,that Henry Espy was likely born in the late 1960s or early,0.0
+71,11,that Henry Espy was most likely born in the late 1960s or,0.0
+72,12,$\it{Other}$,1.0
+73,12,Henry Espy was born in the late 1960s or early 1970s.,0.0
+74,12,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+75,12,that Henry Espy was born in the late 1960s or early ,0.0
+76,12,that Henry Espy was likely born in the late 1960s or early,0.0
+77,12,that Henry Espy was most likely born in the late 1960s or,0.0
+78,13,$\it{Other}$,1.0
+79,13,Henry Espy was born in the late 1960s or early 1970s.,0.0
+80,13,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+81,13,that Henry Espy was born in the late 1960s or early ,0.0
+82,13,that Henry Espy was likely born in the late 1960s or early,0.0
+83,13,that Henry Espy was most likely born in the late 1960s or,0.0
+84,14,$\it{Other}$,1.0
+85,14,Henry Espy was born in the late 1960s or early 1970s.,0.0
+86,14,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+87,14,that Henry Espy was born in the late 1960s or early ,0.0
+88,14,that Henry Espy was likely born in the late 1960s or early,0.0
+89,14,that Henry Espy was most likely born in the late 1960s or,0.0
+90,15,$\it{Other}$,1.0
+91,15,Henry Espy was born in the late 1960s or early 1970s.,0.0
+92,15,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+93,15,that Henry Espy was born in the late 1960s or early ,0.0
+94,15,that Henry Espy was likely born in the late 1960s or early,0.0
+95,15,that Henry Espy was most likely born in the late 1960s or,0.0
+96,16,$\it{Other}$,1.0
+97,16,Henry Espy was born in the late 1960s or early 1970s.,0.0
+98,16,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+99,16,that Henry Espy was born in the late 1960s or early ,0.0
+100,16,that Henry Espy was likely born in the late 1960s or early,0.0
+101,16,that Henry Espy was most likely born in the late 1960s or,0.0
+102,17,$\it{Other}$,1.0
+103,17,Henry Espy was born in the late 1960s or early 1970s.,0.0
+104,17,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+105,17,that Henry Espy was born in the late 1960s or early ,0.0
+106,17,that Henry Espy was likely born in the late 1960s or early,0.0
+107,17,that Henry Espy was most likely born in the late 1960s or,0.0
+108,18,$\it{Other}$,1.0
+109,18,Henry Espy was born in the late 1960s or early 1970s.,0.0
+110,18,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+111,18,that Henry Espy was born in the late 1960s or early ,0.0
+112,18,that Henry Espy was likely born in the late 1960s or early,0.0
+113,18,that Henry Espy was most likely born in the late 1960s or,0.0
+114,19,$\it{Other}$,1.0
+115,19,Henry Espy was born in the late 1960s or early 1970s.,0.0
+116,19,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+117,19,that Henry Espy was born in the late 1960s or early ,0.0
+118,19,that Henry Espy was likely born in the late 1960s or early,0.0
+119,19,that Henry Espy was most likely born in the late 1960s or,0.0
+120,20,$\it{Other}$,1.0
+121,20,Henry Espy was born in the late 1960s or early 1970s.,0.0
+122,20,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+123,20,that Henry Espy was born in the late 1960s or early ,0.0
+124,20,that Henry Espy was likely born in the late 1960s or early,0.0
+125,20,that Henry Espy was most likely born in the late 1960s or,0.0
+126,21,$\it{Other}$,0.9666666666666667
+127,21,Henry Espy was born in the late 1960s or early 1970s.,0.0
+128,21,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+129,21,that Henry Espy was born in the late 1960s or early ,0.0
+130,21,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+131,21,that Henry Espy was most likely born in the late 1960s or,0.0
+132,22,$\it{Other}$,0.9896668449428949
+133,22,Henry Espy was born in the late 1960s or early 1970s.,0.0
+134,22,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+135,22,that Henry Espy was born in the late 1960s or early ,0.0
+136,22,that Henry Espy was likely born in the late 1960s or early,0.01033315505710517
+137,22,that Henry Espy was most likely born in the late 1960s or,0.0
+138,23,$\it{Other}$,1.0
+139,23,Henry Espy was born in the late 1960s or early 1970s.,0.0
+140,23,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+141,23,that Henry Espy was born in the late 1960s or early ,0.0
+142,23,that Henry Espy was likely born in the late 1960s or early,0.0
+143,23,that Henry Espy was most likely born in the late 1960s or,0.0
+144,24,$\it{Other}$,1.0
+145,24,Henry Espy was born in the late 1960s or early 1970s.,0.0
+146,24,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+147,24,that Henry Espy was born in the late 1960s or early ,0.0
+148,24,that Henry Espy was likely born in the late 1960s or early,0.0
+149,24,that Henry Espy was most likely born in the late 1960s or,0.0
+150,25,$\it{Other}$,0.993421383547429
+151,25,Henry Espy was born in the late 1960s or early 1970s.,0.00657861645257097
+152,25,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+153,25,that Henry Espy was born in the late 1960s or early ,0.0
+154,25,that Henry Espy was likely born in the late 1960s or early,0.0
+155,25,that Henry Espy was most likely born in the late 1960s or,0.0
+156,26,$\it{Other}$,0.9926954536201706
+157,26,Henry Espy was born in the late 1960s or early 1970s.,0.0
+158,26,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+159,26,that Henry Espy was born in the late 1960s or early ,0.0
+160,26,that Henry Espy was likely born in the late 1960s or early,0.007304546379829377
+161,26,that Henry Espy was most likely born in the late 1960s or,0.0
+162,27,$\it{Other}$,1.0
+163,27,Henry Espy was born in the late 1960s or early 1970s.,0.0
+164,27,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+165,27,that Henry Espy was born in the late 1960s or early ,0.0
+166,27,that Henry Espy was likely born in the late 1960s or early,0.0
+167,27,that Henry Espy was most likely born in the late 1960s or,0.0
+168,28,$\it{Other}$,0.9999999999999999
+169,28,Henry Espy was born in the late 1960s or early 1970s.,0.0
+170,28,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+171,28,that Henry Espy was born in the late 1960s or early ,0.0
+172,28,that Henry Espy was likely born in the late 1960s or early,0.0
+173,28,that Henry Espy was most likely born in the late 1960s or,0.0
+174,29,$\it{Other}$,0.9666666666666667
+175,29,Henry Espy was born in the late 1960s or early 1970s.,0.0
+176,29,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+177,29,that Henry Espy was born in the late 1960s or early ,0.0
+178,29,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+179,29,that Henry Espy was most likely born in the late 1960s or,0.0
+180,30,$\it{Other}$,0.9976760108196667
+181,30,Henry Espy was born in the late 1960s or early 1970s.,0.0
+182,30,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+183,30,that Henry Espy was born in the late 1960s or early ,0.0
+184,30,that Henry Espy was likely born in the late 1960s or early,0.00232398918033324
+185,30,that Henry Espy was most likely born in the late 1960s or,0.0
+186,31,$\it{Other}$,1.0
+187,31,Henry Espy was born in the late 1960s or early 1970s.,0.0
+188,31,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+189,31,that Henry Espy was born in the late 1960s or early ,0.0
+190,31,that Henry Espy was likely born in the late 1960s or early,0.0
+191,31,that Henry Espy was most likely born in the late 1960s or,0.0
+192,32,$\it{Other}$,0.9666666666666667
+193,32,Henry Espy was born in the late 1960s or early 1970s.,0.0
+194,32,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+195,32,that Henry Espy was born in the late 1960s or early ,0.0
+196,32,that Henry Espy was likely born in the late 1960s or early,0.0
+197,32,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+198,33,$\it{Other}$,1.0
+199,33,Henry Espy was born in the late 1960s or early 1970s.,0.0
+200,33,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+201,33,that Henry Espy was born in the late 1960s or early ,0.0
+202,33,that Henry Espy was likely born in the late 1960s or early,0.0
+203,33,that Henry Espy was most likely born in the late 1960s or,0.0
+204,34,$\it{Other}$,0.9333333333333333
+205,34,Henry Espy was born in the late 1960s or early 1970s.,0.0
+206,34,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+207,34,that Henry Espy was born in the late 1960s or early ,0.0
+208,34,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+209,34,that Henry Espy was most likely born in the late 1960s or,0.0
+210,35,$\it{Other}$,0.9707594688082788
+211,35,Henry Espy was born in the late 1960s or early 1970s.,0.0
+212,35,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+213,35,that Henry Espy was born in the late 1960s or early ,0.029240531191721167
+214,35,that Henry Espy was likely born in the late 1960s or early,0.0
+215,35,that Henry Espy was most likely born in the late 1960s or,0.0
+216,36,$\it{Other}$,1.0
+217,36,Henry Espy was born in the late 1960s or early 1970s.,0.0
+218,36,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+219,36,that Henry Espy was born in the late 1960s or early ,0.0
+220,36,that Henry Espy was likely born in the late 1960s or early,0.0
+221,36,that Henry Espy was most likely born in the late 1960s or,0.0
+222,37,$\it{Other}$,1.0
+223,37,Henry Espy was born in the late 1960s or early 1970s.,0.0
+224,37,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+225,37,that Henry Espy was born in the late 1960s or early ,0.0
+226,37,that Henry Espy was likely born in the late 1960s or early,0.0
+227,37,that Henry Espy was most likely born in the late 1960s or,0.0
+228,38,$\it{Other}$,1.0
+229,38,Henry Espy was born in the late 1960s or early 1970s.,0.0
+230,38,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+231,38,that Henry Espy was born in the late 1960s or early ,0.0
+232,38,that Henry Espy was likely born in the late 1960s or early,0.0
+233,38,that Henry Espy was most likely born in the late 1960s or,0.0
+234,39,$\it{Other}$,0.9666666666666667
+235,39,Henry Espy was born in the late 1960s or early 1970s.,0.0
+236,39,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+237,39,that Henry Espy was born in the late 1960s or early ,0.0
+238,39,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+239,39,that Henry Espy was most likely born in the late 1960s or,0.0
+240,40,$\it{Other}$,1.0
+241,40,Henry Espy was born in the late 1960s or early 1970s.,0.0
+242,40,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+243,40,that Henry Espy was born in the late 1960s or early ,0.0
+244,40,that Henry Espy was likely born in the late 1960s or early,0.0
+245,40,that Henry Espy was most likely born in the late 1960s or,0.0
+246,41,$\it{Other}$,1.0
+247,41,Henry Espy was born in the late 1960s or early 1970s.,0.0
+248,41,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+249,41,that Henry Espy was born in the late 1960s or early ,0.0
+250,41,that Henry Espy was likely born in the late 1960s or early,0.0
+251,41,that Henry Espy was most likely born in the late 1960s or,0.0
+252,42,$\it{Other}$,1.0
+253,42,Henry Espy was born in the late 1960s or early 1970s.,0.0
+254,42,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+255,42,that Henry Espy was born in the late 1960s or early ,0.0
+256,42,that Henry Espy was likely born in the late 1960s or early,0.0
+257,42,that Henry Espy was most likely born in the late 1960s or,0.0
+258,43,$\it{Other}$,1.0
+259,43,Henry Espy was born in the late 1960s or early 1970s.,0.0
+260,43,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+261,43,that Henry Espy was born in the late 1960s or early ,0.0
+262,43,that Henry Espy was likely born in the late 1960s or early,0.0
+263,43,that Henry Espy was most likely born in the late 1960s or,0.0
+264,44,$\it{Other}$,1.0
+265,44,Henry Espy was born in the late 1960s or early 1970s.,0.0
+266,44,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+267,44,that Henry Espy was born in the late 1960s or early ,0.0
+268,44,that Henry Espy was likely born in the late 1960s or early,0.0
+269,44,that Henry Espy was most likely born in the late 1960s or,0.0
+270,45,$\it{Other}$,1.0
+271,45,Henry Espy was born in the late 1960s or early 1970s.,0.0
+272,45,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+273,45,that Henry Espy was born in the late 1960s or early ,0.0
+274,45,that Henry Espy was likely born in the late 1960s or early,0.0
+275,45,that Henry Espy was most likely born in the late 1960s or,0.0
+276,46,$\it{Other}$,1.0
+277,46,Henry Espy was born in the late 1960s or early 1970s.,0.0
+278,46,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+279,46,that Henry Espy was born in the late 1960s or early ,0.0
+280,46,that Henry Espy was likely born in the late 1960s or early,0.0
+281,46,that Henry Espy was most likely born in the late 1960s or,0.0
+282,47,$\it{Other}$,0.9666666666666666
+283,47,Henry Espy was born in the late 1960s or early 1970s.,0.0
+284,47,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+285,47,that Henry Espy was born in the late 1960s or early ,0.0
+286,47,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+287,47,that Henry Espy was most likely born in the late 1960s or,0.0
+288,48,$\it{Other}$,0.9738823549308258
+289,48,Henry Espy was born in the late 1960s or early 1970s.,0.0
+290,48,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+291,48,that Henry Espy was born in the late 1960s or early ,0.0
+292,48,that Henry Espy was likely born in the late 1960s or early,0.026117645069174283
+293,48,that Henry Espy was most likely born in the late 1960s or,0.0
+294,49,$\it{Other}$,0.9666666666666667
+295,49,Henry Espy was born in the late 1960s or early 1970s.,0.0
+296,49,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+297,49,that Henry Espy was born in the late 1960s or early ,0.0
+298,49,that Henry Espy was likely born in the late 1960s or early,0.0
+299,49,that Henry Espy was most likely born in the late 1960s or,0.0
+300,50,$\it{Other}$,1.0
+301,50,Henry Espy was born in the late 1960s or early 1970s.,0.0
+302,50,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+303,50,that Henry Espy was born in the late 1960s or early ,0.0
+304,50,that Henry Espy was likely born in the late 1960s or early,0.0
+305,50,that Henry Espy was most likely born in the late 1960s or,0.0
+306,51,$\it{Other}$,1.0
+307,51,Henry Espy was born in the late 1960s or early 1970s.,0.0
+308,51,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+309,51,that Henry Espy was born in the late 1960s or early ,0.0
+310,51,that Henry Espy was likely born in the late 1960s or early,0.0
+311,51,that Henry Espy was most likely born in the late 1960s or,0.0
+312,52,$\it{Other}$,0.9666666666666667
+313,52,Henry Espy was born in the late 1960s or early 1970s.,0.0
+314,52,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+315,52,that Henry Espy was born in the late 1960s or early ,0.0
+316,52,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+317,52,that Henry Espy was most likely born in the late 1960s or,0.0
+318,53,$\it{Other}$,1.0
+319,53,Henry Espy was born in the late 1960s or early 1970s.,0.0
+320,53,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+321,53,that Henry Espy was born in the late 1960s or early ,0.0
+322,53,that Henry Espy was likely born in the late 1960s or early,0.0
+323,53,that Henry Espy was most likely born in the late 1960s or,0.0
+324,54,$\it{Other}$,0.9666666666666667
+325,54,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+326,54,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+327,54,that Henry Espy was born in the late 1960s or early ,0.0
+328,54,that Henry Espy was likely born in the late 1960s or early,0.0
+329,54,that Henry Espy was most likely born in the late 1960s or,0.0
+330,55,$\it{Other}$,1.0
+331,55,Henry Espy was born in the late 1960s or early 1970s.,0.0
+332,55,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+333,55,that Henry Espy was born in the late 1960s or early ,0.0
+334,55,that Henry Espy was likely born in the late 1960s or early,0.0
+335,55,that Henry Espy was most likely born in the late 1960s or,0.0
+336,56,$\it{Other}$,0.9999999999999999
+337,56,Henry Espy was born in the late 1960s or early 1970s.,0.0
+338,56,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+339,56,that Henry Espy was born in the late 1960s or early ,0.0
+340,56,that Henry Espy was likely born in the late 1960s or early,0.0
+341,56,that Henry Espy was most likely born in the late 1960s or,0.0
+342,57,$\it{Other}$,1.0
+343,57,Henry Espy was born in the late 1960s or early 1970s.,0.0
+344,57,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+345,57,that Henry Espy was born in the late 1960s or early ,0.0
+346,57,that Henry Espy was likely born in the late 1960s or early,0.0
+347,57,that Henry Espy was most likely born in the late 1960s or,0.0
+348,58,$\it{Other}$,0.9666666666666667
+349,58,Henry Espy was born in the late 1960s or early 1970s.,0.0
+350,58,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+351,58,that Henry Espy was born in the late 1960s or early ,0.0
+352,58,that Henry Espy was likely born in the late 1960s or early,0.014430139120140906
+353,58,that Henry Espy was most likely born in the late 1960s or,0.018903194213192427
+354,59,$\it{Other}$,0.9723643086029835
+355,59,Henry Espy was born in the late 1960s or early 1970s.,0.0
+356,59,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+357,59,that Henry Espy was born in the late 1960s or early ,0.0
+358,59,that Henry Espy was likely born in the late 1960s or early,0.027635691397016517
+359,59,that Henry Espy was most likely born in the late 1960s or,0.0
+360,60,$\it{Other}$,1.0
+361,60,Henry Espy was born in the late 1960s or early 1970s.,0.0
+362,60,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+363,60,that Henry Espy was born in the late 1960s or early ,0.0
+364,60,that Henry Espy was likely born in the late 1960s or early,0.0
+365,60,that Henry Espy was most likely born in the late 1960s or,0.0
+366,61,$\it{Other}$,1.0
+367,61,Henry Espy was born in the late 1960s or early 1970s.,0.0
+368,61,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+369,61,that Henry Espy was born in the late 1960s or early ,0.0
+370,61,that Henry Espy was likely born in the late 1960s or early,0.0
+371,61,that Henry Espy was most likely born in the late 1960s or,0.0
+372,62,$\it{Other}$,1.0
+373,62,Henry Espy was born in the late 1960s or early 1970s.,0.0
+374,62,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+375,62,that Henry Espy was born in the late 1960s or early ,0.0
+376,62,that Henry Espy was likely born in the late 1960s or early,0.0
+377,62,that Henry Espy was most likely born in the late 1960s or,0.0
+378,63,$\it{Other}$,1.0
+379,63,Henry Espy was born in the late 1960s or early 1970s.,0.0
+380,63,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+381,63,that Henry Espy was born in the late 1960s or early ,0.0
+382,63,that Henry Espy was likely born in the late 1960s or early,0.0
+383,63,that Henry Espy was most likely born in the late 1960s or,0.0
+384,64,$\it{Other}$,0.9333333333333333
+385,64,Henry Espy was born in the late 1960s or early 1970s.,0.0
+386,64,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+387,64,that Henry Espy was born in the late 1960s or early ,0.0
+388,64,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+389,64,that Henry Espy was most likely born in the late 1960s or,0.0
+390,65,$\it{Other}$,1.0
+391,65,Henry Espy was born in the late 1960s or early 1970s.,0.0
+392,65,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+393,65,that Henry Espy was born in the late 1960s or early ,0.0
+394,65,that Henry Espy was likely born in the late 1960s or early,0.0
+395,65,that Henry Espy was most likely born in the late 1960s or,0.0
+396,66,$\it{Other}$,0.9688784998646053
+397,66,Henry Espy was born in the late 1960s or early 1970s.,0.0
+398,66,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+399,66,that Henry Espy was born in the late 1960s or early ,0.0
+400,66,that Henry Espy was likely born in the late 1960s or early,0.0
+401,66,that Henry Espy was most likely born in the late 1960s or,0.031121500135394747
+402,67,$\it{Other}$,0.9666666666666667
+403,67,Henry Espy was born in the late 1960s or early 1970s.,0.0
+404,67,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+405,67,that Henry Espy was born in the late 1960s or early ,0.0
+406,67,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+407,67,that Henry Espy was most likely born in the late 1960s or,0.0
+408,68,$\it{Other}$,1.0
+409,68,Henry Espy was born in the late 1960s or early 1970s.,0.0
+410,68,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+411,68,that Henry Espy was born in the late 1960s or early ,0.0
+412,68,that Henry Espy was likely born in the late 1960s or early,0.0
+413,68,that Henry Espy was most likely born in the late 1960s or,0.0
+414,69,$\it{Other}$,0.9867874051602944
+415,69,Henry Espy was born in the late 1960s or early 1970s.,0.0
+416,69,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+417,69,that Henry Espy was born in the late 1960s or early ,0.0
+418,69,that Henry Espy was likely born in the late 1960s or early,0.013212594839705544
+419,69,that Henry Espy was most likely born in the late 1960s or,0.0
+420,70,$\it{Other}$,0.9666666666666667
+421,70,Henry Espy was born in the late 1960s or early 1970s.,0.0
+422,70,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+423,70,that Henry Espy was born in the late 1960s or early ,0.0
+424,70,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+425,70,that Henry Espy was most likely born in the late 1960s or,0.0
+426,71,$\it{Other}$,1.0000000000000002
+427,71,Henry Espy was born in the late 1960s or early 1970s.,0.0
+428,71,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+429,71,that Henry Espy was born in the late 1960s or early ,0.0
+430,71,that Henry Espy was likely born in the late 1960s or early,0.0
+431,71,that Henry Espy was most likely born in the late 1960s or,0.0
+432,72,$\it{Other}$,1.0
+433,72,Henry Espy was born in the late 1960s or early 1970s.,0.0
+434,72,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+435,72,that Henry Espy was born in the late 1960s or early ,0.0
+436,72,that Henry Espy was likely born in the late 1960s or early,0.0
+437,72,that Henry Espy was most likely born in the late 1960s or,0.0
+438,73,$\it{Other}$,1.0
+439,73,Henry Espy was born in the late 1960s or early 1970s.,0.0
+440,73,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+441,73,that Henry Espy was born in the late 1960s or early ,0.0
+442,73,that Henry Espy was likely born in the late 1960s or early,0.0
+443,73,that Henry Espy was most likely born in the late 1960s or,0.0
+444,74,$\it{Other}$,1.0
+445,74,Henry Espy was born in the late 1960s or early 1970s.,0.0
+446,74,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+447,74,that Henry Espy was born in the late 1960s or early ,0.0
+448,74,that Henry Espy was likely born in the late 1960s or early,0.0
+449,74,that Henry Espy was most likely born in the late 1960s or,0.0
+450,75,$\it{Other}$,0.9666666666666667
+451,75,Henry Espy was born in the late 1960s or early 1970s.,0.0
+452,75,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+453,75,that Henry Espy was born in the late 1960s or early ,0.0
+454,75,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+455,75,that Henry Espy was most likely born in the late 1960s or,0.0
+456,76,$\it{Other}$,0.9666666666666667
+457,76,Henry Espy was born in the late 1960s or early 1970s.,0.0
+458,76,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+459,76,that Henry Espy was born in the late 1960s or early ,0.0
+460,76,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+461,76,that Henry Espy was most likely born in the late 1960s or,0.0
+462,77,$\it{Other}$,0.9961114534698504
+463,77,Henry Espy was born in the late 1960s or early 1970s.,0.0
+464,77,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+465,77,that Henry Espy was born in the late 1960s or early ,0.003888546530149528
+466,77,that Henry Espy was likely born in the late 1960s or early,0.0
+467,77,that Henry Espy was most likely born in the late 1960s or,0.0
+468,78,$\it{Other}$,0.9817804825403642
+469,78,Henry Espy was born in the late 1960s or early 1970s.,0.0
+470,78,Henry Espy was likely born in the late 1960s or early 1970s.,0.007159035529424566
+471,78,that Henry Espy was born in the late 1960s or early ,0.0
+472,78,that Henry Espy was likely born in the late 1960s or early,0.0
+473,78,that Henry Espy was most likely born in the late 1960s or,0.011060481930211237
+474,79,$\it{Other}$,0.9666666666666667
+475,79,Henry Espy was born in the late 1960s or early 1970s.,0.0
+476,79,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+477,79,that Henry Espy was born in the late 1960s or early ,0.0
+478,79,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+479,79,that Henry Espy was most likely born in the late 1960s or,0.0
+480,80,$\it{Other}$,0.9666666666666667
+481,80,Henry Espy was born in the late 1960s or early 1970s.,0.0
+482,80,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+483,80,that Henry Espy was born in the late 1960s or early ,0.00562760143972536
+484,80,that Henry Espy was likely born in the late 1960s or early,0.0
+485,80,that Henry Espy was most likely born in the late 1960s or,0.027705731893607973
+486,81,$\it{Other}$,1.0
+487,81,Henry Espy was born in the late 1960s or early 1970s.,0.0
+488,81,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+489,81,that Henry Espy was born in the late 1960s or early ,0.0
+490,81,that Henry Espy was likely born in the late 1960s or early,0.0
+491,81,that Henry Espy was most likely born in the late 1960s or,0.0
+492,82,$\it{Other}$,1.0
+493,82,Henry Espy was born in the late 1960s or early 1970s.,0.0
+494,82,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+495,82,that Henry Espy was born in the late 1960s or early ,0.0
+496,82,that Henry Espy was likely born in the late 1960s or early,0.0
+497,82,that Henry Espy was most likely born in the late 1960s or,0.0
+498,83,$\it{Other}$,0.9666666666666667
+499,83,Henry Espy was born in the late 1960s or early 1970s.,0.0
+500,83,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+501,83,that Henry Espy was born in the late 1960s or early ,0.0
+502,83,that Henry Espy was likely born in the late 1960s or early,0.0
+503,83,that Henry Espy was most likely born in the late 1960s or,0.0
+504,84,$\it{Other}$,1.0
+505,84,Henry Espy was born in the late 1960s or early 1970s.,0.0
+506,84,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+507,84,that Henry Espy was born in the late 1960s or early ,0.0
+508,84,that Henry Espy was likely born in the late 1960s or early,0.0
+509,84,that Henry Espy was most likely born in the late 1960s or,0.0
+510,85,$\it{Other}$,0.9697529671864616
+511,85,Henry Espy was born in the late 1960s or early 1970s.,0.0
+512,85,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+513,85,that Henry Espy was born in the late 1960s or early ,0.030247032813538303
+514,85,that Henry Espy was likely born in the late 1960s or early,0.0
+515,85,that Henry Espy was most likely born in the late 1960s or,0.0
+516,86,$\it{Other}$,1.0
+517,86,Henry Espy was born in the late 1960s or early 1970s.,0.0
+518,86,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+519,86,that Henry Espy was born in the late 1960s or early ,0.0
+520,86,that Henry Espy was likely born in the late 1960s or early,0.0
+521,86,that Henry Espy was most likely born in the late 1960s or,0.0
+522,87,$\it{Other}$,0.9666666666666667
+523,87,Henry Espy was born in the late 1960s or early 1970s.,0.0
+524,87,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+525,87,that Henry Espy was born in the late 1960s or early ,0.0
+526,87,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+527,87,that Henry Espy was most likely born in the late 1960s or,0.0
+528,88,$\it{Other}$,1.0
+529,88,Henry Espy was born in the late 1960s or early 1970s.,0.0
+530,88,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+531,88,that Henry Espy was born in the late 1960s or early ,0.0
+532,88,that Henry Espy was likely born in the late 1960s or early,0.0
+533,88,that Henry Espy was most likely born in the late 1960s or,0.0
+534,89,$\it{Other}$,1.0
+535,89,Henry Espy was born in the late 1960s or early 1970s.,0.0
+536,89,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+537,89,that Henry Espy was born in the late 1960s or early ,0.0
+538,89,that Henry Espy was likely born in the late 1960s or early,0.0
+539,89,that Henry Espy was most likely born in the late 1960s or,0.0
+540,90,$\it{Other}$,0.9666666666666667
+541,90,Henry Espy was born in the late 1960s or early 1970s.,0.0
+542,90,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+543,90,that Henry Espy was born in the late 1960s or early ,0.0
+544,90,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+545,90,that Henry Espy was most likely born in the late 1960s or,0.0
+546,91,$\it{Other}$,1.0
+547,91,Henry Espy was born in the late 1960s or early 1970s.,0.0
+548,91,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+549,91,that Henry Espy was born in the late 1960s or early ,0.0
+550,91,that Henry Espy was likely born in the late 1960s or early,0.0
+551,91,that Henry Espy was most likely born in the late 1960s or,0.0
+552,92,$\it{Other}$,1.0
+553,92,Henry Espy was born in the late 1960s or early 1970s.,0.0
+554,92,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+555,92,that Henry Espy was born in the late 1960s or early ,0.0
+556,92,that Henry Espy was likely born in the late 1960s or early,0.0
+557,92,that Henry Espy was most likely born in the late 1960s or,0.0
+558,93,$\it{Other}$,0.9958175588497215
+559,93,Henry Espy was born in the late 1960s or early 1970s.,0.0
+560,93,Henry Espy was likely born in the late 1960s or early 1970s.,0.004182441150278644
+561,93,that Henry Espy was born in the late 1960s or early ,0.0
+562,93,that Henry Espy was likely born in the late 1960s or early,0.0
+563,93,that Henry Espy was most likely born in the late 1960s or,0.0
+564,94,$\it{Other}$,0.9738182653094172
+565,94,Henry Espy was born in the late 1960s or early 1970s.,0.0
+566,94,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+567,94,that Henry Espy was born in the late 1960s or early ,0.0
+568,94,that Henry Espy was likely born in the late 1960s or early,0.026181734690582846
+569,94,that Henry Espy was most likely born in the late 1960s or,0.0
+570,95,$\it{Other}$,1.0
+571,95,Henry Espy was born in the late 1960s or early 1970s.,0.0
+572,95,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+573,95,that Henry Espy was born in the late 1960s or early ,0.0
+574,95,that Henry Espy was likely born in the late 1960s or early,0.0
+575,95,that Henry Espy was most likely born in the late 1960s or,0.0
+576,96,$\it{Other}$,1.0
+577,96,Henry Espy was born in the late 1960s or early 1970s.,0.0
+578,96,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+579,96,that Henry Espy was born in the late 1960s or early ,0.0
+580,96,that Henry Espy was likely born in the late 1960s or early,0.0
+581,96,that Henry Espy was most likely born in the late 1960s or,0.0
+582,97,$\it{Other}$,0.9976170340938327
+583,97,Henry Espy was born in the late 1960s or early 1970s.,0.0
+584,97,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+585,97,that Henry Espy was born in the late 1960s or early ,0.0023829659061671716
+586,97,that Henry Espy was likely born in the late 1960s or early,0.0
+587,97,that Henry Espy was most likely born in the late 1960s or,0.0
+588,98,$\it{Other}$,0.9803763751366418
+589,98,Henry Espy was born in the late 1960s or early 1970s.,0.0
+590,98,Henry Espy was likely born in the late 1960s or early 1970s.,0.0035097067230682646
+591,98,that Henry Espy was born in the late 1960s or early ,0.0
+592,98,that Henry Espy was likely born in the late 1960s or early,0.016113918140289916
+593,98,that Henry Espy was most likely born in the late 1960s or,0.0
+594,99,$\it{Other}$,0.9999999999999999
+595,99,Henry Espy was born in the late 1960s or early 1970s.,0.0
+596,99,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+597,99,that Henry Espy was born in the late 1960s or early ,0.0
+598,99,that Henry Espy was likely born in the late 1960s or early,0.0
+599,99,that Henry Espy was most likely born in the late 1960s or,0.0
+600,100,$\it{Other}$,0.9666666666666667
+601,100,Henry Espy was born in the late 1960s or early 1970s.,0.0
+602,100,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+603,100,that Henry Espy was born in the late 1960s or early ,0.0
+604,100,that Henry Espy was likely born in the late 1960s or early,0.0
+605,100,that Henry Espy was most likely born in the late 1960s or,0.0
+606,101,$\it{Other}$,0.9666666666666667
+607,101,Henry Espy was born in the late 1960s or early 1970s.,0.0
+608,101,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+609,101,that Henry Espy was born in the late 1960s or early ,0.0
+610,101,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+611,101,that Henry Espy was most likely born in the late 1960s or,0.0
+612,102,$\it{Other}$,0.9698404066286626
+613,102,Henry Espy was born in the late 1960s or early 1970s.,0.026863162954314245
+614,102,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+615,102,that Henry Espy was born in the late 1960s or early ,0.0
+616,102,that Henry Espy was likely born in the late 1960s or early,0.003296430417023155
+617,102,that Henry Espy was most likely born in the late 1960s or,0.0
+618,103,$\it{Other}$,0.9816589678645188
+619,103,Henry Espy was born in the late 1960s or early 1970s.,0.0
+620,103,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+621,103,that Henry Espy was born in the late 1960s or early ,0.0
+622,103,that Henry Espy was likely born in the late 1960s or early,0.018341032135481057
+623,103,that Henry Espy was most likely born in the late 1960s or,0.0
+624,104,$\it{Other}$,0.9763144452383253
+625,104,Henry Espy was born in the late 1960s or early 1970s.,0.0
+626,104,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+627,104,that Henry Espy was born in the late 1960s or early ,0.023685554761674645
+628,104,that Henry Espy was likely born in the late 1960s or early,0.0
+629,104,that Henry Espy was most likely born in the late 1960s or,0.0
+630,105,$\it{Other}$,0.9666666666666667
+631,105,Henry Espy was born in the late 1960s or early 1970s.,0.0
+632,105,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+633,105,that Henry Espy was born in the late 1960s or early ,0.0
+634,105,that Henry Espy was likely born in the late 1960s or early,0.0
+635,105,that Henry Espy was most likely born in the late 1960s or,0.0
+636,106,$\it{Other}$,1.0
+637,106,Henry Espy was born in the late 1960s or early 1970s.,0.0
+638,106,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+639,106,that Henry Espy was born in the late 1960s or early ,0.0
+640,106,that Henry Espy was likely born in the late 1960s or early,0.0
+641,106,that Henry Espy was most likely born in the late 1960s or,0.0
+642,107,$\it{Other}$,0.9470651534610787
+643,107,Henry Espy was born in the late 1960s or early 1970s.,0.02646742326946069
+644,107,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+645,107,that Henry Espy was born in the late 1960s or early ,0.02646742326946069
+646,107,that Henry Espy was likely born in the late 1960s or early,0.0
+647,107,that Henry Espy was most likely born in the late 1960s or,0.0
+648,108,$\it{Other}$,0.9666666666666667
+649,108,Henry Espy was born in the late 1960s or early 1970s.,0.0
+650,108,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+651,108,that Henry Espy was born in the late 1960s or early ,0.0
+652,108,that Henry Espy was likely born in the late 1960s or early,0.0
+653,108,that Henry Espy was most likely born in the late 1960s or,0.0
+654,109,$\it{Other}$,0.9666666666666667
+655,109,Henry Espy was born in the late 1960s or early 1970s.,0.0
+656,109,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+657,109,that Henry Espy was born in the late 1960s or early ,0.0
+658,109,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+659,109,that Henry Espy was most likely born in the late 1960s or,0.0
+660,110,$\it{Other}$,0.9333333333333333
+661,110,Henry Espy was born in the late 1960s or early 1970s.,0.0
+662,110,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+663,110,that Henry Espy was born in the late 1960s or early ,0.0
+664,110,that Henry Espy was likely born in the late 1960s or early,0.0
+665,110,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+666,111,$\it{Other}$,0.9738397572715989
+667,111,Henry Espy was born in the late 1960s or early 1970s.,0.0
+668,111,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+669,111,that Henry Espy was born in the late 1960s or early ,0.0
+670,111,that Henry Espy was likely born in the late 1960s or early,0.0
+671,111,that Henry Espy was most likely born in the late 1960s or,0.026160242728401176
+672,112,$\it{Other}$,0.9
+673,112,Henry Espy was born in the late 1960s or early 1970s.,0.0
+674,112,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+675,112,that Henry Espy was born in the late 1960s or early ,0.0
+676,112,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+677,112,that Henry Espy was most likely born in the late 1960s or,0.0
+678,113,$\it{Other}$,0.9666666666666667
+679,113,Henry Espy was born in the late 1960s or early 1970s.,0.0
+680,113,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+681,113,that Henry Espy was born in the late 1960s or early ,0.0
+682,113,that Henry Espy was likely born in the late 1960s or early,0.0
+683,113,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+684,114,$\it{Other}$,0.9333333333333333
+685,114,Henry Espy was born in the late 1960s or early 1970s.,0.0
+686,114,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+687,114,that Henry Espy was born in the late 1960s or early ,0.0
+688,114,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+689,114,that Henry Espy was most likely born in the late 1960s or,0.0
+690,115,$\it{Other}$,0.9840088280373542
+691,115,Henry Espy was born in the late 1960s or early 1970s.,0.0
+692,115,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+693,115,that Henry Espy was born in the late 1960s or early ,0.0
+694,115,that Henry Espy was likely born in the late 1960s or early,0.01599117196264576
+695,115,that Henry Espy was most likely born in the late 1960s or,0.0
+696,116,$\it{Other}$,0.8955408058646022
+697,116,Henry Espy was born in the late 1960s or early 1970s.,0.0
+698,116,Henry Espy was likely born in the late 1960s or early 1970s.,0.0477704029323011
+699,116,that Henry Espy was born in the late 1960s or early ,0.0
+700,116,that Henry Espy was likely born in the late 1960s or early,0.037792527468731144
+701,116,that Henry Espy was most likely born in the late 1960s or,0.018896263734365572
+702,117,$\it{Other}$,1.0
+703,117,Henry Espy was born in the late 1960s or early 1970s.,0.0
+704,117,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+705,117,that Henry Espy was born in the late 1960s or early ,0.0
+706,117,that Henry Espy was likely born in the late 1960s or early,0.0
+707,117,that Henry Espy was most likely born in the late 1960s or,0.0
+708,118,$\it{Other}$,0.9
+709,118,Henry Espy was born in the late 1960s or early 1970s.,0.0
+710,118,Henry Espy was likely born in the late 1960s or early 1970s.,0.06666666666666667
+711,118,that Henry Espy was born in the late 1960s or early ,0.0
+712,118,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+713,118,that Henry Espy was most likely born in the late 1960s or,0.0
+714,119,$\it{Other}$,0.997901581715068
+715,119,Henry Espy was born in the late 1960s or early 1970s.,0.0
+716,119,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+717,119,that Henry Espy was born in the late 1960s or early ,0.002098418284931843
+718,119,that Henry Espy was likely born in the late 1960s or early,0.0
+719,119,that Henry Espy was most likely born in the late 1960s or,0.0
+720,120,$\it{Other}$,0.9666666666666667
+721,120,Henry Espy was born in the late 1960s or early 1970s.,0.0
+722,120,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+723,120,that Henry Espy was born in the late 1960s or early ,0.0
+724,120,that Henry Espy was likely born in the late 1960s or early,0.0
+725,120,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+726,121,$\it{Other}$,0.9614151665932511
+727,121,Henry Espy was born in the late 1960s or early 1970s.,0.0
+728,121,Henry Espy was likely born in the late 1960s or early 1970s.,0.005251500073415554
+729,121,that Henry Espy was born in the late 1960s or early ,0.0
+730,121,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+731,121,that Henry Espy was most likely born in the late 1960s or,0.0
+732,122,$\it{Other}$,0.8151290342124359
+733,122,Henry Espy was born in the late 1960s or early 1970s.,0.0
+734,122,Henry Espy was likely born in the late 1960s or early 1970s.,0.030307526490846167
+735,122,that Henry Espy was born in the late 1960s or early ,0.0
+736,122,that Henry Espy was likely born in the late 1960s or early,0.15456343929671798
+737,122,that Henry Espy was most likely born in the late 1960s or,0.0
+738,123,$\it{Other}$,0.9909230265663485
+739,123,Henry Espy was born in the late 1960s or early 1970s.,0.0
+740,123,Henry Espy was likely born in the late 1960s or early 1970s.,0.004538486716825747
+741,123,that Henry Espy was born in the late 1960s or early ,0.004538486716825747
+742,123,that Henry Espy was likely born in the late 1960s or early,0.0
+743,123,that Henry Espy was most likely born in the late 1960s or,0.0
+744,124,$\it{Other}$,0.9
+745,124,Henry Espy was born in the late 1960s or early 1970s.,0.0
+746,124,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+747,124,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+748,124,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+749,124,that Henry Espy was most likely born in the late 1960s or,0.0
+750,125,$\it{Other}$,0.9567983474356367
+751,125,Henry Espy was born in the late 1960s or early 1970s.,0.0
+752,125,Henry Espy was likely born in the late 1960s or early 1970s.,0.0022819996470821746
+753,125,that Henry Espy was born in the late 1960s or early ,0.006924536706182663
+754,125,that Henry Espy was likely born in the late 1960s or early,0.03399511621109834
+755,125,that Henry Espy was most likely born in the late 1960s or,0.0
+756,126,$\it{Other}$,0.9666666666666667
+757,126,Henry Espy was born in the late 1960s or early 1970s.,0.0
+758,126,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+759,126,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+760,126,that Henry Espy was likely born in the late 1960s or early,0.0
+761,126,that Henry Espy was most likely born in the late 1960s or,0.0
+762,127,$\it{Other}$,1.0
+763,127,Henry Espy was born in the late 1960s or early 1970s.,0.0
+764,127,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+765,127,that Henry Espy was born in the late 1960s or early ,0.0
+766,127,that Henry Espy was likely born in the late 1960s or early,0.0
+767,127,that Henry Espy was most likely born in the late 1960s or,0.0
+768,128,$\it{Other}$,0.9333333333333332
+769,128,Henry Espy was born in the late 1960s or early 1970s.,0.0
+770,128,Henry Espy was likely born in the late 1960s or early 1970s.,0.003483283241411638
+771,128,that Henry Espy was born in the late 1960s or early ,0.0
+772,128,that Henry Espy was likely born in the late 1960s or early,0.05970010018384339
+773,128,that Henry Espy was most likely born in the late 1960s or,0.003483283241411638
+774,129,$\it{Other}$,0.9666666666666667
+775,129,Henry Espy was born in the late 1960s or early 1970s.,0.0
+776,129,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+777,129,that Henry Espy was born in the late 1960s or early ,0.0
+778,129,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+779,129,that Henry Espy was most likely born in the late 1960s or,0.0
+780,130,$\it{Other}$,0.9666666666666667
+781,130,Henry Espy was born in the late 1960s or early 1970s.,0.0
+782,130,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+783,130,that Henry Espy was born in the late 1960s or early ,0.0
+784,130,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+785,130,that Henry Espy was most likely born in the late 1960s or,0.0
+786,131,$\it{Other}$,0.901840312824892
+787,131,Henry Espy was born in the late 1960s or early 1970s.,0.0
+788,131,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+789,131,that Henry Espy was born in the late 1960s or early ,0.024539921793777026
+790,131,that Henry Espy was likely born in the late 1960s or early,0.07361976538133108
+791,131,that Henry Espy was most likely born in the late 1960s or,0.0
+792,132,$\it{Other}$,1.0
+793,132,Henry Espy was born in the late 1960s or early 1970s.,0.0
+794,132,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+795,132,that Henry Espy was born in the late 1960s or early ,0.0
+796,132,that Henry Espy was likely born in the late 1960s or early,0.0
+797,132,that Henry Espy was most likely born in the late 1960s or,0.0
+798,133,$\it{Other}$,1.0
+799,133,Henry Espy was born in the late 1960s or early 1970s.,0.0
+800,133,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+801,133,that Henry Espy was born in the late 1960s or early ,0.0
+802,133,that Henry Espy was likely born in the late 1960s or early,0.0
+803,133,that Henry Espy was most likely born in the late 1960s or,0.0
+804,134,$\it{Other}$,0.9666666666666667
+805,134,Henry Espy was born in the late 1960s or early 1970s.,0.0
+806,134,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+807,134,that Henry Espy was born in the late 1960s or early ,0.0
+808,134,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+809,134,that Henry Espy was most likely born in the late 1960s or,0.0
+810,135,$\it{Other}$,0.9
+811,135,Henry Espy was born in the late 1960s or early 1970s.,0.0
+812,135,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+813,135,that Henry Espy was born in the late 1960s or early ,0.0
+814,135,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+815,135,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+816,136,$\it{Other}$,0.9666666666666667
+817,136,Henry Espy was born in the late 1960s or early 1970s.,0.0
+818,136,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+819,136,that Henry Espy was born in the late 1960s or early ,0.0
+820,136,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+821,136,that Henry Espy was most likely born in the late 1960s or,0.0
+822,137,$\it{Other}$,0.9666666666666667
+823,137,Henry Espy was born in the late 1960s or early 1970s.,0.0
+824,137,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+825,137,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+826,137,that Henry Espy was likely born in the late 1960s or early,0.0
+827,137,that Henry Espy was most likely born in the late 1960s or,0.0
+828,138,$\it{Other}$,0.9193639179389328
+829,138,Henry Espy was born in the late 1960s or early 1970s.,0.0
+830,138,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+831,138,that Henry Espy was born in the late 1960s or early ,0.012450183595913863
+832,138,that Henry Espy was likely born in the late 1960s or early,0.06818589846515338
+833,138,that Henry Espy was most likely born in the late 1960s or,0.0
+834,139,$\it{Other}$,0.9616948160680862
+835,139,Henry Espy was born in the late 1960s or early 1970s.,0.020090630751811604
+836,139,Henry Espy was likely born in the late 1960s or early 1970s.,0.00827085198294122
+837,139,that Henry Espy was born in the late 1960s or early ,0.0
+838,139,that Henry Espy was likely born in the late 1960s or early,0.009943701197161018
+839,139,that Henry Espy was most likely born in the late 1960s or,0.0
+840,140,$\it{Other}$,0.8666666666666667
+841,140,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+842,140,Henry Espy was likely born in the late 1960s or early 1970s.,0.06666666666666667
+843,140,that Henry Espy was born in the late 1960s or early ,0.0
+844,140,that Henry Espy was likely born in the late 1960s or early,0.0
+845,140,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+846,141,$\it{Other}$,1.0
+847,141,Henry Espy was born in the late 1960s or early 1970s.,0.0
+848,141,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+849,141,that Henry Espy was born in the late 1960s or early ,0.0
+850,141,that Henry Espy was likely born in the late 1960s or early,0.0
+851,141,that Henry Espy was most likely born in the late 1960s or,0.0
+852,142,$\it{Other}$,0.8333333333333334
+853,142,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+854,142,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+855,142,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+856,142,that Henry Espy was likely born in the late 1960s or early,0.1
+857,142,that Henry Espy was most likely born in the late 1960s or,0.0
+858,143,$\it{Other}$,0.9467728312393806
+859,143,Henry Espy was born in the late 1960s or early 1970s.,0.019893835427286045
+860,143,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+861,143,that Henry Espy was born in the late 1960s or early ,0.013439497906047287
+862,143,that Henry Espy was likely born in the late 1960s or early,0.019893835427286045
+863,143,that Henry Espy was most likely born in the late 1960s or,0.0
+864,144,$\it{Other}$,0.9333333333333333
+865,144,Henry Espy was born in the late 1960s or early 1970s.,0.0
+866,144,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+867,144,that Henry Espy was born in the late 1960s or early ,0.0
+868,144,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+869,144,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+870,145,$\it{Other}$,0.9404431424639617
+871,145,Henry Espy was born in the late 1960s or early 1970s.,0.007109809130628308
+872,145,Henry Espy was likely born in the late 1960s or early 1970s.,0.026223524202705024
+873,145,that Henry Espy was born in the late 1960s or early ,0.026223524202705024
+874,145,that Henry Espy was likely born in the late 1960s or early,0.0
+875,145,that Henry Espy was most likely born in the late 1960s or,0.0
+876,146,$\it{Other}$,0.9666666666666667
+877,146,Henry Espy was born in the late 1960s or early 1970s.,0.0
+878,146,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+879,146,that Henry Espy was born in the late 1960s or early ,0.0
+880,146,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+881,146,that Henry Espy was most likely born in the late 1960s or,0.0
+882,147,$\it{Other}$,0.9666666666666667
+883,147,Henry Espy was born in the late 1960s or early 1970s.,0.0
+884,147,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+885,147,that Henry Espy was born in the late 1960s or early ,0.0
+886,147,that Henry Espy was likely born in the late 1960s or early,0.0
+887,147,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+888,148,$\it{Other}$,1.0
+889,148,Henry Espy was born in the late 1960s or early 1970s.,0.0
+890,148,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+891,148,that Henry Espy was born in the late 1960s or early ,0.0
+892,148,that Henry Espy was likely born in the late 1960s or early,0.0
+893,148,that Henry Espy was most likely born in the late 1960s or,0.0
+894,149,$\it{Other}$,0.9333333333333333
+895,149,Henry Espy was born in the late 1960s or early 1970s.,0.0
+896,149,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+897,149,that Henry Espy was born in the late 1960s or early ,0.0
+898,149,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+899,149,that Henry Espy was most likely born in the late 1960s or,0.0
+900,150,$\it{Other}$,0.9648780063619246
+901,150,Henry Espy was born in the late 1960s or early 1970s.,0.0
+902,150,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+903,150,that Henry Espy was born in the late 1960s or early ,0.0
+904,150,that Henry Espy was likely born in the late 1960s or early,0.0017886603047421016
+905,150,that Henry Espy was most likely born in the late 1960s or,0.0
+906,151,$\it{Other}$,0.9
+907,151,Henry Espy was born in the late 1960s or early 1970s.,0.0
+908,151,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+909,151,that Henry Espy was born in the late 1960s or early ,0.0
+910,151,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+911,151,that Henry Espy was most likely born in the late 1960s or,0.0
+912,152,$\it{Other}$,1.0
+913,152,Henry Espy was born in the late 1960s or early 1970s.,0.0
+914,152,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+915,152,that Henry Espy was born in the late 1960s or early ,0.0
+916,152,that Henry Espy was likely born in the late 1960s or early,0.0
+917,152,that Henry Espy was most likely born in the late 1960s or,0.0
+918,153,$\it{Other}$,1.0
+919,153,Henry Espy was born in the late 1960s or early 1970s.,0.0
+920,153,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+921,153,that Henry Espy was born in the late 1960s or early ,0.0
+922,153,that Henry Espy was likely born in the late 1960s or early,0.0
+923,153,that Henry Espy was most likely born in the late 1960s or,0.0
+924,154,$\it{Other}$,1.0
+925,154,Henry Espy was born in the late 1960s or early 1970s.,0.0
+926,154,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+927,154,that Henry Espy was born in the late 1960s or early ,0.0
+928,154,that Henry Espy was likely born in the late 1960s or early,0.0
+929,154,that Henry Espy was most likely born in the late 1960s or,0.0
+930,155,$\it{Other}$,0.9333333333333333
+931,155,Henry Espy was born in the late 1960s or early 1970s.,0.0
+932,155,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+933,155,that Henry Espy was born in the late 1960s or early ,0.0
+934,155,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+935,155,that Henry Espy was most likely born in the late 1960s or,0.0
+936,156,$\it{Other}$,0.9333333333333333
+937,156,Henry Espy was born in the late 1960s or early 1970s.,0.0
+938,156,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+939,156,that Henry Espy was born in the late 1960s or early ,0.0
+940,156,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+941,156,that Henry Espy was most likely born in the late 1960s or,0.0
+942,157,$\it{Other}$,0.9333333333333333
+943,157,Henry Espy was born in the late 1960s or early 1970s.,0.0
+944,157,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+945,157,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+946,157,that Henry Espy was likely born in the late 1960s or early,0.0
+947,157,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+948,158,$\it{Other}$,0.951573850620178
+949,158,Henry Espy was born in the late 1960s or early 1970s.,0.0
+950,158,Henry Espy was likely born in the late 1960s or early 1970s.,0.024213074689911043
+951,158,that Henry Espy was born in the late 1960s or early ,0.024213074689911043
+952,158,that Henry Espy was likely born in the late 1960s or early,0.0
+953,158,that Henry Espy was most likely born in the late 1960s or,0.0
+954,159,$\it{Other}$,0.9333333333333333
+955,159,Henry Espy was born in the late 1960s or early 1970s.,0.0
+956,159,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+957,159,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+958,159,that Henry Espy was likely born in the late 1960s or early,0.0
+959,159,that Henry Espy was most likely born in the late 1960s or,0.0
+960,160,$\it{Other}$,0.9614679675176356
+961,160,Henry Espy was born in the late 1960s or early 1970s.,0.0
+962,160,Henry Espy was likely born in the late 1960s or early 1970s.,0.005198699149030953
+963,160,that Henry Espy was born in the late 1960s or early ,0.0
+964,160,that Henry Espy was likely born in the late 1960s or early,0.005198699149030953
+965,160,that Henry Espy was most likely born in the late 1960s or,0.02813463418430238
+966,161,$\it{Other}$,0.9558568648834964
+967,161,Henry Espy was born in the late 1960s or early 1970s.,0.0
+968,161,Henry Espy was likely born in the late 1960s or early 1970s.,0.025692389229319046
+969,161,that Henry Espy was born in the late 1960s or early ,0.0
+970,161,that Henry Espy was likely born in the late 1960s or early,0.01845074588718452
+971,161,that Henry Espy was most likely born in the late 1960s or,0.0
+972,162,$\it{Other}$,0.9333333333333333
+973,162,Henry Espy was born in the late 1960s or early 1970s.,0.0
+974,162,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+975,162,that Henry Espy was born in the late 1960s or early ,0.0
+976,162,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+977,162,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+978,163,$\it{Other}$,0.9037021652219791
+979,163,Henry Espy was born in the late 1960s or early 1970s.,0.0
+980,163,Henry Espy was likely born in the late 1960s or early 1970s.,0.031054747860870716
+981,163,that Henry Espy was born in the late 1960s or early ,0.002278585472462618
+982,163,that Henry Espy was likely born in the late 1960s or early,0.05926233622270848
+983,163,that Henry Espy was most likely born in the late 1960s or,0.003702165221979091
+984,164,$\it{Other}$,0.9570089820227936
+985,164,Henry Espy was born in the late 1960s or early 1970s.,0.0
+986,164,Henry Espy was likely born in the late 1960s or early 1970s.,0.011380316058026425
+987,164,that Henry Espy was born in the late 1960s or early ,0.0028848662405704523
+988,164,that Henry Espy was likely born in the late 1960s or early,0.028725835678609438
+989,164,that Henry Espy was most likely born in the late 1960s or,0.0
+990,165,$\it{Other}$,0.9333333333333333
+991,165,Henry Espy was born in the late 1960s or early 1970s.,0.0
+992,165,Henry Espy was likely born in the late 1960s or early 1970s.,0.06279189529817819
+993,165,that Henry Espy was born in the late 1960s or early ,0.0019373856842442353
+994,165,that Henry Espy was likely born in the late 1960s or early,0.0019373856842442353
+995,165,that Henry Espy was most likely born in the late 1960s or,0.0
+996,166,$\it{Other}$,0.9402312506258435
+997,166,Henry Espy was born in the late 1960s or early 1970s.,0.0
+998,166,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+999,166,that Henry Espy was born in the late 1960s or early ,0.01627976986429463
+1000,166,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1001,166,that Henry Espy was most likely born in the late 1960s or,0.01015564617652865
+1002,167,$\it{Other}$,0.8735530079762623
+1003,167,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1004,167,Henry Espy was likely born in the late 1960s or early 1970s.,0.02989016267853547
+1005,167,that Henry Espy was born in the late 1960s or early ,0.02989016267853547
+1006,167,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+1007,167,that Henry Espy was most likely born in the late 1960s or,0.0
+1008,168,$\it{Other}$,0.9197170534383055
+1009,168,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1010,168,Henry Espy was likely born in the late 1960s or early 1970s.,0.036680916746130804
+1011,168,that Henry Espy was born in the late 1960s or early ,0.02998574992053587
+1012,168,that Henry Espy was likely born in the late 1960s or early,0.011309242205216943
+1013,168,that Henry Espy was most likely born in the late 1960s or,0.002307037689811004
+1014,169,$\it{Other}$,0.8666666666666667
+1015,169,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1016,169,Henry Espy was likely born in the late 1960s or early 1970s.,0.06666666666666667
+1017,169,that Henry Espy was born in the late 1960s or early ,0.0
+1018,169,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+1019,169,that Henry Espy was most likely born in the late 1960s or,0.0
+1020,170,$\it{Other}$,0.7666666666666667
+1021,170,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1022,170,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1023,170,that Henry Espy was born in the late 1960s or early ,0.1
+1024,170,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1025,170,that Henry Espy was most likely born in the late 1960s or,0.06666666666666667
+1026,171,$\it{Other}$,0.8666666666666667
+1027,171,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1028,171,Henry Espy was likely born in the late 1960s or early 1970s.,0.06666666666666667
+1029,171,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+1030,171,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1031,171,that Henry Espy was most likely born in the late 1960s or,0.0
+1032,172,$\it{Other}$,0.9666666666666667
+1033,172,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1034,172,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1035,172,that Henry Espy was born in the late 1960s or early ,0.0
+1036,172,that Henry Espy was likely born in the late 1960s or early,0.0
+1037,172,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+1038,173,$\it{Other}$,0.9
+1039,173,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1040,173,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1041,173,that Henry Espy was born in the late 1960s or early ,0.0
+1042,173,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1043,173,that Henry Espy was most likely born in the late 1960s or,0.0
+1044,174,$\it{Other}$,0.9333333333333333
+1045,174,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1046,174,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1047,174,that Henry Espy was born in the late 1960s or early ,0.0
+1048,174,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1049,174,that Henry Espy was most likely born in the late 1960s or,0.0
+1050,175,$\it{Other}$,0.7784048233966548
+1051,175,Henry Espy was born in the late 1960s or early 1970s.,0.06331290760095576
+1052,175,Henry Espy was likely born in the late 1960s or early 1970s.,0.06331290760095576
+1053,175,that Henry Espy was born in the late 1960s or early ,0.03165645380047788
+1054,175,that Henry Espy was likely born in the late 1960s or early,0.06331290760095576
+1055,175,that Henry Espy was most likely born in the late 1960s or,0.0
+1056,176,$\it{Other}$,0.9145272177492471
+1057,176,Henry Espy was born in the late 1960s or early 1970s.,0.010618602743802032
+1058,176,Henry Espy was likely born in the late 1960s or early 1970s.,0.012396497445834494
+1059,176,that Henry Espy was born in the late 1960s or early ,0.028912979312448548
+1060,176,that Henry Espy was likely born in the late 1960s or early,0.027346454025750803
+1061,176,that Henry Espy was most likely born in the late 1960s or,0.006198248722917247
+1062,177,$\it{Other}$,0.7911390496864933
+1063,177,Henry Espy was born in the late 1960s or early 1970s.,0.007045716936633397
+1064,177,Henry Espy was likely born in the late 1960s or early 1970s.,0.06579284962770492
+1065,177,that Henry Espy was born in the late 1960s or early ,0.034207150372295096
+1066,177,that Henry Espy was likely born in the late 1960s or early,0.07988428350097171
+1067,177,that Henry Espy was most likely born in the late 1960s or,0.021930949875901634
+1068,178,$\it{Other}$,0.9333333333333333
+1069,178,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1070,178,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1071,178,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+1072,178,that Henry Espy was likely born in the late 1960s or early,0.0
+1073,178,that Henry Espy was most likely born in the late 1960s or,0.0
+1074,179,$\it{Other}$,0.8666666666666667
+1075,179,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1076,179,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1077,179,that Henry Espy was born in the late 1960s or early ,0.0
+1078,179,that Henry Espy was likely born in the late 1960s or early,0.1
+1079,179,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+1080,180,$\it{Other}$,0.8692275434003449
+1081,180,Henry Espy was born in the late 1960s or early 1970s.,0.00643007653135073
+1082,180,Henry Espy was likely born in the late 1960s or early 1970s.,0.0200220199425473
+1083,180,that Henry Espy was born in the late 1960s or early ,0.0318280916692231
+1084,180,that Henry Espy was likely born in the late 1960s or early,0.05767571340163783
+1085,180,that Henry Espy was most likely born in the late 1960s or,0.014816555054896272
+1086,181,$\it{Other}$,0.9015334201028122
+1087,181,Henry Espy was born in the late 1960s or early 1970s.,0.034509557567197424
+1088,181,Henry Espy was likely born in the late 1960s or early 1970s.,0.01743337671807282
+1089,181,that Henry Espy was born in the late 1960s or early ,0.020415792664437955
+1090,181,that Henry Espy was likely born in the late 1960s or early,0.026107852947479488
+1091,181,that Henry Espy was most likely born in the late 1960s or,0.0
+1092,182,$\it{Other}$,0.8333333333333334
+1093,182,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1094,182,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1095,182,that Henry Espy was born in the late 1960s or early ,0.0
+1096,182,that Henry Espy was likely born in the late 1960s or early,0.13333333333333333
+1097,182,that Henry Espy was most likely born in the late 1960s or,0.0
+1098,183,$\it{Other}$,0.8888797770922876
+1099,183,Henry Espy was born in the late 1960s or early 1970s.,0.06666666666666667
+1100,183,Henry Espy was likely born in the late 1960s or early 1970s.,0.011120222907712479
+1101,183,that Henry Espy was born in the late 1960s or early ,0.0
+1102,183,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1103,183,that Henry Espy was most likely born in the late 1960s or,0.0
+1104,184,$\it{Other}$,1.0
+1105,184,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1106,184,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1107,184,that Henry Espy was born in the late 1960s or early ,0.0
+1108,184,that Henry Espy was likely born in the late 1960s or early,0.0
+1109,184,that Henry Espy was most likely born in the late 1960s or,0.0
+1110,185,$\it{Other}$,0.9666666666666667
+1111,185,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1112,185,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1113,185,that Henry Espy was born in the late 1960s or early ,0.0
+1114,185,that Henry Espy was likely born in the late 1960s or early,0.0
+1115,185,that Henry Espy was most likely born in the late 1960s or,0.0
+1116,186,$\it{Other}$,0.9000000000000001
+1117,186,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1118,186,Henry Espy was likely born in the late 1960s or early 1970s.,0.052835161984694484
+1119,186,that Henry Espy was born in the late 1960s or early ,0.013831504681972183
+1120,186,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1121,186,that Henry Espy was most likely born in the late 1960s or,0.0
+1122,187,$\it{Other}$,0.8666666666666667
+1123,187,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1124,187,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1125,187,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+1126,187,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1127,187,that Henry Espy was most likely born in the late 1960s or,0.0
+1128,188,$\it{Other}$,0.9
+1129,188,Henry Espy was born in the late 1960s or early 1970s.,0.06666666666666667
+1130,188,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1131,188,that Henry Espy was born in the late 1960s or early ,0.0
+1132,188,that Henry Espy was likely born in the late 1960s or early,0.0
+1133,188,that Henry Espy was most likely born in the late 1960s or,0.0
+1134,189,$\it{Other}$,0.9666666666666667
+1135,189,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1136,189,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1137,189,that Henry Espy was born in the late 1960s or early ,0.0
+1138,189,that Henry Espy was likely born in the late 1960s or early,0.0
+1139,189,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+1140,190,$\it{Other}$,0.9333333333333333
+1141,190,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1142,190,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1143,190,that Henry Espy was born in the late 1960s or early ,0.0514331121325754
+1144,190,that Henry Espy was likely born in the late 1960s or early,0.007616777267045633
+1145,190,that Henry Espy was most likely born in the late 1960s or,0.007616777267045633
+1146,191,$\it{Other}$,0.7981470015034444
+1147,191,Henry Espy was born in the late 1960s or early 1970s.,0.03678253975218099
+1148,191,Henry Espy was likely born in the late 1960s or early 1970s.,0.023768448003306075
+1149,191,that Henry Espy was born in the late 1960s or early ,0.04289821866336059
+1150,191,that Henry Espy was likely born in the late 1960s or early,0.0685196651632222
+1151,191,that Henry Espy was most likely born in the late 1960s or,0.02988412691448568
+1152,192,$\it{Other}$,0.8666666666666667
+1153,192,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1154,192,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1155,192,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+1156,192,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1157,192,that Henry Espy was most likely born in the late 1960s or,0.0
+1158,193,$\it{Other}$,0.9666666666666667
+1159,193,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1160,193,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1161,193,that Henry Espy was born in the late 1960s or early ,0.0
+1162,193,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1163,193,that Henry Espy was most likely born in the late 1960s or,0.0
+1164,194,$\it{Other}$,0.9333333333333333
+1165,194,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1166,194,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1167,194,that Henry Espy was born in the late 1960s or early ,0.0
+1168,194,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1169,194,that Henry Espy was most likely born in the late 1960s or,0.0
+1170,195,$\it{Other}$,0.9333333333333333
+1171,195,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1172,195,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1173,195,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+1174,195,that Henry Espy was likely born in the late 1960s or early,0.0
+1175,195,that Henry Espy was most likely born in the late 1960s or,0.0
+1176,196,$\it{Other}$,0.9333333333333333
+1177,196,Henry Espy was born in the late 1960s or early 1970s.,0.005959145016456056
+1178,196,Henry Espy was likely born in the late 1960s or early 1970s.,0.005959145016456056
+1179,196,that Henry Espy was born in the late 1960s or early ,0.0
+1180,196,that Henry Espy was likely born in the late 1960s or early,0.02737418831687728
+1181,196,that Henry Espy was most likely born in the late 1960s or,0.02737418831687728
+1182,197,$\it{Other}$,0.9525332162609013
+1183,197,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1184,197,Henry Espy was likely born in the late 1960s or early 1970s.,0.011475687188093409
+1185,197,that Henry Espy was born in the late 1960s or early ,0.0
+1186,197,that Henry Espy was likely born in the late 1960s or early,0.035991096551005256
+1187,197,that Henry Espy was most likely born in the late 1960s or,0.0
+1188,198,$\it{Other}$,0.8816622114516309
+1189,198,Henry Espy was born in the late 1960s or early 1970s.,0.028502179495627347
+1190,198,Henry Espy was likely born in the late 1960s or early 1970s.,0.01722357613969992
+1191,198,that Henry Espy was born in the late 1960s or early ,0.01722357613969992
+1192,198,that Henry Espy was likely born in the late 1960s or early,0.027945073291292748
+1193,198,that Henry Espy was most likely born in the late 1960s or,0.027443383482049194
+1194,199,$\it{Other}$,0.9263502548897623
+1195,199,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1196,199,Henry Espy was likely born in the late 1960s or early 1970s.,0.03305750860188786
+1197,199,that Henry Espy was born in the late 1960s or early ,0.0
+1198,199,that Henry Espy was likely born in the late 1960s or early,0.040592236508349824
+1199,199,that Henry Espy was most likely born in the late 1960s or,0.0
+1200,200,$\it{Other}$,0.9
+1201,200,Henry Espy was born in the late 1960s or early 1970s.,0.06666666666666667
+1202,200,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1203,200,that Henry Espy was born in the late 1960s or early ,0.0
+1204,200,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1205,200,that Henry Espy was most likely born in the late 1960s or,0.0
+1206,201,$\it{Other}$,0.8125281764824446
+1207,201,Henry Espy was born in the late 1960s or early 1970s.,0.03476263760751597
+1208,201,Henry Espy was likely born in the late 1960s or early 1970s.,0.05214395641127395
+1209,201,that Henry Espy was born in the late 1960s or early ,0.048421273087491695
+1210,201,that Henry Espy was likely born in the late 1960s or early,0.05214395641127395
+1211,201,that Henry Espy was most likely born in the late 1960s or,0.0
+1212,202,$\it{Other}$,0.8666666666666667
+1213,202,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1214,202,Henry Espy was likely born in the late 1960s or early 1970s.,0.13333333333333333
+1215,202,that Henry Espy was born in the late 1960s or early ,0.0
+1216,202,that Henry Espy was likely born in the late 1960s or early,0.0
+1217,202,that Henry Espy was most likely born in the late 1960s or,0.0
+1218,203,$\it{Other}$,0.8864551155893385
+1219,203,Henry Espy was born in the late 1960s or early 1970s.,0.022708976882132307
+1220,203,Henry Espy was likely born in the late 1960s or early 1970s.,0.022708976882132307
+1221,203,that Henry Espy was born in the late 1960s or early ,0.022708976882132307
+1222,203,that Henry Espy was likely born in the late 1960s or early,0.022708976882132307
+1223,203,that Henry Espy was most likely born in the late 1960s or,0.022708976882132307
+1224,204,$\it{Other}$,0.7666666666666667
+1225,204,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1226,204,Henry Espy was likely born in the late 1960s or early 1970s.,0.1
+1227,204,that Henry Espy was born in the late 1960s or early ,0.0
+1228,204,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+1229,204,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+1230,205,$\it{Other}$,0.5
+1231,205,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1232,205,Henry Espy was likely born in the late 1960s or early 1970s.,0.16666666666666666
+1233,205,that Henry Espy was born in the late 1960s or early ,0.1
+1234,205,that Henry Espy was likely born in the late 1960s or early,0.16666666666666666
+1235,205,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+1236,206,$\it{Other}$,0.7202275659137365
+1237,206,Henry Espy was born in the late 1960s or early 1970s.,0.031085826009584833
+1238,206,Henry Espy was likely born in the late 1960s or early 1970s.,0.031085826009584833
+1239,206,that Henry Espy was born in the late 1960s or early ,0.06217165201916967
+1240,206,that Henry Espy was likely born in the late 1960s or early,0.12434330403833933
+1241,206,that Henry Espy was most likely born in the late 1960s or,0.031085826009584833
+1242,207,$\it{Other}$,0.7
+1243,207,Henry Espy was born in the late 1960s or early 1970s.,0.1
+1244,207,Henry Espy was likely born in the late 1960s or early 1970s.,0.06666666666666667
+1245,207,that Henry Espy was born in the late 1960s or early ,0.0
+1246,207,that Henry Espy was likely born in the late 1960s or early,0.13333333333333333
+1247,207,that Henry Espy was most likely born in the late 1960s or,0.0
+1248,208,$\it{Other}$,0.7
+1249,208,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1250,208,Henry Espy was likely born in the late 1960s or early 1970s.,0.06666666666666667
+1251,208,that Henry Espy was born in the late 1960s or early ,0.13333333333333333
+1252,208,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+1253,208,that Henry Espy was most likely born in the late 1960s or,0.0
+1254,209,$\it{Other}$,0.7
+1255,209,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1256,209,Henry Espy was likely born in the late 1960s or early 1970s.,0.1
+1257,209,that Henry Espy was born in the late 1960s or early ,0.1
+1258,209,that Henry Espy was likely born in the late 1960s or early,0.06666666666666667
+1259,209,that Henry Espy was most likely born in the late 1960s or,0.0
+1260,210,$\it{Other}$,0.8333333333333334
+1261,210,Henry Espy was born in the late 1960s or early 1970s.,0.03333333333333333
+1262,210,Henry Espy was likely born in the late 1960s or early 1970s.,0.03333333333333333
+1263,210,that Henry Espy was born in the late 1960s or early ,0.06666666666666667
+1264,210,that Henry Espy was likely born in the late 1960s or early,0.03333333333333333
+1265,210,that Henry Espy was most likely born in the late 1960s or,0.0
+1266,211,$\it{Other}$,0.8
+1267,211,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1268,211,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1269,211,that Henry Espy was born in the late 1960s or early ,0.03333333333333333
+1270,211,that Henry Espy was likely born in the late 1960s or early,0.13333333333333333
+1271,211,that Henry Espy was most likely born in the late 1960s or,0.03333333333333333
+1272,212,$\it{Other}$,0.6333333333333333
+1273,212,Henry Espy was born in the late 1960s or early 1970s.,0.0
+1274,212,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1275,212,that Henry Espy was born in the late 1960s or early ,0.1
+1276,212,that Henry Espy was likely born in the late 1960s or early,0.2
+1277,212,that Henry Espy was most likely born in the late 1960s or,0.06666666666666667
+1278,213,$\it{Other}$,0.7989979735226626
+1279,213,Henry Espy was born in the late 1960s or early 1970s.,0.01839668470082228
+1280,213,Henry Espy was likely born in the late 1960s or early 1970s.,0.0298732972650221
+1281,213,that Henry Espy was born in the late 1960s or early ,0.06766869314400412
+1282,213,that Henry Espy was likely born in the late 1960s or early,0.0701267027349779
+1283,213,that Henry Espy was most likely born in the late 1960s or,0.01493664863251105
+1284,214,$\it{Other}$,0.7321552308158308
+1285,214,Henry Espy was born in the late 1960s or early 1970s.,0.061307048000804686
+1286,214,Henry Espy was likely born in the late 1960s or early 1970s.,0.05052964951534433
+1287,214,that Henry Espy was born in the late 1960s or early ,0.0926061464200921
+1288,214,that Henry Espy was likely born in the late 1960s or early,0.03684018389546224
+1289,214,that Henry Espy was most likely born in the late 1960s or,0.026561741352465865
+1290,215,$\it{Other}$,0.5517241379310345
+1291,215,Henry Espy was born in the late 1960s or early 1970s.,0.20689655172413793
+1292,215,Henry Espy was likely born in the late 1960s or early 1970s.,0.10344827586206896
+1293,215,that Henry Espy was born in the late 1960s or early ,0.06896551724137931
+1294,215,that Henry Espy was likely born in the late 1960s or early,0.06896551724137931
+1295,215,that Henry Espy was most likely born in the late 1960s or,0.0
+1296,216,$\it{Other}$,0.5959443546153996
+1297,216,Henry Espy was born in the late 1960s or early 1970s.,0.14803735307904967
+1298,216,Henry Espy was likely born in the late 1960s or early 1970s.,0.15478712826592841
+1299,216,that Henry Espy was born in the late 1960s or early ,0.03527103375248089
+1300,216,that Henry Espy was likely born in the late 1960s or early,0.05504966878407605
+1301,216,that Henry Espy was most likely born in the late 1960s or,0.010910461503065329
+1302,217,$\it{Other}$,0.4642857142857143
+1303,217,Henry Espy was born in the late 1960s or early 1970s.,0.17857142857142858
+1304,217,Henry Espy was likely born in the late 1960s or early 1970s.,0.21428571428571427
+1305,217,that Henry Espy was born in the late 1960s or early ,0.03571428571428571
+1306,217,that Henry Espy was likely born in the late 1960s or early,0.10714285714285714
+1307,217,that Henry Espy was most likely born in the late 1960s or,0.0
+1308,218,$\it{Other}$,0.3519307770389209
+1309,218,Henry Espy was born in the late 1960s or early 1970s.,0.25230869949050433
+1310,218,Henry Espy was likely born in the late 1960s or early 1970s.,0.14852385408159435
+1311,218,that Henry Espy was born in the late 1960s or early ,0.002536015050761934
+1312,218,that Henry Espy was likely born in the late 1960s or early,0.21010570586858188
+1313,218,that Henry Espy was most likely born in the late 1960s or,0.034594948469636656
+1314,219,$\it{Other}$,0.52
+1315,219,Henry Espy was born in the late 1960s or early 1970s.,0.2
+1316,219,Henry Espy was likely born in the late 1960s or early 1970s.,0.16
+1317,219,that Henry Espy was born in the late 1960s or early ,0.04
+1318,219,that Henry Espy was likely born in the late 1960s or early,0.08
+1319,219,that Henry Espy was most likely born in the late 1960s or,0.0
+1320,220,$\it{Other}$,0.46153846153846156
+1321,220,Henry Espy was born in the late 1960s or early 1970s.,0.4230769230769231
+1322,220,Henry Espy was likely born in the late 1960s or early 1970s.,0.038461538461538464
+1323,220,that Henry Espy was born in the late 1960s or early ,0.0
+1324,220,that Henry Espy was likely born in the late 1960s or early,0.038461538461538464
+1325,220,that Henry Espy was most likely born in the late 1960s or,0.038461538461538464
+1326,221,$\it{Other}$,0.4548372578476353
+1327,221,Henry Espy was born in the late 1960s or early 1970s.,0.27258137107618235
+1328,221,Henry Espy was likely born in the late 1960s or early 1970s.,0.17186222218022362
+1329,221,that Henry Espy was born in the late 1960s or early ,0.033573049631986256
+1330,221,that Henry Espy was likely born in the late 1960s or early,0.06714609926397251
+1331,221,that Henry Espy was most likely born in the late 1960s or,0.0
+1332,222,$\it{Other}$,0.5124807085183137
+1333,222,Henry Espy was born in the late 1960s or early 1970s.,0.19099078618219556
+1334,222,Henry Espy was likely born in the late 1960s or early 1970s.,0.16326300036780056
+1335,222,that Henry Espy was born in the late 1960s or early ,0.0019323638809136618
+1336,222,that Henry Espy was likely born in the late 1960s or early,0.09926205923293355
+1337,222,that Henry Espy was most likely born in the late 1960s or,0.032071081817842885
+1338,223,$\it{Other}$,0.5454545454545454
+1339,223,Henry Espy was born in the late 1960s or early 1970s.,0.13636363636363635
+1340,223,Henry Espy was likely born in the late 1960s or early 1970s.,0.13636363636363635
+1341,223,that Henry Espy was born in the late 1960s or early ,0.045454545454545456
+1342,223,that Henry Espy was likely born in the late 1960s or early,0.13636363636363635
+1343,223,that Henry Espy was most likely born in the late 1960s or,0.0
+1344,224,$\it{Other}$,0.44
+1345,224,Henry Espy was born in the late 1960s or early 1970s.,0.04
+1346,224,Henry Espy was likely born in the late 1960s or early 1970s.,0.16
+1347,224,that Henry Espy was born in the late 1960s or early ,0.08
+1348,224,that Henry Espy was likely born in the late 1960s or early,0.28
+1349,224,that Henry Espy was most likely born in the late 1960s or,0.0
+1350,225,$\it{Other}$,0.2727272727272727
+1351,225,Henry Espy was born in the late 1960s or early 1970s.,0.45454545454545453
+1352,225,Henry Espy was likely born in the late 1960s or early 1970s.,0.045454545454545456
+1353,225,that Henry Espy was born in the late 1960s or early ,0.0
+1354,225,that Henry Espy was likely born in the late 1960s or early,0.045454545454545456
+1355,225,that Henry Espy was most likely born in the late 1960s or,0.18181818181818182
+1356,226,$\it{Other}$,0.4782608695652174
+1357,226,Henry Espy was born in the late 1960s or early 1970s.,0.17391304347826086
+1358,226,Henry Espy was likely born in the late 1960s or early 1970s.,0.08695652173913043
+1359,226,that Henry Espy was born in the late 1960s or early ,0.043478260869565216
+1360,226,that Henry Espy was likely born in the late 1960s or early,0.17391304347826086
+1361,226,that Henry Espy was most likely born in the late 1960s or,0.043478260869565216
+1362,227,$\it{Other}$,0.34291482218829994
+1363,227,Henry Espy was born in the late 1960s or early 1970s.,0.20776771068727765
+1364,227,Henry Espy was likely born in the late 1960s or early 1970s.,0.1847815020184708
+1365,227,that Henry Espy was born in the late 1960s or early ,0.10388385534363882
+1366,227,that Henry Espy was likely born in the late 1960s or early,0.1385861265138531
+1367,227,that Henry Espy was most likely born in the late 1960s or,0.022065983248459608
+1368,228,$\it{Other}$,0.4054787724408369
+1369,228,Henry Espy was born in the late 1960s or early 1970s.,0.365859216959485
+1370,228,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1371,228,that Henry Espy was born in the late 1960s or early ,0.2286620105996781
+1372,228,that Henry Espy was likely born in the late 1960s or early,0.0
+1373,228,that Henry Espy was most likely born in the late 1960s or,0.0
+1374,229,$\it{Other}$,0.2913893750258715
+1375,229,Henry Espy was born in the late 1960s or early 1970s.,0.5377546397005699
+1376,229,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1377,229,that Henry Espy was born in the late 1960s or early ,0.1708559852735586
+1378,229,that Henry Espy was likely born in the late 1960s or early,0.0
+1379,229,that Henry Espy was most likely born in the late 1960s or,0.0
+1380,230,$\it{Other}$,0.0
+1381,230,Henry Espy was born in the late 1960s or early 1970s.,0.8
+1382,230,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1383,230,that Henry Espy was born in the late 1960s or early ,0.2
+1384,230,that Henry Espy was likely born in the late 1960s or early,0.0
+1385,230,that Henry Espy was most likely born in the late 1960s or,0.0
+1386,231,$\it{Other}$,0.09090909090909091
+1387,231,Henry Espy was born in the late 1960s or early 1970s.,0.8636363636363636
+1388,231,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1389,231,that Henry Espy was born in the late 1960s or early ,0.045454545454545456
+1390,231,that Henry Espy was likely born in the late 1960s or early,0.0
+1391,231,that Henry Espy was most likely born in the late 1960s or,0.0
+1392,232,$\it{Other}$,0.0
+1393,232,Henry Espy was born in the late 1960s or early 1970s.,0.6190476190476191
+1394,232,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1395,232,that Henry Espy was born in the late 1960s or early ,0.38095238095238093
+1396,232,that Henry Espy was likely born in the late 1960s or early,0.0
+1397,232,that Henry Espy was most likely born in the late 1960s or,0.0
+1398,233,$\it{Other}$,0.0
+1399,233,Henry Espy was born in the late 1960s or early 1970s.,0.7894736842105263
+1400,233,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1401,233,that Henry Espy was born in the late 1960s or early ,0.21052631578947367
+1402,233,that Henry Espy was likely born in the late 1960s or early,0.0
+1403,233,that Henry Espy was most likely born in the late 1960s or,0.0
+1404,234,$\it{Other}$,0.0
+1405,234,Henry Espy was born in the late 1960s or early 1970s.,0.8
+1406,234,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1407,234,that Henry Espy was born in the late 1960s or early ,0.2
+1408,234,that Henry Espy was likely born in the late 1960s or early,0.0
+1409,234,that Henry Espy was most likely born in the late 1960s or,0.0
+1410,235,$\it{Other}$,0.0
+1411,235,Henry Espy was born in the late 1960s or early 1970s.,0.6666666666666666
+1412,235,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1413,235,that Henry Espy was born in the late 1960s or early ,0.3333333333333333
+1414,235,that Henry Espy was likely born in the late 1960s or early,0.0
+1415,235,that Henry Espy was most likely born in the late 1960s or,0.0
+1416,236,$\it{Other}$,0.0
+1417,236,Henry Espy was born in the late 1960s or early 1970s.,0.7692307692307693
+1418,236,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1419,236,that Henry Espy was born in the late 1960s or early ,0.23076923076923078
+1420,236,that Henry Espy was likely born in the late 1960s or early,0.0
+1421,236,that Henry Espy was most likely born in the late 1960s or,0.0
+1422,237,$\it{Other}$,0.0
+1423,237,Henry Espy was born in the late 1960s or early 1970s.,0.85
+1424,237,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1425,237,that Henry Espy was born in the late 1960s or early ,0.15
+1426,237,that Henry Espy was likely born in the late 1960s or early,0.0
+1427,237,that Henry Espy was most likely born in the late 1960s or,0.0
+1428,238,$\it{Other}$,0.0
+1429,238,Henry Espy was born in the late 1960s or early 1970s.,0.9285714285714286
+1430,238,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1431,238,that Henry Espy was born in the late 1960s or early ,0.07142857142857142
+1432,238,that Henry Espy was likely born in the late 1960s or early,0.0
+1433,238,that Henry Espy was most likely born in the late 1960s or,0.0
+1434,239,$\it{Other}$,0.058823529411764705
+1435,239,Henry Espy was born in the late 1960s or early 1970s.,0.7058823529411765
+1436,239,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1437,239,that Henry Espy was born in the late 1960s or early ,0.23529411764705882
+1438,239,that Henry Espy was likely born in the late 1960s or early,0.0
+1439,239,that Henry Espy was most likely born in the late 1960s or,0.0
+1440,240,$\it{Other}$,0.0
+1441,240,Henry Espy was born in the late 1960s or early 1970s.,0.8095238095238095
+1442,240,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1443,240,that Henry Espy was born in the late 1960s or early ,0.19047619047619047
+1444,240,that Henry Espy was likely born in the late 1960s or early,0.0
+1445,240,that Henry Espy was most likely born in the late 1960s or,0.0
+1446,241,$\it{Other}$,0.0
+1447,241,Henry Espy was born in the late 1960s or early 1970s.,0.8235294117647058
+1448,241,Henry Espy was likely born in the late 1960s or early 1970s.,0.0
+1449,241,that Henry Espy was born in the late 1960s or early ,0.17647058823529413
+1450,241,that Henry Espy was likely born in the late 1960s or early,0.0
+1451,241,that Henry Espy was most likely born in the late 1960s or,0.0

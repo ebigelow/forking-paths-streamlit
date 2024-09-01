@@ -1,0 +1,901 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.6589009311709676
+1,0,Bamboo Ridge Press.,0.09573887654178691
+2,0,Bess Press Inc.,0.022981483009143423
+3,0,"Bess Press, Inc.",0.0
+4,0,Bess Press.,0.08422946378663163
+5,0,Mutual Publishing.,0.13814924549147048
+6,1,$\it{Other}$,0.6307656995897365
+7,1,Bamboo Ridge Press.,0.03461715020513172
+8,1,Bess Press Inc.,0.030153887656053396
+9,1,"Bess Press, Inc.",0.0
+10,1,Bess Press.,0.05747124869584779
+11,1,Mutual Publishing.,0.24699201385323052
+12,2,$\it{Other}$,0.36666666666666664
+13,2,Bamboo Ridge Press.,0.13333333333333333
+14,2,Bess Press Inc.,0.03333333333333333
+15,2,"Bess Press, Inc.",0.0
+16,2,Bess Press.,0.1
+17,2,Mutual Publishing.,0.36666666666666664
+18,3,$\it{Other}$,0.5333333333333333
+19,3,Bamboo Ridge Press.,0.13333333333333333
+20,3,Bess Press Inc.,0.03333333333333333
+21,3,"Bess Press, Inc.",0.0
+22,3,Bess Press.,0.1
+23,3,Mutual Publishing.,0.2
+24,4,$\it{Other}$,0.5
+25,4,Bamboo Ridge Press.,0.13333333333333333
+26,4,Bess Press Inc.,0.0
+27,4,"Bess Press, Inc.",0.0
+28,4,Bess Press.,0.16666666666666666
+29,4,Mutual Publishing.,0.2
+30,5,$\it{Other}$,0.5527212170132266
+31,5,Bamboo Ridge Press.,0.12206800154476193
+32,5,Bess Press Inc.,0.0343630873001771
+33,5,"Bess Press, Inc.",0.0
+34,5,Bess Press.,0.1058552924363497
+35,5,Mutual Publishing.,0.18499240170548464
+36,6,$\it{Other}$,0.5666666666666667
+37,6,Bamboo Ridge Press.,0.09994265287593294
+38,6,Bess Press Inc.,0.05553148904993423
+39,6,"Bess Press, Inc.",0.0
+40,6,Bess Press.,0.13333333333333333
+41,6,Mutual Publishing.,0.14452585807413285
+42,7,$\it{Other}$,0.5188918026016351
+43,7,Bamboo Ridge Press.,0.07588703116107944
+44,7,Bess Press Inc.,0.02443264809530614
+45,7,"Bess Press, Inc.",0.0
+46,7,Bess Press.,0.17139756589763294
+47,7,Mutual Publishing.,0.20939095224434642
+48,8,$\it{Other}$,0.45750600088846305
+49,8,Bamboo Ridge Press.,0.07275140092828208
+50,8,Bess Press Inc.,0.022819037175255998
+51,8,"Bess Press, Inc.",0.0
+52,8,Bess Press.,0.21038282213048923
+53,8,Mutual Publishing.,0.2365407388775097
+54,9,$\it{Other}$,0.5358273665699015
+55,9,Bamboo Ridge Press.,0.12834526686019698
+56,9,Bess Press Inc.,0.00498806647313634
+57,9,"Bess Press, Inc.",0.0
+58,9,Bess Press.,0.045803499516174184
+59,9,Mutual Publishing.,0.28503580058059097
+60,10,$\it{Other}$,0.5666666666666667
+61,10,Bamboo Ridge Press.,0.06666666666666667
+62,10,Bess Press Inc.,0.03333333333333333
+63,10,"Bess Press, Inc.",0.03333333333333333
+64,10,Bess Press.,0.1
+65,10,Mutual Publishing.,0.2
+66,11,$\it{Other}$,0.3
+67,11,Bamboo Ridge Press.,0.13333333333333333
+68,11,Bess Press Inc.,0.0
+69,11,"Bess Press, Inc.",0.0
+70,11,Bess Press.,0.23333333333333334
+71,11,Mutual Publishing.,0.3333333333333333
+72,12,$\it{Other}$,0.5779036863143715
+73,12,Bamboo Ridge Press.,0.11565967693268653
+74,12,Bess Press Inc.,0.028312749778916284
+75,12,"Bess Press, Inc.",0.0
+76,12,Bess Press.,0.1510069897339801
+77,12,Mutual Publishing.,0.1271168972400455
+78,13,$\it{Other}$,0.4411213247630298
+79,13,Bamboo Ridge Press.,0.1
+80,13,Bess Press Inc.,0.06666666666666667
+81,13,"Bess Press, Inc.",0.0
+82,13,Bess Press.,0.10778799142969644
+83,13,Mutual Publishing.,0.2844240171406071
+84,14,$\it{Other}$,0.6095924913967548
+85,14,Bamboo Ridge Press.,0.10190007458101269
+86,14,Bess Press Inc.,0.006640170707464512
+87,14,"Bess Press, Inc.",0.003800149162025354
+88,14,Bess Press.,0.13239338636890685
+89,14,Mutual Publishing.,0.1456737277838359
+90,15,$\it{Other}$,0.6
+91,15,Bamboo Ridge Press.,0.1
+92,15,Bess Press Inc.,0.0
+93,15,"Bess Press, Inc.",0.0
+94,15,Bess Press.,0.1
+95,15,Mutual Publishing.,0.2
+96,16,$\it{Other}$,0.5666666666666667
+97,16,Bamboo Ridge Press.,0.16666666666666666
+98,16,Bess Press Inc.,0.03333333333333333
+99,16,"Bess Press, Inc.",0.0
+100,16,Bess Press.,0.16666666666666666
+101,16,Mutual Publishing.,0.06666666666666667
+102,17,$\it{Other}$,0.39794485038872235
+103,17,Bamboo Ridge Press.,0.1687218162779443
+104,17,Bess Press Inc.,0.002055149611277664
+105,17,"Bess Press, Inc.",0.0
+106,17,Bess Press.,0.264611517055389
+107,17,Mutual Publishing.,0.16666666666666663
+108,18,$\it{Other}$,0.5666666666666667
+109,18,Bamboo Ridge Press.,0.03333333333333333
+110,18,Bess Press Inc.,0.0
+111,18,"Bess Press, Inc.",0.0
+112,18,Bess Press.,0.13333333333333333
+113,18,Mutual Publishing.,0.26666666666666666
+114,19,$\it{Other}$,0.4784708806297608
+115,19,Bamboo Ridge Press.,0.054038240382588434
+116,19,Bess Press Inc.,0.025256852568156463
+117,19,"Bess Press, Inc.",0.0
+118,19,Bess Press.,0.1710154142339263
+119,19,Mutual Publishing.,0.27121861218556803
+120,20,$\it{Other}$,0.6818842267284804
+121,20,Bamboo Ridge Press.,0.08871628378303219
+122,20,Bess Press Inc.,0.007349872372121842
+123,20,"Bess Press, Inc.",0.0
+124,20,Bess Press.,0.1259834609612115
+125,20,Mutual Publishing.,0.09606615615515404
+126,21,$\it{Other}$,0.5826883068707758
+127,21,Bamboo Ridge Press.,0.06666666666666667
+128,21,Bess Press Inc.,0.0
+129,21,"Bess Press, Inc.",0.0301290052925115
+130,21,Bess Press.,0.180774031755069
+131,21,Mutual Publishing.,0.13974198941497698
+132,22,$\it{Other}$,0.5
+133,22,Bamboo Ridge Press.,0.1
+134,22,Bess Press Inc.,0.03333333333333333
+135,22,"Bess Press, Inc.",0.03333333333333333
+136,22,Bess Press.,0.2
+137,22,Mutual Publishing.,0.13333333333333333
+138,23,$\it{Other}$,0.5666666666666667
+139,23,Bamboo Ridge Press.,0.0
+140,23,Bess Press Inc.,0.06666666666666667
+141,23,"Bess Press, Inc.",0.03333333333333333
+142,23,Bess Press.,0.1
+143,23,Mutual Publishing.,0.23333333333333334
+144,24,$\it{Other}$,0.43333333333333335
+145,24,Bamboo Ridge Press.,0.1
+146,24,Bess Press Inc.,0.0
+147,24,"Bess Press, Inc.",0.0
+148,24,Bess Press.,0.1
+149,24,Mutual Publishing.,0.36666666666666664
+150,25,$\it{Other}$,0.7
+151,25,Bamboo Ridge Press.,0.03333333333333333
+152,25,Bess Press Inc.,0.0
+153,25,"Bess Press, Inc.",0.0
+154,25,Bess Press.,0.1
+155,25,Mutual Publishing.,0.16666666666666666
+156,26,$\it{Other}$,0.6666666666666666
+157,26,Bamboo Ridge Press.,0.06666666666666667
+158,26,Bess Press Inc.,0.03333333333333333
+159,26,"Bess Press, Inc.",0.0
+160,26,Bess Press.,0.13333333333333333
+161,26,Mutual Publishing.,0.1
+162,27,$\it{Other}$,0.5333333333333333
+163,27,Bamboo Ridge Press.,0.06666666666666667
+164,27,Bess Press Inc.,0.0
+165,27,"Bess Press, Inc.",0.0
+166,27,Bess Press.,0.16666666666666666
+167,27,Mutual Publishing.,0.23333333333333334
+168,28,$\it{Other}$,0.43333333333333335
+169,28,Bamboo Ridge Press.,0.1
+170,28,Bess Press Inc.,0.1
+171,28,"Bess Press, Inc.",0.0
+172,28,Bess Press.,0.23333333333333334
+173,28,Mutual Publishing.,0.13333333333333333
+174,29,$\it{Other}$,0.6666666666666666
+175,29,Bamboo Ridge Press.,0.13333333333333333
+176,29,Bess Press Inc.,0.0
+177,29,"Bess Press, Inc.",0.0
+178,29,Bess Press.,0.16666666666666666
+179,29,Mutual Publishing.,0.03333333333333333
+180,30,$\it{Other}$,0.6333333333333333
+181,30,Bamboo Ridge Press.,0.1
+182,30,Bess Press Inc.,0.03333333333333333
+183,30,"Bess Press, Inc.",0.03333333333333333
+184,30,Bess Press.,0.13333333333333333
+185,30,Mutual Publishing.,0.06666666666666667
+186,31,$\it{Other}$,0.5333333333333333
+187,31,Bamboo Ridge Press.,0.16666666666666666
+188,31,Bess Press Inc.,0.03333333333333333
+189,31,"Bess Press, Inc.",0.03333333333333333
+190,31,Bess Press.,0.0
+191,31,Mutual Publishing.,0.23333333333333334
+192,32,$\it{Other}$,0.3333333333333333
+193,32,Bamboo Ridge Press.,0.13333333333333333
+194,32,Bess Press Inc.,0.0
+195,32,"Bess Press, Inc.",0.0
+196,32,Bess Press.,0.06666666666666667
+197,32,Mutual Publishing.,0.4666666666666667
+198,33,$\it{Other}$,0.5
+199,33,Bamboo Ridge Press.,0.0
+200,33,Bess Press Inc.,0.0
+201,33,"Bess Press, Inc.",0.03333333333333333
+202,33,Bess Press.,0.2
+203,33,Mutual Publishing.,0.26666666666666666
+204,34,$\it{Other}$,0.3333333333333333
+205,34,Bamboo Ridge Press.,0.16666666666666666
+206,34,Bess Press Inc.,0.0
+207,34,"Bess Press, Inc.",0.0
+208,34,Bess Press.,0.23333333333333334
+209,34,Mutual Publishing.,0.26666666666666666
+210,35,$\it{Other}$,0.5666666666666667
+211,35,Bamboo Ridge Press.,0.1
+212,35,Bess Press Inc.,0.03333333333333333
+213,35,"Bess Press, Inc.",0.0
+214,35,Bess Press.,0.1
+215,35,Mutual Publishing.,0.2
+216,36,$\it{Other}$,0.4791585156063982
+217,36,Bamboo Ridge Press.,0.22708740886346757
+218,36,Bess Press Inc.,0.031251358510044736
+219,36,"Bess Press, Inc.",0.0020819748232885947
+220,36,Bess Press.,0.03333333333333333
+221,36,Mutual Publishing.,0.22708740886346757
+222,37,$\it{Other}$,0.5666666666666667
+223,37,Bamboo Ridge Press.,0.06666666666666667
+224,37,Bess Press Inc.,0.0
+225,37,"Bess Press, Inc.",0.0
+226,37,Bess Press.,0.23333333333333334
+227,37,Mutual Publishing.,0.13333333333333333
+228,38,$\it{Other}$,0.4666666666666667
+229,38,Bamboo Ridge Press.,0.06666666666666667
+230,38,Bess Press Inc.,0.0
+231,38,"Bess Press, Inc.",0.03333333333333333
+232,38,Bess Press.,0.26666666666666666
+233,38,Mutual Publishing.,0.16666666666666666
+234,39,$\it{Other}$,0.5333333333333333
+235,39,Bamboo Ridge Press.,0.16666666666666666
+236,39,Bess Press Inc.,0.0
+237,39,"Bess Press, Inc.",0.0
+238,39,Bess Press.,0.03333333333333333
+239,39,Mutual Publishing.,0.26666666666666666
+240,40,$\it{Other}$,0.5
+241,40,Bamboo Ridge Press.,0.13333333333333333
+242,40,Bess Press Inc.,0.0
+243,40,"Bess Press, Inc.",0.03333333333333333
+244,40,Bess Press.,0.16666666666666666
+245,40,Mutual Publishing.,0.16666666666666666
+246,41,$\it{Other}$,0.5392745612768406
+247,41,Bamboo Ridge Press.,0.07895185519251474
+248,41,Bess Press Inc.,0.03651908400076719
+249,41,"Bess Press, Inc.",0.018034478875447624
+250,41,Bess Press.,0.1477640381439296
+251,41,Mutual Publishing.,0.17945598251050043
+252,42,$\it{Other}$,0.6209805391811
+253,42,Bamboo Ridge Press.,0.054307029248119316
+254,42,Bess Press Inc.,0.01761749074521513
+255,42,"Bess Press, Inc.",0.0
+256,42,Bess Press.,0.09696444691625986
+257,42,Mutual Publishing.,0.21013049390930563
+258,43,$\it{Other}$,0.5694355925487086
+259,43,Bamboo Ridge Press.,0.10276892588204187
+260,43,Bess Press Inc.,0.0
+261,43,"Bess Press, Inc.",0.0
+262,43,Bess Press.,0.19446214823591632
+263,43,Mutual Publishing.,0.13333333333333333
+264,44,$\it{Other}$,0.7333333333333333
+265,44,Bamboo Ridge Press.,0.06666666666666667
+266,44,Bess Press Inc.,0.03333333333333333
+267,44,"Bess Press, Inc.",0.0
+268,44,Bess Press.,0.1
+269,44,Mutual Publishing.,0.06666666666666667
+270,45,$\it{Other}$,0.7333333333333333
+271,45,Bamboo Ridge Press.,0.1
+272,45,Bess Press Inc.,0.0
+273,45,"Bess Press, Inc.",0.03333333333333333
+274,45,Bess Press.,0.03333333333333333
+275,45,Mutual Publishing.,0.1
+276,46,$\it{Other}$,0.5370247404846462
+277,46,Bamboo Ridge Press.,0.08530122590828136
+278,46,Bess Press Inc.,0.03889795595048003
+279,46,"Bess Press, Inc.",0.0
+280,46,Bess Press.,0.12778518105222975
+281,46,Mutual Publishing.,0.2109908966043627
+282,47,$\it{Other}$,0.5666666666666667
+283,47,Bamboo Ridge Press.,0.23333333333333334
+284,47,Bess Press Inc.,0.0
+285,47,"Bess Press, Inc.",0.0
+286,47,Bess Press.,0.1
+287,47,Mutual Publishing.,0.1
+288,48,$\it{Other}$,0.5376408990592737
+289,48,Bamboo Ridge Press.,0.09586443765560108
+290,48,Bess Press Inc.,0.013623769919286708
+291,48,"Bess Press, Inc.",0.0
+292,48,Bess Press.,0.14668470768499797
+293,48,Mutual Publishing.,0.20618618568084043
+294,49,$\it{Other}$,0.5032689534028758
+295,49,Bamboo Ridge Press.,0.09201190462515775
+296,49,Bess Press Inc.,0.0489732024672763
+297,49,"Bess Press, Inc.",0.0028696933914102124
+298,49,Bess Press.,0.20410894659526302
+299,49,Mutual Publishing.,0.14876729951801687
+300,50,$\it{Other}$,0.5
+301,50,Bamboo Ridge Press.,0.06666666666666667
+302,50,Bess Press Inc.,0.03333333333333333
+303,50,"Bess Press, Inc.",0.06666666666666667
+304,50,Bess Press.,0.16666666666666666
+305,50,Mutual Publishing.,0.16666666666666666
+306,51,$\it{Other}$,0.3365871589845373
+307,51,Bamboo Ridge Press.,0.2072134407705489
+308,51,Bess Press Inc.,0.028938483905164826
+309,51,"Bess Press, Inc.",0.026803360192637227
+310,51,Bess Press.,0.1425805883367821
+311,51,Mutual Publishing.,0.25787696781032965
+312,52,$\it{Other}$,0.4806233010107424
+313,52,Bamboo Ridge Press.,0.08562238418768187
+314,52,Bess Press Inc.,0.06370444922659266
+315,52,"Bess Press, Inc.",0.013888646320294467
+316,52,Bess Press.,0.166177697174643
+317,52,Mutual Publishing.,0.18998352208004554
+318,53,$\it{Other}$,0.3
+319,53,Bamboo Ridge Press.,0.03333333333333333
+320,53,Bess Press Inc.,0.03333333333333333
+321,53,"Bess Press, Inc.",0.0
+322,53,Bess Press.,0.3
+323,53,Mutual Publishing.,0.3333333333333333
+324,54,$\it{Other}$,0.5441911921578024
+325,54,Bamboo Ridge Press.,0.07228553529388271
+326,54,Bess Press Inc.,0.014047171568040098
+327,54,"Bess Press, Inc.",0.0056188686272160395
+328,54,Bess Press.,0.23333333333333334
+329,54,Mutual Publishing.,0.1305238990197253
+330,55,$\it{Other}$,0.4
+331,55,Bamboo Ridge Press.,0.0
+332,55,Bess Press Inc.,0.03333333333333333
+333,55,"Bess Press, Inc.",0.03333333333333333
+334,55,Bess Press.,0.26666666666666666
+335,55,Mutual Publishing.,0.26666666666666666
+336,56,$\it{Other}$,0.43333333333333335
+337,56,Bamboo Ridge Press.,0.13333333333333333
+338,56,Bess Press Inc.,0.03333333333333333
+339,56,"Bess Press, Inc.",0.0
+340,56,Bess Press.,0.2
+341,56,Mutual Publishing.,0.2
+342,57,$\it{Other}$,0.45699604906055497
+343,57,Bamboo Ridge Press.,0.108436565995359
+344,57,Bess Press Inc.,0.024243123370972453
+345,57,"Bess Press, Inc.",0.005636845326811567
+346,57,Bess Press.,0.17320418126911696
+347,57,Mutual Publishing.,0.2314832349771851
+348,58,$\it{Other}$,0.4778565503489415
+349,58,Bamboo Ridge Press.,0.13207538331000987
+350,58,Bess Press Inc.,0.014784482678700951
+351,58,"Bess Press, Inc.",0.0
+352,58,Bess Press.,0.16745029070472034
+353,58,Mutual Publishing.,0.2078332929576273
+354,59,$\it{Other}$,0.43333333333333335
+355,59,Bamboo Ridge Press.,0.1
+356,59,Bess Press Inc.,0.0
+357,59,"Bess Press, Inc.",0.0
+358,59,Bess Press.,0.23333333333333334
+359,59,Mutual Publishing.,0.23333333333333334
+360,60,$\it{Other}$,0.43370269547322904
+361,60,Bamboo Ridge Press.,0.014350608601222926
+362,60,Bess Press Inc.,0.03333333333333333
+363,60,"Bess Press, Inc.",0.003610737284049215
+364,60,Bess Press.,0.261112049938132
+365,60,Mutual Publishing.,0.2538905753700335
+366,61,$\it{Other}$,0.47591008092264486
+367,61,Bamboo Ridge Press.,0.09491210969564004
+368,61,Bess Press Inc.,0.03731593545376566
+369,61,"Bess Press, Inc.",0.012899824108466781
+370,61,Bess Press.,0.2184884302261479
+371,61,Mutual Publishing.,0.16047361959333475
+372,62,$\it{Other}$,0.4143527694262565
+373,62,Bamboo Ridge Press.,0.1316191563453234
+374,62,Bess Press Inc.,0.0906811430434079
+375,62,"Bess Press, Inc.",0.0
+376,62,Bess Press.,0.14934035980544313
+377,62,Mutual Publishing.,0.21400657137956916
+378,63,$\it{Other}$,0.35383814502287625
+379,63,Bamboo Ridge Press.,0.135293334802568
+380,63,Bess Press Inc.,0.10890851870532112
+381,63,"Bess Press, Inc.",0.0
+382,63,Bess Press.,0.18181328958799564
+383,63,Mutual Publishing.,0.22014671188123902
+384,64,$\it{Other}$,0.4250582171100037
+385,64,Bamboo Ridge Press.,0.08771229496253784
+386,64,Bess Press Inc.,0.050558239243531485
+387,64,"Bess Press, Inc.",0.0
+388,64,Bess Press.,0.2527058652686116
+389,64,Mutual Publishing.,0.18396538341531532
+390,65,$\it{Other}$,0.49486899720046423
+391,65,Bamboo Ridge Press.,0.11794032493472613
+392,65,Bess Press Inc.,0.038464336132869065
+393,65,"Bess Press, Inc.",0.0
+394,65,Bess Press.,0.16666666666666666
+395,65,Mutual Publishing.,0.18205967506527385
+396,66,$\it{Other}$,0.43333333333333335
+397,66,Bamboo Ridge Press.,0.2
+398,66,Bess Press Inc.,0.06666666666666667
+399,66,"Bess Press, Inc.",0.0
+400,66,Bess Press.,0.16666666666666666
+401,66,Mutual Publishing.,0.13333333333333333
+402,67,$\it{Other}$,0.4575104424422184
+403,67,Bamboo Ridge Press.,0.11879359522460312
+404,67,Bess Press Inc.,0.04655035053314511
+405,67,"Bess Press, Inc.",0.009637371000154816
+406,67,Bess Press.,0.16184798116658927
+407,67,Mutual Publishing.,0.20566025963328935
+408,68,$\it{Other}$,0.4
+409,68,Bamboo Ridge Press.,0.13333333333333333
+410,68,Bess Press Inc.,0.06666666666666667
+411,68,"Bess Press, Inc.",0.03333333333333333
+412,68,Bess Press.,0.2
+413,68,Mutual Publishing.,0.16666666666666666
+414,69,$\it{Other}$,0.4917117503499615
+415,69,Bamboo Ridge Press.,0.10528725763488453
+416,69,Bess Press Inc.,0.09691540497846823
+417,69,"Bess Press, Inc.",0.0
+418,69,Bess Press.,0.16985919572297198
+419,69,Mutual Publishing.,0.13622639131371375
+420,70,$\it{Other}$,0.5089197222486204
+421,70,Bamboo Ridge Press.,0.0776205064958689
+422,70,Bess Press Inc.,0.042808081819605735
+423,70,"Bess Press, Inc.",0.026366028528042054
+424,70,Bess Press.,0.06292864843332109
+425,70,Mutual Publishing.,0.2813570124745419
+426,71,$\it{Other}$,0.4599981444472414
+427,71,Bamboo Ridge Press.,0.18444320740927203
+428,71,Bess Press Inc.,0.024445062962030643
+429,71,"Bess Press, Inc.",0.024445062962030643
+430,71,Bess Press.,0.15777839629536397
+431,71,Mutual Publishing.,0.14889012592406128
+432,72,$\it{Other}$,0.43333333333333335
+433,72,Bamboo Ridge Press.,0.06666666666666667
+434,72,Bess Press Inc.,0.06666666666666667
+435,72,"Bess Press, Inc.",0.0
+436,72,Bess Press.,0.16666666666666666
+437,72,Mutual Publishing.,0.26666666666666666
+438,73,$\it{Other}$,0.43333333333333335
+439,73,Bamboo Ridge Press.,0.2
+440,73,Bess Press Inc.,0.0
+441,73,"Bess Press, Inc.",0.03333333333333333
+442,73,Bess Press.,0.06666666666666667
+443,73,Mutual Publishing.,0.26666666666666666
+444,74,$\it{Other}$,0.3333333333333333
+445,74,Bamboo Ridge Press.,0.06666666666666667
+446,74,Bess Press Inc.,0.23333333333333334
+447,74,"Bess Press, Inc.",0.0
+448,74,Bess Press.,0.23333333333333334
+449,74,Mutual Publishing.,0.13333333333333333
+450,75,$\it{Other}$,0.4666666666666667
+451,75,Bamboo Ridge Press.,0.06666666666666667
+452,75,Bess Press Inc.,0.06666666666666667
+453,75,"Bess Press, Inc.",0.03333333333333333
+454,75,Bess Press.,0.2
+455,75,Mutual Publishing.,0.16666666666666666
+456,76,$\it{Other}$,0.48403875751559483
+457,76,Bamboo Ridge Press.,0.017372090848928132
+458,76,Bess Press Inc.,0.08262790915107188
+459,76,"Bess Press, Inc.",0.0
+460,76,Bess Press.,0.21596124248440524
+461,76,Mutual Publishing.,0.2
+462,77,$\it{Other}$,0.41633289344169544
+463,77,Bamboo Ridge Press.,0.1
+464,77,Bess Press Inc.,0.09346684262332185
+465,77,"Bess Press, Inc.",0.03006675464499425
+466,77,Bess Press.,0.19673342131166094
+467,77,Mutual Publishing.,0.16340008797832759
+468,78,$\it{Other}$,0.5
+469,78,Bamboo Ridge Press.,0.13333333333333333
+470,78,Bess Press Inc.,0.03333333333333333
+471,78,"Bess Press, Inc.",0.0
+472,78,Bess Press.,0.2
+473,78,Mutual Publishing.,0.13333333333333333
+474,79,$\it{Other}$,0.3333333333333333
+475,79,Bamboo Ridge Press.,0.16666666666666666
+476,79,Bess Press Inc.,0.06666666666666667
+477,79,"Bess Press, Inc.",0.0
+478,79,Bess Press.,0.16666666666666666
+479,79,Mutual Publishing.,0.26666666666666666
+480,80,$\it{Other}$,0.4196316989865134
+481,80,Bamboo Ridge Press.,0.10194936619638949
+482,80,Bess Press Inc.,0.0339095376734372
+483,80,"Bess Press, Inc.",0.005051141072986713
+484,80,Bess Press.,0.24393096678044232
+485,80,Mutual Publishing.,0.1955272892902308
+486,81,$\it{Other}$,0.5
+487,81,Bamboo Ridge Press.,0.1
+488,81,Bess Press Inc.,0.03333333333333333
+489,81,"Bess Press, Inc.",0.06666666666666667
+490,81,Bess Press.,0.1
+491,81,Mutual Publishing.,0.2
+492,82,$\it{Other}$,0.5
+493,82,Bamboo Ridge Press.,0.06666666666666667
+494,82,Bess Press Inc.,0.0
+495,82,"Bess Press, Inc.",0.03333333333333333
+496,82,Bess Press.,0.23333333333333334
+497,82,Mutual Publishing.,0.16666666666666666
+498,83,$\it{Other}$,0.4666666666666667
+499,83,Bamboo Ridge Press.,0.1
+500,83,Bess Press Inc.,0.06666666666666667
+501,83,"Bess Press, Inc.",0.0
+502,83,Bess Press.,0.2
+503,83,Mutual Publishing.,0.16666666666666666
+504,84,$\it{Other}$,0.42895425031393103
+505,84,Bamboo Ridge Press.,0.08026038142155155
+506,84,Bess Press Inc.,0.04231973222047691
+507,84,"Bess Press, Inc.",0.0
+508,84,Bess Press.,0.3127482733438051
+509,84,Mutual Publishing.,0.13571736270023532
+510,85,$\it{Other}$,0.4
+511,85,Bamboo Ridge Press.,0.13333333333333333
+512,85,Bess Press Inc.,0.03333333333333333
+513,85,"Bess Press, Inc.",0.0
+514,85,Bess Press.,0.23333333333333334
+515,85,Mutual Publishing.,0.2
+516,86,$\it{Other}$,0.4
+517,86,Bamboo Ridge Press.,0.03333333333333333
+518,86,Bess Press Inc.,0.13333333333333333
+519,86,"Bess Press, Inc.",0.0
+520,86,Bess Press.,0.26666666666666666
+521,86,Mutual Publishing.,0.16666666666666666
+522,87,$\it{Other}$,0.5666666666666667
+523,87,Bamboo Ridge Press.,0.16666666666666666
+524,87,Bess Press Inc.,0.03333333333333333
+525,87,"Bess Press, Inc.",0.0
+526,87,Bess Press.,0.2
+527,87,Mutual Publishing.,0.03333333333333333
+528,88,$\it{Other}$,0.4
+529,88,Bamboo Ridge Press.,0.2
+530,88,Bess Press Inc.,0.1
+531,88,"Bess Press, Inc.",0.0
+532,88,Bess Press.,0.2
+533,88,Mutual Publishing.,0.1
+534,89,$\it{Other}$,0.44114574110386984
+535,89,Bamboo Ridge Press.,0.10541861524772894
+536,89,Bess Press Inc.,0.09458138475227107
+537,89,"Bess Press, Inc.",0.0
+538,89,Bess Press.,0.199695238986571
+539,89,Mutual Publishing.,0.15915901990955922
+540,90,$\it{Other}$,0.4666666666666667
+541,90,Bamboo Ridge Press.,0.1
+542,90,Bess Press Inc.,0.06666666666666667
+543,90,"Bess Press, Inc.",0.0
+544,90,Bess Press.,0.16666666666666666
+545,90,Mutual Publishing.,0.2
+546,91,$\it{Other}$,0.5164259390980512
+547,91,Bamboo Ridge Press.,0.21219909053923067
+548,91,Bess Press Inc.,0.05024072756861548
+549,91,"Bess Press, Inc.",0.004226848558820537
+550,91,Bess Press.,0.07934721234312828
+551,91,Mutual Publishing.,0.13756018189215385
+552,92,$\it{Other}$,0.5907437826049559
+553,92,Bamboo Ridge Press.,0.1239008453741646
+554,92,Bess Press Inc.,0.07918948259111613
+555,92,"Bess Press, Inc.",0.0
+556,92,Bess Press.,0.15420983627308232
+557,92,Mutual Publishing.,0.051956053156681045
+558,93,$\it{Other}$,0.6311764090086213
+559,93,Bamboo Ridge Press.,0.14892153783764397
+560,93,Bess Press Inc.,0.008872564414511343
+561,93,"Bess Press, Inc.",0.017745128829022686
+562,93,Bess Press.,0.13333333333333333
+563,93,Mutual Publishing.,0.059951026576867364
+564,94,$\it{Other}$,0.4
+565,94,Bamboo Ridge Press.,0.26666666666666666
+566,94,Bess Press Inc.,0.03333333333333333
+567,94,"Bess Press, Inc.",0.0
+568,94,Bess Press.,0.13333333333333333
+569,94,Mutual Publishing.,0.16666666666666666
+570,95,$\it{Other}$,0.5094853730686764
+571,95,Bamboo Ridge Press.,0.04384868931082188
+572,95,Bess Press Inc.,0.1057726694431504
+573,95,"Bess Press, Inc.",0.0
+574,95,Bess Press.,0.1622841941696684
+575,95,Mutual Publishing.,0.17860907400768308
+576,96,$\it{Other}$,0.4570239831882604
+577,96,Bamboo Ridge Press.,0.0830371504090343
+578,96,Bess Press Inc.,0.11661299681973064
+579,96,"Bess Press, Inc.",0.013675946460173064
+580,96,Bess Press.,0.225428768665825
+581,96,Mutual Publishing.,0.10422115445697668
+582,97,$\it{Other}$,0.4
+583,97,Bamboo Ridge Press.,0.13333333333333333
+584,97,Bess Press Inc.,0.1
+585,97,"Bess Press, Inc.",0.06666666666666667
+586,97,Bess Press.,0.16666666666666666
+587,97,Mutual Publishing.,0.13333333333333333
+588,98,$\it{Other}$,0.3333333333333333
+589,98,Bamboo Ridge Press.,0.0
+590,98,Bess Press Inc.,0.2
+591,98,"Bess Press, Inc.",0.03333333333333333
+592,98,Bess Press.,0.26666666666666666
+593,98,Mutual Publishing.,0.16666666666666666
+594,99,$\it{Other}$,0.3651396003182382
+595,99,Bamboo Ridge Press.,0.11437606714402407
+596,99,Bess Press Inc.,0.08256980015911913
+597,99,"Bess Press, Inc.",0.050763533174214184
+598,99,Bess Press.,0.18715099920440428
+599,99,Mutual Publishing.,0.2
+600,100,$\it{Other}$,0.1950878330754733
+601,100,Bamboo Ridge Press.,0.16315643496890866
+602,100,Bess Press Inc.,0.19280682118874443
+603,100,"Bess Press, Inc.",0.03405642560167185
+604,100,Bess Press.,0.33101895132279324
+605,100,Mutual Publishing.,0.08387353384240849
+606,101,$\it{Other}$,0.31699840311967453
+607,101,Bamboo Ridge Press.,0.20316928315931695
+608,101,Bess Press Inc.,0.1414694428473495
+609,101,"Bess Press, Inc.",0.0410121961927046
+610,101,Bess Press.,0.08976596643040695
+611,101,Mutual Publishing.,0.2075847082505475
+612,102,$\it{Other}$,0.17372992192539183
+613,102,Bamboo Ridge Press.,0.2072702829309433
+614,102,Bess Press Inc.,0.1768527209790879
+615,102,"Bess Press, Inc.",0.0
+616,102,Bess Press.,0.29031737236053223
+617,102,Mutual Publishing.,0.15182970180404473
+618,103,$\it{Other}$,0.03333333333333333
+619,103,Bamboo Ridge Press.,0.0
+620,103,Bess Press Inc.,0.36666666666666664
+621,103,"Bess Press, Inc.",0.23333333333333334
+622,103,Bess Press.,0.36666666666666664
+623,103,Mutual Publishing.,0.0
+624,104,$\it{Other}$,0.03333333333333333
+625,104,Bamboo Ridge Press.,0.0
+626,104,Bess Press Inc.,0.43333333333333335
+627,104,"Bess Press, Inc.",0.2
+628,104,Bess Press.,0.3333333333333333
+629,104,Mutual Publishing.,0.0
+630,105,$\it{Other}$,0.0
+631,105,Bamboo Ridge Press.,0.0
+632,105,Bess Press Inc.,0.46430552157391874
+633,105,"Bess Press, Inc.",0.21934211397204662
+634,105,Bess Press.,0.31635236445403464
+635,105,Mutual Publishing.,0.0
+636,106,$\it{Other}$,0.0
+637,106,Bamboo Ridge Press.,0.0
+638,106,Bess Press Inc.,0.0
+639,106,"Bess Press, Inc.",0.35702457653189407
+640,106,Bess Press.,0.642975423468106
+641,106,Mutual Publishing.,0.0
+642,107,$\it{Other}$,0.0
+643,107,Bamboo Ridge Press.,0.0
+644,107,Bess Press Inc.,0.0
+645,107,"Bess Press, Inc.",0.0
+646,107,Bess Press.,1.0
+647,107,Mutual Publishing.,0.0
+648,108,$\it{Other}$,0.0
+649,108,Bamboo Ridge Press.,0.0
+650,108,Bess Press Inc.,0.0
+651,108,"Bess Press, Inc.",0.0
+652,108,Bess Press.,1.0
+653,108,Mutual Publishing.,0.0
+654,109,$\it{Other}$,0.03333333333333333
+655,109,Bamboo Ridge Press.,0.0
+656,109,Bess Press Inc.,0.0
+657,109,"Bess Press, Inc.",0.0
+658,109,Bess Press.,0.9666666666666667
+659,109,Mutual Publishing.,0.0
+660,110,$\it{Other}$,0.0
+661,110,Bamboo Ridge Press.,0.0
+662,110,Bess Press Inc.,0.0
+663,110,"Bess Press, Inc.",0.0
+664,110,Bess Press.,0.9922081115226823
+665,110,Mutual Publishing.,0.007791888477317714
+666,111,$\it{Other}$,0.0
+667,111,Bamboo Ridge Press.,0.0
+668,111,Bess Press Inc.,0.0
+669,111,"Bess Press, Inc.",0.0
+670,111,Bess Press.,1.0
+671,111,Mutual Publishing.,0.0
+672,112,$\it{Other}$,0.0
+673,112,Bamboo Ridge Press.,0.0
+674,112,Bess Press Inc.,0.0
+675,112,"Bess Press, Inc.",0.0
+676,112,Bess Press.,1.0
+677,112,Mutual Publishing.,0.0
+678,113,$\it{Other}$,0.002176494940858829
+679,113,Bamboo Ridge Press.,0.0
+680,113,Bess Press Inc.,0.0
+681,113,"Bess Press, Inc.",0.0
+682,113,Bess Press.,0.9978235050591411
+683,113,Mutual Publishing.,0.0
+684,114,$\it{Other}$,0.0
+685,114,Bamboo Ridge Press.,0.0
+686,114,Bess Press Inc.,0.0
+687,114,"Bess Press, Inc.",0.0
+688,114,Bess Press.,1.0
+689,114,Mutual Publishing.,0.0
+690,115,$\it{Other}$,0.0
+691,115,Bamboo Ridge Press.,0.0
+692,115,Bess Press Inc.,0.0
+693,115,"Bess Press, Inc.",0.0
+694,115,Bess Press.,1.0
+695,115,Mutual Publishing.,0.0
+696,116,$\it{Other}$,0.0
+697,116,Bamboo Ridge Press.,0.0
+698,116,Bess Press Inc.,0.0
+699,116,"Bess Press, Inc.",0.0
+700,116,Bess Press.,1.0
+701,116,Mutual Publishing.,0.0
+702,117,$\it{Other}$,0.0
+703,117,Bamboo Ridge Press.,0.0
+704,117,Bess Press Inc.,0.0
+705,117,"Bess Press, Inc.",0.0
+706,117,Bess Press.,1.0
+707,117,Mutual Publishing.,0.0
+708,118,$\it{Other}$,0.0
+709,118,Bamboo Ridge Press.,0.0
+710,118,Bess Press Inc.,0.0
+711,118,"Bess Press, Inc.",0.0
+712,118,Bess Press.,0.9999999999999998
+713,118,Mutual Publishing.,0.0
+714,119,$\it{Other}$,0.0
+715,119,Bamboo Ridge Press.,0.0
+716,119,Bess Press Inc.,0.0
+717,119,"Bess Press, Inc.",0.0
+718,119,Bess Press.,1.0
+719,119,Mutual Publishing.,0.0
+720,120,$\it{Other}$,0.0
+721,120,Bamboo Ridge Press.,0.0
+722,120,Bess Press Inc.,0.0
+723,120,"Bess Press, Inc.",0.0
+724,120,Bess Press.,1.0
+725,120,Mutual Publishing.,0.0
+726,121,$\it{Other}$,0.0
+727,121,Bamboo Ridge Press.,0.0
+728,121,Bess Press Inc.,0.0
+729,121,"Bess Press, Inc.",0.0
+730,121,Bess Press.,1.0
+731,121,Mutual Publishing.,0.0
+732,122,$\it{Other}$,0.0
+733,122,Bamboo Ridge Press.,0.0
+734,122,Bess Press Inc.,0.0
+735,122,"Bess Press, Inc.",0.0
+736,122,Bess Press.,1.0
+737,122,Mutual Publishing.,0.0
+738,123,$\it{Other}$,0.0
+739,123,Bamboo Ridge Press.,0.0
+740,123,Bess Press Inc.,0.0
+741,123,"Bess Press, Inc.",0.0
+742,123,Bess Press.,1.0
+743,123,Mutual Publishing.,0.0
+744,124,$\it{Other}$,0.0
+745,124,Bamboo Ridge Press.,0.0
+746,124,Bess Press Inc.,0.0
+747,124,"Bess Press, Inc.",0.0
+748,124,Bess Press.,1.0
+749,124,Mutual Publishing.,0.0
+750,125,$\it{Other}$,0.0
+751,125,Bamboo Ridge Press.,0.0
+752,125,Bess Press Inc.,0.0
+753,125,"Bess Press, Inc.",0.0
+754,125,Bess Press.,1.0
+755,125,Mutual Publishing.,0.0
+756,126,$\it{Other}$,0.0
+757,126,Bamboo Ridge Press.,0.0
+758,126,Bess Press Inc.,0.0
+759,126,"Bess Press, Inc.",0.0
+760,126,Bess Press.,1.0
+761,126,Mutual Publishing.,0.0
+762,127,$\it{Other}$,0.0
+763,127,Bamboo Ridge Press.,0.0
+764,127,Bess Press Inc.,0.0
+765,127,"Bess Press, Inc.",0.0
+766,127,Bess Press.,1.0
+767,127,Mutual Publishing.,0.0
+768,128,$\it{Other}$,0.0
+769,128,Bamboo Ridge Press.,0.0
+770,128,Bess Press Inc.,0.0
+771,128,"Bess Press, Inc.",0.0
+772,128,Bess Press.,1.0
+773,128,Mutual Publishing.,0.0
+774,129,$\it{Other}$,0.0
+775,129,Bamboo Ridge Press.,0.0
+776,129,Bess Press Inc.,0.0
+777,129,"Bess Press, Inc.",0.0
+778,129,Bess Press.,1.0
+779,129,Mutual Publishing.,0.0
+780,130,$\it{Other}$,0.0
+781,130,Bamboo Ridge Press.,0.0
+782,130,Bess Press Inc.,0.0
+783,130,"Bess Press, Inc.",0.0
+784,130,Bess Press.,1.0
+785,130,Mutual Publishing.,0.0
+786,131,$\it{Other}$,0.0
+787,131,Bamboo Ridge Press.,0.0
+788,131,Bess Press Inc.,0.0
+789,131,"Bess Press, Inc.",0.0
+790,131,Bess Press.,1.0
+791,131,Mutual Publishing.,0.0
+792,132,$\it{Other}$,0.0
+793,132,Bamboo Ridge Press.,0.0
+794,132,Bess Press Inc.,0.0
+795,132,"Bess Press, Inc.",0.0
+796,132,Bess Press.,1.0
+797,132,Mutual Publishing.,0.0
+798,133,$\it{Other}$,0.01612518392856377
+799,133,Bamboo Ridge Press.,0.0
+800,133,Bess Press Inc.,0.0
+801,133,"Bess Press, Inc.",0.0
+802,133,Bess Press.,0.9838748160714362
+803,133,Mutual Publishing.,0.0
+804,134,$\it{Other}$,0.019390927796702023
+805,134,Bamboo Ridge Press.,0.0
+806,134,Bess Press Inc.,0.0
+807,134,"Bess Press, Inc.",0.0
+808,134,Bess Press.,0.9806090722032978
+809,134,Mutual Publishing.,0.0
+810,135,$\it{Other}$,0.0077384815865074825
+811,135,Bamboo Ridge Press.,0.0
+812,135,Bess Press Inc.,0.0
+813,135,"Bess Press, Inc.",0.0
+814,135,Bess Press.,0.9922615184134925
+815,135,Mutual Publishing.,0.0
+816,136,$\it{Other}$,0.0
+817,136,Bamboo Ridge Press.,0.0
+818,136,Bess Press Inc.,0.0
+819,136,"Bess Press, Inc.",0.0
+820,136,Bess Press.,1.0
+821,136,Mutual Publishing.,0.0
+822,137,$\it{Other}$,0.0
+823,137,Bamboo Ridge Press.,0.0
+824,137,Bess Press Inc.,0.0
+825,137,"Bess Press, Inc.",0.0
+826,137,Bess Press.,1.0
+827,137,Mutual Publishing.,0.0
+828,138,$\it{Other}$,0.0
+829,138,Bamboo Ridge Press.,0.0
+830,138,Bess Press Inc.,0.0
+831,138,"Bess Press, Inc.",0.0
+832,138,Bess Press.,1.0
+833,138,Mutual Publishing.,0.0
+834,139,$\it{Other}$,0.0
+835,139,Bamboo Ridge Press.,0.0
+836,139,Bess Press Inc.,0.0
+837,139,"Bess Press, Inc.",0.0
+838,139,Bess Press.,1.0
+839,139,Mutual Publishing.,0.0
+840,140,$\it{Other}$,0.0067977630909597485
+841,140,Bamboo Ridge Press.,0.0
+842,140,Bess Press Inc.,0.0
+843,140,"Bess Press, Inc.",0.0
+844,140,Bess Press.,0.9932022369090403
+845,140,Mutual Publishing.,0.0
+846,141,$\it{Other}$,0.0
+847,141,Bamboo Ridge Press.,0.0
+848,141,Bess Press Inc.,0.0
+849,141,"Bess Press, Inc.",0.0
+850,141,Bess Press.,1.0
+851,141,Mutual Publishing.,0.0
+852,142,$\it{Other}$,0.0
+853,142,Bamboo Ridge Press.,0.0
+854,142,Bess Press Inc.,0.0
+855,142,"Bess Press, Inc.",0.0
+856,142,Bess Press.,1.0
+857,142,Mutual Publishing.,0.0
+858,143,$\it{Other}$,0.0
+859,143,Bamboo Ridge Press.,0.0
+860,143,Bess Press Inc.,0.0
+861,143,"Bess Press, Inc.",0.0
+862,143,Bess Press.,1.0
+863,143,Mutual Publishing.,0.0
+864,144,$\it{Other}$,0.0
+865,144,Bamboo Ridge Press.,0.0
+866,144,Bess Press Inc.,0.0
+867,144,"Bess Press, Inc.",0.0
+868,144,Bess Press.,1.0
+869,144,Mutual Publishing.,0.0
+870,145,$\it{Other}$,0.0
+871,145,Bamboo Ridge Press.,0.0
+872,145,Bess Press Inc.,0.0
+873,145,"Bess Press, Inc.",0.0
+874,145,Bess Press.,1.0
+875,145,Mutual Publishing.,0.0
+876,146,$\it{Other}$,0.0
+877,146,Bamboo Ridge Press.,0.0
+878,146,Bess Press Inc.,0.0
+879,146,"Bess Press, Inc.",0.0
+880,146,Bess Press.,1.0
+881,146,Mutual Publishing.,0.0
+882,147,$\it{Other}$,0.0
+883,147,Bamboo Ridge Press.,0.0
+884,147,Bess Press Inc.,0.0
+885,147,"Bess Press, Inc.",0.0
+886,147,Bess Press.,0.9999999999999998
+887,147,Mutual Publishing.,0.0
+888,148,$\it{Other}$,0.0
+889,148,Bamboo Ridge Press.,0.0
+890,148,Bess Press Inc.,0.0
+891,148,"Bess Press, Inc.",0.0
+892,148,Bess Press.,1.0
+893,148,Mutual Publishing.,0.0
+894,149,$\it{Other}$,0.0
+895,149,Bamboo Ridge Press.,0.0
+896,149,Bess Press Inc.,0.0
+897,149,"Bess Press, Inc.",0.0
+898,149,Bess Press.,1.0
+899,149,Mutual Publishing.,0.0

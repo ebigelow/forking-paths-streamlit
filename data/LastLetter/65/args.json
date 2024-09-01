@@ -1,0 +1,1 @@
+{"base_args": {"logprobs": 20, "max_tokens": 300}, "extend_args": {"temperature": 1, "n": 30, "max_tokens": 512}, "ans_args": {}, "tok_depth": 300, "p_thresh": 0.05, "row": {"question": "Take the last letters of each words in \"Gabe Dora Aileen Modesto\" and concatenate them.", "answer": "eano", "index": 65}}

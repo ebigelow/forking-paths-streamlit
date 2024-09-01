@@ -1,0 +1,601 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.5761773480771342
+1,0,Mia Maestro.,0.0264381088636401
+2,0,Mia Sara.,0.09183605824682135
+3,0,Michelle Monaghan.,0.05641802615676074
+4,0,Robin Tunney,0.15603865470059344
+5,0,Robin Tunney.,0.09309180395505008
+6,1,$\it{Other}$,0.6477011128282368
+7,1,Mia Maestro.,0.020893677312288896
+8,1,Mia Sara.,0.03339802722437425
+9,1,Michelle Monaghan.,0.06666666666666667
+10,1,Robin Tunney,0.08756034397895557
+11,1,Robin Tunney.,0.1437801719894778
+12,2,$\it{Other}$,0.47152579427109503
+13,2,Mia Maestro.,0.03333333333333333
+14,2,Mia Sara.,0.03333333333333333
+15,2,Michelle Monaghan.,0.10636541015629361
+16,2,Robin Tunney,0.2015062825518652
+17,2,Robin Tunney.,0.15393584635407942
+18,3,$\it{Other}$,0.5060021663523177
+19,3,Mia Maestro.,0.004137368483564189
+20,3,Mia Sara.,0.029195964849769142
+21,3,Michelle Monaghan.,0.1140052810155063
+22,3,Robin Tunney,0.06507349110185293
+23,3,Robin Tunney.,0.28158572819698974
+24,4,$\it{Other}$,0.4666666666666667
+25,4,Mia Maestro.,0.1
+26,4,Mia Sara.,0.13333333333333333
+27,4,Michelle Monaghan.,0.03333333333333333
+28,4,Robin Tunney,0.1
+29,4,Robin Tunney.,0.16666666666666666
+30,5,$\it{Other}$,0.5517502530187356
+31,5,Mia Maestro.,0.04079154015729887
+32,5,Mia Sara.,0.038812689764051694
+33,5,Michelle Monaghan.,0.04627089658801723
+34,5,Robin Tunney,0.07960422992135056
+35,5,Robin Tunney.,0.24277039055054603
+36,6,$\it{Other}$,0.5468795330056231
+37,6,Mia Maestro.,0.0
+38,6,Mia Sara.,0.03333333333333333
+39,6,Michelle Monaghan.,0.11978713366104363
+40,6,Robin Tunney,0.19096920021847352
+41,6,Robin Tunney.,0.10903079978152648
+42,7,$\it{Other}$,0.5333333333333333
+43,7,Mia Maestro.,0.0
+44,7,Mia Sara.,0.03333333333333333
+45,7,Michelle Monaghan.,0.13333333333333333
+46,7,Robin Tunney,0.13333333333333333
+47,7,Robin Tunney.,0.16666666666666666
+48,8,$\it{Other}$,0.4796379304123868
+49,8,Mia Maestro.,0.0535052088572183
+50,8,Mia Sara.,0.023340483193700762
+51,8,Michelle Monaghan.,0.13071923257826856
+52,8,Robin Tunney,0.1405951897929674
+53,8,Robin Tunney.,0.17220195516545822
+54,9,$\it{Other}$,0.5620248487449893
+55,9,Mia Maestro.,0.03366456342073457
+56,9,Mia Sara.,0.007293956969917247
+57,9,Michelle Monaghan.,0.09270604303008276
+58,9,Robin Tunney,0.13267087315853088
+59,9,Robin Tunney.,0.17163971467574524
+60,10,$\it{Other}$,0.5339514206061984
+61,10,Mia Maestro.,0.018063622080683118
+62,10,Mia Sara.,0.10680095944884091
+63,10,Michelle Monaghan.,0.05396201397784803
+64,10,Robin Tunney,0.08978879837132903
+65,10,Robin Tunney.,0.19743318551510056
+66,11,$\it{Other}$,0.43890232260771594
+67,11,Mia Maestro.,0.03333333333333333
+68,11,Mia Sara.,0.03333333333333333
+69,11,Michelle Monaghan.,0.031477003575205796
+70,11,Robin Tunney,0.22962067381707826
+71,11,Robin Tunney.,0.23333333333333334
+72,12,$\it{Other}$,0.5758878691438927
+73,12,Mia Maestro.,0.0
+74,12,Mia Sara.,0.11205606542805369
+75,12,Michelle Monaghan.,0.0
+76,12,Robin Tunney,0.13333333333333336
+77,12,Robin Tunney.,0.17872273209472034
+78,13,$\it{Other}$,0.6152112827974658
+79,13,Mia Maestro.,0.007248820214346998
+80,13,Mia Sara.,0.13333333333333333
+81,13,Michelle Monaghan.,0.03333333333333333
+82,13,Robin Tunney,0.14058215354768033
+83,13,Robin Tunney.,0.07029107677384017
+84,14,$\it{Other}$,0.5333333333333333
+85,14,Mia Maestro.,0.06666666666666667
+86,14,Mia Sara.,0.2
+87,14,Michelle Monaghan.,0.03333333333333333
+88,14,Robin Tunney,0.13333333333333333
+89,14,Robin Tunney.,0.03333333333333333
+90,15,$\it{Other}$,0.6
+91,15,Mia Maestro.,0.0
+92,15,Mia Sara.,0.13333333333333333
+93,15,Michelle Monaghan.,0.0
+94,15,Robin Tunney,0.1
+95,15,Robin Tunney.,0.16666666666666666
+96,16,$\it{Other}$,0.5
+97,16,Mia Maestro.,0.03333333333333333
+98,16,Mia Sara.,0.1
+99,16,Michelle Monaghan.,0.06666666666666667
+100,16,Robin Tunney,0.2
+101,16,Robin Tunney.,0.1
+102,17,$\it{Other}$,0.3333333333333333
+103,17,Mia Maestro.,0.0
+104,17,Mia Sara.,0.23333333333333334
+105,17,Michelle Monaghan.,0.0
+106,17,Robin Tunney,0.3
+107,17,Robin Tunney.,0.13333333333333333
+108,18,$\it{Other}$,0.6
+109,18,Mia Maestro.,0.06666666666666667
+110,18,Mia Sara.,0.06666666666666667
+111,18,Michelle Monaghan.,0.0
+112,18,Robin Tunney,0.2
+113,18,Robin Tunney.,0.06666666666666667
+114,19,$\it{Other}$,0.6333333333333333
+115,19,Mia Maestro.,0.06666666666666667
+116,19,Mia Sara.,0.16666666666666666
+117,19,Michelle Monaghan.,0.06666666666666667
+118,19,Robin Tunney,0.03333333333333333
+119,19,Robin Tunney.,0.03333333333333333
+120,20,$\it{Other}$,0.36666666666666664
+121,20,Mia Maestro.,0.1
+122,20,Mia Sara.,0.16666666666666666
+123,20,Michelle Monaghan.,0.06666666666666667
+124,20,Robin Tunney,0.23333333333333334
+125,20,Robin Tunney.,0.06666666666666667
+126,21,$\it{Other}$,0.5
+127,21,Mia Maestro.,0.0
+128,21,Mia Sara.,0.16666666666666666
+129,21,Michelle Monaghan.,0.1
+130,21,Robin Tunney,0.2
+131,21,Robin Tunney.,0.03333333333333333
+132,22,$\it{Other}$,0.5136013396657955
+133,22,Mia Maestro.,0.031658809330040165
+134,22,Mia Sara.,0.12582249490713937
+135,22,Michelle Monaghan.,0.017684610682235195
+136,22,Robin Tunney,0.15740141323879123
+137,22,Robin Tunney.,0.1538313321759986
+138,23,$\it{Other}$,0.6282025226410793
+139,23,Mia Maestro.,0.036538678668798945
+140,23,Mia Sara.,0.09358930932906878
+141,23,Michelle Monaghan.,0.0
+142,23,Robin Tunney,0.12243741734825928
+143,23,Robin Tunney.,0.11923207201279366
+144,24,$\it{Other}$,0.4967868626039947
+145,24,Mia Maestro.,0.0
+146,24,Mia Sara.,0.13600997284153796
+147,24,Michelle Monaghan.,0.02240105485148914
+148,24,Robin Tunney,0.2365464707293387
+149,24,Robin Tunney.,0.10825563897363957
+150,25,$\it{Other}$,0.4666666666666667
+151,25,Mia Maestro.,0.03333333333333333
+152,25,Mia Sara.,0.13333333333333333
+153,25,Michelle Monaghan.,0.0
+154,25,Robin Tunney,0.2
+155,25,Robin Tunney.,0.16666666666666666
+156,26,$\it{Other}$,0.5928980046472142
+157,26,Mia Maestro.,0.010383180560743334
+158,26,Mia Sara.,0.04835940739602121
+159,26,Michelle Monaghan.,0.018307259270645457
+160,26,Robin Tunney,0.22103067585861935
+161,26,Robin Tunney.,0.10902147226675638
+162,27,$\it{Other}$,0.5
+163,27,Mia Maestro.,0.0
+164,27,Mia Sara.,0.16666666666666666
+165,27,Michelle Monaghan.,0.0
+166,27,Robin Tunney,0.16666666666666666
+167,27,Robin Tunney.,0.16666666666666666
+168,28,$\it{Other}$,0.5596903617798507
+169,28,Mia Maestro.,0.020487310719782142
+170,28,Mia Sara.,0.11877025785254125
+171,28,Michelle Monaghan.,0.0
+172,28,Robin Tunney,0.15114860585326445
+173,28,Robin Tunney.,0.14990346379456157
+174,29,$\it{Other}$,0.6
+175,29,Mia Maestro.,0.06666666666666667
+176,29,Mia Sara.,0.16666666666666666
+177,29,Michelle Monaghan.,0.0
+178,29,Robin Tunney,0.13333333333333333
+179,29,Robin Tunney.,0.03333333333333333
+180,30,$\it{Other}$,0.5881478891642549
+181,30,Mia Maestro.,0.021481222497588114
+182,30,Mia Sara.,0.1192582233236858
+183,30,Michelle Monaghan.,0.021481222497588114
+184,30,Robin Tunney,0.15926055417872614
+185,30,Robin Tunney.,0.09037088833815712
+186,31,$\it{Other}$,0.5333333333333333
+187,31,Mia Maestro.,0.06666666666666667
+188,31,Mia Sara.,0.23333333333333334
+189,31,Michelle Monaghan.,0.0
+190,31,Robin Tunney,0.1
+191,31,Robin Tunney.,0.06666666666666667
+192,32,$\it{Other}$,0.6666666666666666
+193,32,Mia Maestro.,0.1
+194,32,Mia Sara.,0.13333333333333333
+195,32,Michelle Monaghan.,0.03333333333333333
+196,32,Robin Tunney,0.03333333333333333
+197,32,Robin Tunney.,0.03333333333333333
+198,33,$\it{Other}$,0.31598633888429245
+199,33,Mia Maestro.,0.1432852392393148
+200,33,Mia Sara.,0.2435849067068352
+201,33,Michelle Monaghan.,0.0
+202,33,Robin Tunney,0.19381601697128686
+203,33,Robin Tunney.,0.1033274981982708
+204,34,$\it{Other}$,0.053089794211735555
+205,34,Mia Maestro.,0.20365308682396663
+206,34,Mia Sara.,0.7432571189642978
+207,34,Michelle Monaghan.,0.0
+208,34,Robin Tunney,0.0
+209,34,Robin Tunney.,0.0
+210,35,$\it{Other}$,0.01205596292279699
+211,35,Mia Maestro.,0.0
+212,35,Mia Sara.,0.987944037077203
+213,35,Michelle Monaghan.,0.0
+214,35,Robin Tunney,0.0
+215,35,Robin Tunney.,0.0
+216,36,$\it{Other}$,0.0
+217,36,Mia Maestro.,0.0
+218,36,Mia Sara.,1.0
+219,36,Michelle Monaghan.,0.0
+220,36,Robin Tunney,0.0
+221,36,Robin Tunney.,0.0
+222,37,$\it{Other}$,0.03333333333333333
+223,37,Mia Maestro.,0.0
+224,37,Mia Sara.,0.9666666666666667
+225,37,Michelle Monaghan.,0.0
+226,37,Robin Tunney,0.0
+227,37,Robin Tunney.,0.0
+228,38,$\it{Other}$,0.03333333333333333
+229,38,Mia Maestro.,0.0
+230,38,Mia Sara.,0.9666666666666667
+231,38,Michelle Monaghan.,0.0
+232,38,Robin Tunney,0.0
+233,38,Robin Tunney.,0.0
+234,39,$\it{Other}$,0.09348952177589286
+235,39,Mia Maestro.,0.0
+236,39,Mia Sara.,0.9065104782241071
+237,39,Michelle Monaghan.,0.0
+238,39,Robin Tunney,0.0
+239,39,Robin Tunney.,0.0
+240,40,$\it{Other}$,0.03333333333333333
+241,40,Mia Maestro.,0.0
+242,40,Mia Sara.,0.9666666666666667
+243,40,Michelle Monaghan.,0.0
+244,40,Robin Tunney,0.0
+245,40,Robin Tunney.,0.0
+246,41,$\it{Other}$,0.03333333333333333
+247,41,Mia Maestro.,0.0
+248,41,Mia Sara.,0.9666666666666667
+249,41,Michelle Monaghan.,0.0
+250,41,Robin Tunney,0.0
+251,41,Robin Tunney.,0.0
+252,42,$\it{Other}$,0.03333333333333333
+253,42,Mia Maestro.,0.0
+254,42,Mia Sara.,0.9666666666666667
+255,42,Michelle Monaghan.,0.0
+256,42,Robin Tunney,0.0
+257,42,Robin Tunney.,0.0
+258,43,$\it{Other}$,0.03333333333333333
+259,43,Mia Maestro.,0.0
+260,43,Mia Sara.,0.9666666666666667
+261,43,Michelle Monaghan.,0.0
+262,43,Robin Tunney,0.0
+263,43,Robin Tunney.,0.0
+264,44,$\it{Other}$,0.03426379358317096
+265,44,Mia Maestro.,0.0
+266,44,Mia Sara.,0.9657362064168291
+267,44,Michelle Monaghan.,0.0
+268,44,Robin Tunney,0.0
+269,44,Robin Tunney.,0.0
+270,45,$\it{Other}$,0.03333333333333333
+271,45,Mia Maestro.,0.0
+272,45,Mia Sara.,0.9666666666666667
+273,45,Michelle Monaghan.,0.0
+274,45,Robin Tunney,0.0
+275,45,Robin Tunney.,0.0
+276,46,$\it{Other}$,0.007750795435175797
+277,46,Mia Maestro.,0.0
+278,46,Mia Sara.,0.9922492045648242
+279,46,Michelle Monaghan.,0.0
+280,46,Robin Tunney,0.0
+281,46,Robin Tunney.,0.0
+282,47,$\it{Other}$,0.0
+283,47,Mia Maestro.,0.0
+284,47,Mia Sara.,1.0
+285,47,Michelle Monaghan.,0.0
+286,47,Robin Tunney,0.0
+287,47,Robin Tunney.,0.0
+288,48,$\it{Other}$,0.1
+289,48,Mia Maestro.,0.0
+290,48,Mia Sara.,0.9
+291,48,Michelle Monaghan.,0.0
+292,48,Robin Tunney,0.0
+293,48,Robin Tunney.,0.0
+294,49,$\it{Other}$,0.03333333333333333
+295,49,Mia Maestro.,0.0
+296,49,Mia Sara.,0.9666666666666667
+297,49,Michelle Monaghan.,0.0
+298,49,Robin Tunney,0.0
+299,49,Robin Tunney.,0.0
+300,50,$\it{Other}$,0.03333333333333333
+301,50,Mia Maestro.,0.0
+302,50,Mia Sara.,0.9666666666666667
+303,50,Michelle Monaghan.,0.0
+304,50,Robin Tunney,0.0
+305,50,Robin Tunney.,0.0
+306,51,$\it{Other}$,0.03333333333333333
+307,51,Mia Maestro.,0.0
+308,51,Mia Sara.,0.9666666666666667
+309,51,Michelle Monaghan.,0.0
+310,51,Robin Tunney,0.0
+311,51,Robin Tunney.,0.0
+312,52,$\it{Other}$,0.0
+313,52,Mia Maestro.,0.0
+314,52,Mia Sara.,1.0
+315,52,Michelle Monaghan.,0.0
+316,52,Robin Tunney,0.0
+317,52,Robin Tunney.,0.0
+318,53,$\it{Other}$,0.03333333333333333
+319,53,Mia Maestro.,0.0
+320,53,Mia Sara.,0.9666666666666667
+321,53,Michelle Monaghan.,0.0
+322,53,Robin Tunney,0.0
+323,53,Robin Tunney.,0.0
+324,54,$\it{Other}$,0.06666666666666667
+325,54,Mia Maestro.,0.0
+326,54,Mia Sara.,0.9333333333333333
+327,54,Michelle Monaghan.,0.0
+328,54,Robin Tunney,0.0
+329,54,Robin Tunney.,0.0
+330,55,$\it{Other}$,0.0
+331,55,Mia Maestro.,0.0
+332,55,Mia Sara.,1.0
+333,55,Michelle Monaghan.,0.0
+334,55,Robin Tunney,0.0
+335,55,Robin Tunney.,0.0
+336,56,$\it{Other}$,0.03333333333333333
+337,56,Mia Maestro.,0.0
+338,56,Mia Sara.,0.9666666666666667
+339,56,Michelle Monaghan.,0.0
+340,56,Robin Tunney,0.0
+341,56,Robin Tunney.,0.0
+342,57,$\it{Other}$,0.03333333333333333
+343,57,Mia Maestro.,0.0
+344,57,Mia Sara.,0.9666666666666667
+345,57,Michelle Monaghan.,0.0
+346,57,Robin Tunney,0.0
+347,57,Robin Tunney.,0.0
+348,58,$\it{Other}$,0.026598787348149543
+349,58,Mia Maestro.,0.0
+350,58,Mia Sara.,0.9734012126518504
+351,58,Michelle Monaghan.,0.0
+352,58,Robin Tunney,0.0
+353,58,Robin Tunney.,0.0
+354,59,$\it{Other}$,0.0
+355,59,Mia Maestro.,0.0
+356,59,Mia Sara.,1.0
+357,59,Michelle Monaghan.,0.0
+358,59,Robin Tunney,0.0
+359,59,Robin Tunney.,0.0
+360,60,$\it{Other}$,0.03333333333333333
+361,60,Mia Maestro.,0.0
+362,60,Mia Sara.,0.9666666666666667
+363,60,Michelle Monaghan.,0.0
+364,60,Robin Tunney,0.0
+365,60,Robin Tunney.,0.0
+366,61,$\it{Other}$,0.032478595228983116
+367,61,Mia Maestro.,0.0
+368,61,Mia Sara.,0.967521404771017
+369,61,Michelle Monaghan.,0.0
+370,61,Robin Tunney,0.0
+371,61,Robin Tunney.,0.0
+372,62,$\it{Other}$,0.03333333333333333
+373,62,Mia Maestro.,0.0
+374,62,Mia Sara.,0.9666666666666667
+375,62,Michelle Monaghan.,0.0
+376,62,Robin Tunney,0.0
+377,62,Robin Tunney.,0.0
+378,63,$\it{Other}$,0.02696978100789857
+379,63,Mia Maestro.,0.0
+380,63,Mia Sara.,0.9730302189921013
+381,63,Michelle Monaghan.,0.0
+382,63,Robin Tunney,0.0
+383,63,Robin Tunney.,0.0
+384,64,$\it{Other}$,0.0037897566676181617
+385,64,Mia Maestro.,0.0
+386,64,Mia Sara.,0.9962102433323818
+387,64,Michelle Monaghan.,0.0
+388,64,Robin Tunney,0.0
+389,64,Robin Tunney.,0.0
+390,65,$\it{Other}$,0.0
+391,65,Mia Maestro.,0.0
+392,65,Mia Sara.,1.0
+393,65,Michelle Monaghan.,0.0
+394,65,Robin Tunney,0.0
+395,65,Robin Tunney.,0.0
+396,66,$\it{Other}$,0.0
+397,66,Mia Maestro.,0.0
+398,66,Mia Sara.,1.0
+399,66,Michelle Monaghan.,0.0
+400,66,Robin Tunney,0.0
+401,66,Robin Tunney.,0.0
+402,67,$\it{Other}$,0.034482758620689655
+403,67,Mia Maestro.,0.0
+404,67,Mia Sara.,0.9655172413793104
+405,67,Michelle Monaghan.,0.0
+406,67,Robin Tunney,0.0
+407,67,Robin Tunney.,0.0
+408,68,$\it{Other}$,0.0
+409,68,Mia Maestro.,0.0
+410,68,Mia Sara.,1.0
+411,68,Michelle Monaghan.,0.0
+412,68,Robin Tunney,0.0
+413,68,Robin Tunney.,0.0
+414,69,$\it{Other}$,0.030560511343237142
+415,69,Mia Maestro.,0.0
+416,69,Mia Sara.,0.969439488656763
+417,69,Michelle Monaghan.,0.0
+418,69,Robin Tunney,0.0
+419,69,Robin Tunney.,0.0
+420,70,$\it{Other}$,0.0
+421,70,Mia Maestro.,0.0
+422,70,Mia Sara.,1.0
+423,70,Michelle Monaghan.,0.0
+424,70,Robin Tunney,0.0
+425,70,Robin Tunney.,0.0
+426,71,$\it{Other}$,0.0
+427,71,Mia Maestro.,0.0
+428,71,Mia Sara.,1.0
+429,71,Michelle Monaghan.,0.0
+430,71,Robin Tunney,0.0
+431,71,Robin Tunney.,0.0
+432,72,$\it{Other}$,0.003997575956141026
+433,72,Mia Maestro.,0.0
+434,72,Mia Sara.,0.9960024240438591
+435,72,Michelle Monaghan.,0.0
+436,72,Robin Tunney,0.0
+437,72,Robin Tunney.,0.0
+438,73,$\it{Other}$,0.0
+439,73,Mia Maestro.,0.0
+440,73,Mia Sara.,1.0
+441,73,Michelle Monaghan.,0.0
+442,73,Robin Tunney,0.0
+443,73,Robin Tunney.,0.0
+444,74,$\it{Other}$,0.03383974842919883
+445,74,Mia Maestro.,0.0
+446,74,Mia Sara.,0.9661602515708011
+447,74,Michelle Monaghan.,0.0
+448,74,Robin Tunney,0.0
+449,74,Robin Tunney.,0.0
+450,75,$\it{Other}$,0.0
+451,75,Mia Maestro.,0.0
+452,75,Mia Sara.,1.0
+453,75,Michelle Monaghan.,0.0
+454,75,Robin Tunney,0.0
+455,75,Robin Tunney.,0.0
+456,76,$\it{Other}$,0.0
+457,76,Mia Maestro.,0.0
+458,76,Mia Sara.,1.0
+459,76,Michelle Monaghan.,0.0
+460,76,Robin Tunney,0.0
+461,76,Robin Tunney.,0.0
+462,77,$\it{Other}$,0.0
+463,77,Mia Maestro.,0.0
+464,77,Mia Sara.,1.0
+465,77,Michelle Monaghan.,0.0
+466,77,Robin Tunney,0.0
+467,77,Robin Tunney.,0.0
+468,78,$\it{Other}$,0.0
+469,78,Mia Maestro.,0.0
+470,78,Mia Sara.,1.0
+471,78,Michelle Monaghan.,0.0
+472,78,Robin Tunney,0.0
+473,78,Robin Tunney.,0.0
+474,79,$\it{Other}$,0.03413991978179734
+475,79,Mia Maestro.,0.0
+476,79,Mia Sara.,0.9658600802182026
+477,79,Michelle Monaghan.,0.0
+478,79,Robin Tunney,0.0
+479,79,Robin Tunney.,0.0
+480,80,$\it{Other}$,0.0
+481,80,Mia Maestro.,0.0
+482,80,Mia Sara.,1.0
+483,80,Michelle Monaghan.,0.0
+484,80,Robin Tunney,0.0
+485,80,Robin Tunney.,0.0
+486,81,$\it{Other}$,0.0
+487,81,Mia Maestro.,0.0
+488,81,Mia Sara.,1.0
+489,81,Michelle Monaghan.,0.0
+490,81,Robin Tunney,0.0
+491,81,Robin Tunney.,0.0
+492,82,$\it{Other}$,0.045454545454545456
+493,82,Mia Maestro.,0.0
+494,82,Mia Sara.,0.9545454545454546
+495,82,Michelle Monaghan.,0.0
+496,82,Robin Tunney,0.0
+497,82,Robin Tunney.,0.0
+498,83,$\it{Other}$,0.038461538461538464
+499,83,Mia Maestro.,0.0
+500,83,Mia Sara.,0.9615384615384616
+501,83,Michelle Monaghan.,0.0
+502,83,Robin Tunney,0.0
+503,83,Robin Tunney.,0.0
+504,84,$\it{Other}$,0.0
+505,84,Mia Maestro.,0.0
+506,84,Mia Sara.,1.0
+507,84,Michelle Monaghan.,0.0
+508,84,Robin Tunney,0.0
+509,84,Robin Tunney.,0.0
+510,85,$\it{Other}$,0.0
+511,85,Mia Maestro.,0.0
+512,85,Mia Sara.,1.0
+513,85,Michelle Monaghan.,0.0
+514,85,Robin Tunney,0.0
+515,85,Robin Tunney.,0.0
+516,86,$\it{Other}$,0.04
+517,86,Mia Maestro.,0.0
+518,86,Mia Sara.,0.96
+519,86,Michelle Monaghan.,0.0
+520,86,Robin Tunney,0.0
+521,86,Robin Tunney.,0.0
+522,87,$\it{Other}$,0.02712068649347409
+523,87,Mia Maestro.,0.0
+524,87,Mia Sara.,0.9728793135065259
+525,87,Michelle Monaghan.,0.0
+526,87,Robin Tunney,0.0
+527,87,Robin Tunney.,0.0
+528,88,$\it{Other}$,0.0
+529,88,Mia Maestro.,0.0
+530,88,Mia Sara.,1.0
+531,88,Michelle Monaghan.,0.0
+532,88,Robin Tunney,0.0
+533,88,Robin Tunney.,0.0
+534,89,$\it{Other}$,0.005386408589135033
+535,89,Mia Maestro.,0.0
+536,89,Mia Sara.,0.9946135914108649
+537,89,Michelle Monaghan.,0.0
+538,89,Robin Tunney,0.0
+539,89,Robin Tunney.,0.0
+540,90,$\it{Other}$,0.0
+541,90,Mia Maestro.,0.0
+542,90,Mia Sara.,1.0
+543,90,Michelle Monaghan.,0.0
+544,90,Robin Tunney,0.0
+545,90,Robin Tunney.,0.0
+546,91,$\it{Other}$,0.0
+547,91,Mia Maestro.,0.0
+548,91,Mia Sara.,1.0
+549,91,Michelle Monaghan.,0.0
+550,91,Robin Tunney,0.0
+551,91,Robin Tunney.,0.0
+552,92,$\it{Other}$,0.0
+553,92,Mia Maestro.,0.0
+554,92,Mia Sara.,1.0
+555,92,Michelle Monaghan.,0.0
+556,92,Robin Tunney,0.0
+557,92,Robin Tunney.,0.0
+558,93,$\it{Other}$,0.0
+559,93,Mia Maestro.,0.0
+560,93,Mia Sara.,1.0
+561,93,Michelle Monaghan.,0.0
+562,93,Robin Tunney,0.0
+563,93,Robin Tunney.,0.0
+564,94,$\it{Other}$,0.0
+565,94,Mia Maestro.,0.0
+566,94,Mia Sara.,1.0
+567,94,Michelle Monaghan.,0.0
+568,94,Robin Tunney,0.0
+569,94,Robin Tunney.,0.0
+570,95,$\it{Other}$,0.0
+571,95,Mia Maestro.,0.0
+572,95,Mia Sara.,1.0
+573,95,Michelle Monaghan.,0.0
+574,95,Robin Tunney,0.0
+575,95,Robin Tunney.,0.0
+576,96,$\it{Other}$,0.05823200092476485
+577,96,Mia Maestro.,0.0
+578,96,Mia Sara.,0.9417679990752351
+579,96,Michelle Monaghan.,0.0
+580,96,Robin Tunney,0.0
+581,96,Robin Tunney.,0.0
+582,97,$\it{Other}$,0.0
+583,97,Mia Maestro.,0.0
+584,97,Mia Sara.,1.0
+585,97,Michelle Monaghan.,0.0
+586,97,Robin Tunney,0.0
+587,97,Robin Tunney.,0.0
+588,98,$\it{Other}$,0.0
+589,98,Mia Maestro.,0.0
+590,98,Mia Sara.,1.0
+591,98,Michelle Monaghan.,0.0
+592,98,Robin Tunney,0.0
+593,98,Robin Tunney.,0.0
+594,99,$\it{Other}$,0.0
+595,99,Mia Maestro.,0.0
+596,99,Mia Sara.,1.0
+597,99,Michelle Monaghan.,0.0
+598,99,Robin Tunney,0.0
+599,99,Robin Tunney.,0.0

@@ -1,0 +1,545 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.17484537227968633
+1,0,Lorraine Bracco.,0.02195174341202059
+2,0,Sissy Spacek.,0.02606379318343654
+3,0,Uma Thurman.,0.7771390911248566
+4,1,$\it{Other}$,0.3333333333333333
+5,1,Lorraine Bracco.,0.03333333333333333
+6,1,Sissy Spacek.,0.03333333333333333
+7,1,Uma Thurman.,0.6
+8,2,$\it{Other}$,0.21592766506479907
+9,2,Lorraine Bracco.,0.00530922168826636
+10,2,Sissy Spacek.,0.00530922168826636
+11,2,Uma Thurman.,0.7734538915586682
+12,3,$\it{Other}$,0.17730378008092496
+13,3,Lorraine Bracco.,0.025767926693641648
+14,3,Sissy Spacek.,0.05653659083949125
+15,3,Uma Thurman.,0.7403917023859421
+16,4,$\it{Other}$,0.2
+17,4,Lorraine Bracco.,0.03333333333333333
+18,4,Sissy Spacek.,0.03333333333333333
+19,4,Uma Thurman.,0.7333333333333333
+20,5,$\it{Other}$,0.1780486715792136
+21,5,Lorraine Bracco.,0.04476911872342999
+22,5,Sissy Spacek.,0.0028551803806781775
+23,5,Uma Thurman.,0.7743270293166782
+24,6,$\it{Other}$,0.13883158626131828
+25,6,Lorraine Bracco.,0.050888427977912556
+26,6,Sissy Spacek.,0.02636742003351423
+27,6,Uma Thurman.,0.783912565727255
+28,7,$\it{Other}$,0.17509127245326642
+29,7,Lorraine Bracco.,0.07863202324994216
+30,7,Sissy Spacek.,0.024584795057002305
+31,7,Uma Thurman.,0.721691909239789
+32,8,$\it{Other}$,0.1739535477080036
+33,8,Lorraine Bracco.,0.03344807789231034
+34,8,Sissy Spacek.,0.035384542711621586
+35,8,Uma Thurman.,0.7572138316880644
+36,9,$\it{Other}$,0.03333333333333333
+37,9,Lorraine Bracco.,0.0
+38,9,Sissy Spacek.,0.0
+39,9,Uma Thurman.,0.9666666666666667
+40,10,$\it{Other}$,0.06666666666666667
+41,10,Lorraine Bracco.,0.1
+42,10,Sissy Spacek.,0.06666666666666667
+43,10,Uma Thurman.,0.7666666666666667
+44,11,$\it{Other}$,0.2325615893919088
+45,11,Lorraine Bracco.,0.02511631244208553
+46,11,Sissy Spacek.,0.02826327535507968
+47,11,Uma Thurman.,0.714058822810926
+48,12,$\it{Other}$,0.14754115986072552
+49,12,Lorraine Bracco.,0.027280580917106504
+50,12,Sissy Spacek.,0.013640290458553252
+51,12,Uma Thurman.,0.8115379687636146
+52,13,$\it{Other}$,0.19551129015425361
+53,13,Lorraine Bracco.,0.06442231174379347
+54,13,Sissy Spacek.,0.09775564507712681
+55,13,Uma Thurman.,0.6423107530248261
+56,14,$\it{Other}$,0.06666666666666667
+57,14,Lorraine Bracco.,0.06666666666666667
+58,14,Sissy Spacek.,0.13333333333333333
+59,14,Uma Thurman.,0.7333333333333333
+60,15,$\it{Other}$,0.2
+61,15,Lorraine Bracco.,0.06666666666666667
+62,15,Sissy Spacek.,0.1395837785400056
+63,15,Uma Thurman.,0.5937495547933278
+64,16,$\it{Other}$,0.1
+65,16,Lorraine Bracco.,0.13333333333333333
+66,16,Sissy Spacek.,0.1
+67,16,Uma Thurman.,0.6666666666666666
+68,17,$\it{Other}$,0.24830947706560655
+69,17,Lorraine Bracco.,0.1210952069326266
+70,17,Sissy Spacek.,0.0
+71,17,Uma Thurman.,0.6305953160017668
+72,18,$\it{Other}$,0.26666666666666666
+73,18,Lorraine Bracco.,0.1
+74,18,Sissy Spacek.,0.03333333333333333
+75,18,Uma Thurman.,0.6
+76,19,$\it{Other}$,0.4
+77,19,Lorraine Bracco.,0.03333333333333333
+78,19,Sissy Spacek.,0.1
+79,19,Uma Thurman.,0.4666666666666667
+80,20,$\it{Other}$,0.16666666666666666
+81,20,Lorraine Bracco.,0.03333333333333333
+82,20,Sissy Spacek.,0.1
+83,20,Uma Thurman.,0.7
+84,21,$\it{Other}$,0.23333333333333334
+85,21,Lorraine Bracco.,0.06666666666666667
+86,21,Sissy Spacek.,0.1
+87,21,Uma Thurman.,0.6
+88,22,$\it{Other}$,0.26666666666666666
+89,22,Lorraine Bracco.,0.0
+90,22,Sissy Spacek.,0.1
+91,22,Uma Thurman.,0.6333333333333333
+92,23,$\it{Other}$,0.3
+93,23,Lorraine Bracco.,0.03333333333333333
+94,23,Sissy Spacek.,0.2
+95,23,Uma Thurman.,0.4666666666666667
+96,24,$\it{Other}$,0.3752669981358262
+97,24,Lorraine Bracco.,0.0
+98,24,Sissy Spacek.,0.006183250466043459
+99,24,Uma Thurman.,0.6185497513981304
+100,25,$\it{Other}$,0.18064372194081407
+101,25,Lorraine Bracco.,0.10020419545213481
+102,25,Sissy Spacek.,0.04751458405961553
+103,25,Uma Thurman.,0.6716374985474356
+104,26,$\it{Other}$,0.26666666666666666
+105,26,Lorraine Bracco.,0.06666666666666667
+106,26,Sissy Spacek.,0.1
+107,26,Uma Thurman.,0.5666666666666667
+108,27,$\it{Other}$,0.20606566064521303
+109,27,Lorraine Bracco.,0.07273232731187966
+110,27,Sissy Spacek.,0.03333333333333333
+111,27,Uma Thurman.,0.687868678709574
+112,28,$\it{Other}$,0.3
+113,28,Lorraine Bracco.,0.1
+114,28,Sissy Spacek.,0.0
+115,28,Uma Thurman.,0.6
+116,29,$\it{Other}$,0.16666666666666666
+117,29,Lorraine Bracco.,0.1
+118,29,Sissy Spacek.,0.03333333333333333
+119,29,Uma Thurman.,0.7
+120,30,$\it{Other}$,0.2
+121,30,Lorraine Bracco.,0.06666666666666667
+122,30,Sissy Spacek.,0.03333333333333333
+123,30,Uma Thurman.,0.7
+124,31,$\it{Other}$,0.24291825358948177
+125,31,Lorraine Bracco.,0.039990177255900004
+126,31,Sissy Spacek.,0.059273891970403
+127,31,Uma Thurman.,0.6578176771842152
+128,32,$\it{Other}$,0.26666666666666666
+129,32,Lorraine Bracco.,0.0
+130,32,Sissy Spacek.,0.03333333333333333
+131,32,Uma Thurman.,0.7
+132,33,$\it{Other}$,0.26666666666666666
+133,33,Lorraine Bracco.,0.03333333333333333
+134,33,Sissy Spacek.,0.03333333333333333
+135,33,Uma Thurman.,0.6666666666666666
+136,34,$\it{Other}$,0.14262076972120383
+137,34,Lorraine Bracco.,0.04780056856954524
+138,34,Sissy Spacek.,0.055034186187651185
+139,34,Uma Thurman.,0.7545444755215998
+140,35,$\it{Other}$,0.22869706030729822
+141,35,Lorraine Bracco.,0.04761753959846873
+142,35,Sissy Spacek.,0.08949988959309872
+143,35,Uma Thurman.,0.6341855105011344
+144,36,$\it{Other}$,0.3
+145,36,Lorraine Bracco.,0.2
+146,36,Sissy Spacek.,0.06666666666666667
+147,36,Uma Thurman.,0.43333333333333335
+148,37,$\it{Other}$,0.24152918356769265
+149,37,Lorraine Bracco.,0.06296494641421801
+150,37,Sissy Spacek.,0.11116917357415176
+151,37,Uma Thurman.,0.5843366964439376
+152,38,$\it{Other}$,0.2
+153,38,Lorraine Bracco.,0.16666666666666666
+154,38,Sissy Spacek.,0.1
+155,38,Uma Thurman.,0.5333333333333333
+156,39,$\it{Other}$,0.13333333333333333
+157,39,Lorraine Bracco.,0.2
+158,39,Sissy Spacek.,0.1
+159,39,Uma Thurman.,0.5666666666666667
+160,40,$\it{Other}$,0.25832874349977497
+161,40,Lorraine Bracco.,0.12564539941709382
+162,40,Sissy Spacek.,0.03333333333333333
+163,40,Uma Thurman.,0.5826925237497977
+164,41,$\it{Other}$,0.38989265838230003
+165,41,Lorraine Bracco.,0.06498210973038333
+166,41,Sissy Spacek.,0.0016845569362833293
+167,41,Uma Thurman.,0.5434406749510332
+168,42,$\it{Other}$,0.3
+169,42,Lorraine Bracco.,0.03333333333333333
+170,42,Sissy Spacek.,0.03333333333333333
+171,42,Uma Thurman.,0.6333333333333333
+172,43,$\it{Other}$,0.11901955020358138
+173,43,Lorraine Bracco.,0.2561002498868992
+174,43,Sissy Spacek.,0.06666666666666667
+175,43,Uma Thurman.,0.5582135332428527
+176,44,$\it{Other}$,0.26460028182270345
+177,44,Lorraine Bracco.,0.09007165621841381
+178,44,Sissy Spacek.,0.022881830473835116
+179,44,Uma Thurman.,0.6224462314850476
+180,45,$\it{Other}$,0.2099751913152196
+181,45,Lorraine Bracco.,0.08970045456125475
+182,45,Sissy Spacek.,0.05774664679823304
+183,45,Uma Thurman.,0.6425777073252926
+184,46,$\it{Other}$,0.23337557026200823
+185,46,Lorraine Bracco.,0.07229465695833692
+186,46,Sissy Spacek.,0.05612321200195914
+187,46,Uma Thurman.,0.6382065607776957
+188,47,$\it{Other}$,0.09177817148575455
+189,47,Lorraine Bracco.,0.04588908574287728
+190,47,Sissy Spacek.,0.01674100321272526
+191,47,Uma Thurman.,0.845591739558643
+192,48,$\it{Other}$,0.2
+193,48,Lorraine Bracco.,0.03333333333333333
+194,48,Sissy Spacek.,0.06666666666666667
+195,48,Uma Thurman.,0.7
+196,49,$\it{Other}$,0.06666666666666667
+197,49,Lorraine Bracco.,0.1
+198,49,Sissy Spacek.,0.0
+199,49,Uma Thurman.,0.8333333333333334
+200,50,$\it{Other}$,0.26666666666666666
+201,50,Lorraine Bracco.,0.03333333333333333
+202,50,Sissy Spacek.,0.03333333333333333
+203,50,Uma Thurman.,0.6666666666666666
+204,51,$\it{Other}$,0.23333333333333334
+205,51,Lorraine Bracco.,0.06666666666666667
+206,51,Sissy Spacek.,0.03333333333333333
+207,51,Uma Thurman.,0.6666666666666666
+208,52,$\it{Other}$,0.1
+209,52,Lorraine Bracco.,0.1
+210,52,Sissy Spacek.,0.03333333333333333
+211,52,Uma Thurman.,0.7666666666666667
+212,53,$\it{Other}$,0.2460263372122718
+213,53,Lorraine Bracco.,0.02617985922738389
+214,53,Sissy Spacek.,0.08507271678846319
+215,53,Uma Thurman.,0.6427210867718811
+216,54,$\it{Other}$,0.2
+217,54,Lorraine Bracco.,0.03333333333333333
+218,54,Sissy Spacek.,0.06666666666666667
+219,54,Uma Thurman.,0.7
+220,55,$\it{Other}$,0.26666666666666666
+221,55,Lorraine Bracco.,0.0070280165457741045
+222,55,Sissy Spacek.,0.035676005515258034
+223,55,Uma Thurman.,0.6906293112723012
+224,56,$\it{Other}$,0.2920273566743263
+225,56,Lorraine Bracco.,0.08395797736677195
+226,56,Sissy Spacek.,0.0651122526244435
+227,56,Uma Thurman.,0.5589024133344581
+228,57,$\it{Other}$,0.1
+229,57,Lorraine Bracco.,0.03333333333333333
+230,57,Sissy Spacek.,0.0
+231,57,Uma Thurman.,0.8666666666666667
+232,58,$\it{Other}$,0.14875857008416135
+233,58,Lorraine Bracco.,0.05447702414562632
+234,58,Sissy Spacek.,0.11504886955177282
+235,58,Uma Thurman.,0.6817155362184395
+236,59,$\it{Other}$,0.4049874815391844
+237,59,Lorraine Bracco.,0.01948455352837269
+238,59,Sissy Spacek.,0.0219007321932374
+239,59,Uma Thurman.,0.5536272327392054
+240,60,$\it{Other}$,0.3103448275862069
+241,60,Lorraine Bracco.,0.0
+242,60,Sissy Spacek.,0.034482758620689655
+243,60,Uma Thurman.,0.6551724137931034
+244,61,$\it{Other}$,0.3333333333333333
+245,61,Lorraine Bracco.,0.0
+246,61,Sissy Spacek.,0.0
+247,61,Uma Thurman.,0.6666666666666666
+248,62,$\it{Other}$,0.219306616072671
+249,62,Lorraine Bracco.,0.033333333333333326
+250,62,Sissy Spacek.,0.08597328273933764
+251,62,Uma Thurman.,0.661386767854658
+252,63,$\it{Other}$,0.3639008318763487
+253,63,Lorraine Bracco.,0.004611997428184708
+254,63,Sissy Spacek.,0.08606845291099507
+255,63,Uma Thurman.,0.5454187177844715
+256,64,$\it{Other}$,0.19999999999999998
+257,64,Lorraine Bracco.,0.00390055130555338
+258,64,Sissy Spacek.,0.06471639101388997
+259,64,Uma Thurman.,0.7313830576805566
+260,65,$\it{Other}$,0.3333333333333333
+261,65,Lorraine Bracco.,0.0
+262,65,Sissy Spacek.,0.03333333333333333
+263,65,Uma Thurman.,0.6333333333333333
+264,66,$\it{Other}$,0.13333333333333333
+265,66,Lorraine Bracco.,0.06666666666666667
+266,66,Sissy Spacek.,0.0
+267,66,Uma Thurman.,0.8
+268,67,$\it{Other}$,0.36666666666666664
+269,67,Lorraine Bracco.,0.0
+270,67,Sissy Spacek.,0.03333333333333333
+271,67,Uma Thurman.,0.6
+272,68,$\it{Other}$,0.23333333333333334
+273,68,Lorraine Bracco.,0.0
+274,68,Sissy Spacek.,0.13333333333333333
+275,68,Uma Thurman.,0.6333333333333333
+276,69,$\it{Other}$,0.25143794230847966
+277,69,Lorraine Bracco.,0.0
+278,69,Sissy Spacek.,0.0501156789110382
+279,69,Uma Thurman.,0.6984463787804822
+280,70,$\it{Other}$,0.23184356138993373
+281,70,Lorraine Bracco.,0.0
+282,70,Sissy Spacek.,0.0
+283,70,Uma Thurman.,0.7681564386100661
+284,71,$\it{Other}$,0.1752543650633988
+285,71,Lorraine Bracco.,0.0
+286,71,Sissy Spacek.,0.008587698396732136
+287,71,Uma Thurman.,0.8161579365398691
+288,72,$\it{Other}$,0.16666666666666666
+289,72,Lorraine Bracco.,0.0
+290,72,Sissy Spacek.,0.0
+291,72,Uma Thurman.,0.8333333333333334
+292,73,$\it{Other}$,0.13333333333333333
+293,73,Lorraine Bracco.,0.0
+294,73,Sissy Spacek.,0.03333333333333333
+295,73,Uma Thurman.,0.8333333333333334
+296,74,$\it{Other}$,0.16666666666666666
+297,74,Lorraine Bracco.,0.03333333333333333
+298,74,Sissy Spacek.,0.03333333333333333
+299,74,Uma Thurman.,0.7666666666666667
+300,75,$\it{Other}$,0.16666666666666666
+301,75,Lorraine Bracco.,0.0
+302,75,Sissy Spacek.,0.03333333333333333
+303,75,Uma Thurman.,0.8
+304,76,$\it{Other}$,0.03333333333333333
+305,76,Lorraine Bracco.,0.06666666666666667
+306,76,Sissy Spacek.,0.0
+307,76,Uma Thurman.,0.9
+308,77,$\it{Other}$,0.13333333333333333
+309,77,Lorraine Bracco.,0.03333333333333333
+310,77,Sissy Spacek.,0.03333333333333333
+311,77,Uma Thurman.,0.8
+312,78,$\it{Other}$,0.13333333333333333
+313,78,Lorraine Bracco.,0.0
+314,78,Sissy Spacek.,0.03333333333333333
+315,78,Uma Thurman.,0.8333333333333334
+316,79,$\it{Other}$,0.03333333333333333
+317,79,Lorraine Bracco.,0.0
+318,79,Sissy Spacek.,0.03333333333333333
+319,79,Uma Thurman.,0.9333333333333333
+320,80,$\it{Other}$,0.1
+321,80,Lorraine Bracco.,0.03333333333333333
+322,80,Sissy Spacek.,0.1
+323,80,Uma Thurman.,0.7666666666666667
+324,81,$\it{Other}$,0.1608824135684641
+325,81,Lorraine Bracco.,0.011597938307003015
+326,81,Sissy Spacek.,0.006858468444986434
+327,81,Uma Thurman.,0.8206611796795464
+328,82,$\it{Other}$,0.13333333333333333
+329,82,Lorraine Bracco.,0.0
+330,82,Sissy Spacek.,0.03333333333333333
+331,82,Uma Thurman.,0.8333333333333334
+332,83,$\it{Other}$,0.13333333333333333
+333,83,Lorraine Bracco.,0.0
+334,83,Sissy Spacek.,0.03333333333333333
+335,83,Uma Thurman.,0.8333333333333334
+336,84,$\it{Other}$,0.1446818418942993
+337,84,Lorraine Bracco.,0.0
+338,84,Sissy Spacek.,0.055318158105700704
+339,84,Uma Thurman.,0.8
+340,85,$\it{Other}$,0.06666666666666667
+341,85,Lorraine Bracco.,0.0
+342,85,Sissy Spacek.,0.06666666666666667
+343,85,Uma Thurman.,0.8666666666666667
+344,86,$\it{Other}$,0.06666666666666667
+345,86,Lorraine Bracco.,0.0
+346,86,Sissy Spacek.,0.03333333333333333
+347,86,Uma Thurman.,0.9
+348,87,$\it{Other}$,0.06666666666666667
+349,87,Lorraine Bracco.,0.0
+350,87,Sissy Spacek.,0.0
+351,87,Uma Thurman.,0.9333333333333333
+352,88,$\it{Other}$,0.08777885329849902
+353,88,Lorraine Bracco.,0.026295937789389223
+354,88,Sissy Spacek.,0.026295937789389223
+355,88,Uma Thurman.,0.8596292711227227
+356,89,$\it{Other}$,0.09097423895534312
+357,89,Lorraine Bracco.,0.0
+358,89,Sissy Spacek.,0.0
+359,89,Uma Thurman.,0.909025761044657
+360,90,$\it{Other}$,0.06977884244956661
+361,90,Lorraine Bracco.,0.0
+362,90,Sissy Spacek.,0.003112175782899946
+363,90,Uma Thurman.,0.9271089817675335
+364,91,$\it{Other}$,0.03738997395807098
+365,91,Lorraine Bracco.,0.0
+366,91,Sissy Spacek.,0.0
+367,91,Uma Thurman.,0.9626100260419291
+368,92,$\it{Other}$,0.06262397823679801
+369,92,Lorraine Bracco.,0.0
+370,92,Sissy Spacek.,0.008349796297325207
+371,92,Uma Thurman.,0.9290262254658768
+372,93,$\it{Other}$,0.0
+373,93,Lorraine Bracco.,0.0
+374,93,Sissy Spacek.,0.0
+375,93,Uma Thurman.,1.0
+376,94,$\it{Other}$,0.03870678643843381
+377,94,Lorraine Bracco.,0.0
+378,94,Sissy Spacek.,0.03064660678078309
+379,94,Uma Thurman.,0.9306466067807831
+380,95,$\it{Other}$,0.0
+381,95,Lorraine Bracco.,0.020450789025392196
+382,95,Sissy Spacek.,0.0
+383,95,Uma Thurman.,0.9795492109746078
+384,96,$\it{Other}$,0.0
+385,96,Lorraine Bracco.,0.0
+386,96,Sissy Spacek.,0.0
+387,96,Uma Thurman.,1.0
+388,97,$\it{Other}$,0.0
+389,97,Lorraine Bracco.,0.0
+390,97,Sissy Spacek.,0.0
+391,97,Uma Thurman.,1.0
+392,98,$\it{Other}$,0.03333333333333333
+393,98,Lorraine Bracco.,0.0
+394,98,Sissy Spacek.,0.0
+395,98,Uma Thurman.,0.9666666666666667
+396,99,$\it{Other}$,0.03333333333333333
+397,99,Lorraine Bracco.,0.0
+398,99,Sissy Spacek.,0.0
+399,99,Uma Thurman.,0.9666666666666667
+400,100,$\it{Other}$,0.023427142352573267
+401,100,Lorraine Bracco.,0.0
+402,100,Sissy Spacek.,0.0
+403,100,Uma Thurman.,0.9765728576474267
+404,101,$\it{Other}$,0.0269433801971934
+405,101,Lorraine Bracco.,0.0
+406,101,Sissy Spacek.,0.0
+407,101,Uma Thurman.,0.9730566198028066
+408,102,$\it{Other}$,0.02782709710589054
+409,102,Lorraine Bracco.,0.0
+410,102,Sissy Spacek.,0.0
+411,102,Uma Thurman.,0.9721729028941095
+412,103,$\it{Other}$,0.013286464449339272
+413,103,Lorraine Bracco.,0.0
+414,103,Sissy Spacek.,0.0
+415,103,Uma Thurman.,0.9867135355506608
+416,104,$\it{Other}$,0.01545979326816223
+417,104,Lorraine Bracco.,0.0
+418,104,Sissy Spacek.,0.0
+419,104,Uma Thurman.,0.9845402067318378
+420,105,$\it{Other}$,0.0
+421,105,Lorraine Bracco.,0.0
+422,105,Sissy Spacek.,0.0
+423,105,Uma Thurman.,1.0
+424,106,$\it{Other}$,0.0
+425,106,Lorraine Bracco.,0.0
+426,106,Sissy Spacek.,0.0
+427,106,Uma Thurman.,1.0
+428,107,$\it{Other}$,0.0
+429,107,Lorraine Bracco.,0.0
+430,107,Sissy Spacek.,0.0
+431,107,Uma Thurman.,1.0
+432,108,$\it{Other}$,0.0
+433,108,Lorraine Bracco.,0.0
+434,108,Sissy Spacek.,0.0
+435,108,Uma Thurman.,1.0
+436,109,$\it{Other}$,0.0
+437,109,Lorraine Bracco.,0.0
+438,109,Sissy Spacek.,0.0
+439,109,Uma Thurman.,1.0
+440,110,$\it{Other}$,0.0
+441,110,Lorraine Bracco.,0.0
+442,110,Sissy Spacek.,0.0
+443,110,Uma Thurman.,0.9999999999999999
+444,111,$\it{Other}$,0.0
+445,111,Lorraine Bracco.,0.0
+446,111,Sissy Spacek.,0.0
+447,111,Uma Thurman.,1.0
+448,112,$\it{Other}$,0.0
+449,112,Lorraine Bracco.,0.0
+450,112,Sissy Spacek.,0.0
+451,112,Uma Thurman.,1.0
+452,113,$\it{Other}$,0.010906228392921312
+453,113,Lorraine Bracco.,0.0
+454,113,Sissy Spacek.,0.0
+455,113,Uma Thurman.,0.9890937716070786
+456,114,$\it{Other}$,0.0
+457,114,Lorraine Bracco.,0.0
+458,114,Sissy Spacek.,0.0
+459,114,Uma Thurman.,1.0
+460,115,$\it{Other}$,0.0
+461,115,Lorraine Bracco.,0.0
+462,115,Sissy Spacek.,0.0
+463,115,Uma Thurman.,1.0
+464,116,$\it{Other}$,0.0
+465,116,Lorraine Bracco.,0.0
+466,116,Sissy Spacek.,0.0
+467,116,Uma Thurman.,1.0
+468,117,$\it{Other}$,0.0
+469,117,Lorraine Bracco.,0.0
+470,117,Sissy Spacek.,0.0
+471,117,Uma Thurman.,1.0
+472,118,$\it{Other}$,0.0
+473,118,Lorraine Bracco.,0.0
+474,118,Sissy Spacek.,0.0
+475,118,Uma Thurman.,1.0
+476,119,$\it{Other}$,0.0
+477,119,Lorraine Bracco.,0.0
+478,119,Sissy Spacek.,0.0
+479,119,Uma Thurman.,1.0
+480,120,$\it{Other}$,0.0
+481,120,Lorraine Bracco.,0.0
+482,120,Sissy Spacek.,0.0
+483,120,Uma Thurman.,1.0
+484,121,$\it{Other}$,0.0
+485,121,Lorraine Bracco.,0.0
+486,121,Sissy Spacek.,0.0
+487,121,Uma Thurman.,1.0
+488,122,$\it{Other}$,0.0
+489,122,Lorraine Bracco.,0.0
+490,122,Sissy Spacek.,0.0
+491,122,Uma Thurman.,1.0
+492,123,$\it{Other}$,0.0
+493,123,Lorraine Bracco.,0.0
+494,123,Sissy Spacek.,0.0
+495,123,Uma Thurman.,1.0
+496,124,$\it{Other}$,0.0
+497,124,Lorraine Bracco.,0.0
+498,124,Sissy Spacek.,0.0
+499,124,Uma Thurman.,1.0
+500,125,$\it{Other}$,0.0
+501,125,Lorraine Bracco.,0.0
+502,125,Sissy Spacek.,0.0
+503,125,Uma Thurman.,1.0
+504,126,$\it{Other}$,0.0
+505,126,Lorraine Bracco.,0.0
+506,126,Sissy Spacek.,0.0
+507,126,Uma Thurman.,1.0
+508,127,$\it{Other}$,0.0
+509,127,Lorraine Bracco.,0.0
+510,127,Sissy Spacek.,0.0
+511,127,Uma Thurman.,1.0
+512,128,$\it{Other}$,0.0
+513,128,Lorraine Bracco.,0.0
+514,128,Sissy Spacek.,0.0
+515,128,Uma Thurman.,1.0
+516,129,$\it{Other}$,0.0
+517,129,Lorraine Bracco.,0.0
+518,129,Sissy Spacek.,0.0
+519,129,Uma Thurman.,1.0
+520,130,$\it{Other}$,0.0
+521,130,Lorraine Bracco.,0.0
+522,130,Sissy Spacek.,0.0
+523,130,Uma Thurman.,1.0
+524,131,$\it{Other}$,0.0
+525,131,Lorraine Bracco.,0.0
+526,131,Sissy Spacek.,0.0
+527,131,Uma Thurman.,1.0
+528,132,$\it{Other}$,0.0
+529,132,Lorraine Bracco.,0.0
+530,132,Sissy Spacek.,0.0
+531,132,Uma Thurman.,1.0
+532,133,$\it{Other}$,0.0
+533,133,Lorraine Bracco.,0.0
+534,133,Sissy Spacek.,0.0
+535,133,Uma Thurman.,1.0
+536,134,$\it{Other}$,0.0
+537,134,Lorraine Bracco.,0.0
+538,134,Sissy Spacek.,0.0
+539,134,Uma Thurman.,1.0
+540,135,$\it{Other}$,0.0
+541,135,Lorraine Bracco.,0.0
+542,135,Sissy Spacek.,0.0
+543,135,Uma Thurman.,1.0

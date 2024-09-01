@@ -1,0 +1,925 @@
+,idx,ans,weighted
+0,0,"""featured artist.""",0.00816838468342987
+1,0,"""featured artists.""",0.0
+2,0,$\it{Other}$,0.9836632306331403
+3,0,"Canadian DJ, turntables, record producer, and music label executive.",0.00816838468342987
+4,0,collaborators,0.0
+5,0,collaborators or contributors,0.0
+6,1,"""featured artist.""",0.0
+7,1,"""featured artists.""",0.0
+8,1,$\it{Other}$,0.9220532228043773
+9,1,"Canadian DJ, turntables, record producer, and music label executive.",0.02598225906520759
+10,1,collaborators,0.05196451813041518
+11,1,collaborators or contributors,0.0
+12,2,"""featured artist.""",0.0
+13,2,"""featured artists.""",0.0
+14,2,$\it{Other}$,0.9666666666666668
+15,2,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+16,2,collaborators,0.0
+17,2,collaborators or contributors,0.0
+18,3,"""featured artist.""",0.0
+19,3,"""featured artists.""",0.0
+20,3,$\it{Other}$,0.9442179837491387
+21,3,"Canadian DJ, turntables, record producer, and music label executive.",0.055782016250861356
+22,3,collaborators,0.0
+23,3,collaborators or contributors,0.0
+24,4,"""featured artist.""",0.0
+25,4,"""featured artists.""",0.0
+26,4,$\it{Other}$,0.9389114434902436
+27,4,"Canadian DJ, turntables, record producer, and music label executive.",0.030544278254878238
+28,4,collaborators,0.0
+29,4,collaborators or contributors,0.030544278254878238
+30,5,"""featured artist.""",0.0
+31,5,"""featured artists.""",0.0
+32,5,$\it{Other}$,1.0
+33,5,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+34,5,collaborators,0.0
+35,5,collaborators or contributors,0.0
+36,6,"""featured artist.""",0.0
+37,6,"""featured artists.""",0.0
+38,6,$\it{Other}$,1.0
+39,6,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+40,6,collaborators,0.0
+41,6,collaborators or contributors,0.0
+42,7,"""featured artist.""",0.005396546042315858
+43,7,"""featured artists.""",0.0
+44,7,$\it{Other}$,0.9849990030843971
+45,7,"Canadian DJ, turntables, record producer, and music label executive.",0.006402967248858042
+46,7,collaborators,0.0
+47,7,collaborators or contributors,0.003201483624429021
+48,8,"""featured artist.""",0.0
+49,8,"""featured artists.""",0.0
+50,8,$\it{Other}$,0.9545411034492651
+51,8,"Canadian DJ, turntables, record producer, and music label executive.",0.04545889655073493
+52,8,collaborators,0.0
+53,8,collaborators or contributors,0.0
+54,9,"""featured artist.""",0.0
+55,9,"""featured artists.""",0.0
+56,9,$\it{Other}$,0.8970411783824916
+57,9,"Canadian DJ, turntables, record producer, and music label executive.",0.07224283303892443
+58,9,collaborators,0.02480261539198328
+59,9,collaborators or contributors,0.00591337318660062
+60,10,"""featured artist.""",0.0
+61,10,"""featured artists.""",0.0
+62,10,$\it{Other}$,0.9953199390797589
+63,10,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+64,10,collaborators,0.0
+65,10,collaborators or contributors,0.004680060920241071
+66,11,"""featured artist.""",0.0
+67,11,"""featured artists.""",0.0
+68,11,$\it{Other}$,0.9646825944716798
+69,11,"Canadian DJ, turntables, record producer, and music label executive.",0.008043105518016944
+70,11,collaborators,0.007632412179734844
+71,11,collaborators or contributors,0.01964188783056839
+72,12,"""featured artist.""",0.0018170000524866225
+73,12,"""featured artists.""",0.0
+74,12,$\it{Other}$,0.9351503333858201
+75,12,"Canadian DJ, turntables, record producer, and music label executive.",0.031516333280846714
+76,12,collaborators,0.0
+77,12,collaborators or contributors,0.031516333280846714
+78,13,"""featured artist.""",0.0018566540351271645
+79,13,"""featured artists.""",0.0
+80,13,$\it{Other}$,0.9351899873684605
+81,13,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+82,13,collaborators,0.0
+83,13,collaborators or contributors,0.06295335859641234
+84,14,"""featured artist.""",0.02138413828937005
+85,14,"""featured artists.""",0.0
+86,14,$\it{Other}$,0.9025142517985565
+87,14,"Canadian DJ, turntables, record producer, and music label executive.",0.011949195043963284
+88,14,collaborators,0.02138413828937005
+89,14,collaborators or contributors,0.0427682765787401
+90,15,"""featured artist.""",0.0
+91,15,"""featured artists.""",0.0
+92,15,$\it{Other}$,0.9150170203208695
+93,15,"Canadian DJ, turntables, record producer, and music label executive.",0.007508510160434746
+94,15,collaborators,0.04492797896053767
+95,15,collaborators or contributors,0.032546490558158093
+96,16,"""featured artist.""",0.0
+97,16,"""featured artists.""",0.0
+98,16,$\it{Other}$,0.9396518613405882
+99,16,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+100,16,collaborators,0.028723622201523046
+101,16,collaborators or contributors,0.03162451645788879
+102,17,"""featured artist.""",0.03837793767637441
+103,17,"""featured artists.""",0.0
+104,17,$\it{Other}$,0.9348676187797241
+105,17,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+106,17,collaborators,0.011623494132472927
+107,17,collaborators or contributors,0.015130949411428557
+108,18,"""featured artist.""",0.03333333333333333
+109,18,"""featured artists.""",0.0
+110,18,$\it{Other}$,0.9000000000000001
+111,18,"Canadian DJ, turntables, record producer, and music label executive.",0.034868059219366886
+112,18,collaborators,0.03179860744729979
+113,18,collaborators or contributors,0.0
+114,19,"""featured artist.""",0.05683416003820167
+115,19,"""featured artists.""",0.0
+116,19,$\it{Other}$,0.8666666666666667
+117,19,"Canadian DJ, turntables, record producer, and music label executive.",0.009832506628464995
+118,19,collaborators,0.03333333333333333
+119,19,collaborators or contributors,0.03333333333333333
+120,20,"""featured artist.""",0.0
+121,20,"""featured artists.""",0.0
+122,20,$\it{Other}$,0.9186736544722092
+123,20,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+124,20,collaborators,0.047993012194457424
+125,20,collaborators or contributors,0.03333333333333333
+126,21,"""featured artist.""",0.03333333333333333
+127,21,"""featured artists.""",0.007464945650785559
+128,21,$\it{Other}$,0.9258683876825478
+129,21,"Canadian DJ, turntables, record producer, and music label executive.",0.025868387682547775
+130,21,collaborators,0.007464945650785559
+131,21,collaborators or contributors,0.0
+132,22,"""featured artist.""",0.05421280455246865
+133,22,"""featured artists.""",0.0
+134,22,$\it{Other}$,0.9435867843526416
+135,22,"Canadian DJ, turntables, record producer, and music label executive.",0.002200411094889656
+136,22,collaborators,0.0
+137,22,collaborators or contributors,0.0
+138,23,"""featured artist.""",0.06449775632352812
+139,23,"""featured artists.""",0.0
+140,23,$\it{Other}$,0.8376711540196106
+141,23,"Canadian DJ, turntables, record producer, and music label executive.",0.09783108965686146
+142,23,collaborators,0.0
+143,23,collaborators or contributors,0.0
+144,24,"""featured artist.""",0.03795000213665594
+145,24,"""featured artists.""",0.01670466241156456
+146,24,$\it{Other}$,0.8873599897662602
+147,24,"Canadian DJ, turntables, record producer, and music label executive.",0.022257094556956878
+148,24,collaborators,0.027321162981573457
+149,24,collaborators or contributors,0.008407088146989058
+150,25,"""featured artist.""",0.004452989043368326
+151,25,"""featured artists.""",0.0
+152,25,$\it{Other}$,0.9064358774359187
+153,25,"Canadian DJ, turntables, record producer, and music label executive.",0.003965776785100675
+154,25,collaborators,0.0
+155,25,collaborators or contributors,0.08514535673561234
+156,26,"""featured artist.""",0.03333333333333333
+157,26,"""featured artists.""",0.0
+158,26,$\it{Other}$,0.8666666666666667
+159,26,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+160,26,collaborators,0.03333333333333333
+161,26,collaborators or contributors,0.03333333333333333
+162,27,"""featured artist.""",0.024286777486035728
+163,27,"""featured artists.""",0.0
+164,27,$\it{Other}$,0.8733077796172504
+165,27,"Canadian DJ, turntables, record producer, and music label executive.",0.040997109182618265
+166,27,collaborators,0.020498554591309132
+167,27,collaborators or contributors,0.040909779122786524
+168,28,"""featured artist.""",0.03333333333333333
+169,28,"""featured artists.""",0.0
+170,28,$\it{Other}$,0.8666666666666667
+171,28,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+172,28,collaborators,0.06666666666666667
+173,28,collaborators or contributors,0.03333333333333333
+174,29,"""featured artist.""",0.0
+175,29,"""featured artists.""",0.0
+176,29,$\it{Other}$,0.938390567950215
+177,29,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+178,29,collaborators,0.013308305228937023
+179,29,collaborators or contributors,0.04830112682084798
+180,30,"""featured artist.""",0.0
+181,30,"""featured artists.""",0.0
+182,30,$\it{Other}$,0.9333333333333333
+183,30,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+184,30,collaborators,0.0
+185,30,collaborators or contributors,0.03333333333333333
+186,31,"""featured artist.""",0.0
+187,31,"""featured artists.""",0.0
+188,31,$\it{Other}$,0.8666666666666667
+189,31,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+190,31,collaborators,0.03333333333333333
+191,31,collaborators or contributors,0.06666666666666667
+192,32,"""featured artist.""",0.0
+193,32,"""featured artists.""",0.0
+194,32,$\it{Other}$,0.9648270005186138
+195,32,"Canadian DJ, turntables, record producer, and music label executive.",0.003679332296105878
+196,32,collaborators,0.0
+197,32,collaborators or contributors,0.03149366718528039
+198,33,"""featured artist.""",0.06666666666666667
+199,33,"""featured artists.""",0.0
+200,33,$\it{Other}$,0.9333333333333333
+201,33,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+202,33,collaborators,0.0
+203,33,collaborators or contributors,0.0
+204,34,"""featured artist.""",0.0
+205,34,"""featured artists.""",0.0
+206,34,$\it{Other}$,0.9333333333333333
+207,34,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666667
+208,34,collaborators,0.0
+209,34,collaborators or contributors,0.0
+210,35,"""featured artist.""",0.014045901409520676
+211,35,"""featured artists.""",0.0
+212,35,$\it{Other}$,0.9140459014095206
+213,35,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+214,35,collaborators,0.019287431923812656
+215,35,collaborators or contributors,0.019287431923812656
+216,36,"""featured artist.""",0.03333333333333333
+217,36,"""featured artists.""",0.0
+218,36,$\it{Other}$,0.9043972011928855
+219,36,"Canadian DJ, turntables, record producer, and music label executive.",0.014468066070223959
+220,36,collaborators,0.03333333333333333
+221,36,collaborators or contributors,0.014468066070223959
+222,37,"""featured artist.""",0.0
+223,37,"""featured artists.""",0.0
+224,37,$\it{Other}$,0.9666666666666667
+225,37,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+226,37,collaborators,0.03333333333333333
+227,37,collaborators or contributors,0.0
+228,38,"""featured artist.""",0.03107940024512415
+229,38,"""featured artists.""",0.022479920518785133
+230,38,$\it{Other}$,0.8592298181119241
+231,38,"Canadian DJ, turntables, record producer, and music label executive.",0.025983353814705516
+232,38,collaborators,0.054220640717620214
+233,38,collaborators or contributors,0.0070068665918407635
+234,39,"""featured artist.""",0.013930429198847202
+235,39,"""featured artists.""",0.0
+236,39,$\it{Other}$,0.8456852692265631
+237,39,"Canadian DJ, turntables, record producer, and music label executive.",0.03576962641117098
+238,39,collaborators,0.03615992537466451
+239,39,collaborators or contributors,0.06845474978875439
+240,40,"""featured artist.""",0.019328915907955477
+241,40,"""featured artists.""",0.016281642192082658
+242,40,$\it{Other}$,0.8753715102497029
+243,40,"Canadian DJ, turntables, record producer, and music label executive.",0.0156958169117989
+244,40,collaborators,0.055709522957161625
+245,40,collaborators or contributors,0.017612591781298367
+246,41,"""featured artist.""",0.006137366979258011
+247,41,"""featured artists.""",0.0
+248,41,$\it{Other}$,0.8794748546096895
+249,41,"Canadian DJ, turntables, record producer, and music label executive.",0.020525145390310535
+250,41,collaborators,0.009739504453393796
+251,41,collaborators or contributors,0.08412312856734822
+252,42,"""featured artist.""",0.0
+253,42,"""featured artists.""",0.0
+254,42,$\it{Other}$,0.9274650190758951
+255,42,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+256,42,collaborators,0.045622815642802815
+257,42,collaborators or contributors,0.026912165281302153
+258,43,"""featured artist.""",0.0
+259,43,"""featured artists.""",0.0
+260,43,$\it{Other}$,0.889800944945253
+261,43,"Canadian DJ, turntables, record producer, and music label executive.",0.05124381448094245
+262,43,collaborators,0.03333333333333333
+263,43,collaborators or contributors,0.025621907240471226
+264,44,"""featured artist.""",0.06666666666666667
+265,44,"""featured artists.""",0.0
+266,44,$\it{Other}$,0.8333333333333334
+267,44,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+268,44,collaborators,0.03333333333333333
+269,44,collaborators or contributors,0.06666666666666667
+270,45,"""featured artist.""",0.06666666666666667
+271,45,"""featured artists.""",0.0
+272,45,$\it{Other}$,0.7666666666666667
+273,45,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+274,45,collaborators,0.1
+275,45,collaborators or contributors,0.06666666666666667
+276,46,"""featured artist.""",0.03333333333333333
+277,46,"""featured artists.""",0.0
+278,46,$\it{Other}$,0.8371343631307808
+279,46,"Canadian DJ, turntables, record producer, and music label executive.",0.0038010297974474315
+280,46,collaborators,0.0038010297974474315
+281,46,collaborators or contributors,0.12193024394099103
+282,47,"""featured artist.""",0.1
+283,47,"""featured artists.""",0.03333333333333333
+284,47,$\it{Other}$,0.7333333333333333
+285,47,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+286,47,collaborators,0.06666666666666667
+287,47,collaborators or contributors,0.06666666666666667
+288,48,"""featured artist.""",0.06666666666666667
+289,48,"""featured artists.""",0.0
+290,48,$\it{Other}$,0.8666666666666667
+291,48,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+292,48,collaborators,0.03333333333333333
+293,48,collaborators or contributors,0.03333333333333333
+294,49,"""featured artist.""",0.0
+295,49,"""featured artists.""",0.0
+296,49,$\it{Other}$,0.7398818366289783
+297,49,"Canadian DJ, turntables, record producer, and music label executive.",0.02535696600753765
+298,49,collaborators,0.07464303399246235
+299,49,collaborators or contributors,0.1601181633710216
+300,50,"""featured artist.""",0.006379558826680722
+301,50,"""featured artists.""",0.03014355391999297
+302,50,$\it{Other}$,0.839712892160014
+303,50,"Canadian DJ, turntables, record producer, and music label executive.",0.12376399509331225
+304,50,collaborators,0.0
+305,50,collaborators or contributors,0.0
+306,51,"""featured artist.""",0.007890327940154518
+307,51,"""featured artists.""",0.0
+308,51,$\it{Other}$,0.868438688239382
+309,51,"Canadian DJ, turntables, record producer, and music label executive.",0.05877633872651215
+310,51,collaborators,0.04122366127348785
+311,51,collaborators or contributors,0.02367098382046355
+312,52,"""featured artist.""",0.03333333333333333
+313,52,"""featured artists.""",0.0
+314,52,$\it{Other}$,0.8333333333333334
+315,52,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+316,52,collaborators,0.06666666666666667
+317,52,collaborators or contributors,0.06666666666666667
+318,53,"""featured artist.""",0.06666666666666667
+319,53,"""featured artists.""",0.0
+320,53,$\it{Other}$,0.7666666666666667
+321,53,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+322,53,collaborators,0.06666666666666667
+323,53,collaborators or contributors,0.1
+324,54,"""featured artist.""",0.06666666666666667
+325,54,"""featured artists.""",0.0
+326,54,$\it{Other}$,0.8666666666666667
+327,54,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+328,54,collaborators,0.03333333333333333
+329,54,collaborators or contributors,0.03333333333333333
+330,55,"""featured artist.""",0.03333333333333333
+331,55,"""featured artists.""",0.0
+332,55,$\it{Other}$,0.9
+333,55,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666667
+334,55,collaborators,0.0
+335,55,collaborators or contributors,0.0
+336,56,"""featured artist.""",0.0
+337,56,"""featured artists.""",0.0
+338,56,$\it{Other}$,0.8666666666666667
+339,56,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+340,56,collaborators,0.03333333333333333
+341,56,collaborators or contributors,0.06666666666666667
+342,57,"""featured artist.""",0.0
+343,57,"""featured artists.""",0.0
+344,57,$\it{Other}$,0.9666666666666667
+345,57,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+346,57,collaborators,0.03333333333333333
+347,57,collaborators or contributors,0.0
+348,58,"""featured artist.""",0.0
+349,58,"""featured artists.""",0.0
+350,58,$\it{Other}$,0.8
+351,58,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+352,58,collaborators,0.06666666666666667
+353,58,collaborators or contributors,0.13333333333333333
+354,59,"""featured artist.""",0.0
+355,59,"""featured artists.""",0.03333333333333333
+356,59,$\it{Other}$,0.9
+357,59,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666667
+358,59,collaborators,0.0
+359,59,collaborators or contributors,0.0
+360,60,"""featured artist.""",0.0
+361,60,"""featured artists.""",0.03333333333333333
+362,60,$\it{Other}$,0.8333333333333334
+363,60,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+364,60,collaborators,0.03333333333333333
+365,60,collaborators or contributors,0.1
+366,61,"""featured artist.""",0.03333333333333333
+367,61,"""featured artists.""",0.0
+368,61,$\it{Other}$,0.8666666666666667
+369,61,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+370,61,collaborators,0.1
+371,61,collaborators or contributors,0.0
+372,62,"""featured artist.""",0.0
+373,62,"""featured artists.""",0.0
+374,62,$\it{Other}$,0.8666666666666667
+375,62,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+376,62,collaborators,0.0
+377,62,collaborators or contributors,0.13333333333333333
+378,63,"""featured artist.""",0.03056865635772699
+379,63,"""featured artists.""",0.0
+380,63,$\it{Other}$,0.9278039793821207
+381,63,"Canadian DJ, turntables, record producer, and music label executive.",0.005529353951212686
+382,63,collaborators,0.0
+383,63,collaborators or contributors,0.03609801030893968
+384,64,"""featured artist.""",0.0
+385,64,"""featured artists.""",0.0
+386,64,$\it{Other}$,0.9
+387,64,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+388,64,collaborators,0.0
+389,64,collaborators or contributors,0.06666666666666667
+390,65,"""featured artist.""",0.02978356032651499
+391,65,"""featured artists.""",0.0
+392,65,$\it{Other}$,0.8698804921071853
+393,65,"Canadian DJ, turntables, record producer, and music label executive.",0.028930909497277585
+394,65,collaborators,0.025381136490459238
+395,65,collaborators or contributors,0.046023901578562953
+396,66,"""featured artist.""",0.015388291300920197
+397,66,"""featured artists.""",0.012375732015059211
+398,66,$\it{Other}$,0.7629166896375795
+399,66,"Canadian DJ, turntables, record producer, and music label executive.",0.047577120460754484
+400,66,collaborators,0.11731109553158378
+401,66,collaborators or contributors,0.0444310710541029
+402,67,"""featured artist.""",0.0
+403,67,"""featured artists.""",0.0
+404,67,$\it{Other}$,0.8317599088166082
+405,67,"Canadian DJ, turntables, record producer, and music label executive.",0.05283050224287384
+406,67,collaborators,0.03550277738193622
+407,67,collaborators or contributors,0.0799068115585817
+408,68,"""featured artist.""",0.0
+409,68,"""featured artists.""",0.03333333333333333
+410,68,$\it{Other}$,0.6666666666666666
+411,68,"Canadian DJ, turntables, record producer, and music label executive.",0.16666666666666666
+412,68,collaborators,0.1
+413,68,collaborators or contributors,0.03333333333333333
+414,69,"""featured artist.""",0.0
+415,69,"""featured artists.""",0.0
+416,69,$\it{Other}$,0.7333333333333333
+417,69,"Canadian DJ, turntables, record producer, and music label executive.",0.1
+418,69,collaborators,0.13333333333333333
+419,69,collaborators or contributors,0.03333333333333333
+420,70,"""featured artist.""",0.0
+421,70,"""featured artists.""",0.0
+422,70,$\it{Other}$,0.855750985578183
+423,70,"Canadian DJ, turntables, record producer, and music label executive.",0.10000000000000002
+424,70,collaborators,0.013644601360604686
+425,70,collaborators or contributors,0.030604413061212397
+426,71,"""featured artist.""",0.0031626602595951417
+427,71,"""featured artists.""",0.003205744086625831
+428,71,$\it{Other}$,0.8206225300538448
+429,71,"Canadian DJ, turntables, record producer, and music label executive.",0.05945711656109259
+430,71,collaborators,0.06234929259961142
+431,71,collaborators or contributors,0.051202656439230235
+432,72,"""featured artist.""",0.0
+433,72,"""featured artists.""",0.0
+434,72,$\it{Other}$,0.8096700854243976
+435,72,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666665
+436,72,collaborators,0.08065982915120491
+437,72,collaborators or contributors,0.04300341875773087
+438,73,"""featured artist.""",0.0
+439,73,"""featured artists.""",0.0
+440,73,$\it{Other}$,0.8333333333333334
+441,73,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666667
+442,73,collaborators,0.06666666666666667
+443,73,collaborators or contributors,0.03333333333333333
+444,74,"""featured artist.""",0.0
+445,74,"""featured artists.""",0.03333333333333333
+446,74,$\it{Other}$,0.7666666666666667
+447,74,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666667
+448,74,collaborators,0.1
+449,74,collaborators or contributors,0.03333333333333333
+450,75,"""featured artist.""",0.0
+451,75,"""featured artists.""",0.0
+452,75,$\it{Other}$,0.7333333333333334
+453,75,"Canadian DJ, turntables, record producer, and music label executive.",0.08625133160758443
+454,75,collaborators,0.09020766752954112
+455,75,collaborators or contributors,0.09020766752954112
+456,76,"""featured artist.""",0.0
+457,76,"""featured artists.""",0.019864076086402022
+458,76,$\it{Other}$,0.875835460336841
+459,76,"Canadian DJ, turntables, record producer, and music label executive.",0.04680259058026464
+460,76,collaborators,0.024164539663158964
+461,76,collaborators or contributors,0.03333333333333333
+462,77,"""featured artist.""",0.0
+463,77,"""featured artists.""",0.03333333333333333
+464,77,$\it{Other}$,0.8333333333333334
+465,77,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+466,77,collaborators,0.03333333333333333
+467,77,collaborators or contributors,0.06666666666666667
+468,78,"""featured artist.""",0.0
+469,78,"""featured artists.""",0.0
+470,78,$\it{Other}$,0.8
+471,78,"Canadian DJ, turntables, record producer, and music label executive.",0.03882846867080849
+472,78,collaborators,0.12783819799585816
+473,78,collaborators or contributors,0.03333333333333333
+474,79,"""featured artist.""",0.0
+475,79,"""featured artists.""",0.0
+476,79,$\it{Other}$,0.7408562269317329
+477,79,"Canadian DJ, turntables, record producer, and music label executive.",0.04085622693173292
+478,79,collaborators,0.1
+479,79,collaborators or contributors,0.11828754613653415
+480,80,"""featured artist.""",0.02470852464621143
+481,80,"""featured artists.""",0.0
+482,80,$\it{Other}$,0.7999999999999999
+483,80,"Canadian DJ, turntables, record producer, and music label executive.",0.033333333333333326
+484,80,collaborators,0.09999999999999999
+485,80,collaborators or contributors,0.041958142020455225
+486,81,"""featured artist.""",0.0034338541265587367
+487,81,"""featured artists.""",0.0
+488,81,$\it{Other}$,0.8666666666666667
+489,81,"Canadian DJ, turntables, record producer, and music label executive.",0.0298994792067746
+490,81,collaborators,0.06323281254010794
+491,81,collaborators or contributors,0.036767187459892076
+492,82,"""featured artist.""",0.0
+493,82,"""featured artists.""",0.01987451095604153
+494,82,$\it{Other}$,0.932852833850161
+495,82,"Canadian DJ, turntables, record producer, and music label executive.",0.01017750521960686
+496,82,collaborators,0.013458822377291804
+497,82,collaborators or contributors,0.023636327596898665
+498,83,"""featured artist.""",0.0
+499,83,"""featured artists.""",0.0
+500,83,$\it{Other}$,0.8
+501,83,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+502,83,collaborators,0.03333333333333333
+503,83,collaborators or contributors,0.13333333333333333
+504,84,"""featured artist.""",0.03333333333333333
+505,84,"""featured artists.""",0.0
+506,84,$\it{Other}$,0.8666666666666667
+507,84,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+508,84,collaborators,0.03333333333333333
+509,84,collaborators or contributors,0.06666666666666667
+510,85,"""featured artist.""",0.03333333333333333
+511,85,"""featured artists.""",0.0
+512,85,$\it{Other}$,0.7
+513,85,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+514,85,collaborators,0.03333333333333333
+515,85,collaborators or contributors,0.2
+516,86,"""featured artist.""",0.0
+517,86,"""featured artists.""",0.0
+518,86,$\it{Other}$,0.8104627137689568
+519,86,"Canadian DJ, turntables, record producer, and music label executive.",0.04740066251574973
+520,86,collaborators,0.1144106129053399
+521,86,collaborators or contributors,0.02772601080995351
+522,87,"""featured artist.""",0.0
+523,87,"""featured artists.""",0.06666666666666667
+524,87,$\it{Other}$,0.7666666666666667
+525,87,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+526,87,collaborators,0.13333333333333333
+527,87,collaborators or contributors,0.0
+528,88,"""featured artist.""",0.0
+529,88,"""featured artists.""",0.005910714829841098
+530,88,$\it{Other}$,0.8177321444895234
+531,88,"Canadian DJ, turntables, record producer, and music label executive.",0.008618095816024716
+532,88,collaborators,0.07364975969445199
+533,88,collaborators or contributors,0.09408928517015891
+534,89,"""featured artist.""",0.03333333333333333
+535,89,"""featured artists.""",0.0
+536,89,$\it{Other}$,0.8
+537,89,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+538,89,collaborators,0.16666666666666666
+539,89,collaborators or contributors,0.0
+540,90,"""featured artist.""",0.0
+541,90,"""featured artists.""",0.05675466311697081
+542,90,$\it{Other}$,0.7801759929006084
+543,90,"Canadian DJ, turntables, record producer, and music label executive.",0.004956001774847925
+544,90,collaborators,0.07657867021636251
+545,90,collaborators or contributors,0.08153467199121044
+546,91,"""featured artist.""",0.0
+547,91,"""featured artists.""",0.03333333333333333
+548,91,$\it{Other}$,0.7422321367637631
+549,91,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+550,91,collaborators,0.13333333333333333
+551,91,collaborators or contributors,0.09110119656957018
+552,92,"""featured artist.""",0.0
+553,92,"""featured artists.""",0.03333333333333333
+554,92,$\it{Other}$,0.8
+555,92,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+556,92,collaborators,0.13333333333333333
+557,92,collaborators or contributors,0.0
+558,93,"""featured artist.""",0.0
+559,93,"""featured artists.""",0.021887892342735853
+560,93,$\it{Other}$,0.7702622936600625
+561,93,"Canadian DJ, turntables, record producer, and music label executive.",0.007425874247357375
+562,93,collaborators,0.09701763224572704
+563,93,collaborators or contributors,0.10340630750411728
+564,94,"""featured artist.""",0.02712152592034228
+565,94,"""featured artists.""",0.0034247809963173334
+566,94,$\it{Other}$,0.8722407195000141
+567,94,"Canadian DJ, turntables, record producer, and music label executive.",0.0027870264166737213
+568,94,collaborators,0.057667832837001894
+569,94,collaborators or contributors,0.03675811432965066
+570,95,"""featured artist.""",0.06666666666666667
+571,95,"""featured artists.""",0.03333333333333333
+572,95,$\it{Other}$,0.8
+573,95,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+574,95,collaborators,0.06666666666666667
+575,95,collaborators or contributors,0.03333333333333333
+576,96,"""featured artist.""",0.0
+577,96,"""featured artists.""",0.0
+578,96,$\it{Other}$,0.8333333333333334
+579,96,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+580,96,collaborators,0.13333333333333333
+581,96,collaborators or contributors,0.03333333333333333
+582,97,"""featured artist.""",0.0
+583,97,"""featured artists.""",0.0
+584,97,$\it{Other}$,0.8843497374900395
+585,97,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+586,97,collaborators,0.10391256562749014
+587,97,collaborators or contributors,0.011737696882470377
+588,98,"""featured artist.""",0.008867859577375622
+589,98,"""featured artists.""",0.008867859577375622
+590,98,$\it{Other}$,0.7377672631220211
+591,98,"Canadian DJ, turntables, record producer, and music label executive.",0.004433929788687811
+592,98,collaborators,0.06666666666666667
+593,98,collaborators or contributors,0.17339642126787314
+594,99,"""featured artist.""",0.03333333333333333
+595,99,"""featured artists.""",0.0
+596,99,$\it{Other}$,0.8333333333333334
+597,99,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+598,99,collaborators,0.03333333333333333
+599,99,collaborators or contributors,0.1
+600,100,"""featured artist.""",0.00494077742945657
+601,100,"""featured artists.""",0.020333075461464064
+602,100,$\it{Other}$,0.869058706826805
+603,100,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+604,100,collaborators,0.04321488819224647
+605,100,collaborators or contributors,0.06245255209002799
+606,101,"""featured artist.""",0.0056486338776798786
+607,101,"""featured artists.""",0.027684699455653456
+608,101,$\it{Other}$,0.8666666666666668
+609,101,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+610,101,collaborators,0.06101803278898679
+611,101,collaborators or contributors,0.03898196721101321
+612,102,"""featured artist.""",0.13333333333333333
+613,102,"""featured artists.""",0.06666666666666667
+614,102,$\it{Other}$,0.6666666666666666
+615,102,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+616,102,collaborators,0.06666666666666667
+617,102,collaborators or contributors,0.06666666666666667
+618,103,"""featured artist.""",0.07076018126439013
+619,103,"""featured artists.""",0.00200265562009487
+620,103,$\it{Other}$,0.8428496623982381
+621,103,"Canadian DJ, turntables, record producer, and music label executive.",0.019692700936192402
+622,103,collaborators,0.028509016282730705
+623,103,collaborators or contributors,0.036185783498353885
+624,104,"""featured artist.""",0.05774816837303209
+625,104,"""featured artists.""",0.0
+626,104,$\it{Other}$,0.7983693141522191
+627,104,"Canadian DJ, turntables, record producer, and music label executive.",0.028707108712229465
+628,104,collaborators,0.06732154559878469
+629,104,collaborators or contributors,0.04785386316373465
+630,105,"""featured artist.""",0.0
+631,105,"""featured artists.""",0.0
+632,105,$\it{Other}$,0.8666666666666667
+633,105,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+634,105,collaborators,0.1
+635,105,collaborators or contributors,0.03333333333333333
+636,106,"""featured artist.""",0.03333333333333334
+637,106,"""featured artists.""",0.0
+638,106,$\it{Other}$,0.901777297058258
+639,106,"Canadian DJ, turntables, record producer, and music label executive.",0.03155603627507532
+640,106,collaborators,0.01577801813753766
+641,106,collaborators or contributors,0.017555315195795677
+642,107,"""featured artist.""",0.06666666666666667
+643,107,"""featured artists.""",0.06666666666666667
+644,107,$\it{Other}$,0.7666666666666667
+645,107,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+646,107,collaborators,0.06666666666666667
+647,107,collaborators or contributors,0.03333333333333333
+648,108,"""featured artist.""",0.04255630006709442
+649,108,"""featured artists.""",0.04255630006709442
+650,108,$\it{Other}$,0.8148873998658113
+651,108,"Canadian DJ, turntables, record producer, and music label executive.",0.06666666666666667
+652,108,collaborators,0.00922296673376109
+653,108,collaborators or contributors,0.024110366599572244
+654,109,"""featured artist.""",0.06666666666666667
+655,109,"""featured artists.""",0.0
+656,109,$\it{Other}$,0.8333333333333334
+657,109,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+658,109,collaborators,0.1
+659,109,collaborators or contributors,0.0
+660,110,"""featured artist.""",0.03333333333333333
+661,110,"""featured artists.""",0.03333333333333333
+662,110,$\it{Other}$,0.8
+663,110,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+664,110,collaborators,0.1
+665,110,collaborators or contributors,0.03333333333333333
+666,111,"""featured artist.""",0.0
+667,111,"""featured artists.""",0.0
+668,111,$\it{Other}$,0.9
+669,111,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+670,111,collaborators,0.06666666666666667
+671,111,collaborators or contributors,0.0
+672,112,"""featured artist.""",0.0
+673,112,"""featured artists.""",0.03333333333333333
+674,112,$\it{Other}$,0.8333333333333334
+675,112,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+676,112,collaborators,0.1
+677,112,collaborators or contributors,0.03333333333333333
+678,113,"""featured artist.""",0.03333333333333333
+679,113,"""featured artists.""",0.03333333333333333
+680,113,$\it{Other}$,0.8292925820297278
+681,113,"Canadian DJ, turntables, record producer, and music label executive.",0.004040751303605562
+682,113,collaborators,0.06666666666666667
+683,113,collaborators or contributors,0.03333333333333333
+684,114,"""featured artist.""",0.013975912873813556
+685,114,"""featured artists.""",0.022678932412236563
+686,114,$\it{Other}$,0.8739995556350466
+687,114,"Canadian DJ, turntables, record producer, and music label executive.",0.013975912873813556
+688,114,collaborators,0.0560122657455699
+689,114,collaborators or contributors,0.019357420459519777
+690,115,"""featured artist.""",0.03333333333333333
+691,115,"""featured artists.""",0.005967812413746537
+692,115,$\it{Other}$,0.851236770574573
+693,115,"Canadian DJ, turntables, record producer, and music label executive.",0.027365520919586796
+694,115,collaborators,0.0820965627587604
+695,115,collaborators or contributors,0.0
+696,116,"""featured artist.""",0.0949928724327783
+697,116,"""featured artists.""",0.022536033774441005
+698,116,$\it{Other}$,0.8503875624902811
+699,116,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+700,116,collaborators,0.03208353130249959
+701,116,collaborators or contributors,0.0
+702,117,"""featured artist.""",0.04708546109700114
+703,117,"""featured artists.""",0.05979060278483276
+704,117,$\it{Other}$,0.8137521277636679
+705,117,"Canadian DJ, turntables, record producer, and music label executive.",0.05291453890299886
+706,117,collaborators,0.02645726945149943
+707,117,collaborators or contributors,0.0
+708,118,"""featured artist.""",0.061678275834472135
+709,118,"""featured artists.""",0.0049883908321945265
+710,118,$\it{Other}$,0.8850348275034164
+711,118,"Canadian DJ, turntables, record producer, and music label executive.",0.028344942501138806
+712,118,collaborators,0.014965172496583579
+713,118,collaborators or contributors,0.0049883908321945265
+714,119,"""featured artist.""",0.0
+715,119,"""featured artists.""",0.03333333333333333
+716,119,$\it{Other}$,0.8666666666666667
+717,119,"Canadian DJ, turntables, record producer, and music label executive.",0.03333333333333333
+718,119,collaborators,0.0
+719,119,collaborators or contributors,0.06666666666666667
+720,120,"""featured artist.""",0.017881018071542416
+721,120,"""featured artists.""",0.04878564859512425
+722,120,$\it{Other}$,0.8821189819284576
+723,120,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+724,120,collaborators,0.03576203614308483
+725,120,collaborators or contributors,0.015452315261790917
+726,121,"""featured artist.""",0.1
+727,121,"""featured artists.""",0.03333333333333333
+728,121,$\it{Other}$,0.8666666666666667
+729,121,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+730,121,collaborators,0.0
+731,121,collaborators or contributors,0.0
+732,122,"""featured artist.""",0.03516999667083288
+733,122,"""featured artists.""",0.05211496299538669
+734,122,$\it{Other}$,0.8267763928912193
+735,122,"Canadian DJ, turntables, record producer, and music label executive.",0.027811096580208007
+736,122,collaborators,0.03219213068804148
+737,122,collaborators or contributors,0.02593542017431175
+738,123,"""featured artist.""",0.06666666666666667
+739,123,"""featured artists.""",0.03333333333333333
+740,123,$\it{Other}$,0.8333333333333334
+741,123,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+742,123,collaborators,0.06666666666666667
+743,123,collaborators or contributors,0.0
+744,124,"""featured artist.""",0.034482758620689655
+745,124,"""featured artists.""",0.034482758620689655
+746,124,$\it{Other}$,0.8620689655172413
+747,124,"Canadian DJ, turntables, record producer, and music label executive.",0.034482758620689655
+748,124,collaborators,0.034482758620689655
+749,124,collaborators or contributors,0.0
+750,125,"""featured artist.""",0.0
+751,125,"""featured artists.""",0.07142857142857142
+752,125,$\it{Other}$,0.75
+753,125,"Canadian DJ, turntables, record producer, and music label executive.",0.03571428571428571
+754,125,collaborators,0.14285714285714285
+755,125,collaborators or contributors,0.0
+756,126,"""featured artist.""",0.06896551724137931
+757,126,"""featured artists.""",0.0
+758,126,$\it{Other}$,0.7931034482758621
+759,126,"Canadian DJ, turntables, record producer, and music label executive.",0.034482758620689655
+760,126,collaborators,0.10344827586206896
+761,126,collaborators or contributors,0.0
+762,127,"""featured artist.""",0.04086565425269006
+763,127,"""featured artists.""",0.02617267695722785
+764,127,$\it{Other}$,0.841228974701506
+765,127,"Canadian DJ, turntables, record producer, and music label executive.",0.02771299783905834
+766,127,collaborators,0.06401969624951775
+767,127,collaborators or contributors,0.0
+768,128,"""featured artist.""",0.0518930838825106
+769,128,"""featured artists.""",0.03193424259455136
+770,128,$\it{Other}$,0.796367069647614
+771,128,"Canadian DJ, turntables, record producer, and music label executive.",0.020980059410665032
+772,128,collaborators,0.06159317869307862
+773,128,collaborators or contributors,0.03723236577158042
+774,129,"""featured artist.""",0.08588649351011442
+775,129,"""featured artists.""",0.04074713454741471
+776,129,$\it{Other}$,0.7564441764973956
+777,129,"Canadian DJ, turntables, record producer, and music label executive.",0.025673301985680512
+778,129,collaborators,0.04715295285016018
+779,129,collaborators or contributors,0.044095940609234524
+780,130,"""featured artist.""",0.14285714285714285
+781,130,"""featured artists.""",0.14285714285714285
+782,130,$\it{Other}$,0.6190476190476191
+783,130,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+784,130,collaborators,0.047619047619047616
+785,130,collaborators or contributors,0.047619047619047616
+786,131,"""featured artist.""",0.0
+787,131,"""featured artists.""",0.041666666666666664
+788,131,$\it{Other}$,0.875
+789,131,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+790,131,collaborators,0.041666666666666664
+791,131,collaborators or contributors,0.041666666666666664
+792,132,"""featured artist.""",0.09090909090909091
+793,132,"""featured artists.""",0.045454545454545456
+794,132,$\it{Other}$,0.7727272727272727
+795,132,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+796,132,collaborators,0.09090909090909091
+797,132,collaborators or contributors,0.0
+798,133,"""featured artist.""",0.09090909090909091
+799,133,"""featured artists.""",0.045454545454545456
+800,133,$\it{Other}$,0.7272727272727273
+801,133,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+802,133,collaborators,0.09090909090909091
+803,133,collaborators or contributors,0.045454545454545456
+804,134,"""featured artist.""",0.05
+805,134,"""featured artists.""",0.1
+806,134,$\it{Other}$,0.75
+807,134,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+808,134,collaborators,0.1
+809,134,collaborators or contributors,0.0
+810,135,"""featured artist.""",0.1
+811,135,"""featured artists.""",0.05
+812,135,$\it{Other}$,0.7
+813,135,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+814,135,collaborators,0.1
+815,135,collaborators or contributors,0.05
+816,136,"""featured artist.""",0.2
+817,136,"""featured artists.""",0.05
+818,136,$\it{Other}$,0.7
+819,136,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+820,136,collaborators,0.05
+821,136,collaborators or contributors,0.0
+822,137,"""featured artist.""",0.08695652173913043
+823,137,"""featured artists.""",0.08695652173913043
+824,137,$\it{Other}$,0.7391304347826086
+825,137,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+826,137,collaborators,0.043478260869565216
+827,137,collaborators or contributors,0.043478260869565216
+828,138,"""featured artist.""",0.12
+829,138,"""featured artists.""",0.04
+830,138,$\it{Other}$,0.72
+831,138,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+832,138,collaborators,0.08
+833,138,collaborators or contributors,0.04
+834,139,"""featured artist.""",0.19047619047619047
+835,139,"""featured artists.""",0.047619047619047616
+836,139,$\it{Other}$,0.6666666666666666
+837,139,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+838,139,collaborators,0.047619047619047616
+839,139,collaborators or contributors,0.047619047619047616
+840,140,"""featured artist.""",0.09523809523809523
+841,140,"""featured artists.""",0.14285714285714285
+842,140,$\it{Other}$,0.6666666666666666
+843,140,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+844,140,collaborators,0.09523809523809523
+845,140,collaborators or contributors,0.0
+846,141,"""featured artist.""",0.045454545454545456
+847,141,"""featured artists.""",0.09090909090909091
+848,141,$\it{Other}$,0.7727272727272727
+849,141,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+850,141,collaborators,0.045454545454545456
+851,141,collaborators or contributors,0.045454545454545456
+852,142,"""featured artist.""",0.043478260869565216
+853,142,"""featured artists.""",0.08695652173913043
+854,142,$\it{Other}$,0.7391304347826086
+855,142,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+856,142,collaborators,0.043478260869565216
+857,142,collaborators or contributors,0.08695652173913043
+858,143,"""featured artist.""",0.07407407407407407
+859,143,"""featured artists.""",0.07407407407407407
+860,143,$\it{Other}$,0.7037037037037037
+861,143,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+862,143,collaborators,0.1111111111111111
+863,143,collaborators or contributors,0.037037037037037035
+864,144,"""featured artist.""",0.15
+865,144,"""featured artists.""",0.05
+866,144,$\it{Other}$,0.65
+867,144,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+868,144,collaborators,0.1
+869,144,collaborators or contributors,0.05
+870,145,"""featured artist.""",0.18181818181818182
+871,145,"""featured artists.""",0.045454545454545456
+872,145,$\it{Other}$,0.5909090909090909
+873,145,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+874,145,collaborators,0.09090909090909091
+875,145,collaborators or contributors,0.09090909090909091
+876,146,"""featured artist.""",0.16666666666666666
+877,146,"""featured artists.""",0.041666666666666664
+878,146,$\it{Other}$,0.6666666666666666
+879,146,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+880,146,collaborators,0.08333333333333333
+881,146,collaborators or contributors,0.041666666666666664
+882,147,"""featured artist.""",0.043478260869565216
+883,147,"""featured artists.""",0.13043478260869565
+884,147,$\it{Other}$,0.782608695652174
+885,147,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+886,147,collaborators,0.043478260869565216
+887,147,collaborators or contributors,0.0
+888,148,"""featured artist.""",0.09090909090909091
+889,148,"""featured artists.""",0.045454545454545456
+890,148,$\it{Other}$,0.8156587949351564
+891,148,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+892,148,collaborators,0.045454545454545456
+893,148,collaborators or contributors,0.0025230232466618555
+894,149,"""featured artist.""",0.041666666666666664
+895,149,"""featured artists.""",0.041666666666666664
+896,149,$\it{Other}$,0.7916666666666666
+897,149,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+898,149,collaborators,0.08333333333333333
+899,149,collaborators or contributors,0.041666666666666664
+900,150,"""featured artist.""",0.045454545454545456
+901,150,"""featured artists.""",0.045454545454545456
+902,150,$\it{Other}$,0.8636363636363636
+903,150,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+904,150,collaborators,0.045454545454545456
+905,150,collaborators or contributors,0.0
+906,151,"""featured artist.""",0.08184469296740725
+907,151,"""featured artists.""",0.08184469296740725
+908,151,$\it{Other}$,0.7651512929409378
+909,151,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+910,151,collaborators,0.0474395474161651
+911,151,collaborators or contributors,0.02371977370808255
+912,152,"""featured artist.""",0.09719998209178471
+913,152,"""featured artists.""",0.25700004477053817
+914,152,$\it{Other}$,0.645799973137677
+915,152,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+916,152,collaborators,0.0
+917,152,collaborators or contributors,0.0
+918,153,"""featured artist.""",0.0
+919,153,"""featured artists.""",0.8736508782312655
+920,153,$\it{Other}$,0.1263491217687345
+921,153,"Canadian DJ, turntables, record producer, and music label executive.",0.0
+922,153,collaborators,0.0
+923,153,collaborators or contributors,0.0

@@ -1,0 +1,957 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.13233932595372472
+1,0,Eddie Vedder.,0.24266434684229862
+2,0,Peter Noone,0.06301921391340334
+3,0,Peter Noone.,0.5619771132905733
+4,1,$\it{Other}$,0.1275684887561312
+5,1,Eddie Vedder.,0.20864726686580323
+6,1,Peter Noone,0.0
+7,1,Peter Noone.,0.6637842443780656
+8,2,$\it{Other}$,0.1157497637174646
+9,2,Eddie Vedder.,0.21452722645186184
+10,2,Peter Noone,0.03394460196613472
+11,2,Peter Noone.,0.635778407864539
+12,3,$\it{Other}$,0.06666666666666667
+13,3,Eddie Vedder.,0.13333333333333333
+14,3,Peter Noone,0.06666666666666667
+15,3,Peter Noone.,0.7333333333333333
+16,4,$\it{Other}$,0.09322002931422411
+17,4,Eddie Vedder.,0.17057669605091905
+18,4,Peter Noone,0.0696334663228541
+19,4,Peter Noone.,0.6665698083120027
+20,5,$\it{Other}$,0.1
+21,5,Eddie Vedder.,0.20852001730314304
+22,5,Peter Noone,0.05271554978784121
+23,5,Peter Noone.,0.6387644329090157
+24,6,$\it{Other}$,0.11915505773753288
+25,6,Eddie Vedder.,0.15674004763695581
+26,6,Peter Noone,0.026369133731816905
+27,6,Peter Noone.,0.6977357608936945
+28,7,$\it{Other}$,0.0717298897217316
+29,7,Eddie Vedder.,0.398140979563598
+30,7,Peter Noone,0.10020849248536187
+31,7,Peter Noone.,0.4299206382293086
+32,8,$\it{Other}$,0.06666666666666667
+33,8,Eddie Vedder.,0.18581755224063096
+34,8,Peter Noone,0.05796814691022191
+35,8,Peter Noone.,0.6895476341824804
+36,9,$\it{Other}$,0.019088871507497315
+37,9,Eddie Vedder.,0.2711033701611623
+38,9,Peter Noone,0.06854986173168681
+39,9,Peter Noone.,0.6412578965996535
+40,10,$\it{Other}$,0.0
+41,10,Eddie Vedder.,0.36666666666666664
+42,10,Peter Noone,0.03333333333333333
+43,10,Peter Noone.,0.6
+44,11,$\it{Other}$,0.2
+45,11,Eddie Vedder.,0.3
+46,11,Peter Noone,0.06666666666666667
+47,11,Peter Noone.,0.43333333333333335
+48,12,$\it{Other}$,0.06666666666666667
+49,12,Eddie Vedder.,0.26666666666666666
+50,12,Peter Noone,0.06666666666666667
+51,12,Peter Noone.,0.6
+52,13,$\it{Other}$,0.03333333333333333
+53,13,Eddie Vedder.,0.43333333333333335
+54,13,Peter Noone,0.0
+55,13,Peter Noone.,0.5333333333333333
+56,14,$\it{Other}$,0.03333333333333333
+57,14,Eddie Vedder.,0.43333333333333335
+58,14,Peter Noone,0.03333333333333333
+59,14,Peter Noone.,0.5
+60,15,$\it{Other}$,0.06666666666666667
+61,15,Eddie Vedder.,0.3
+62,15,Peter Noone,0.06666666666666667
+63,15,Peter Noone.,0.5666666666666667
+64,16,$\it{Other}$,0.1
+65,16,Eddie Vedder.,0.3
+66,16,Peter Noone,0.03333333333333333
+67,16,Peter Noone.,0.5666666666666667
+68,17,$\it{Other}$,0.1
+69,17,Eddie Vedder.,0.36666666666666664
+70,17,Peter Noone,0.06666666666666667
+71,17,Peter Noone.,0.4666666666666667
+72,18,$\it{Other}$,0.06304272223016551
+73,18,Eddie Vedder.,0.2981628960676367
+74,18,Peter Noone,0.04384018680652017
+75,18,Peter Noone.,0.5949541948956776
+76,19,$\it{Other}$,0.06666666666666667
+77,19,Eddie Vedder.,0.4
+78,19,Peter Noone,0.06666666666666667
+79,19,Peter Noone.,0.4666666666666667
+80,20,$\it{Other}$,0.1
+81,20,Eddie Vedder.,0.4
+82,20,Peter Noone,0.06666666666666667
+83,20,Peter Noone.,0.43333333333333335
+84,21,$\it{Other}$,0.0
+85,21,Eddie Vedder.,0.36666666666666664
+86,21,Peter Noone,0.0
+87,21,Peter Noone.,0.6333333333333333
+88,22,$\it{Other}$,0.029142157508810402
+89,22,Eddie Vedder.,0.3675837104156391
+90,22,Peter Noone,0.081365599053245
+91,22,Peter Noone.,0.5219085330223054
+92,23,$\it{Other}$,0.1
+93,23,Eddie Vedder.,0.36666666666666664
+94,23,Peter Noone,0.06666666666666667
+95,23,Peter Noone.,0.4666666666666667
+96,24,$\it{Other}$,0.06666666666666667
+97,24,Eddie Vedder.,0.4
+98,24,Peter Noone,0.03333333333333333
+99,24,Peter Noone.,0.5
+100,25,$\it{Other}$,0.06666666666666667
+101,25,Eddie Vedder.,0.36666666666666664
+102,25,Peter Noone,0.03333333333333333
+103,25,Peter Noone.,0.5333333333333333
+104,26,$\it{Other}$,0.0
+105,26,Eddie Vedder.,0.4666666666666667
+106,26,Peter Noone,0.0
+107,26,Peter Noone.,0.5333333333333333
+108,27,$\it{Other}$,0.0
+109,27,Eddie Vedder.,0.4073743283465472
+110,27,Peter Noone,0.020353830839940242
+111,27,Peter Noone.,0.5722718408135126
+112,28,$\it{Other}$,0.017674729881720308
+113,28,Eddie Vedder.,0.4020161264301073
+114,28,Peter Noone,0.024495968392473182
+115,28,Peter Noone.,0.5558131752956993
+116,29,$\it{Other}$,0.03638589925122607
+117,29,Eddie Vedder.,0.37449713656900974
+118,29,Peter Noone,0.0302807674154406
+119,29,Peter Noone.,0.5588361967643236
+120,30,$\it{Other}$,0.08325564946541564
+121,30,Eddie Vedder.,0.47488347419812343
+122,30,Peter Noone,0.0417055086006255
+123,30,Peter Noone.,0.4001553677358353
+124,31,$\it{Other}$,0.03333333333333333
+125,31,Eddie Vedder.,0.3333333333333333
+126,31,Peter Noone,0.06666666666666667
+127,31,Peter Noone.,0.5666666666666667
+128,32,$\it{Other}$,0.07773851506912778
+129,32,Eddie Vedder.,0.2856606133912589
+130,32,Peter Noone,0.03246004514386142
+131,32,Peter Noone.,0.604140826395752
+132,33,$\it{Other}$,0.1
+133,33,Eddie Vedder.,0.36666666666666664
+134,33,Peter Noone,0.06666666666666667
+135,33,Peter Noone.,0.4666666666666667
+136,34,$\it{Other}$,0.16666666666666666
+137,34,Eddie Vedder.,0.4
+138,34,Peter Noone,0.03333333333333333
+139,34,Peter Noone.,0.4
+140,35,$\it{Other}$,0.1
+141,35,Eddie Vedder.,0.4
+142,35,Peter Noone,0.03333333333333333
+143,35,Peter Noone.,0.4666666666666667
+144,36,$\it{Other}$,0.07130954572111234
+145,36,Eddie Vedder.,0.4717261356972192
+146,36,Peter Noone,0.0569643185816685
+147,36,Peter Noone.,0.4
+148,37,$\it{Other}$,0.05189663015914171
+149,37,Eddie Vedder.,0.34802725515483013
+150,37,Peter Noone,0.0721360260897804
+151,37,Peter Noone.,0.5279400885962477
+152,38,$\it{Other}$,0.06666666666666667
+153,38,Eddie Vedder.,0.43333333333333335
+154,38,Peter Noone,0.06666666666666667
+155,38,Peter Noone.,0.43333333333333335
+156,39,$\it{Other}$,0.0
+157,39,Eddie Vedder.,0.36666666666666664
+158,39,Peter Noone,0.03333333333333333
+159,39,Peter Noone.,0.6
+160,40,$\it{Other}$,0.0
+161,40,Eddie Vedder.,0.5406957485382633
+162,40,Peter Noone,0.0
+163,40,Peter Noone.,0.4593042514617367
+164,41,$\it{Other}$,0.035605172316553815
+165,41,Eddie Vedder.,0.36666666666666664
+166,41,Peter Noone,0.03333333333333333
+167,41,Peter Noone.,0.5643948276834462
+168,42,$\it{Other}$,0.0
+169,42,Eddie Vedder.,0.43333333333333335
+170,42,Peter Noone,0.0
+171,42,Peter Noone.,0.5666666666666667
+172,43,$\it{Other}$,0.1
+173,43,Eddie Vedder.,0.26666666666666666
+174,43,Peter Noone,0.0
+175,43,Peter Noone.,0.6333333333333333
+176,44,$\it{Other}$,0.0
+177,44,Eddie Vedder.,0.4666666666666667
+178,44,Peter Noone,0.1
+179,44,Peter Noone.,0.43333333333333335
+180,45,$\it{Other}$,0.03333333333333333
+181,45,Eddie Vedder.,0.43333333333333335
+182,45,Peter Noone,0.06666666666666667
+183,45,Peter Noone.,0.4666666666666667
+184,46,$\it{Other}$,0.06666666666666667
+185,46,Eddie Vedder.,0.3333333333333333
+186,46,Peter Noone,0.1
+187,46,Peter Noone.,0.5
+188,47,$\it{Other}$,0.06666666666666667
+189,47,Eddie Vedder.,0.5333333333333333
+190,47,Peter Noone,0.03333333333333333
+191,47,Peter Noone.,0.36666666666666664
+192,48,$\it{Other}$,0.03333333333333333
+193,48,Eddie Vedder.,0.4666666666666667
+194,48,Peter Noone,0.0
+195,48,Peter Noone.,0.5
+196,49,$\it{Other}$,0.06666666666666667
+197,49,Eddie Vedder.,0.3730043671985305
+198,49,Peter Noone,0.09788743315604541
+199,49,Peter Noone.,0.4624415329787575
+200,50,$\it{Other}$,0.03333333333333333
+201,50,Eddie Vedder.,0.36666666666666664
+202,50,Peter Noone,0.0
+203,50,Peter Noone.,0.6
+204,51,$\it{Other}$,0.0
+205,51,Eddie Vedder.,0.4666666666666667
+206,51,Peter Noone,0.03333333333333333
+207,51,Peter Noone.,0.5
+208,52,$\it{Other}$,0.1
+209,52,Eddie Vedder.,0.4
+210,52,Peter Noone,0.06666666666666667
+211,52,Peter Noone.,0.43333333333333335
+212,53,$\it{Other}$,0.005849203825134527
+213,53,Eddie Vedder.,0.4980529750166235
+214,53,Peter Noone,0.0382975279122284
+215,53,Peter Noone.,0.45780029324601357
+216,54,$\it{Other}$,0.03333333333333333
+217,54,Eddie Vedder.,0.4132590086505036
+218,54,Peter Noone,0.02007432468282984
+219,54,Peter Noone.,0.5333333333333333
+220,55,$\it{Other}$,0.0
+221,55,Eddie Vedder.,0.5333333333333333
+222,55,Peter Noone,0.0
+223,55,Peter Noone.,0.4666666666666667
+224,56,$\it{Other}$,0.1
+225,56,Eddie Vedder.,0.5333333333333333
+226,56,Peter Noone,0.03333333333333333
+227,56,Peter Noone.,0.3333333333333333
+228,57,$\it{Other}$,0.03333333333333333
+229,57,Eddie Vedder.,0.5333333333333333
+230,57,Peter Noone,0.0
+231,57,Peter Noone.,0.43333333333333335
+232,58,$\it{Other}$,0.0
+233,58,Eddie Vedder.,0.43333333333333335
+234,58,Peter Noone,0.0
+235,58,Peter Noone.,0.5666666666666667
+236,59,$\it{Other}$,0.03333333333333333
+237,59,Eddie Vedder.,0.4331971051468271
+238,59,Peter Noone,0.08870725130688052
+239,59,Peter Noone.,0.4447623102129591
+240,60,$\it{Other}$,0.015386307982888765
+241,60,Eddie Vedder.,0.3611642489008768
+242,60,Peter Noone,0.003294630072366317
+243,60,Peter Noone.,0.620154813043868
+244,61,$\it{Other}$,0.004220611772287409
+245,61,Eddie Vedder.,0.5113173577137933
+246,61,Peter Noone,0.08311627305590245
+247,61,Peter Noone.,0.4013457574580169
+248,62,$\it{Other}$,0.0021836733255792685
+249,62,Eddie Vedder.,0.6202312933798577
+250,62,Peter Noone,0.0
+251,62,Peter Noone.,0.377585033294563
+252,63,$\it{Other}$,0.029345849821073692
+253,63,Eddie Vedder.,0.6547042161298876
+254,63,Peter Noone,0.029345849821073692
+255,63,Peter Noone.,0.28660408422796485
+256,64,$\it{Other}$,0.0
+257,64,Eddie Vedder.,0.4
+258,64,Peter Noone,0.03333333333333333
+259,64,Peter Noone.,0.5666666666666667
+260,65,$\it{Other}$,0.020759788655722585
+261,65,Eddie Vedder.,0.6213481460766086
+262,65,Peter Noone,0.03333333333333333
+263,65,Peter Noone.,0.32455873193433554
+264,66,$\it{Other}$,0.03333333333333333
+265,66,Eddie Vedder.,0.5666666666666667
+266,66,Peter Noone,0.03333333333333333
+267,66,Peter Noone.,0.36666666666666664
+268,67,$\it{Other}$,0.0
+269,67,Eddie Vedder.,0.5999999999999999
+270,67,Peter Noone,0.01069085812335499
+271,67,Peter Noone.,0.389309141876645
+272,68,$\it{Other}$,0.03333333333333333
+273,68,Eddie Vedder.,0.43333333333333335
+274,68,Peter Noone,0.03333333333333333
+275,68,Peter Noone.,0.5
+276,69,$\it{Other}$,0.0
+277,69,Eddie Vedder.,0.5666666666666667
+278,69,Peter Noone,0.1
+279,69,Peter Noone.,0.3333333333333333
+280,70,$\it{Other}$,0.04210688745778289
+281,70,Eddie Vedder.,0.5189272244074836
+282,70,Peter Noone,0.041443253283039896
+283,70,Peter Noone.,0.3975226348516936
+284,71,$\it{Other}$,0.03333333333333333
+285,71,Eddie Vedder.,0.4666666666666667
+286,71,Peter Noone,0.03333333333333333
+287,71,Peter Noone.,0.4666666666666667
+288,72,$\it{Other}$,0.0035582545276932934
+289,72,Eddie Vedder.,0.7511857907552525
+290,72,Peter Noone,0.01067476358307988
+291,72,Peter Noone.,0.2345811911339744
+292,73,$\it{Other}$,0.0
+293,73,Eddie Vedder.,0.6666666666666666
+294,73,Peter Noone,0.03333333333333333
+295,73,Peter Noone.,0.3
+296,74,$\it{Other}$,0.0
+297,74,Eddie Vedder.,0.7603571527964408
+298,74,Peter Noone,0.006309513870225891
+299,74,Peter Noone.,0.23333333333333334
+300,75,$\it{Other}$,0.0
+301,75,Eddie Vedder.,0.7333333333333333
+302,75,Peter Noone,0.0
+303,75,Peter Noone.,0.26666666666666666
+304,76,$\it{Other}$,0.0
+305,76,Eddie Vedder.,0.7666666666666667
+306,76,Peter Noone,0.0
+307,76,Peter Noone.,0.23333333333333334
+308,77,$\it{Other}$,0.0
+309,77,Eddie Vedder.,0.7666666666666667
+310,77,Peter Noone,0.0
+311,77,Peter Noone.,0.23333333333333334
+312,78,$\it{Other}$,0.0
+313,78,Eddie Vedder.,0.7633122901726528
+314,78,Peter Noone,0.0
+315,78,Peter Noone.,0.23668770982734744
+316,79,$\it{Other}$,0.028498157959224914
+317,79,Eddie Vedder.,0.7670085961902838
+318,79,Peter Noone,0.01899877197281661
+319,79,Peter Noone.,0.18549447387767476
+320,80,$\it{Other}$,0.0
+321,80,Eddie Vedder.,0.7940673032509006
+322,80,Peter Noone,0.0
+323,80,Peter Noone.,0.2059326967490994
+324,81,$\it{Other}$,0.0
+325,81,Eddie Vedder.,0.8
+326,81,Peter Noone,0.0
+327,81,Peter Noone.,0.2
+328,82,$\it{Other}$,0.0
+329,82,Eddie Vedder.,0.8339063416924681
+330,82,Peter Noone,0.0
+331,82,Peter Noone.,0.16609365830753187
+332,83,$\it{Other}$,0.0
+333,83,Eddie Vedder.,1.0
+334,83,Peter Noone,0.0
+335,83,Peter Noone.,0.0
+336,84,$\it{Other}$,0.0
+337,84,Eddie Vedder.,1.0
+338,84,Peter Noone,0.0
+339,84,Peter Noone.,0.0
+340,85,$\it{Other}$,0.0
+341,85,Eddie Vedder.,1.0
+342,85,Peter Noone,0.0
+343,85,Peter Noone.,0.0
+344,86,$\it{Other}$,0.0
+345,86,Eddie Vedder.,1.0
+346,86,Peter Noone,0.0
+347,86,Peter Noone.,0.0
+348,87,$\it{Other}$,0.0
+349,87,Eddie Vedder.,1.0
+350,87,Peter Noone,0.0
+351,87,Peter Noone.,0.0
+352,88,$\it{Other}$,0.0
+353,88,Eddie Vedder.,1.0
+354,88,Peter Noone,0.0
+355,88,Peter Noone.,0.0
+356,89,$\it{Other}$,0.0
+357,89,Eddie Vedder.,1.0
+358,89,Peter Noone,0.0
+359,89,Peter Noone.,0.0
+360,90,$\it{Other}$,0.0
+361,90,Eddie Vedder.,1.0
+362,90,Peter Noone,0.0
+363,90,Peter Noone.,0.0
+364,91,$\it{Other}$,0.0
+365,91,Eddie Vedder.,1.0
+366,91,Peter Noone,0.0
+367,91,Peter Noone.,0.0
+368,92,$\it{Other}$,0.0
+369,92,Eddie Vedder.,1.0
+370,92,Peter Noone,0.0
+371,92,Peter Noone.,0.0
+372,93,$\it{Other}$,0.0
+373,93,Eddie Vedder.,1.0
+374,93,Peter Noone,0.0
+375,93,Peter Noone.,0.0
+376,94,$\it{Other}$,0.0
+377,94,Eddie Vedder.,1.0
+378,94,Peter Noone,0.0
+379,94,Peter Noone.,0.0
+380,95,$\it{Other}$,0.0
+381,95,Eddie Vedder.,1.0
+382,95,Peter Noone,0.0
+383,95,Peter Noone.,0.0
+384,96,$\it{Other}$,0.0
+385,96,Eddie Vedder.,1.0
+386,96,Peter Noone,0.0
+387,96,Peter Noone.,0.0
+388,97,$\it{Other}$,0.0
+389,97,Eddie Vedder.,1.0
+390,97,Peter Noone,0.0
+391,97,Peter Noone.,0.0
+392,98,$\it{Other}$,0.0
+393,98,Eddie Vedder.,1.0
+394,98,Peter Noone,0.0
+395,98,Peter Noone.,0.0
+396,99,$\it{Other}$,0.0
+397,99,Eddie Vedder.,1.0
+398,99,Peter Noone,0.0
+399,99,Peter Noone.,0.0
+400,100,$\it{Other}$,0.0
+401,100,Eddie Vedder.,1.0
+402,100,Peter Noone,0.0
+403,100,Peter Noone.,0.0
+404,101,$\it{Other}$,0.0
+405,101,Eddie Vedder.,1.0
+406,101,Peter Noone,0.0
+407,101,Peter Noone.,0.0
+408,102,$\it{Other}$,0.0
+409,102,Eddie Vedder.,1.0
+410,102,Peter Noone,0.0
+411,102,Peter Noone.,0.0
+412,103,$\it{Other}$,0.0
+413,103,Eddie Vedder.,1.0
+414,103,Peter Noone,0.0
+415,103,Peter Noone.,0.0
+416,104,$\it{Other}$,0.0
+417,104,Eddie Vedder.,1.0
+418,104,Peter Noone,0.0
+419,104,Peter Noone.,0.0
+420,105,$\it{Other}$,0.0
+421,105,Eddie Vedder.,1.0
+422,105,Peter Noone,0.0
+423,105,Peter Noone.,0.0
+424,106,$\it{Other}$,0.0
+425,106,Eddie Vedder.,1.0
+426,106,Peter Noone,0.0
+427,106,Peter Noone.,0.0
+428,107,$\it{Other}$,0.0
+429,107,Eddie Vedder.,1.0
+430,107,Peter Noone,0.0
+431,107,Peter Noone.,0.0
+432,108,$\it{Other}$,0.0
+433,108,Eddie Vedder.,1.0
+434,108,Peter Noone,0.0
+435,108,Peter Noone.,0.0
+436,109,$\it{Other}$,0.0
+437,109,Eddie Vedder.,1.0
+438,109,Peter Noone,0.0
+439,109,Peter Noone.,0.0
+440,110,$\it{Other}$,0.0
+441,110,Eddie Vedder.,1.0
+442,110,Peter Noone,0.0
+443,110,Peter Noone.,0.0
+444,111,$\it{Other}$,0.0
+445,111,Eddie Vedder.,1.0
+446,111,Peter Noone,0.0
+447,111,Peter Noone.,0.0
+448,112,$\it{Other}$,0.0
+449,112,Eddie Vedder.,1.0
+450,112,Peter Noone,0.0
+451,112,Peter Noone.,0.0
+452,113,$\it{Other}$,0.0
+453,113,Eddie Vedder.,1.0
+454,113,Peter Noone,0.0
+455,113,Peter Noone.,0.0
+456,114,$\it{Other}$,0.0
+457,114,Eddie Vedder.,1.0
+458,114,Peter Noone,0.0
+459,114,Peter Noone.,0.0
+460,115,$\it{Other}$,0.0
+461,115,Eddie Vedder.,1.0
+462,115,Peter Noone,0.0
+463,115,Peter Noone.,0.0
+464,116,$\it{Other}$,0.0
+465,116,Eddie Vedder.,1.0
+466,116,Peter Noone,0.0
+467,116,Peter Noone.,0.0
+468,117,$\it{Other}$,0.0
+469,117,Eddie Vedder.,1.0
+470,117,Peter Noone,0.0
+471,117,Peter Noone.,0.0
+472,118,$\it{Other}$,0.0
+473,118,Eddie Vedder.,1.0
+474,118,Peter Noone,0.0
+475,118,Peter Noone.,0.0
+476,119,$\it{Other}$,0.0
+477,119,Eddie Vedder.,1.0
+478,119,Peter Noone,0.0
+479,119,Peter Noone.,0.0
+480,120,$\it{Other}$,0.0
+481,120,Eddie Vedder.,1.0
+482,120,Peter Noone,0.0
+483,120,Peter Noone.,0.0
+484,121,$\it{Other}$,0.0
+485,121,Eddie Vedder.,1.0
+486,121,Peter Noone,0.0
+487,121,Peter Noone.,0.0
+488,122,$\it{Other}$,0.0
+489,122,Eddie Vedder.,1.0
+490,122,Peter Noone,0.0
+491,122,Peter Noone.,0.0
+492,123,$\it{Other}$,0.0
+493,123,Eddie Vedder.,1.0
+494,123,Peter Noone,0.0
+495,123,Peter Noone.,0.0
+496,124,$\it{Other}$,0.0
+497,124,Eddie Vedder.,1.0
+498,124,Peter Noone,0.0
+499,124,Peter Noone.,0.0
+500,125,$\it{Other}$,0.0
+501,125,Eddie Vedder.,1.0
+502,125,Peter Noone,0.0
+503,125,Peter Noone.,0.0
+504,126,$\it{Other}$,0.0
+505,126,Eddie Vedder.,1.0
+506,126,Peter Noone,0.0
+507,126,Peter Noone.,0.0
+508,127,$\it{Other}$,0.0
+509,127,Eddie Vedder.,1.0
+510,127,Peter Noone,0.0
+511,127,Peter Noone.,0.0
+512,128,$\it{Other}$,0.0
+513,128,Eddie Vedder.,1.0
+514,128,Peter Noone,0.0
+515,128,Peter Noone.,0.0
+516,129,$\it{Other}$,0.0
+517,129,Eddie Vedder.,1.0
+518,129,Peter Noone,0.0
+519,129,Peter Noone.,0.0
+520,130,$\it{Other}$,0.0
+521,130,Eddie Vedder.,1.0
+522,130,Peter Noone,0.0
+523,130,Peter Noone.,0.0
+524,131,$\it{Other}$,0.0
+525,131,Eddie Vedder.,1.0
+526,131,Peter Noone,0.0
+527,131,Peter Noone.,0.0
+528,132,$\it{Other}$,0.0
+529,132,Eddie Vedder.,1.0
+530,132,Peter Noone,0.0
+531,132,Peter Noone.,0.0
+532,133,$\it{Other}$,0.0
+533,133,Eddie Vedder.,0.9999999999999999
+534,133,Peter Noone,0.0
+535,133,Peter Noone.,0.0
+536,134,$\it{Other}$,0.0
+537,134,Eddie Vedder.,1.0
+538,134,Peter Noone,0.0
+539,134,Peter Noone.,0.0
+540,135,$\it{Other}$,0.0
+541,135,Eddie Vedder.,1.0
+542,135,Peter Noone,0.0
+543,135,Peter Noone.,0.0
+544,136,$\it{Other}$,0.0
+545,136,Eddie Vedder.,1.0
+546,136,Peter Noone,0.0
+547,136,Peter Noone.,0.0
+548,137,$\it{Other}$,0.0
+549,137,Eddie Vedder.,0.9999999999999999
+550,137,Peter Noone,0.0
+551,137,Peter Noone.,0.0
+552,138,$\it{Other}$,0.0
+553,138,Eddie Vedder.,1.0
+554,138,Peter Noone,0.0
+555,138,Peter Noone.,0.0
+556,139,$\it{Other}$,0.0
+557,139,Eddie Vedder.,1.0
+558,139,Peter Noone,0.0
+559,139,Peter Noone.,0.0
+560,140,$\it{Other}$,0.0
+561,140,Eddie Vedder.,1.0
+562,140,Peter Noone,0.0
+563,140,Peter Noone.,0.0
+564,141,$\it{Other}$,0.0
+565,141,Eddie Vedder.,0.9999999999999999
+566,141,Peter Noone,0.0
+567,141,Peter Noone.,0.0
+568,142,$\it{Other}$,0.0
+569,142,Eddie Vedder.,1.0
+570,142,Peter Noone,0.0
+571,142,Peter Noone.,0.0
+572,143,$\it{Other}$,0.0
+573,143,Eddie Vedder.,1.0
+574,143,Peter Noone,0.0
+575,143,Peter Noone.,0.0
+576,144,$\it{Other}$,0.0
+577,144,Eddie Vedder.,1.0
+578,144,Peter Noone,0.0
+579,144,Peter Noone.,0.0
+580,145,$\it{Other}$,0.0
+581,145,Eddie Vedder.,1.0
+582,145,Peter Noone,0.0
+583,145,Peter Noone.,0.0
+584,146,$\it{Other}$,0.0
+585,146,Eddie Vedder.,1.0
+586,146,Peter Noone,0.0
+587,146,Peter Noone.,0.0
+588,147,$\it{Other}$,0.0
+589,147,Eddie Vedder.,1.0
+590,147,Peter Noone,0.0
+591,147,Peter Noone.,0.0
+592,148,$\it{Other}$,0.0
+593,148,Eddie Vedder.,0.9999999999999999
+594,148,Peter Noone,0.0
+595,148,Peter Noone.,0.0
+596,149,$\it{Other}$,0.0
+597,149,Eddie Vedder.,1.0
+598,149,Peter Noone,0.0
+599,149,Peter Noone.,0.0
+600,150,$\it{Other}$,0.0
+601,150,Eddie Vedder.,1.0
+602,150,Peter Noone,0.0
+603,150,Peter Noone.,0.0
+604,151,$\it{Other}$,0.0
+605,151,Eddie Vedder.,1.0
+606,151,Peter Noone,0.0
+607,151,Peter Noone.,0.0
+608,152,$\it{Other}$,0.0
+609,152,Eddie Vedder.,1.0
+610,152,Peter Noone,0.0
+611,152,Peter Noone.,0.0
+612,153,$\it{Other}$,0.0
+613,153,Eddie Vedder.,1.0
+614,153,Peter Noone,0.0
+615,153,Peter Noone.,0.0
+616,154,$\it{Other}$,0.0
+617,154,Eddie Vedder.,1.0
+618,154,Peter Noone,0.0
+619,154,Peter Noone.,0.0
+620,155,$\it{Other}$,0.03571428571428571
+621,155,Eddie Vedder.,0.9642857142857143
+622,155,Peter Noone,0.0
+623,155,Peter Noone.,0.0
+624,156,$\it{Other}$,0.0
+625,156,Eddie Vedder.,1.0
+626,156,Peter Noone,0.0
+627,156,Peter Noone.,0.0
+628,157,$\it{Other}$,0.0
+629,157,Eddie Vedder.,1.0
+630,157,Peter Noone,0.0
+631,157,Peter Noone.,0.0
+632,158,$\it{Other}$,0.0
+633,158,Eddie Vedder.,1.0
+634,158,Peter Noone,0.0
+635,158,Peter Noone.,0.0
+636,159,$\it{Other}$,0.0
+637,159,Eddie Vedder.,1.0
+638,159,Peter Noone,0.0
+639,159,Peter Noone.,0.0
+640,160,$\it{Other}$,0.0
+641,160,Eddie Vedder.,1.0
+642,160,Peter Noone,0.0
+643,160,Peter Noone.,0.0
+644,161,$\it{Other}$,0.0
+645,161,Eddie Vedder.,1.0
+646,161,Peter Noone,0.0
+647,161,Peter Noone.,0.0
+648,162,$\it{Other}$,0.0
+649,162,Eddie Vedder.,1.0
+650,162,Peter Noone,0.0
+651,162,Peter Noone.,0.0
+652,163,$\it{Other}$,0.0
+653,163,Eddie Vedder.,1.0
+654,163,Peter Noone,0.0
+655,163,Peter Noone.,0.0
+656,164,$\it{Other}$,0.0
+657,164,Eddie Vedder.,1.0
+658,164,Peter Noone,0.0
+659,164,Peter Noone.,0.0
+660,165,$\it{Other}$,0.0
+661,165,Eddie Vedder.,1.0
+662,165,Peter Noone,0.0
+663,165,Peter Noone.,0.0
+664,166,$\it{Other}$,0.0
+665,166,Eddie Vedder.,1.0
+666,166,Peter Noone,0.0
+667,166,Peter Noone.,0.0
+668,167,$\it{Other}$,0.0
+669,167,Eddie Vedder.,1.0
+670,167,Peter Noone,0.0
+671,167,Peter Noone.,0.0
+672,168,$\it{Other}$,0.0
+673,168,Eddie Vedder.,1.0
+674,168,Peter Noone,0.0
+675,168,Peter Noone.,0.0
+676,169,$\it{Other}$,0.0
+677,169,Eddie Vedder.,1.0
+678,169,Peter Noone,0.0
+679,169,Peter Noone.,0.0
+680,170,$\it{Other}$,0.0
+681,170,Eddie Vedder.,1.0
+682,170,Peter Noone,0.0
+683,170,Peter Noone.,0.0
+684,171,$\it{Other}$,0.0
+685,171,Eddie Vedder.,1.0
+686,171,Peter Noone,0.0
+687,171,Peter Noone.,0.0
+688,172,$\it{Other}$,0.0
+689,172,Eddie Vedder.,1.0
+690,172,Peter Noone,0.0
+691,172,Peter Noone.,0.0
+692,173,$\it{Other}$,0.0
+693,173,Eddie Vedder.,1.0
+694,173,Peter Noone,0.0
+695,173,Peter Noone.,0.0
+696,174,$\it{Other}$,0.0
+697,174,Eddie Vedder.,1.0
+698,174,Peter Noone,0.0
+699,174,Peter Noone.,0.0
+700,175,$\it{Other}$,0.0
+701,175,Eddie Vedder.,1.0
+702,175,Peter Noone,0.0
+703,175,Peter Noone.,0.0
+704,176,$\it{Other}$,0.0
+705,176,Eddie Vedder.,1.0
+706,176,Peter Noone,0.0
+707,176,Peter Noone.,0.0
+708,177,$\it{Other}$,0.0
+709,177,Eddie Vedder.,1.0
+710,177,Peter Noone,0.0
+711,177,Peter Noone.,0.0
+712,178,$\it{Other}$,0.0
+713,178,Eddie Vedder.,1.0
+714,178,Peter Noone,0.0
+715,178,Peter Noone.,0.0
+716,179,$\it{Other}$,0.0
+717,179,Eddie Vedder.,1.0
+718,179,Peter Noone,0.0
+719,179,Peter Noone.,0.0
+720,180,$\it{Other}$,0.0
+721,180,Eddie Vedder.,1.0
+722,180,Peter Noone,0.0
+723,180,Peter Noone.,0.0
+724,181,$\it{Other}$,0.0
+725,181,Eddie Vedder.,1.0
+726,181,Peter Noone,0.0
+727,181,Peter Noone.,0.0
+728,182,$\it{Other}$,0.0
+729,182,Eddie Vedder.,1.0
+730,182,Peter Noone,0.0
+731,182,Peter Noone.,0.0
+732,183,$\it{Other}$,0.0
+733,183,Eddie Vedder.,1.0
+734,183,Peter Noone,0.0
+735,183,Peter Noone.,0.0
+736,184,$\it{Other}$,0.0
+737,184,Eddie Vedder.,1.0
+738,184,Peter Noone,0.0
+739,184,Peter Noone.,0.0
+740,185,$\it{Other}$,0.0
+741,185,Eddie Vedder.,1.0
+742,185,Peter Noone,0.0
+743,185,Peter Noone.,0.0
+744,186,$\it{Other}$,0.0
+745,186,Eddie Vedder.,1.0
+746,186,Peter Noone,0.0
+747,186,Peter Noone.,0.0
+748,187,$\it{Other}$,0.0
+749,187,Eddie Vedder.,1.0
+750,187,Peter Noone,0.0
+751,187,Peter Noone.,0.0
+752,188,$\it{Other}$,0.0
+753,188,Eddie Vedder.,1.0
+754,188,Peter Noone,0.0
+755,188,Peter Noone.,0.0
+756,189,$\it{Other}$,0.0
+757,189,Eddie Vedder.,1.0
+758,189,Peter Noone,0.0
+759,189,Peter Noone.,0.0
+760,190,$\it{Other}$,0.0
+761,190,Eddie Vedder.,1.0
+762,190,Peter Noone,0.0
+763,190,Peter Noone.,0.0
+764,191,$\it{Other}$,0.0
+765,191,Eddie Vedder.,1.0
+766,191,Peter Noone,0.0
+767,191,Peter Noone.,0.0
+768,192,$\it{Other}$,0.0
+769,192,Eddie Vedder.,1.0
+770,192,Peter Noone,0.0
+771,192,Peter Noone.,0.0
+772,193,$\it{Other}$,0.0
+773,193,Eddie Vedder.,1.0
+774,193,Peter Noone,0.0
+775,193,Peter Noone.,0.0
+776,194,$\it{Other}$,0.0
+777,194,Eddie Vedder.,1.0
+778,194,Peter Noone,0.0
+779,194,Peter Noone.,0.0
+780,195,$\it{Other}$,0.0
+781,195,Eddie Vedder.,1.0
+782,195,Peter Noone,0.0
+783,195,Peter Noone.,0.0
+784,196,$\it{Other}$,0.0
+785,196,Eddie Vedder.,1.0
+786,196,Peter Noone,0.0
+787,196,Peter Noone.,0.0
+788,197,$\it{Other}$,0.0
+789,197,Eddie Vedder.,1.0
+790,197,Peter Noone,0.0
+791,197,Peter Noone.,0.0
+792,198,$\it{Other}$,0.0
+793,198,Eddie Vedder.,1.0
+794,198,Peter Noone,0.0
+795,198,Peter Noone.,0.0
+796,199,$\it{Other}$,0.0
+797,199,Eddie Vedder.,1.0
+798,199,Peter Noone,0.0
+799,199,Peter Noone.,0.0
+800,200,$\it{Other}$,0.0
+801,200,Eddie Vedder.,1.0
+802,200,Peter Noone,0.0
+803,200,Peter Noone.,0.0
+804,201,$\it{Other}$,0.0
+805,201,Eddie Vedder.,1.0
+806,201,Peter Noone,0.0
+807,201,Peter Noone.,0.0
+808,202,$\it{Other}$,0.0
+809,202,Eddie Vedder.,1.0
+810,202,Peter Noone,0.0
+811,202,Peter Noone.,0.0
+812,203,$\it{Other}$,0.0
+813,203,Eddie Vedder.,1.0
+814,203,Peter Noone,0.0
+815,203,Peter Noone.,0.0
+816,204,$\it{Other}$,0.0
+817,204,Eddie Vedder.,1.0
+818,204,Peter Noone,0.0
+819,204,Peter Noone.,0.0
+820,205,$\it{Other}$,0.0
+821,205,Eddie Vedder.,1.0
+822,205,Peter Noone,0.0
+823,205,Peter Noone.,0.0
+824,206,$\it{Other}$,0.0
+825,206,Eddie Vedder.,1.0
+826,206,Peter Noone,0.0
+827,206,Peter Noone.,0.0
+828,207,$\it{Other}$,0.0
+829,207,Eddie Vedder.,1.0
+830,207,Peter Noone,0.0
+831,207,Peter Noone.,0.0
+832,208,$\it{Other}$,0.0
+833,208,Eddie Vedder.,1.0
+834,208,Peter Noone,0.0
+835,208,Peter Noone.,0.0
+836,209,$\it{Other}$,0.0
+837,209,Eddie Vedder.,1.0
+838,209,Peter Noone,0.0
+839,209,Peter Noone.,0.0
+840,210,$\it{Other}$,0.0
+841,210,Eddie Vedder.,1.0
+842,210,Peter Noone,0.0
+843,210,Peter Noone.,0.0
+844,211,$\it{Other}$,0.0
+845,211,Eddie Vedder.,1.0
+846,211,Peter Noone,0.0
+847,211,Peter Noone.,0.0
+848,212,$\it{Other}$,0.0
+849,212,Eddie Vedder.,1.0
+850,212,Peter Noone,0.0
+851,212,Peter Noone.,0.0
+852,213,$\it{Other}$,0.0
+853,213,Eddie Vedder.,1.0
+854,213,Peter Noone,0.0
+855,213,Peter Noone.,0.0
+856,214,$\it{Other}$,0.0
+857,214,Eddie Vedder.,1.0
+858,214,Peter Noone,0.0
+859,214,Peter Noone.,0.0
+860,215,$\it{Other}$,0.0
+861,215,Eddie Vedder.,1.0
+862,215,Peter Noone,0.0
+863,215,Peter Noone.,0.0
+864,216,$\it{Other}$,0.0
+865,216,Eddie Vedder.,1.0
+866,216,Peter Noone,0.0
+867,216,Peter Noone.,0.0
+868,217,$\it{Other}$,0.0
+869,217,Eddie Vedder.,1.0
+870,217,Peter Noone,0.0
+871,217,Peter Noone.,0.0
+872,218,$\it{Other}$,0.0
+873,218,Eddie Vedder.,1.0
+874,218,Peter Noone,0.0
+875,218,Peter Noone.,0.0
+876,219,$\it{Other}$,0.0
+877,219,Eddie Vedder.,1.0
+878,219,Peter Noone,0.0
+879,219,Peter Noone.,0.0
+880,220,$\it{Other}$,0.0
+881,220,Eddie Vedder.,1.0
+882,220,Peter Noone,0.0
+883,220,Peter Noone.,0.0
+884,221,$\it{Other}$,0.0
+885,221,Eddie Vedder.,1.0
+886,221,Peter Noone,0.0
+887,221,Peter Noone.,0.0
+888,222,$\it{Other}$,0.0
+889,222,Eddie Vedder.,1.0
+890,222,Peter Noone,0.0
+891,222,Peter Noone.,0.0
+892,223,$\it{Other}$,0.0
+893,223,Eddie Vedder.,1.0
+894,223,Peter Noone,0.0
+895,223,Peter Noone.,0.0
+896,224,$\it{Other}$,0.0
+897,224,Eddie Vedder.,1.0
+898,224,Peter Noone,0.0
+899,224,Peter Noone.,0.0
+900,225,$\it{Other}$,0.0
+901,225,Eddie Vedder.,1.0
+902,225,Peter Noone,0.0
+903,225,Peter Noone.,0.0
+904,226,$\it{Other}$,0.0
+905,226,Eddie Vedder.,1.0
+906,226,Peter Noone,0.0
+907,226,Peter Noone.,0.0
+908,227,$\it{Other}$,0.0
+909,227,Eddie Vedder.,1.0
+910,227,Peter Noone,0.0
+911,227,Peter Noone.,0.0
+912,228,$\it{Other}$,0.0
+913,228,Eddie Vedder.,1.0
+914,228,Peter Noone,0.0
+915,228,Peter Noone.,0.0
+916,229,$\it{Other}$,0.0
+917,229,Eddie Vedder.,1.0
+918,229,Peter Noone,0.0
+919,229,Peter Noone.,0.0
+920,230,$\it{Other}$,0.0
+921,230,Eddie Vedder.,1.0
+922,230,Peter Noone,0.0
+923,230,Peter Noone.,0.0
+924,231,$\it{Other}$,0.0
+925,231,Eddie Vedder.,1.0
+926,231,Peter Noone,0.0
+927,231,Peter Noone.,0.0
+928,232,$\it{Other}$,0.0
+929,232,Eddie Vedder.,1.0
+930,232,Peter Noone,0.0
+931,232,Peter Noone.,0.0
+932,233,$\it{Other}$,0.0
+933,233,Eddie Vedder.,1.0
+934,233,Peter Noone,0.0
+935,233,Peter Noone.,0.0
+936,234,$\it{Other}$,0.0
+937,234,Eddie Vedder.,1.0
+938,234,Peter Noone,0.0
+939,234,Peter Noone.,0.0
+940,235,$\it{Other}$,0.0
+941,235,Eddie Vedder.,1.0
+942,235,Peter Noone,0.0
+943,235,Peter Noone.,0.0
+944,236,$\it{Other}$,0.0
+945,236,Eddie Vedder.,1.0
+946,236,Peter Noone,0.0
+947,236,Peter Noone.,0.0
+948,237,$\it{Other}$,0.0
+949,237,Eddie Vedder.,1.0
+950,237,Peter Noone,0.0
+951,237,Peter Noone.,0.0
+952,238,$\it{Other}$,0.0
+953,238,Eddie Vedder.,0.9999999999999999
+954,238,Peter Noone,0.0
+955,238,Peter Noone.,0.0

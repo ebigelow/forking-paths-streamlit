@@ -1,0 +1,571 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.19171104170437428
+1,0,Shoah was released first in 1985.,0.014367506877043438
+2,0,"Shoah was released first, in 1985.",0.003350070987337854
+3,0,Shoah was released first.,0.6822805405652618
+4,0,Shoah.,0.101590697891307
+5,0,that Shoah was released first.,0.006700141974675708
+6,1,$\it{Other}$,0.22983153532885828
+7,1,Shoah was released first in 1985.,0.0
+8,1,"Shoah was released first, in 1985.",0.011400424544564258
+9,1,Shoah was released first.,0.6567994194061856
+10,1,Shoah.,0.09626840844810966
+11,1,that Shoah was released first.,0.005700212272282129
+12,2,$\it{Other}$,0.16046368051455773
+13,2,Shoah was released first in 1985.,0.03333333333333333
+14,2,"Shoah was released first, in 1985.",0.02713034718122441
+15,2,Shoah was released first.,0.6124059723042178
+16,2,Shoah.,0.16666666666666666
+17,2,that Shoah was released first.,0.0
+18,3,$\it{Other}$,0.15348113466988958
+19,3,Shoah was released first in 1985.,0.053481134669889574
+20,3,"Shoah was released first, in 1985.",0.0
+21,3,Shoah was released first.,0.5791131919806626
+22,3,Shoah.,0.2139245386795583
+23,3,that Shoah was released first.,0.0
+24,4,$\it{Other}$,0.3333333333333333
+25,4,Shoah was released first in 1985.,0.06666666666666667
+26,4,"Shoah was released first, in 1985.",0.0
+27,4,Shoah was released first.,0.43333333333333335
+28,4,Shoah.,0.16666666666666666
+29,4,that Shoah was released first.,0.0
+30,5,$\it{Other}$,0.2463330525176135
+31,5,Shoah was released first in 1985.,0.012999719184280155
+32,5,"Shoah was released first, in 1985.",0.03333333333333333
+33,5,Shoah was released first.,0.5519988767371207
+34,5,Shoah.,0.15533501822765242
+35,5,that Shoah was released first.,0.0
+36,6,$\it{Other}$,0.16666666666666666
+37,6,Shoah was released first in 1985.,0.0
+38,6,"Shoah was released first, in 1985.",0.0
+39,6,Shoah was released first.,0.5333333333333333
+40,6,Shoah.,0.26666666666666666
+41,6,that Shoah was released first.,0.03333333333333333
+42,7,$\it{Other}$,0.2
+43,7,Shoah was released first in 1985.,0.0
+44,7,"Shoah was released first, in 1985.",0.0
+45,7,Shoah was released first.,0.6666666666666666
+46,7,Shoah.,0.13333333333333333
+47,7,that Shoah was released first.,0.0
+48,8,$\it{Other}$,0.26873730309885735
+49,8,Shoah was released first in 1985.,0.06842383948757143
+50,8,"Shoah was released first, in 1985.",0.002657838000693079
+51,8,Shoah was released first.,0.5365783729025289
+52,8,Shoah.,0.12360264651034933
+53,8,that Shoah was released first.,0.0
+54,9,$\it{Other}$,0.20828730787856856
+55,9,Shoah was released first in 1985.,0.06666666666666667
+56,9,"Shoah was released first, in 1985.",0.004143653939284271
+57,9,Shoah was released first.,0.6500920509095295
+58,9,Shoah.,0.07081032060595094
+59,9,that Shoah was released first.,0.0
+60,10,$\it{Other}$,0.1
+61,10,Shoah was released first in 1985.,0.0
+62,10,"Shoah was released first, in 1985.",0.03333333333333333
+63,10,Shoah was released first.,0.6333333333333333
+64,10,Shoah.,0.2
+65,10,that Shoah was released first.,0.03333333333333333
+66,11,$\it{Other}$,0.17309214010113882
+67,11,Shoah was released first in 1985.,0.03547515781149073
+68,11,"Shoah was released first, in 1985.",0.031191508855175933
+69,11,Shoah was released first.,0.5645248421885092
+70,11,Shoah.,0.1957163510436852
+71,11,that Shoah was released first.,0.0
+72,12,$\it{Other}$,0.2812596758834004
+73,12,Shoah was released first in 1985.,0.009370162058299804
+74,12,"Shoah was released first, in 1985.",0.0
+75,12,Shoah was released first.,0.4468508102914991
+76,12,Shoah.,0.23855618049176724
+77,12,that Shoah was released first.,0.02396317127503353
+78,13,$\it{Other}$,0.1758441746448729
+79,13,Shoah was released first in 1985.,0.009618001123997461
+80,13,"Shoah was released first, in 1985.",0.00471638469479212
+81,13,Shoah was released first.,0.62539230352915
+82,13,Shoah.,0.18442913600718738
+83,13,that Shoah was released first.,0.0
+84,14,$\it{Other}$,0.19530476127469942
+85,14,Shoah was released first in 1985.,0.02594149365821927
+86,14,"Shoah was released first, in 1985.",0.0029195456311332
+87,14,Shoah was released first.,0.6556203246993353
+88,14,Shoah.,0.12021387473661271
+89,14,that Shoah was released first.,0.0
+90,15,$\it{Other}$,0.22408637550340155
+91,15,Shoah was released first in 1985.,0.03517290865917347
+92,15,"Shoah was released first, in 1985.",0.0018886565265712645
+93,15,Shoah was released first.,0.5778513622239008
+94,15,Shoah.,0.1610006970869529
+95,15,that Shoah was released first.,0.0
+96,16,$\it{Other}$,0.2345818433024942
+97,16,Shoah was released first in 1985.,0.03442636404309703
+98,16,"Shoah was released first, in 1985.",0.005326961781273333
+99,16,Shoah was released first.,0.566373327867977
+100,16,Shoah.,0.1297760414963653
+101,16,that Shoah was released first.,0.02951546150879309
+102,17,$\it{Other}$,0.311910186745874
+103,17,Shoah was released first in 1985.,0.06474592979704738
+104,17,"Shoah was released first, in 1985.",0.0019207368696192873
+105,17,Shoah was released first.,0.4690990606501063
+106,17,Shoah.,0.15232408593735303
+107,17,that Shoah was released first.,0.0
+108,18,$\it{Other}$,0.23333333333333334
+109,18,Shoah was released first in 1985.,0.0
+110,18,"Shoah was released first, in 1985.",0.03333333333333333
+111,18,Shoah was released first.,0.6333333333333333
+112,18,Shoah.,0.1
+113,18,that Shoah was released first.,0.0
+114,19,$\it{Other}$,0.2
+115,19,Shoah was released first in 1985.,0.0
+116,19,"Shoah was released first, in 1985.",0.03333333333333333
+117,19,Shoah was released first.,0.6666666666666666
+118,19,Shoah.,0.1
+119,19,that Shoah was released first.,0.0
+120,20,$\it{Other}$,0.1476629593378186
+121,20,Shoah was released first in 1985.,0.09283518699775738
+122,20,"Shoah was released first, in 1985.",0.0
+123,20,Shoah was released first.,0.5571135826636764
+124,20,Shoah.,0.20238827100074755
+125,20,that Shoah was released first.,0.0
+126,21,$\it{Other}$,0.26666666666666666
+127,21,Shoah was released first in 1985.,0.03333333333333333
+128,21,"Shoah was released first, in 1985.",0.0
+129,21,Shoah was released first.,0.5666666666666667
+130,21,Shoah.,0.1
+131,21,that Shoah was released first.,0.03333333333333333
+132,22,$\it{Other}$,0.25473545377347784
+133,22,Shoah was released first in 1985.,0.06807576726037565
+134,22,"Shoah was released first, in 1985.",0.0
+135,22,Shoah was released first.,0.528135869720842
+136,22,Shoah.,0.1361515345207513
+137,22,that Shoah was released first.,0.012901374724553142
+138,23,$\it{Other}$,0.26865391612321
+139,23,Shoah was released first in 1985.,0.024495710329384347
+140,23,"Shoah was released first, in 1985.",0.024495710329384347
+141,23,Shoah was released first.,0.548229363633669
+142,23,Shoah.,0.1299774649967346
+143,23,that Shoah was released first.,0.004147834587617712
+144,24,$\it{Other}$,0.3333333333333333
+145,24,Shoah was released first in 1985.,0.0
+146,24,"Shoah was released first, in 1985.",0.0
+147,24,Shoah was released first.,0.5333333333333333
+148,24,Shoah.,0.13333333333333333
+149,24,that Shoah was released first.,0.0
+150,25,$\it{Other}$,0.1
+151,25,Shoah was released first in 1985.,0.1
+152,25,"Shoah was released first, in 1985.",0.0
+153,25,Shoah was released first.,0.6666666666666666
+154,25,Shoah.,0.13333333333333333
+155,25,that Shoah was released first.,0.0
+156,26,$\it{Other}$,0.244998468497415
+157,26,Shoah was released first in 1985.,0.012818424752108846
+158,26,"Shoah was released first, in 1985.",0.022794342868027208
+159,26,Shoah was released first.,0.6125504610220409
+160,26,Shoah.,0.10683830286040817
+161,26,that Shoah was released first.,0.0
+162,27,$\it{Other}$,0.2
+163,27,Shoah was released first in 1985.,0.0
+164,27,"Shoah was released first, in 1985.",0.0
+165,27,Shoah was released first.,0.6333333333333333
+166,27,Shoah.,0.13333333333333333
+167,27,that Shoah was released first.,0.03333333333333333
+168,28,$\it{Other}$,0.2413793103448276
+169,28,Shoah was released first in 1985.,0.034482758620689655
+170,28,"Shoah was released first, in 1985.",0.0
+171,28,Shoah was released first.,0.6206896551724138
+172,28,Shoah.,0.06896551724137931
+173,28,that Shoah was released first.,0.034482758620689655
+174,29,$\it{Other}$,0.16666666666666666
+175,29,Shoah was released first in 1985.,0.0
+176,29,"Shoah was released first, in 1985.",0.0
+177,29,Shoah was released first.,0.5
+178,29,Shoah.,0.26666666666666666
+179,29,that Shoah was released first.,0.06666666666666667
+180,30,$\it{Other}$,0.13333333333333333
+181,30,Shoah was released first in 1985.,0.03333333333333333
+182,30,"Shoah was released first, in 1985.",0.03333333333333333
+183,30,Shoah was released first.,0.7333333333333333
+184,30,Shoah.,0.06666666666666667
+185,30,that Shoah was released first.,0.0
+186,31,$\it{Other}$,0.13333333333333333
+187,31,Shoah was released first in 1985.,0.06666666666666667
+188,31,"Shoah was released first, in 1985.",0.0
+189,31,Shoah was released first.,0.6333333333333333
+190,31,Shoah.,0.16666666666666666
+191,31,that Shoah was released first.,0.0
+192,32,$\it{Other}$,0.20689655172413793
+193,32,Shoah was released first in 1985.,0.0
+194,32,"Shoah was released first, in 1985.",0.0
+195,32,Shoah was released first.,0.4482758620689655
+196,32,Shoah.,0.3103448275862069
+197,32,that Shoah was released first.,0.034482758620689655
+198,33,$\it{Other}$,0.13333333333333333
+199,33,Shoah was released first in 1985.,0.0
+200,33,"Shoah was released first, in 1985.",0.0
+201,33,Shoah was released first.,0.6666666666666666
+202,33,Shoah.,0.2
+203,33,that Shoah was released first.,0.0
+204,34,$\it{Other}$,0.19656628465890358
+205,34,Shoah was released first in 1985.,0.091844926064896
+206,34,"Shoah was released first, in 1985.",0.058368521259016974
+207,34,Shoah was released first.,0.49442253234052946
+208,34,Shoah.,0.12961347504714554
+209,34,that Shoah was released first.,0.029184260629508487
+210,35,$\it{Other}$,0.18796662942126272
+211,35,Shoah was released first in 1985.,0.015041713223421618
+212,35,"Shoah was released first, in 1985.",0.018793010550692435
+213,35,Shoah was released first.,0.5676511855910589
+214,35,Shoah.,0.21054746121356432
+215,35,that Shoah was released first.,0.0
+216,36,$\it{Other}$,0.09605127465769911
+217,36,Shoah was released first in 1985.,0.06730546249255867
+218,36,"Shoah was released first, in 1985.",0.0
+219,36,Shoah was released first.,0.7261031317225242
+220,36,Shoah.,0.10095819373883802
+221,36,that Shoah was released first.,0.009581937388380146
+222,37,$\it{Other}$,0.23333333333333334
+223,37,Shoah was released first in 1985.,0.0
+224,37,"Shoah was released first, in 1985.",0.0
+225,37,Shoah was released first.,0.6333333333333333
+226,37,Shoah.,0.13333333333333333
+227,37,that Shoah was released first.,0.0
+228,38,$\it{Other}$,0.23333333333333334
+229,38,Shoah was released first in 1985.,0.03333333333333333
+230,38,"Shoah was released first, in 1985.",0.06666666666666667
+231,38,Shoah was released first.,0.5
+232,38,Shoah.,0.13333333333333333
+233,38,that Shoah was released first.,0.03333333333333333
+234,39,$\it{Other}$,0.14432128989269416
+235,39,Shoah was released first in 1985.,0.06288060446954478
+236,39,"Shoah was released first, in 1985.",0.0430621303663762
+237,39,Shoah was released first.,0.5748792473111988
+238,39,Shoah.,0.16931818914785995
+239,39,that Shoah was released first.,0.00553853881232612
+240,40,$\it{Other}$,0.1388803548440017
+241,40,Shoah was released first in 1985.,0.08890595697866326
+242,40,"Shoah was released first, in 1985.",0.12778631182266495
+243,40,Shoah was released first.,0.43882915057467864
+244,40,Shoah.,0.20559822577999146
+245,40,that Shoah was released first.,0.0
+246,41,$\it{Other}$,0.23333333333333334
+247,41,Shoah was released first in 1985.,0.06666666666666667
+248,41,"Shoah was released first, in 1985.",0.1
+249,41,Shoah was released first.,0.4
+250,41,Shoah.,0.2
+251,41,that Shoah was released first.,0.0
+252,42,$\it{Other}$,0.1
+253,42,Shoah was released first in 1985.,0.09740561128798385
+254,42,"Shoah was released first, in 1985.",0.0025943887120161643
+255,42,Shoah was released first.,0.6129719435600808
+256,42,Shoah.,0.156289111818602
+257,42,that Shoah was released first.,0.03073894462131717
+258,43,$\it{Other}$,0.13333333333333333
+259,43,Shoah was released first in 1985.,0.08197139837921262
+260,43,"Shoah was released first, in 1985.",0.01802860162078739
+261,43,Shoah was released first.,0.515304731712546
+262,43,Shoah.,0.22704290243118108
+263,43,that Shoah was released first.,0.02431903252293964
+264,44,$\it{Other}$,0.13333333333333333
+265,44,Shoah was released first in 1985.,0.13333333333333333
+266,44,"Shoah was released first, in 1985.",0.03333333333333333
+267,44,Shoah was released first.,0.6666666666666666
+268,44,Shoah.,0.03333333333333333
+269,44,that Shoah was released first.,0.0
+270,45,$\it{Other}$,0.1618387777296473
+271,45,Shoah was released first in 1985.,0.07149455560368602
+272,45,"Shoah was released first, in 1985.",0.030919388864823656
+273,45,Shoah was released first.,0.664252722198157
+274,45,Shoah.,0.06908061113517634
+275,45,that Shoah was released first.,0.002413944468509677
+276,46,$\it{Other}$,0.1
+277,46,Shoah was released first in 1985.,0.03333333333333333
+278,46,"Shoah was released first, in 1985.",0.1
+279,46,Shoah was released first.,0.5666666666666667
+280,46,Shoah.,0.16666666666666666
+281,46,that Shoah was released first.,0.03333333333333333
+282,47,$\it{Other}$,0.16666666666666669
+283,47,Shoah was released first in 1985.,0.03333333333333334
+284,47,"Shoah was released first, in 1985.",0.014788626720614238
+285,47,Shoah was released first.,0.7037560798921049
+286,47,Shoah.,0.08145529338728091
+287,47,that Shoah was released first.,0.0
+288,48,$\it{Other}$,0.13214587603013486
+289,48,Shoah was released first in 1985.,0.1
+290,48,"Shoah was released first, in 1985.",0.016072938015067442
+291,48,Shoah was released first.,0.6666666666666665
+292,48,Shoah.,0.06785412396986512
+293,48,that Shoah was released first.,0.01726039531826589
+294,49,$\it{Other}$,0.2
+295,49,Shoah was released first in 1985.,0.1
+296,49,"Shoah was released first, in 1985.",0.0
+297,49,Shoah was released first.,0.6666666666666666
+298,49,Shoah.,0.0
+299,49,that Shoah was released first.,0.03333333333333333
+300,50,$\it{Other}$,0.15679335681897313
+301,50,Shoah was released first in 1985.,0.0617300117428199
+302,50,"Shoah was released first, in 1985.",0.004936654923846769
+303,50,Shoah was released first.,0.7333333333333333
+304,50,Shoah.,0.014809964771540307
+305,50,that Shoah was released first.,0.028396678409486564
+306,51,$\it{Other}$,0.06896551724137931
+307,51,Shoah was released first in 1985.,0.05722724064505693
+308,51,"Shoah was released first, in 1985.",0.0
+309,51,Shoah was released first.,0.7222295184161847
+310,51,Shoah.,0.12164386148156278
+311,51,that Shoah was released first.,0.0299338622158162
+312,52,$\it{Other}$,0.1724137931034483
+313,52,Shoah was released first in 1985.,0.06896551724137931
+314,52,"Shoah was released first, in 1985.",0.0
+315,52,Shoah was released first.,0.6551724137931034
+316,52,Shoah.,0.10344827586206896
+317,52,that Shoah was released first.,0.0
+318,53,$\it{Other}$,0.16666666666666666
+319,53,Shoah was released first in 1985.,0.03333333333333333
+320,53,"Shoah was released first, in 1985.",0.0
+321,53,Shoah was released first.,0.7
+322,53,Shoah.,0.1
+323,53,that Shoah was released first.,0.0
+324,54,$\it{Other}$,0.17549702458829416
+325,54,Shoah was released first in 1985.,0.17549702458829416
+326,54,"Shoah was released first, in 1985.",0.0
+327,54,Shoah was released first.,0.5656329698527836
+328,54,Shoah.,0.08337298097062819
+329,54,that Shoah was released first.,0.0
+330,55,$\it{Other}$,0.13333333333333333
+331,55,Shoah was released first in 1985.,0.2
+332,55,"Shoah was released first, in 1985.",0.0
+333,55,Shoah was released first.,0.5333333333333333
+334,55,Shoah.,0.13333333333333333
+335,55,that Shoah was released first.,0.0
+336,56,$\it{Other}$,0.09021621200803132
+337,56,Shoah was released first in 1985.,0.10438574261178832
+338,56,"Shoah was released first, in 1985.",0.10438574261178832
+339,56,Shoah was released first.,0.6537497034835017
+340,56,Shoah.,0.02116616363194313
+341,56,that Shoah was released first.,0.02609643565294708
+342,57,$\it{Other}$,0.06896551724137931
+343,57,Shoah was released first in 1985.,0.034482758620689655
+344,57,"Shoah was released first, in 1985.",0.06896551724137931
+345,57,Shoah was released first.,0.7241379310344828
+346,57,Shoah.,0.034482758620689655
+347,57,that Shoah was released first.,0.06896551724137931
+348,58,$\it{Other}$,0.03333333333333333
+349,58,Shoah was released first in 1985.,0.03333333333333333
+350,58,"Shoah was released first, in 1985.",0.06666666666666667
+351,58,Shoah was released first.,0.8666666666666667
+352,58,Shoah.,0.0
+353,58,that Shoah was released first.,0.0
+354,59,$\it{Other}$,0.1
+355,59,Shoah was released first in 1985.,0.1
+356,59,"Shoah was released first, in 1985.",0.0
+357,59,Shoah was released first.,0.7333333333333333
+358,59,Shoah.,0.03333333333333333
+359,59,that Shoah was released first.,0.03333333333333333
+360,60,$\it{Other}$,0.14814814814814814
+361,60,Shoah was released first in 1985.,0.1111111111111111
+362,60,"Shoah was released first, in 1985.",0.0
+363,60,Shoah was released first.,0.6666666666666666
+364,60,Shoah.,0.07407407407407407
+365,60,that Shoah was released first.,0.0
+366,61,$\it{Other}$,0.09375258078815855
+367,61,Shoah was released first in 1985.,0.09743724917407401
+368,61,"Shoah was released first, in 1985.",0.0698435288902452
+369,61,Shoah was released first.,0.6121346301071986
+370,61,Shoah.,0.0698435288902452
+371,61,that Shoah was released first.,0.05698848215007822
+372,62,$\it{Other}$,0.06666666666666667
+373,62,Shoah was released first in 1985.,0.13333333333333333
+374,62,"Shoah was released first, in 1985.",0.03333333333333333
+375,62,Shoah was released first.,0.7666666666666667
+376,62,Shoah.,0.0
+377,62,that Shoah was released first.,0.0
+378,63,$\it{Other}$,0.1
+379,63,Shoah was released first in 1985.,0.13333333333333333
+380,63,"Shoah was released first, in 1985.",0.0
+381,63,Shoah was released first.,0.7
+382,63,Shoah.,0.06666666666666667
+383,63,that Shoah was released first.,0.0
+384,64,$\it{Other}$,0.06666666666666667
+385,64,Shoah was released first in 1985.,0.06666666666666667
+386,64,"Shoah was released first, in 1985.",0.0
+387,64,Shoah was released first.,0.8333333333333334
+388,64,Shoah.,0.03333333333333333
+389,64,that Shoah was released first.,0.0
+390,65,$\it{Other}$,0.005404590236497259
+391,65,Shoah was released first in 1985.,0.06954911479279854
+392,65,"Shoah was released first, in 1985.",0.03342340983727495
+393,65,Shoah was released first.,0.7940549507398531
+394,65,Shoah.,0.0668468196745499
+395,65,that Shoah was released first.,0.030721114719026325
+396,66,$\it{Other}$,0.11150028905956236
+397,66,Shoah was released first in 1985.,0.12215867929466916
+398,66,"Shoah was released first, in 1985.",0.05185986559099684
+399,66,Shoah was released first.,0.661672676878118
+400,66,Shoah.,0.052808489176653595
+401,66,that Shoah was released first.,0.0
+402,67,$\it{Other}$,0.08469825837701189
+403,67,Shoah was released first in 1985.,0.11843304073658027
+404,67,"Shoah was released first, in 1985.",0.04696948670388256
+405,67,Shoah was released first.,0.6796465557616509
+406,67,Shoah.,0.07025265842087439
+407,67,that Shoah was released first.,0.0
+408,68,$\it{Other}$,0.0693321098836499
+409,68,Shoah was released first in 1985.,0.11197155479486023
+410,68,"Shoah was released first, in 1985.",0.002657796656461795
+411,68,Shoah was released first.,0.7813724837232031
+412,68,Shoah.,0.032008258285363154
+413,68,that Shoah was released first.,0.002657796656461795
+414,69,$\it{Other}$,0.10714285714285714
+415,69,Shoah was released first in 1985.,0.14285714285714285
+416,69,"Shoah was released first, in 1985.",0.03571428571428571
+417,69,Shoah was released first.,0.5714285714285714
+418,69,Shoah.,0.03571428571428571
+419,69,that Shoah was released first.,0.10714285714285714
+420,70,$\it{Other}$,0.10714285714285714
+421,70,Shoah was released first in 1985.,0.10714285714285714
+422,70,"Shoah was released first, in 1985.",0.03571428571428571
+423,70,Shoah was released first.,0.75
+424,70,Shoah.,0.0
+425,70,that Shoah was released first.,0.0
+426,71,$\it{Other}$,0.10714285714285714
+427,71,Shoah was released first in 1985.,0.07142857142857142
+428,71,"Shoah was released first, in 1985.",0.03571428571428571
+429,71,Shoah was released first.,0.7857142857142857
+430,71,Shoah.,0.0
+431,71,that Shoah was released first.,0.0
+432,72,$\it{Other}$,0.0
+433,72,Shoah was released first in 1985.,0.25925925925925924
+434,72,"Shoah was released first, in 1985.",0.037037037037037035
+435,72,Shoah was released first.,0.6666666666666666
+436,72,Shoah.,0.037037037037037035
+437,72,that Shoah was released first.,0.0
+438,73,$\it{Other}$,0.1547692699601032
+439,73,Shoah was released first in 1985.,0.08604883019444856
+440,73,"Shoah was released first, in 1985.",0.03414390617137857
+441,73,Shoah was released first.,0.6838693245526642
+442,73,Shoah.,0.037457177169767715
+443,73,that Shoah was released first.,0.0037114919516377095
+444,74,$\it{Other}$,0.03571428571428571
+445,74,Shoah was released first in 1985.,0.10714285714285714
+446,74,"Shoah was released first, in 1985.",0.03571428571428571
+447,74,Shoah was released first.,0.75
+448,74,Shoah.,0.07142857142857142
+449,74,that Shoah was released first.,0.0
+450,75,$\it{Other}$,0.034482758620689655
+451,75,Shoah was released first in 1985.,0.034482758620689655
+452,75,"Shoah was released first, in 1985.",0.0
+453,75,Shoah was released first.,0.8275862068965517
+454,75,Shoah.,0.06896551724137931
+455,75,that Shoah was released first.,0.034482758620689655
+456,76,$\it{Other}$,0.037037037037037035
+457,76,Shoah was released first in 1985.,0.1111111111111111
+458,76,"Shoah was released first, in 1985.",0.0
+459,76,Shoah was released first.,0.7037037037037037
+460,76,Shoah.,0.1111111111111111
+461,76,that Shoah was released first.,0.037037037037037035
+462,77,$\it{Other}$,0.037037037037037035
+463,77,Shoah was released first in 1985.,0.1111111111111111
+464,77,"Shoah was released first, in 1985.",0.07407407407407407
+465,77,Shoah was released first.,0.6296296296296297
+466,77,Shoah.,0.1111111111111111
+467,77,that Shoah was released first.,0.037037037037037035
+468,78,$\it{Other}$,0.019365481670372695
+469,78,Shoah was released first in 1985.,0.08738809424175041
+470,78,"Shoah was released first, in 1985.",0.02432856545050251
+471,78,Shoah was released first.,0.7815297643956238
+472,78,Shoah.,0.0630595287912479
+473,78,that Shoah was released first.,0.02432856545050251
+474,79,$\it{Other}$,0.09116883873501014
+475,79,Shoah was released first in 1985.,0.15092641460129047
+476,79,"Shoah was released first, in 1985.",0.08162644170843515
+477,79,Shoah was released first.,0.5741077485541961
+478,79,Shoah.,0.06818294552940143
+479,79,that Shoah was released first.,0.03398761087166678
+480,80,$\it{Other}$,0.0
+481,80,Shoah was released first in 1985.,0.10456498261167965
+482,80,"Shoah was released first, in 1985.",0.023354305586651823
+483,80,Shoah was released first.,0.8253721006283649
+484,80,Shoah.,0.023354305586651823
+485,80,that Shoah was released first.,0.023354305586651823
+486,81,$\it{Other}$,0.14814814814814814
+487,81,Shoah was released first in 1985.,0.2222222222222222
+488,81,"Shoah was released first, in 1985.",0.0
+489,81,Shoah was released first.,0.5925925925925926
+490,81,Shoah.,0.0
+491,81,that Shoah was released first.,0.037037037037037035
+492,82,$\it{Other}$,0.041666666666666664
+493,82,Shoah was released first in 1985.,0.08333333333333333
+494,82,"Shoah was released first, in 1985.",0.041666666666666664
+495,82,Shoah was released first.,0.7083333333333334
+496,82,Shoah.,0.08333333333333333
+497,82,that Shoah was released first.,0.041666666666666664
+498,83,$\it{Other}$,0.041666666666666664
+499,83,Shoah was released first in 1985.,0.08333333333333333
+500,83,"Shoah was released first, in 1985.",0.08333333333333333
+501,83,Shoah was released first.,0.625
+502,83,Shoah.,0.125
+503,83,that Shoah was released first.,0.041666666666666664
+504,84,$\it{Other}$,0.0448430026525975
+505,84,Shoah was released first in 1985.,0.12107506631493753
+506,84,"Shoah was released first, in 1985.",0.015694530504871265
+507,84,Shoah was released first.,0.7421553368652537
+508,84,Shoah.,0.0448430026525975
+509,84,that Shoah was released first.,0.03138906100974253
+510,85,$\it{Other}$,0.045454545454545456
+511,85,Shoah was released first in 1985.,0.09090909090909091
+512,85,"Shoah was released first, in 1985.",0.09090909090909091
+513,85,Shoah was released first.,0.6363636363636364
+514,85,Shoah.,0.13636363636363635
+515,85,that Shoah was released first.,0.0
+516,86,$\it{Other}$,0.0
+517,86,Shoah was released first in 1985.,0.08695652173913043
+518,86,"Shoah was released first, in 1985.",0.043478260869565216
+519,86,Shoah was released first.,0.8695652173913043
+520,86,Shoah.,0.0
+521,86,that Shoah was released first.,0.0
+522,87,$\it{Other}$,0.058823529411764705
+523,87,Shoah was released first in 1985.,0.058823529411764705
+524,87,"Shoah was released first, in 1985.",0.11764705882352941
+525,87,Shoah was released first.,0.7058823529411765
+526,87,Shoah.,0.058823529411764705
+527,87,that Shoah was released first.,0.0
+528,88,$\it{Other}$,0.0
+529,88,Shoah was released first in 1985.,0.15
+530,88,"Shoah was released first, in 1985.",0.05
+531,88,Shoah was released first.,0.8
+532,88,Shoah.,0.0
+533,88,that Shoah was released first.,0.0
+534,89,$\it{Other}$,0.007719847422444243
+535,89,Shoah was released first in 1985.,0.1002390112728167
+536,89,"Shoah was released first, in 1985.",0.11567870611770519
+537,89,Shoah was released first.,0.7259608678759103
+538,89,Shoah.,0.0504015673111235
+539,89,that Shoah was released first.,0.0
+540,90,$\it{Other}$,0.04102617274452956
+541,90,Shoah was released first in 1985.,0.0698098428646309
+542,90,"Shoah was released first, in 1985.",0.056657752467198216
+543,90,Shoah was released first.,0.8325062319236414
+544,90,Shoah.,0.0
+545,90,that Shoah was released first.,0.0
+546,91,$\it{Other}$,0.0
+547,91,Shoah was released first in 1985.,0.15384615384615385
+548,91,"Shoah was released first, in 1985.",0.07692307692307693
+549,91,Shoah was released first.,0.6923076923076923
+550,91,Shoah.,0.07692307692307693
+551,91,that Shoah was released first.,0.0
+552,92,$\it{Other}$,0.06666666666666667
+553,92,Shoah was released first in 1985.,0.3333333333333333
+554,92,"Shoah was released first, in 1985.",0.06666666666666667
+555,92,Shoah was released first.,0.4666666666666667
+556,92,Shoah.,0.06666666666666667
+557,92,that Shoah was released first.,0.0
+558,93,$\it{Other}$,0.0
+559,93,Shoah was released first in 1985.,0.10526315789473684
+560,93,"Shoah was released first, in 1985.",0.21052631578947367
+561,93,Shoah was released first.,0.631578947368421
+562,93,Shoah.,0.05263157894736842
+563,93,that Shoah was released first.,0.0
+564,94,$\it{Other}$,0.05299210917616216
+565,94,Shoah was released first in 1985.,0.36751972705959457
+566,94,"Shoah was released first, in 1985.",0.01766403639205405
+567,94,Shoah was released first.,0.5618241273721891
+568,94,Shoah.,0.0
+569,94,that Shoah was released first.,0.0
