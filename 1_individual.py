@@ -19,7 +19,8 @@ st.set_page_config(
 )
 
 
-BASE_DIR = './data'
+BASE_DIR = './data'   # '../out/gpt3.5-instruct-30s-300t_POST'
+
 # qa_list = [f'{task}/{qa_id}'   #  f'{task}/{qa_id.split(".")[0]}'
 #               for task in os.listdir(BASE_DIR)
 #               for qa_id in os.listdir(f'{BASE_DIR}/{task}')]
@@ -58,10 +59,13 @@ def load_data(selected_qa):
 
     base_res = pickle.load(open(f'{BASE_DIR}/{selected_qa}/base_res.pk', 'rb'))
     args_json = json.load(open(f'{BASE_DIR}/{selected_qa}/args.json'))
-    return ans_df, idx_df, idx_tok_df, base_res, args_json
+
+    o_trend = pickle.load(open(f'{BASE_DIR}/{selected_qa}/trend.pk', 'rb'))
+
+    return ans_df, idx_df, idx_tok_df, base_res, args_json, o_trend
 
 
-ans_df, idx_df, idx_tok_df, base_res, args_json = load_data(selected_qa)
+ans_df, idx_df, idx_tok_df, base_res, args_json, o_trend = load_data(selected_qa)
 base_tokens = base_res[0]['choice']['logprobs']['tokens']
 
 
@@ -73,8 +77,7 @@ idx_tok_df['ans'] = pd.Categorical(idx_tok_df['ans'], categories=outcomes_set)
 outcome_colors = sns.color_palette(palette='viridis_r', n_colors=len(outcomes_set) - 1) + [(.9, .3, .1)]
 
 
-
-o_trend = st_utils.run_beast(idx_df)
+# o_trend = st_utils.run_beast(idx_df)
 logits = st_utils.get_logits(base_res)
 
 answer_fn = st_utils.ans_key_map.get(task, lambda x: 'N/A')
@@ -87,7 +90,7 @@ col1, col2 = st.columns(2)
 if col1.checkbox('Highlighted Text', value=1):
     cpd_probs = 1 - o_trend['cpOccPr']
 
-    print_newln = col2.checkbox('Print Newln', value=0)
+    print_newln = col2.checkbox('Print Newline Character  `\\n`', value=0)
 
     cols = st.columns(3)
     cols[0].html( text_viz.text_base_html(base_res[0]['prompt_raw'], print_newln=True, width='100%', bg_color='#cfffd3'))
@@ -120,7 +123,7 @@ if st.checkbox('Token Outcome Distributions  $\quad  o_{t, w}$', value=1):
 
 
 # Semantic drift
-if st.checkbox('Semantic Drift  $\quad  y_t$', value=0):
+if st.checkbox('Semantic Drift  $\quad  y_t$', value=1):
     dist = st.selectbox(
         'Distance Function',
         ['l1', 'l2', 'cos', 'kl'],

@@ -15,7 +15,7 @@ from forking_paths.st_utils import semantic_drift
 OTHER_TOK = '$\\it{Other}$'
 
 
-def plotly_stacked(idx_df, base_tokens, colors, outcomes_set):
+def plotly_stacked(idx_df, base_tokens, colors, outcomes_set, tick_text=True):
     
     layout =  go.Layout(
         title = None,
@@ -37,7 +37,8 @@ def plotly_stacked(idx_df, base_tokens, colors, outcomes_set):
         xaxis = dict(
             tickmode = 'array',
             tickvals = list(range(min(idx_df['idx']), max(idx_df['idx']))),
-            ticktext = base_tokens,
+            ticktext = base_tokens if tick_text else None,
+            tickangle = -90 if tick_text else None,
 
             # showline=True,
             showgrid=True,
@@ -258,6 +259,7 @@ def plotly_semantic_drift(idx_df, base_tokens, dist_fn='d_l1'):
             tickmode = 'array',
             tickvals = list(range(i_min, i_max)),
             ticktext = base_tokens,
+            tickangle = -90,
 
             showgrid=True,
             gridwidth=.5, 

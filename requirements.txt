@@ -3,4 +3,3 @@ pandas
 seaborn
 plotly
 streamlit
-Rbeast

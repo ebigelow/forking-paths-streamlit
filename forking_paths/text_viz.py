@@ -15,12 +15,12 @@ def text_colors_html(tokens, probs, prompt=None, c_map=sns.color_palette('YlOrRd
 
 
     highlighted = ''.join([
-        ('<span style="color: black; font-size=16pt; background-color: ' +
+        ('<div class="tooltip" style="display: inline;"><span style="color: black; font-size=16pt; background-color: ' +
                       rgb_to_htmlstr(c_map(prob)) + 
                       ' !important ;">' +
                   (token.replace('\n', '<br>') if print_newln else token.replace('\n', '\\n')) +      # .replace(' ', '&nbsp;')
-        '</span>')
-        for token, prob in zip(tokens, probs)])
+        f'</span><span class="tooltiptext"> {t} </span></div>')
+        for token, prob, t in zip(tokens, probs, range(len(tokens)))])
     
     if prompt is not None:
         prompt_text = '<span style="color: black; font-size=16pt; !important;">' + prompt + '</span>'
@@ -42,6 +42,33 @@ def text_colors_html(tokens, probs, prompt=None, c_map=sns.color_palette('YlOrRd
       margin: 0;
       size: 520px 300px
     }
+
+    // hover tooltip for index
+    .tooltip {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black;
+    }
+
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        // width: 120px;
+        background-color: rgba(0, 0, 0, 0.5); //black;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+    }
+
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
+
+
     </style>
     </head>
     
