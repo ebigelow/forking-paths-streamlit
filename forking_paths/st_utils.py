@@ -1,7 +1,5 @@
 import numpy as np
-
 import streamlit as st
-import Rbeast
 
 from forking_paths.analysis_utils import get_dists
 
@@ -21,6 +19,8 @@ def semantic_drift(idx_df):
 @st.cache_data
 def run_beast(idx_df, dist_fn = 'd_l1', 
               alpha2_str='lambda range_y: 2.0  + (1000 ** (1.0 - range_y))'):
+    import Rbeast
+    
     ### TODO: turn all beast args into kwarg dict + default dict   
     #                   -- then use default dict to generate that many text entry boxes in streamlit CPD page
     alpha2_fn = eval(alpha2_str)
