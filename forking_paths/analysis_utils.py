@@ -1,5 +1,5 @@
-
 import numpy as np
+import pandas as pd
 
 # ----------------------------------------------------------------------------------------------------------------
 # Distance metrics
@@ -89,3 +89,82 @@ def get_expected_ncp(posts):
 
 
 # ----------------------------------------------------------------------------------------------------------------
+# Forking Tokens Analysis
+
+def get_forktok_ts(idx_tok_df, base_tokens, key_col='ans', val_col='weighted', sig_dist_thresh=None):
+    idx_tok_df = idx_tok_df.copy()
+    
+    # Split answer column into separate columns for each categorical value
+    cols = ['idx', 'tok', 'ans']
+    df_ = idx_tok_df[cols + ['weighted']].set_index(cols).unstack(['ans']).reset_index()
+    df_.columns = [f'ans___{t}' if v == val_col else v for v, t in df_.columns]
+    
+    ans_cols = [c for c in df_.columns if 'ans___' in c]
+    df_ = df_.sort_values(by=['idx', 'tok']).reset_index()
+
+    # Merge tok_p back in
+    cols = ['idx', 'tok']
+    df_ = df_.merge(idx_tok_df[cols + ['tok_p']].drop_duplicates(cols), how='left', on=cols)
+
+    idxs = sorted(set(idx_tok_df['idx']))
+    rows = []
+    
+    for idx in idxs:
+        # Df for base path token
+        base_tok = base_tokens[idx]
+        df_i = df_[df_['idx'] == idx].copy()
+
+        # Get token probs for all other tokens, to use for weighting
+        alt_df = df_i[df_i['tok'] != base_tok]
+        tp = alt_df['tok_p'].to_numpy()[..., None]
+
+        # Get outcome / answer vectors for base token + alternate tokens
+        o_alts = alt_df[ans_cols].to_numpy().astype(float)
+        o_base = df_i[df_i['tok'] == base_tok].iloc[0][ans_cols].to_numpy().astype(float)[None, ...]
+
+        # Compute distances d(w*, w_i) for each alternate token w_i relative to base token w*
+        row = {
+            'idx': idx,
+            # Compute distance matrix for each token:   \forall_i  d(w*, w_i)
+            'd_l1':  lp_dist_mat(o_base,  o_alts, order=1),
+            'd_l2':  lp_dist_mat(o_base,  o_alts),
+            'd_cos': cos_dist_mat(o_base, o_alts),
+            'd_kl':  KL_div_mat(o_base,   o_alts),
+        }
+
+        if sig_dist_thresh is None:
+            # Expected [Distance]: weighted average of distances:   \sum_i  d(w*, w_i)  p(w_i)
+            row = {k: v if k == 'idx' else (v * tp).sum()
+                   for k, v in row.items()}
+        else:
+            # Expected [d > Threshold]: Computed weighted avg of distances, with weight `1 * p(w_i)` if dist. is big enough, else 0
+            row = {k: v if k == 'idx' else ((v >= sig_dist_thresh).astype(int)[..., None] * tp).sum()
+                   for k, v in row.items()}
+        rows.append(row)
+        
+    return pd.DataFrame(rows)
+
+
+def get_survival_df(idx_tok_df, base_tokens, dist_fn='d_l1', d_thresholds=[0, .1, .2, .3, .5, .7]):
+    # Locally import streamlit -- maybe move this fn elsewhere?
+    import streamlit as st
+
+    dfs = []
+
+    for dist_thresh in d_thresholds:
+        # Cache repeated calls to this function since it's slow to run
+        thresh_df =  st.cache_data(get_forktok_ts)(
+            idx_tok_df, base_tokens, sig_dist_thresh=dist_thresh)
+        
+        # Hazard: probability that token distribution changes by at least `d_threshold`
+        thresh_df = thresh_df[['idx', dist_fn]]
+        thresh_df.rename({dist_fn: 'hazard'}, axis='columns', inplace=True)
+        thresh_df['threshold'] = dist_thresh
+
+        # Cumulative product of   p(survival_t)
+        #   https://stackoverflow.com/a/27912352/4248948
+        thresh_df['survival'] = np.multiply.accumulate(1 - thresh_df['hazard'])
+        
+        dfs.append(thresh_df)
+
+    return pd.concat(dfs)

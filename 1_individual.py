@@ -19,10 +19,9 @@ st.set_page_config(
 )
 
 
-BASE_DIR = '../out/gpt3.5-instruct-30s-300t_POST'
-
-# qa_list = [f'{task}/{qa_id}'   #  f'{task}/{qa_id.split(".")[0]}' 
-#               for task in os.listdir(BASE_DIR) 
+BASE_DIR = './data'
+# qa_list = [f'{task}/{qa_id}'   #  f'{task}/{qa_id.split(".")[0]}'
+#               for task in os.listdir(BASE_DIR)
 #               for qa_id in os.listdir(f'{BASE_DIR}/{task}')]
 
 # # 0. drop-down selector for which csv (task/qa id) to load
@@ -114,7 +113,7 @@ if st.checkbox('Token Outcome Distributions  $\quad  o_{t, w}$', value=1):
     t_min, t_max = min(idx_tok_df['idx']), max(idx_tok_df['idx'])
     t_select = st.slider('Token Index $t$', min_value=t_min, max_value=t_max - 4)
 
-    fig_parcat = st_plot.plotly_parallel_categories(idx_tok_df, base_tokens, outcome_colors, 
+    fig_parcat = st_plot.plotly_parallel_categories(idx_tok_df, base_tokens, outcome_colors,
                                                     plot_idx=t_select, plot_n_idxs=4)   # pd.DataFrame(st.session_state.ts_click)['idx'].iloc[0]
     st.plotly_chart(fig_parcat)
 
@@ -125,6 +124,7 @@ if st.checkbox('Semantic Drift  $\quad  y_t$', value=0):
     dist = st.selectbox(
         'Distance Function',
         ['l1', 'l2', 'cos', 'kl'],
+        key=0,
     )
     fig_drift = st_plot.plotly_semantic_drift(idx_df, base_tokens, dist_fn=f'd_{dist}')
     st.plotly_chart(fig_drift)
@@ -136,12 +136,13 @@ if st.checkbox('Change Point Detection  $\quad  p(\\tau = t)$', value=1):
 
 # Forking survival time series
 if st.checkbox('Forking Token Survival Analysis', value=1):
-    dist2 = st.selectbox(
+    dist = st.selectbox(
         'Distance Function',
         ['l1', 'l2', 'cos', 'kl'],
+        key=1,
     )
-    fig_h, fig_s = st_plot.survival_lines(idx_tok_df, base_tokens, 
-                                          dist_fn=f'd_{dist2}', d_thresholds=[0, .1, .2, .3, .5, .7])
+    fig_h, fig_s = st_plot.survival_lines(idx_tok_df, base_tokens,
+                                          dist_fn=f'd_{dist}', d_thresholds=[0, .1, .2, .3, .5, .7])
     st.plotly_chart(fig_h)
     st.plotly_chart(fig_s)
 

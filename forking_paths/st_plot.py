@@ -7,7 +7,7 @@ import seaborn as sns
 import plotly.graph_objs as go
 import plotly.offline as offline
 
-from forking_paths.analysis import get_survival_df
+from forking_paths.analysis_utils import get_survival_df
 from forking_paths.st_utils import semantic_drift
 
 
