@@ -12,6 +12,9 @@ sys.path.append('..')
 from forking_paths import st_plot, st_utils, text_viz
 
 
+if not st_utils.check_password():
+    st.stop()
+
 st.set_page_config(
     layout='wide',       # 'centered' or 'wide'
     page_title='Individual FPA',
@@ -19,7 +22,7 @@ st.set_page_config(
 )
 
 
-BASE_DIR = './data'   # '../out/gpt3.5-instruct-30s-300t_POST'
+BASE_DIR = './data'  #'../out/gpt3.5-instruct-30s-300t_POST'
 
 # qa_list = [f'{task}/{qa_id}'   #  f'{task}/{qa_id.split(".")[0]}'
 #               for task in os.listdir(BASE_DIR)
@@ -84,6 +87,8 @@ answer_fn = st_utils.ans_key_map.get(task, lambda x: 'N/A')
 answer = answer_fn(args_json['row'])
 
 
+# ========================================================================
+
 # Highlighted text
 #    - https://docs.streamlit.io/develop/api-reference/custom-components/st.components.v1.html
 col1, col2 = st.columns(2)
@@ -100,8 +105,6 @@ if col1.checkbox('Highlighted Text', value=1):
     cols[1].markdown('Token Logit Probs')
     cols[2].html( text_viz.text_colors_html(base_tokens, cpd_probs, print_newln=print_newln, width='100%'))
     cols[2].markdown('Change Point Detection Probs   $\quad  p(\\tau = t)$')
-
-
 
 
 # Stacked line plot    (+ baseline bars ????)
