@@ -1,0 +1,1843 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.47487112295220457
+1,0,Informe Robinson,0.3648726536689111
+2,0,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.00893553966230308
+3,0,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.07507495538178348
+4,0,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.04127712770389532
+5,0,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03496860063090242
+6,1,$\it{Other}$,0.5923196511325632
+7,1,Informe Robinson,0.19962686601948762
+8,1,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.033333333333333326
+9,1,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.08314676634307716
+10,1,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.033333333333333326
+11,1,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.05824004983820524
+12,2,$\it{Other}$,0.5375109460797508
+13,2,Informe Robinson,0.22088806373208747
+14,2,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.1457786029345792
+15,2,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.058311441173831684
+16,2,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.008355225492834982
+17,2,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.029155720586915842
+18,3,$\it{Other}$,0.5505307411420772
+19,3,Informe Robinson,0.24527270636775772
+20,3,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.07451042577127959
+21,3,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.05517570094760578
+22,3,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03652738794901034
+23,3,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03798303782226926
+24,4,$\it{Other}$,0.23333333333333334
+25,4,Informe Robinson,0.5333333333333333
+26,4,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+27,4,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+28,4,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+29,4,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+30,5,$\it{Other}$,0.3
+31,5,Informe Robinson,0.4
+32,5,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+33,5,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+34,5,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+35,5,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.16666666666666666
+36,6,$\it{Other}$,0.43333333333333335
+37,6,Informe Robinson,0.4666666666666667
+38,6,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+39,6,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+40,6,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+41,6,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+42,7,$\it{Other}$,0.3484995567516449
+43,7,Informe Robinson,0.3545013297450653
+44,7,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.05450132974506529
+45,7,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.11516622341831158
+46,7,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.07883200358826806
+47,7,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.048499556751644905
+48,8,$\it{Other}$,0.4666666666666667
+49,8,Informe Robinson,0.3683138571662248
+50,8,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.007921535708443813
+51,8,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.05874513095822285
+52,8,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.041254869041777144
+53,8,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.05709794045866477
+54,9,$\it{Other}$,0.26666666666666666
+55,9,Informe Robinson,0.4666666666666667
+56,9,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+57,9,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+58,9,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+59,9,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+60,10,$\it{Other}$,0.36666666666666664
+61,10,Informe Robinson,0.36666666666666664
+62,10,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+63,10,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+64,10,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+65,10,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.1
+66,11,$\it{Other}$,0.3
+67,11,Informe Robinson,0.43333333333333335
+68,11,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+69,11,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+70,11,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.1
+71,11,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+72,12,$\it{Other}$,0.23333333333333334
+73,12,Informe Robinson,0.43333333333333335
+74,12,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.1
+75,12,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+76,12,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+77,12,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+78,13,$\it{Other}$,0.29069892576728307
+79,13,Informe Robinson,0.5130999835706882
+80,13,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.025322580299794516
+81,13,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.10305564918227658
+82,13,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.017177700580368556
+83,13,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.05064516059958903
+84,14,$\it{Other}$,0.16666666666666666
+85,14,Informe Robinson,0.7
+86,14,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.06666666666666667
+87,14,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+88,14,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+89,14,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+90,15,$\it{Other}$,0.26666666666666666
+91,15,Informe Robinson,0.4666666666666667
+92,15,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.1
+93,15,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+94,15,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+95,15,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.1
+96,16,$\it{Other}$,0.36666666666666664
+97,16,Informe Robinson,0.4666666666666667
+98,16,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.06666666666666667
+99,16,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+100,16,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+101,16,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+102,17,$\it{Other}$,0.3333333333333333
+103,17,Informe Robinson,0.5333333333333333
+104,17,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+105,17,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+106,17,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+107,17,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+108,18,$\it{Other}$,0.3442473054035271
+109,18,Informe Robinson,0.5331414464987223
+110,18,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.008119430221760756
+111,18,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.09458704651882618
+112,18,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0028983635751979753
+113,18,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.017006407781965736
+114,19,$\it{Other}$,0.25138594580382556
+115,19,Informe Robinson,0.5125088292551899
+116,19,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.015280720862841097
+117,19,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.10554378321530228
+118,19,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0847192791371589
+119,19,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.030561441725682193
+120,20,$\it{Other}$,0.3
+121,20,Informe Robinson,0.43333333333333335
+122,20,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+123,20,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+124,20,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+125,20,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.1
+126,21,$\it{Other}$,0.16666666666666666
+127,21,Informe Robinson,0.6
+128,21,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+129,21,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+130,21,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+131,21,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.13333333333333333
+132,22,$\it{Other}$,0.16666666666666666
+133,22,Informe Robinson,0.6666666666666666
+134,22,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+135,22,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+136,22,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+137,22,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+138,23,$\it{Other}$,0.16666666666666666
+139,23,Informe Robinson,0.6
+140,23,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+141,23,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+142,23,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.13333333333333333
+143,23,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+144,24,$\it{Other}$,0.20049092862210255
+145,24,Informe Robinson,0.557781038633468
+146,24,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.024938633922237177
+147,24,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.07506136607776281
+148,24,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.07481590176671153
+149,24,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06691213097771795
+150,25,$\it{Other}$,0.22055015755928498
+151,25,Informe Robinson,0.6615117922195584
+152,25,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+153,25,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.07690707533173502
+154,25,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.00769764155608833
+155,25,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333334
+156,26,$\it{Other}$,0.17682459192141645
+157,26,Informe Robinson,0.6666666666666666
+158,26,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03130174828238338
+159,26,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06260349656476676
+160,26,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03130174828238338
+161,26,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03130174828238338
+162,27,$\it{Other}$,0.26666666666666666
+163,27,Informe Robinson,0.5666666666666667
+164,27,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.06666666666666667
+165,27,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+166,27,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+167,27,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+168,28,$\it{Other}$,0.15580560914529254
+169,28,Informe Robinson,0.7953555126837659
+170,28,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+171,28,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+172,28,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+173,28,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.015505544837608161
+174,29,$\it{Other}$,0.03333333333333333
+175,29,Informe Robinson,0.9666666666666667
+176,29,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+177,29,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+178,29,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+179,29,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+180,30,$\it{Other}$,0.2
+181,30,Informe Robinson,0.7666666666666667
+182,30,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+183,30,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+184,30,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+185,30,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+186,31,$\it{Other}$,0.1
+187,31,Informe Robinson,0.8333333333333334
+188,31,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+189,31,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+190,31,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+191,31,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+192,32,$\it{Other}$,0.13333333333333333
+193,32,Informe Robinson,0.8
+194,32,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.06666666666666667
+195,32,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+196,32,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+197,32,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+198,33,$\it{Other}$,0.1
+199,33,Informe Robinson,0.7
+200,33,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+201,33,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+202,33,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.1
+203,33,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+204,34,$\it{Other}$,0.23333333333333334
+205,34,Informe Robinson,0.6333333333333333
+206,34,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+207,34,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+208,34,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+209,34,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+210,35,$\it{Other}$,0.06666666666666667
+211,35,Informe Robinson,0.8666666666666667
+212,35,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+213,35,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+214,35,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+215,35,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+216,36,$\it{Other}$,0.05495533790965194
+217,36,Informe Robinson,0.845044662090348
+218,36,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.013738834477412984
+219,36,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.052927832189253676
+220,36,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+221,36,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+222,37,$\it{Other}$,0.23333333333333334
+223,37,Informe Robinson,0.5666666666666667
+224,37,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+225,37,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+226,37,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+227,37,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+228,38,$\it{Other}$,0.16666666666666666
+229,38,Informe Robinson,0.7666666666666667
+230,38,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+231,38,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+232,38,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+233,38,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+234,39,$\it{Other}$,0.16666666666666666
+235,39,Informe Robinson,0.8
+236,39,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+237,39,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+238,39,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+239,39,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+240,40,$\it{Other}$,0.1
+241,40,Informe Robinson,0.8
+242,40,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+243,40,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+244,40,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+245,40,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+246,41,$\it{Other}$,0.11526436796210196
+247,41,Informe Robinson,0.8124597705529726
+248,41,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.022075360837846593
+249,41,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.014062569904616153
+250,41,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.022075360837846593
+251,41,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.014062569904616153
+252,42,$\it{Other}$,0.16666666666666666
+253,42,Informe Robinson,0.7333333333333333
+254,42,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+255,42,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+256,42,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+257,42,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+258,43,$\it{Other}$,0.16666666666666666
+259,43,Informe Robinson,0.7
+260,43,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+261,43,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+262,43,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+263,43,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.06666666666666667
+264,44,$\it{Other}$,0.23333333333333334
+265,44,Informe Robinson,0.6333333333333333
+266,44,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+267,44,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+268,44,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+269,44,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+270,45,$\it{Other}$,0.26666666666666666
+271,45,Informe Robinson,0.7
+272,45,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+273,45,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+274,45,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+275,45,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+276,46,$\it{Other}$,0.17366822888223316
+277,46,Informe Robinson,0.7259713147612397
+278,46,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.023699747931607427
+279,46,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.011321478013377255
+280,46,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.040921459483285794
+281,46,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.024417770928256817
+282,47,$\it{Other}$,0.1
+283,47,Informe Robinson,0.7666666666666667
+284,47,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+285,47,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+286,47,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+287,47,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+288,48,$\it{Other}$,0.26666666666666666
+289,48,Informe Robinson,0.7333333333333333
+290,48,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+291,48,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+292,48,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+293,48,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+294,49,$\it{Other}$,0.2
+295,49,Informe Robinson,0.7
+296,49,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+297,49,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+298,49,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.06666666666666667
+299,49,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+300,50,$\it{Other}$,0.3333333333333333
+301,50,Informe Robinson,0.5666666666666667
+302,50,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+303,50,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+304,50,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.03333333333333333
+305,50,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+306,51,$\it{Other}$,0.18072842147766177
+307,51,Informe Robinson,0.6756701751350035
+308,51,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+309,51,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.08270105254050106
+310,51,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+311,51,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.02756701751350035
+312,52,$\it{Other}$,0.0
+313,52,Informe Robinson,0.9333333333333333
+314,52,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+315,52,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+316,52,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+317,52,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.03333333333333333
+318,53,$\it{Other}$,0.16666666666666666
+319,53,Informe Robinson,0.7
+320,53,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.03333333333333333
+321,53,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+322,53,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+323,53,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+324,54,$\it{Other}$,0.1
+325,54,Informe Robinson,0.8666666666666667
+326,54,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+327,54,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+328,54,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+329,54,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+330,55,$\it{Other}$,0.12040765807066683
+331,55,Informe Robinson,0.6984132878064442
+332,55,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+333,55,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.09410472938555539
+334,55,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.043537162368666754
+335,55,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.043537162368666754
+336,56,$\it{Other}$,0.16909683495023803
+337,56,Informe Robinson,0.7072905048507141
+338,56,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.06180633009952396
+339,56,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06180633009952396
+340,56,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+341,56,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+342,57,$\it{Other}$,0.03333333333333333
+343,57,Informe Robinson,0.8333333333333334
+344,57,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.1
+345,57,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+346,57,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+347,57,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+348,58,$\it{Other}$,0.018890064841036332
+349,58,Informe Robinson,0.8508828276280972
+350,58,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0394595975964236
+351,58,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.09076750993444282
+352,58,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+353,58,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+354,59,$\it{Other}$,0.013189715054985509
+355,59,Informe Robinson,0.7412471623663246
+356,59,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+357,59,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.24556312257868984
+358,59,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+359,59,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+360,60,$\it{Other}$,0.012296289310484942
+361,60,Informe Robinson,0.7737777358629097
+362,60,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+363,60,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.21392597482660541
+364,60,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+365,60,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+366,61,$\it{Other}$,0.0
+367,61,Informe Robinson,0.8
+368,61,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+369,61,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+370,61,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+371,61,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+372,62,$\it{Other}$,0.0
+373,62,Informe Robinson,0.6666666666666666
+374,62,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+375,62,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3333333333333333
+376,62,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+377,62,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+378,63,$\it{Other}$,0.0
+379,63,Informe Robinson,0.6
+380,63,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+381,63,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.4
+382,63,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+383,63,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+384,64,$\it{Other}$,0.0
+385,64,Informe Robinson,0.7666666666666667
+386,64,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+387,64,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+388,64,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+389,64,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+390,65,$\it{Other}$,0.0
+391,65,Informe Robinson,0.8598709694502202
+392,65,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+393,65,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.14012903054977968
+394,65,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+395,65,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+396,66,$\it{Other}$,0.0
+397,66,Informe Robinson,0.78571739384203
+398,66,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+399,66,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.21428260615797007
+400,66,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+401,66,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+402,67,$\it{Other}$,0.0
+403,67,Informe Robinson,0.7
+404,67,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+405,67,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3
+406,67,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+407,67,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+408,68,$\it{Other}$,0.0
+409,68,Informe Robinson,0.7333333333333333
+410,68,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+411,68,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.26666666666666666
+412,68,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+413,68,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+414,69,$\it{Other}$,0.0
+415,69,Informe Robinson,0.7666666666666667
+416,69,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+417,69,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+418,69,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+419,69,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+420,70,$\it{Other}$,0.0
+421,70,Informe Robinson,0.8887057280226731
+422,70,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+423,70,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.11129427197732693
+424,70,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+425,70,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+426,71,$\it{Other}$,0.0
+427,71,Informe Robinson,0.7701204974599922
+428,71,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+429,71,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.22987950254000777
+430,71,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+431,71,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+432,72,$\it{Other}$,0.0
+433,72,Informe Robinson,0.7628479911671189
+434,72,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+435,72,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23715200883288115
+436,72,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+437,72,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+438,73,$\it{Other}$,0.0
+439,73,Informe Robinson,0.8345491228586681
+440,73,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+441,73,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.165450877141332
+442,73,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+443,73,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+444,74,$\it{Other}$,0.0
+445,74,Informe Robinson,0.6
+446,74,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+447,74,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.4
+448,74,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+449,74,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+450,75,$\it{Other}$,0.0
+451,75,Informe Robinson,0.7118587702848014
+452,75,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+453,75,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2881412297151986
+454,75,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+455,75,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+456,76,$\it{Other}$,0.010460408141143417
+457,76,Informe Robinson,0.7690269262533609
+458,76,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+459,76,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.22051266560549573
+460,76,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+461,76,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+462,77,$\it{Other}$,0.0
+463,77,Informe Robinson,0.7666666666666667
+464,77,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+465,77,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+466,77,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+467,77,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+468,78,$\it{Other}$,0.0032074092522084477
+469,78,Informe Robinson,0.864335555004447
+470,78,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+471,78,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13245703574334455
+472,78,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+473,78,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+474,79,$\it{Other}$,0.0
+475,79,Informe Robinson,0.7333333333333332
+476,79,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+477,79,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2666666666666666
+478,79,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+479,79,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+480,80,$\it{Other}$,0.0
+481,80,Informe Robinson,0.8672730475820466
+482,80,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+483,80,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13272695241795335
+484,80,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+485,80,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+486,81,$\it{Other}$,0.005894565624290247
+487,81,Informe Robinson,0.7823163031271293
+488,81,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+489,81,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2117891312485805
+490,81,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+491,81,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+492,82,$\it{Other}$,0.0
+493,82,Informe Robinson,0.6333333333333333
+494,82,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+495,82,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.36666666666666664
+496,82,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+497,82,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+498,83,$\it{Other}$,0.0
+499,83,Informe Robinson,0.6666666666666666
+500,83,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+501,83,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3333333333333333
+502,83,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+503,83,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+504,84,$\it{Other}$,0.037558803583945755
+505,84,Informe Robinson,0.6809191764265555
+506,84,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+507,84,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.28152201998949855
+508,84,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+509,84,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+510,85,$\it{Other}$,0.0
+511,85,Informe Robinson,0.7333333333333333
+512,85,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+513,85,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.26666666666666666
+514,85,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+515,85,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+516,86,$\it{Other}$,0.0
+517,86,Informe Robinson,0.7666666666666667
+518,86,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+519,86,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+520,86,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+521,86,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+522,87,$\it{Other}$,0.0
+523,87,Informe Robinson,0.7193800445235765
+524,87,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+525,87,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.28061995547642343
+526,87,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+527,87,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+528,88,$\it{Other}$,0.0
+529,88,Informe Robinson,0.9333333333333333
+530,88,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+531,88,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+532,88,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+533,88,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+534,89,$\it{Other}$,0.0
+535,89,Informe Robinson,0.7666666666666667
+536,89,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+537,89,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+538,89,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+539,89,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+540,90,$\it{Other}$,0.0
+541,90,Informe Robinson,0.8333333333333334
+542,90,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+543,90,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+544,90,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+545,90,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+546,91,$\it{Other}$,0.0
+547,91,Informe Robinson,0.8209364551264483
+548,91,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+549,91,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1790635448735516
+550,91,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+551,91,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+552,92,$\it{Other}$,0.0
+553,92,Informe Robinson,0.8666666666666667
+554,92,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+555,92,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+556,92,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+557,92,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+558,93,$\it{Other}$,0.0
+559,93,Informe Robinson,0.7872667903196553
+560,93,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+561,93,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.21273320968034487
+562,93,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+563,93,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+564,94,$\it{Other}$,0.0
+565,94,Informe Robinson,0.7666666666666667
+566,94,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+567,94,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+568,94,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+569,94,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+570,95,$\it{Other}$,0.0
+571,95,Informe Robinson,0.823265313104594
+572,95,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+573,95,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.176734686895406
+574,95,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+575,95,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+576,96,$\it{Other}$,0.0
+577,96,Informe Robinson,0.8199682286536021
+578,96,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+579,96,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.18003177134639792
+580,96,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+581,96,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+582,97,$\it{Other}$,0.0
+583,97,Informe Robinson,0.7333333333333333
+584,97,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+585,97,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.26666666666666666
+586,97,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+587,97,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+588,98,$\it{Other}$,0.0
+589,98,Informe Robinson,0.6333333333333333
+590,98,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+591,98,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.36666666666666664
+592,98,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+593,98,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+594,99,$\it{Other}$,0.0
+595,99,Informe Robinson,0.6666666666666666
+596,99,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+597,99,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3333333333333333
+598,99,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+599,99,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+600,100,$\it{Other}$,0.03333333333333333
+601,100,Informe Robinson,0.8
+602,100,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+603,100,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+604,100,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+605,100,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+606,101,$\it{Other}$,0.0
+607,101,Informe Robinson,0.6666666666666666
+608,101,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+609,101,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3333333333333333
+610,101,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+611,101,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+612,102,$\it{Other}$,0.0
+613,102,Informe Robinson,0.7666666666666667
+614,102,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+615,102,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+616,102,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+617,102,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+618,103,$\it{Other}$,0.0
+619,103,Informe Robinson,0.8969672124088949
+620,103,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+621,103,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.10303278759110521
+622,103,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+623,103,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+624,104,$\it{Other}$,0.0
+625,104,Informe Robinson,0.8531068582342873
+626,104,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+627,104,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1468931417657127
+628,104,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+629,104,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+630,105,$\it{Other}$,0.0
+631,105,Informe Robinson,0.6
+632,105,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+633,105,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.4
+634,105,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+635,105,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+636,106,$\it{Other}$,0.0
+637,106,Informe Robinson,0.8333333333333334
+638,106,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+639,106,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+640,106,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+641,106,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+642,107,$\it{Other}$,0.0
+643,107,Informe Robinson,0.8666666666666667
+644,107,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+645,107,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+646,107,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+647,107,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+648,108,$\it{Other}$,0.0
+649,108,Informe Robinson,0.8
+650,108,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+651,108,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+652,108,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+653,108,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+654,109,$\it{Other}$,0.017005930706262325
+655,109,Informe Robinson,0.7083533923781895
+656,109,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+657,109,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.274640676915548
+658,109,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+659,109,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+660,110,$\it{Other}$,0.0
+661,110,Informe Robinson,0.8306243409196441
+662,110,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+663,110,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1693756590803558
+664,110,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+665,110,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+666,111,$\it{Other}$,0.0
+667,111,Informe Robinson,0.7315003995212751
+668,111,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+669,111,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2684996004787248
+670,111,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+671,111,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+672,112,$\it{Other}$,0.03082838160005633
+673,112,Informe Robinson,0.7150297103996619
+674,112,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+675,112,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.25414190800028164
+676,112,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+677,112,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+678,113,$\it{Other}$,0.03333333333333333
+679,113,Informe Robinson,0.6666666666666666
+680,113,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+681,113,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3
+682,113,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+683,113,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+684,114,$\it{Other}$,0.0
+685,114,Informe Robinson,0.7608485586812197
+686,114,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+687,114,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2391514413187804
+688,114,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+689,114,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+690,115,$\it{Other}$,0.0
+691,115,Informe Robinson,0.7331603925531096
+692,115,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+693,115,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2668396074468906
+694,115,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+695,115,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+696,116,$\it{Other}$,0.0
+697,116,Informe Robinson,0.7664037127881004
+698,116,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+699,116,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23359628721189954
+700,116,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+701,116,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+702,117,$\it{Other}$,0.0
+703,117,Informe Robinson,0.7522139849463292
+704,117,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+705,117,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.24778601505367087
+706,117,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+707,117,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+708,118,$\it{Other}$,0.0
+709,118,Informe Robinson,0.7666551619561248
+710,118,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+711,118,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23334483804387524
+712,118,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+713,118,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+714,119,$\it{Other}$,0.0
+715,119,Informe Robinson,0.8139562198052741
+716,119,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+717,119,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.18604378019472584
+718,119,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+719,119,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+720,120,$\it{Other}$,0.0
+721,120,Informe Robinson,0.7891207510337432
+722,120,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+723,120,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.21087924896625676
+724,120,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+725,120,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+726,121,$\it{Other}$,0.0
+727,121,Informe Robinson,0.7666796204222281
+728,121,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+729,121,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23332037957777185
+730,121,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+731,121,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+732,122,$\it{Other}$,0.0
+733,122,Informe Robinson,0.8473280126969723
+734,122,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+735,122,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.15267198730302778
+736,122,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+737,122,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+738,123,$\it{Other}$,0.0
+739,123,Informe Robinson,0.7771354262883979
+740,123,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+741,123,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.22286457371160215
+742,123,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+743,123,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+744,124,$\it{Other}$,0.0
+745,124,Informe Robinson,0.7666666666666667
+746,124,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+747,124,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+748,124,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+749,124,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+750,125,$\it{Other}$,0.0
+751,125,Informe Robinson,0.7657736054392753
+752,125,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+753,125,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23422639456072458
+754,125,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+755,125,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+756,126,$\it{Other}$,0.0
+757,126,Informe Robinson,0.7785812862583261
+758,126,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+759,126,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.22141871374167393
+760,126,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+761,126,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+762,127,$\it{Other}$,0.0
+763,127,Informe Robinson,0.676975942020614
+764,127,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+765,127,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.32302405797938594
+766,127,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+767,127,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+768,128,$\it{Other}$,0.013689760894393886
+769,128,Informe Robinson,0.7196898515486693
+770,128,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+771,128,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2666203875569369
+772,128,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+773,128,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+774,129,$\it{Other}$,0.0
+775,129,Informe Robinson,0.8
+776,129,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+777,129,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+778,129,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+779,129,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+780,130,$\it{Other}$,0.0
+781,130,Informe Robinson,0.8360407742222462
+782,130,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+783,130,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1639592257777539
+784,130,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+785,130,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+786,131,$\it{Other}$,0.0
+787,131,Informe Robinson,0.8285170784861695
+788,131,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+789,131,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.17148292151383043
+790,131,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+791,131,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+792,132,$\it{Other}$,0.0
+793,132,Informe Robinson,0.8531684939263917
+794,132,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+795,132,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1468315060736084
+796,132,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+797,132,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+798,133,$\it{Other}$,0.0
+799,133,Informe Robinson,0.8666666666666667
+800,133,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+801,133,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+802,133,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+803,133,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+804,134,$\it{Other}$,0.0
+805,134,Informe Robinson,0.6686307871786487
+806,134,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+807,134,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3313692128213512
+808,134,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+809,134,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+810,135,$\it{Other}$,0.0
+811,135,Informe Robinson,0.7473434315332248
+812,135,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+813,135,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2526565684667751
+814,135,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+815,135,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+816,136,$\it{Other}$,0.0
+817,136,Informe Robinson,0.7700919029141589
+818,136,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+819,136,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.22990809708584117
+820,136,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+821,136,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+822,137,$\it{Other}$,0.0
+823,137,Informe Robinson,0.7666666666666667
+824,137,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+825,137,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23333333333333334
+826,137,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+827,137,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+828,138,$\it{Other}$,0.0
+829,138,Informe Robinson,0.8
+830,138,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+831,138,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+832,138,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+833,138,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+834,139,$\it{Other}$,0.0
+835,139,Informe Robinson,0.8
+836,139,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+837,139,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+838,139,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+839,139,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+840,140,$\it{Other}$,0.0
+841,140,Informe Robinson,0.6666666666666666
+842,140,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+843,140,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.3333333333333333
+844,140,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+845,140,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+846,141,$\it{Other}$,0.0
+847,141,Informe Robinson,0.8
+848,141,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+849,141,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+850,141,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+851,141,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+852,142,$\it{Other}$,0.0
+853,142,Informe Robinson,0.8257959854595487
+854,142,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+855,142,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.17420401454045137
+856,142,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+857,142,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+858,143,$\it{Other}$,0.0
+859,143,Informe Robinson,0.8000000000000002
+860,143,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+861,143,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.20000000000000004
+862,143,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+863,143,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+864,144,$\it{Other}$,0.0
+865,144,Informe Robinson,0.8
+866,144,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+867,144,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+868,144,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+869,144,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+870,145,$\it{Other}$,0.0
+871,145,Informe Robinson,0.8343841200229111
+872,145,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+873,145,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16561587997708896
+874,145,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+875,145,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+876,146,$\it{Other}$,0.0
+877,146,Informe Robinson,0.7980932633285638
+878,146,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+879,146,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.20190673667143627
+880,146,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+881,146,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+882,147,$\it{Other}$,0.0
+883,147,Informe Robinson,0.8494224409814582
+884,147,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+885,147,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.15057755901854164
+886,147,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+887,147,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+888,148,$\it{Other}$,0.0
+889,148,Informe Robinson,0.8
+890,148,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+891,148,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+892,148,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+893,148,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+894,149,$\it{Other}$,0.0
+895,149,Informe Robinson,0.5333333333333333
+896,149,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+897,149,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.4666666666666667
+898,149,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+899,149,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+900,150,$\it{Other}$,0.0
+901,150,Informe Robinson,0.8333333333333334
+902,150,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+903,150,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+904,150,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+905,150,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+906,151,$\it{Other}$,0.0
+907,151,Informe Robinson,0.7684859470875771
+908,151,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+909,151,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.23151405291242289
+910,151,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+911,151,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+912,152,$\it{Other}$,0.0
+913,152,Informe Robinson,0.8085021464496588
+914,152,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+915,152,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1914978535503412
+916,152,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+917,152,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+918,153,$\it{Other}$,0.0
+919,153,Informe Robinson,0.8333333333333334
+920,153,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+921,153,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+922,153,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+923,153,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+924,154,$\it{Other}$,0.0
+925,154,Informe Robinson,0.8333333333333334
+926,154,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+927,154,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+928,154,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+929,154,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+930,155,$\it{Other}$,0.0
+931,155,Informe Robinson,0.8666666666666667
+932,155,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+933,155,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+934,155,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+935,155,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+936,156,$\it{Other}$,0.0
+937,156,Informe Robinson,0.9
+938,156,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+939,156,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+940,156,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+941,156,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+942,157,$\it{Other}$,0.0
+943,157,Informe Robinson,0.8
+944,157,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+945,157,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.2
+946,157,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+947,157,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+948,158,$\it{Other}$,0.0
+949,158,Informe Robinson,0.9
+950,158,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+951,158,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+952,158,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+953,158,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+954,159,$\it{Other}$,0.0
+955,159,Informe Robinson,0.8410991480383175
+956,159,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+957,159,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.15890085196168258
+958,159,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+959,159,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+960,160,$\it{Other}$,0.0
+961,160,Informe Robinson,0.9666666666666667
+962,160,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+963,160,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+964,160,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+965,160,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+966,161,$\it{Other}$,0.0
+967,161,Informe Robinson,0.8666666666666667
+968,161,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+969,161,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+970,161,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+971,161,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+972,162,$\it{Other}$,0.0
+973,162,Informe Robinson,0.9
+974,162,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+975,162,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+976,162,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+977,162,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+978,163,$\it{Other}$,0.0
+979,163,Informe Robinson,0.9333333333333333
+980,163,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+981,163,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+982,163,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+983,163,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+984,164,$\it{Other}$,0.0
+985,164,Informe Robinson,0.9333333333333333
+986,164,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+987,164,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+988,164,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+989,164,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+990,165,$\it{Other}$,0.0
+991,165,Informe Robinson,0.8666666666666667
+992,165,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+993,165,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+994,165,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+995,165,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+996,166,$\it{Other}$,0.0
+997,166,Informe Robinson,0.928719400118653
+998,166,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+999,166,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.07128059988134701
+1000,166,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1001,166,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1002,167,$\it{Other}$,0.0
+1003,167,Informe Robinson,0.9330724079161803
+1004,167,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1005,167,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06692759208381975
+1006,167,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1007,167,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1008,168,$\it{Other}$,0.0
+1009,168,Informe Robinson,0.9333333333333333
+1010,168,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1011,168,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1012,168,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1013,168,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1014,169,$\it{Other}$,0.0038459900499270244
+1015,169,Informe Robinson,0.896154009950073
+1016,169,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1017,169,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1018,169,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1019,169,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1020,170,$\it{Other}$,0.0
+1021,170,Informe Robinson,0.9425091351612628
+1022,170,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1023,170,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.05749086483873728
+1024,170,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1025,170,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1026,171,$\it{Other}$,0.0
+1027,171,Informe Robinson,0.9
+1028,171,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1029,171,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1030,171,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1031,171,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1032,172,$\it{Other}$,0.0
+1033,172,Informe Robinson,0.9409037857600961
+1034,172,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1035,172,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.059096214239903876
+1036,172,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1037,172,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1038,173,$\it{Other}$,0.0
+1039,173,Informe Robinson,0.9
+1040,173,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1041,173,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1042,173,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1043,173,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1044,174,$\it{Other}$,0.0
+1045,174,Informe Robinson,1.0
+1046,174,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1047,174,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1048,174,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1049,174,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1050,175,$\it{Other}$,0.0
+1051,175,Informe Robinson,0.8666666666666667
+1052,175,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1053,175,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.13333333333333333
+1054,175,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1055,175,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1056,176,$\it{Other}$,0.0
+1057,176,Informe Robinson,0.9125006818337347
+1058,176,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1059,176,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.08749931816626537
+1060,176,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1061,176,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1062,177,$\it{Other}$,0.0
+1063,177,Informe Robinson,0.9
+1064,177,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1065,177,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1066,177,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1067,177,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1068,178,$\it{Other}$,0.0
+1069,178,Informe Robinson,0.8765655891504069
+1070,178,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1071,178,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.12343441084959308
+1072,178,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1073,178,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1074,179,$\it{Other}$,0.0
+1075,179,Informe Robinson,0.9039875109915922
+1076,179,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1077,179,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.09601248900840773
+1078,179,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1079,179,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1080,180,$\it{Other}$,0.0
+1081,180,Informe Robinson,0.919070716237167
+1082,180,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1083,180,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.08092928376283305
+1084,180,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1085,180,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1086,181,$\it{Other}$,0.0
+1087,181,Informe Robinson,0.9234978701176504
+1088,181,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1089,181,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.07650212988234946
+1090,181,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1091,181,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1092,182,$\it{Other}$,0.0
+1093,182,Informe Robinson,0.9
+1094,182,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1095,182,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1096,182,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1097,182,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1098,183,$\it{Other}$,0.0
+1099,183,Informe Robinson,0.9128935160085294
+1100,183,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1101,183,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.08710648399147056
+1102,183,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1103,183,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1104,184,$\it{Other}$,0.0
+1105,184,Informe Robinson,0.9
+1106,184,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1107,184,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1108,184,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1109,184,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1110,185,$\it{Other}$,0.0
+1111,185,Informe Robinson,0.9235209654407691
+1112,185,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1113,185,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.076479034559231
+1114,185,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1115,185,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1116,186,$\it{Other}$,0.0
+1117,186,Informe Robinson,1.0
+1118,186,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1119,186,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1120,186,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1121,186,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1122,187,$\it{Other}$,0.0
+1123,187,Informe Robinson,0.9333333333333333
+1124,187,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1125,187,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1126,187,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1127,187,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1128,188,$\it{Other}$,0.0
+1129,188,Informe Robinson,0.8333333333333334
+1130,188,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1131,188,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.16666666666666666
+1132,188,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1133,188,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1134,189,$\it{Other}$,0.0
+1135,189,Informe Robinson,0.9509144157976506
+1136,189,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1137,189,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.049085584202349555
+1138,189,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1139,189,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1140,190,$\it{Other}$,0.0
+1141,190,Informe Robinson,0.9416327977756411
+1142,190,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1143,190,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.058367202224358906
+1144,190,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1145,190,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1146,191,$\it{Other}$,0.0
+1147,191,Informe Robinson,0.9333333333333333
+1148,191,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1149,191,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1150,191,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1151,191,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1152,192,$\it{Other}$,0.0
+1153,192,Informe Robinson,0.9422485329448902
+1154,192,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1155,192,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.057751467055109834
+1156,192,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1157,192,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1158,193,$\it{Other}$,0.0
+1159,193,Informe Robinson,0.9042998913218929
+1160,193,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1161,193,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0957001086781071
+1162,193,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1163,193,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1164,194,$\it{Other}$,0.0
+1165,194,Informe Robinson,0.9813294910144905
+1166,194,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1167,194,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.018670508985509374
+1168,194,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1169,194,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1170,195,$\it{Other}$,0.0
+1171,195,Informe Robinson,0.9115292782678112
+1172,195,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1173,195,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.08847072173218895
+1174,195,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1175,195,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1176,196,$\it{Other}$,0.0
+1177,196,Informe Robinson,0.9472045478455509
+1178,196,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1179,196,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.052795452154449106
+1180,196,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1181,196,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1182,197,$\it{Other}$,0.0
+1183,197,Informe Robinson,0.9666666666666667
+1184,197,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1185,197,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1186,197,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1187,197,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1188,198,$\it{Other}$,0.0
+1189,198,Informe Robinson,0.9666666666666667
+1190,198,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1191,198,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1192,198,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1193,198,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1194,199,$\it{Other}$,0.0
+1195,199,Informe Robinson,0.9666666666666667
+1196,199,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1197,199,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1198,199,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1199,199,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1200,200,$\it{Other}$,0.0
+1201,200,Informe Robinson,1.0
+1202,200,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1203,200,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1204,200,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1205,200,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1206,201,$\it{Other}$,0.0
+1207,201,Informe Robinson,0.9333333333333333
+1208,201,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1209,201,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1210,201,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1211,201,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1212,202,$\it{Other}$,0.0
+1213,202,Informe Robinson,0.9666666666666667
+1214,202,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1215,202,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1216,202,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1217,202,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1218,203,$\it{Other}$,0.0
+1219,203,Informe Robinson,0.9666666666666667
+1220,203,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1221,203,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1222,203,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1223,203,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1224,204,$\it{Other}$,0.0
+1225,204,Informe Robinson,1.0
+1226,204,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1227,204,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1228,204,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1229,204,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1230,205,$\it{Other}$,0.0
+1231,205,Informe Robinson,0.9745665715582108
+1232,205,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1233,205,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.025433428441789273
+1234,205,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1235,205,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1236,206,$\it{Other}$,0.03333333333333333
+1237,206,Informe Robinson,0.9666666666666667
+1238,206,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1239,206,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1240,206,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1241,206,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1242,207,$\it{Other}$,0.0
+1243,207,Informe Robinson,1.0
+1244,207,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1245,207,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1246,207,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1247,207,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1248,208,$\it{Other}$,0.0
+1249,208,Informe Robinson,0.9666666666666667
+1250,208,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1251,208,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1252,208,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1253,208,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1254,209,$\it{Other}$,0.0
+1255,209,Informe Robinson,0.9421891923710065
+1256,209,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1257,209,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0578108076289935
+1258,209,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1259,209,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1260,210,$\it{Other}$,0.0
+1261,210,Informe Robinson,1.0
+1262,210,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1263,210,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1264,210,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1265,210,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1266,211,$\it{Other}$,0.0
+1267,211,Informe Robinson,0.9666666666666667
+1268,211,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1269,211,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1270,211,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1271,211,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1272,212,$\it{Other}$,0.0
+1273,212,Informe Robinson,1.0
+1274,212,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1275,212,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1276,212,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1277,212,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1278,213,$\it{Other}$,0.0
+1279,213,Informe Robinson,1.0
+1280,213,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1281,213,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1282,213,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1283,213,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1284,214,$\it{Other}$,0.0
+1285,214,Informe Robinson,0.9666666666666668
+1286,214,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1287,214,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1288,214,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1289,214,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1290,215,$\it{Other}$,0.0
+1291,215,Informe Robinson,0.9
+1292,215,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1293,215,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1294,215,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1295,215,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1296,216,$\it{Other}$,0.0
+1297,216,Informe Robinson,0.9333333333333333
+1298,216,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1299,216,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1300,216,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1301,216,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1302,217,$\it{Other}$,0.0
+1303,217,Informe Robinson,0.9333333333333333
+1304,217,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1305,217,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1306,217,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1307,217,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1308,218,$\it{Other}$,0.0
+1309,218,Informe Robinson,0.9
+1310,218,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1311,218,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1312,218,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1313,218,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1314,219,$\it{Other}$,0.0
+1315,219,Informe Robinson,1.0
+1316,219,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1317,219,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1318,219,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1319,219,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1320,220,$\it{Other}$,0.0
+1321,220,Informe Robinson,0.9666666666666667
+1322,220,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1323,220,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1324,220,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1325,220,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1326,221,$\it{Other}$,0.0
+1327,221,Informe Robinson,0.9333333333333333
+1328,221,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1329,221,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1330,221,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1331,221,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1332,222,$\it{Other}$,0.0
+1333,222,Informe Robinson,0.9631919753354334
+1334,222,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1335,222,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.036808024664566626
+1336,222,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1337,222,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1338,223,$\it{Other}$,0.0
+1339,223,Informe Robinson,0.9
+1340,223,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1341,223,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1342,223,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1343,223,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1344,224,$\it{Other}$,0.0
+1345,224,Informe Robinson,0.9418610668065127
+1346,224,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1347,224,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.05813893319348719
+1348,224,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1349,224,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1350,225,$\it{Other}$,0.0
+1351,225,Informe Robinson,0.9
+1352,225,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1353,225,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1354,225,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1355,225,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1356,226,$\it{Other}$,0.0
+1357,226,Informe Robinson,0.9071640585404784
+1358,226,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1359,226,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.09283594145952155
+1360,226,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1361,226,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1362,227,$\it{Other}$,0.0
+1363,227,Informe Robinson,0.9
+1364,227,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1365,227,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1366,227,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1367,227,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1368,228,$\it{Other}$,0.0
+1369,228,Informe Robinson,0.9351854069650054
+1370,228,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1371,228,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06481459303499458
+1372,228,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1373,228,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1374,229,$\it{Other}$,0.0
+1375,229,Informe Robinson,0.9333333333333333
+1376,229,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1377,229,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1378,229,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1379,229,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1380,230,$\it{Other}$,0.0
+1381,230,Informe Robinson,0.9
+1382,230,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1383,230,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1384,230,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1385,230,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1386,231,$\it{Other}$,0.0
+1387,231,Informe Robinson,0.9333333333333333
+1388,231,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1389,231,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1390,231,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1391,231,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1392,232,$\it{Other}$,0.0032118044564492165
+1393,232,Informe Robinson,0.9634548622102175
+1394,232,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1395,232,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1396,232,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1397,232,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1398,233,$\it{Other}$,0.0
+1399,233,Informe Robinson,0.9626097870037809
+1400,233,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1401,233,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03739021299621918
+1402,233,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1403,233,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1404,234,$\it{Other}$,0.0
+1405,234,Informe Robinson,0.9333333333333333
+1406,234,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1407,234,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1408,234,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1409,234,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1410,235,$\it{Other}$,0.03333333333333333
+1411,235,Informe Robinson,0.8666666666666667
+1412,235,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1413,235,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.1
+1414,235,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1415,235,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1416,236,$\it{Other}$,0.03333333333333333
+1417,236,Informe Robinson,0.9666666666666667
+1418,236,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1419,236,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1420,236,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1421,236,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1422,237,$\it{Other}$,0.0
+1423,237,Informe Robinson,0.9697141539327542
+1424,237,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1425,237,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.030285846067245725
+1426,237,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1427,237,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1428,238,$\it{Other}$,0.0
+1429,238,Informe Robinson,0.9666666666666667
+1430,238,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1431,238,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1432,238,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1433,238,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1434,239,$\it{Other}$,0.0
+1435,239,Informe Robinson,0.9630895917640777
+1436,239,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1437,239,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03691040823592227
+1438,239,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1439,239,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1440,240,$\it{Other}$,0.0
+1441,240,Informe Robinson,0.9666666666666667
+1442,240,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1443,240,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1444,240,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1445,240,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1446,241,$\it{Other}$,0.0
+1447,241,Informe Robinson,0.9333333333333333
+1448,241,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1449,241,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1450,241,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1451,241,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1452,242,$\it{Other}$,0.0
+1453,242,Informe Robinson,1.0
+1454,242,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1455,242,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1456,242,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1457,242,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1458,243,$\it{Other}$,0.0
+1459,243,Informe Robinson,0.9745137779431163
+1460,243,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1461,243,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.02548622205688369
+1462,243,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1463,243,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1464,244,$\it{Other}$,0.0
+1465,244,Informe Robinson,0.9666666666666666
+1466,244,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1467,244,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.033333333333333326
+1468,244,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1469,244,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1470,245,$\it{Other}$,0.028746888438118
+1471,245,Informe Robinson,0.9684722206364167
+1472,245,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1473,245,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.00278089092546524
+1474,245,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1475,245,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1476,246,$\it{Other}$,0.0
+1477,246,Informe Robinson,0.9605586304229875
+1478,246,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1479,246,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03944136957701242
+1480,246,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1481,246,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1482,247,$\it{Other}$,0.0021209165048936274
+1483,247,Informe Robinson,0.9500427009701657
+1484,247,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1485,247,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.047836382524940685
+1486,247,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1487,247,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1488,248,$\it{Other}$,0.0
+1489,248,Informe Robinson,0.9333333333333333
+1490,248,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1491,248,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1492,248,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1493,248,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1494,249,$\it{Other}$,0.0
+1495,249,Informe Robinson,0.9666666666666667
+1496,249,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1497,249,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1498,249,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1499,249,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1500,250,$\it{Other}$,0.0
+1501,250,Informe Robinson,0.9455918618159549
+1502,250,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1503,250,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.054408138184045135
+1504,250,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1505,250,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1506,251,$\it{Other}$,0.0
+1507,251,Informe Robinson,0.9892610735917452
+1508,251,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1509,251,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.010738926408254756
+1510,251,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1511,251,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1512,252,$\it{Other}$,0.0
+1513,252,Informe Robinson,0.9629114998098948
+1514,252,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1515,252,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.037088500190105185
+1516,252,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1517,252,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1518,253,$\it{Other}$,0.016707388585632626
+1519,253,Informe Robinson,0.9333333333333333
+1520,253,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1521,253,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.049959278081034036
+1522,253,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1523,253,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1524,254,$\it{Other}$,0.0
+1525,254,Informe Robinson,0.9666666666666667
+1526,254,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1527,254,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1528,254,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1529,254,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1530,255,$\it{Other}$,0.0
+1531,255,Informe Robinson,0.9333333333333333
+1532,255,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1533,255,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1534,255,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1535,255,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1536,256,$\it{Other}$,0.0
+1537,256,Informe Robinson,0.9333333333333333
+1538,256,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1539,256,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06666666666666667
+1540,256,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1541,256,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1542,257,$\it{Other}$,0.0
+1543,257,Informe Robinson,0.9666666666666667
+1544,257,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1545,257,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1546,257,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1547,257,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1548,258,$\it{Other}$,0.0
+1549,258,Informe Robinson,1.0
+1550,258,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1551,258,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1552,258,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1553,258,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1554,259,$\it{Other}$,0.0
+1555,259,Informe Robinson,0.9866163533049586
+1556,259,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1557,259,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.013383646695041424
+1558,259,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1559,259,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1560,260,$\it{Other}$,0.004077085095956181
+1561,260,Informe Robinson,0.9625895815707105
+1562,260,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1563,260,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1564,260,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1565,260,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1566,261,$\it{Other}$,0.0
+1567,261,Informe Robinson,0.9666666666666667
+1568,261,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1569,261,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1570,261,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1571,261,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1572,262,$\it{Other}$,0.003507306442007352
+1573,262,Informe Robinson,0.9665931770914258
+1574,262,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1575,262,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.029899516466566998
+1576,262,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1577,262,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1578,263,$\it{Other}$,0.0
+1579,263,Informe Robinson,0.9668981424001427
+1580,263,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1581,263,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03310185759985731
+1582,263,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1583,263,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1584,264,$\it{Other}$,0.0
+1585,264,Informe Robinson,0.9666666666666667
+1586,264,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1587,264,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1588,264,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1589,264,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1590,265,$\it{Other}$,0.0
+1591,265,Informe Robinson,0.9925239312854687
+1592,265,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1593,265,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.007476068714531248
+1594,265,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1595,265,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1596,266,$\it{Other}$,0.0
+1597,266,Informe Robinson,0.9655172413793104
+1598,266,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1599,266,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.034482758620689655
+1600,266,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1601,266,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1602,267,$\it{Other}$,0.0
+1603,267,Informe Robinson,1.0
+1604,267,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1605,267,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1606,267,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1607,267,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1608,268,$\it{Other}$,0.0
+1609,268,Informe Robinson,0.9394702545561863
+1610,268,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1611,268,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.06052974544381382
+1612,268,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1613,268,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1614,269,$\it{Other}$,0.0
+1615,269,Informe Robinson,0.9666666666666667
+1616,269,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1617,269,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.03333333333333333
+1618,269,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1619,269,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1620,270,$\it{Other}$,0.0
+1621,270,Informe Robinson,0.9915506950657476
+1622,270,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1623,270,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.008449304934252442
+1624,270,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1625,270,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1626,271,$\it{Other}$,0.007351235862526291
+1627,271,Informe Robinson,0.9852975282749474
+1628,271,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1629,271,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.007351235862526291
+1630,271,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1631,271,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1632,272,$\it{Other}$,0.0
+1633,272,Informe Robinson,1.0
+1634,272,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1635,272,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1636,272,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1637,272,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1638,273,$\it{Other}$,0.0
+1639,273,Informe Robinson,1.0
+1640,273,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1641,273,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1642,273,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1643,273,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1644,274,$\it{Other}$,0.0
+1645,274,Informe Robinson,0.997074627390486
+1646,274,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1647,274,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0029253726095140255
+1648,274,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1649,274,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1650,275,$\it{Other}$,0.0
+1651,275,Informe Robinson,0.8947368421052632
+1652,275,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1653,275,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.10526315789473684
+1654,275,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1655,275,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1656,276,$\it{Other}$,0.0
+1657,276,Informe Robinson,1.0
+1658,276,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1659,276,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1660,276,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1661,276,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1662,277,$\it{Other}$,0.0
+1663,277,Informe Robinson,0.9641072201026585
+1664,277,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1665,277,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.035892779897341645
+1666,277,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1667,277,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1668,278,$\it{Other}$,0.0
+1669,278,Informe Robinson,0.920581835828626
+1670,278,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1671,278,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.07941816417137412
+1672,278,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1673,278,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1674,279,$\it{Other}$,0.0
+1675,279,Informe Robinson,1.0
+1676,279,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1677,279,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1678,279,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1679,279,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1680,280,$\it{Other}$,0.0
+1681,280,Informe Robinson,0.9999999999999999
+1682,280,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1683,280,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1684,280,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1685,280,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1686,281,$\it{Other}$,0.0
+1687,281,Informe Robinson,1.0
+1688,281,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1689,281,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1690,281,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1691,281,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1692,282,$\it{Other}$,0.0
+1693,282,Informe Robinson,1.0
+1694,282,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1695,282,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1696,282,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1697,282,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1698,283,$\it{Other}$,0.0
+1699,283,Informe Robinson,0.9999999999999999
+1700,283,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1701,283,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1702,283,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1703,283,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1704,284,$\it{Other}$,0.0
+1705,284,Informe Robinson,1.0
+1706,284,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1707,284,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1708,284,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1709,284,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1710,285,$\it{Other}$,0.0
+1711,285,Informe Robinson,1.0
+1712,285,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1713,285,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1714,285,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1715,285,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1716,286,$\it{Other}$,0.0
+1717,286,Informe Robinson,1.0
+1718,286,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1719,286,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1720,286,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1721,286,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1722,287,$\it{Other}$,0.0
+1723,287,Informe Robinson,1.0
+1724,287,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1725,287,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1726,287,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1727,287,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1728,288,$\it{Other}$,0.0
+1729,288,Informe Robinson,1.0
+1730,288,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1731,288,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1732,288,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1733,288,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1734,289,$\it{Other}$,0.0
+1735,289,Informe Robinson,1.0
+1736,289,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1737,289,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1738,289,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1739,289,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1740,290,$\it{Other}$,0.0
+1741,290,Informe Robinson,1.0
+1742,290,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1743,290,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1744,290,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1745,290,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1746,291,$\it{Other}$,0.0
+1747,291,Informe Robinson,1.0
+1748,291,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1749,291,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1750,291,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1751,291,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1752,292,$\it{Other}$,0.0
+1753,292,Informe Robinson,1.0
+1754,292,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1755,292,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1756,292,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1757,292,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1758,293,$\it{Other}$,0.0
+1759,293,Informe Robinson,1.0
+1760,293,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1761,293,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1762,293,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1763,293,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1764,294,$\it{Other}$,0.0
+1765,294,Informe Robinson,1.0
+1766,294,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1767,294,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1768,294,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1769,294,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1770,295,$\it{Other}$,0.0
+1771,295,Informe Robinson,1.0
+1772,295,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1773,295,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1774,295,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1775,295,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1776,296,$\it{Other}$,0.0
+1777,296,Informe Robinson,1.0
+1778,296,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1779,296,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1780,296,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1781,296,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1782,297,$\it{Other}$,0.0
+1783,297,Informe Robinson,1.0
+1784,297,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1785,297,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1786,297,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1787,297,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1788,298,$\it{Other}$,0.0
+1789,298,Informe Robinson,1.0
+1790,298,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1791,298,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1792,298,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1793,298,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1794,299,$\it{Other}$,0.0
+1795,299,Informe Robinson,1.0
+1796,299,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1797,299,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1798,299,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1799,299,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1800,300,$\it{Other}$,0.0
+1801,300,Informe Robinson,1.0
+1802,300,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1803,300,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1804,300,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1805,300,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1806,301,$\it{Other}$,0.0
+1807,301,Informe Robinson,1.0
+1808,301,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1809,301,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1810,301,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1811,301,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1812,302,$\it{Other}$,0.0
+1813,302,Informe Robinson,0.9999999999999999
+1814,302,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1815,302,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1816,302,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1817,302,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1818,303,$\it{Other}$,0.0
+1819,303,Informe Robinson,1.0
+1820,303,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1821,303,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1822,303,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1823,303,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1824,304,$\it{Other}$,0.0
+1825,304,Informe Robinson,1.0
+1826,304,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1827,304,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1828,304,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1829,304,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1830,305,$\it{Other}$,0.0
+1831,305,Informe Robinson,1.0
+1832,305,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1833,305,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1834,305,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1835,305,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0
+1836,306,$\it{Other}$,0.0
+1837,306,Informe Robinson,1.0
+1838,306,Informe Robinson is a Spanish sports documentary program hosted by Michael Robinson,0.0
+1839,306,Informe Robinson is a Spanish sports documentary television program hosted by Michael Robinson,0.0
+1840,306,Informe Robinson is a sports documentary program hosted by Michael Robinson,0.0
+1841,306,Informe Robinson is a sports documentary television program hosted by Michael Robinson,0.0

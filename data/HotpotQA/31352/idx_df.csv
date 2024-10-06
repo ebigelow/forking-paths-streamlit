@@ -1,0 +1,469 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.023306772094673255
+1,0,George Foreman,0.3066149031187247
+2,0,Muhammad Ali,0.670078324786602
+3,1,$\it{Other}$,0.06666666666666667
+4,1,George Foreman,0.13333333333333333
+5,1,Muhammad Ali,0.8
+6,2,$\it{Other}$,0.06666666666666667
+7,2,George Foreman,0.26666666666666666
+8,2,Muhammad Ali,0.6666666666666666
+9,3,$\it{Other}$,0.1
+10,3,George Foreman,0.26666666666666666
+11,3,Muhammad Ali,0.6333333333333333
+12,4,$\it{Other}$,0.03333333333333333
+13,4,George Foreman,0.23333333333333334
+14,4,Muhammad Ali,0.7333333333333333
+15,5,$\it{Other}$,0.0
+16,5,George Foreman,0.16666666666666666
+17,5,Muhammad Ali,0.8333333333333334
+18,6,$\it{Other}$,0.0
+19,6,George Foreman,0.3333333333333333
+20,6,Muhammad Ali,0.6666666666666666
+21,7,$\it{Other}$,0.03333333333333333
+22,7,George Foreman,0.26666666666666666
+23,7,Muhammad Ali,0.7
+24,8,$\it{Other}$,0.01497382383536829
+25,8,George Foreman,0.28645725734961297
+26,8,Muhammad Ali,0.6985689188150187
+27,9,$\it{Other}$,0.06666666666666667
+28,9,George Foreman,0.23333333333333334
+29,9,Muhammad Ali,0.7
+30,10,$\it{Other}$,0.03917629595199418
+31,10,George Foreman,0.25687259267866813
+32,10,Muhammad Ali,0.7039511113693375
+33,11,$\it{Other}$,0.03613477445505681
+34,11,George Foreman,0.3131047732464587
+35,11,Muhammad Ali,0.6507604522984844
+36,12,$\it{Other}$,0.0
+37,12,George Foreman,0.23333333333333334
+38,12,Muhammad Ali,0.7666666666666667
+39,13,$\it{Other}$,0.0
+40,13,George Foreman,0.26666666666666666
+41,13,Muhammad Ali,0.7333333333333333
+42,14,$\it{Other}$,0.03333333333333333
+43,14,George Foreman,0.2469370161123384
+44,14,Muhammad Ali,0.7197296505543282
+45,15,$\it{Other}$,0.03333333333333333
+46,15,George Foreman,0.23079112635443727
+47,15,Muhammad Ali,0.7358755403122293
+48,16,$\it{Other}$,0.03333333333333333
+49,16,George Foreman,0.23333333333333334
+50,16,Muhammad Ali,0.7333333333333333
+51,17,$\it{Other}$,0.03333333333333333
+52,17,George Foreman,0.3333333333333333
+53,17,Muhammad Ali,0.6333333333333333
+54,18,$\it{Other}$,0.06666666666666667
+55,18,George Foreman,0.2
+56,18,Muhammad Ali,0.7333333333333333
+57,19,$\it{Other}$,0.0
+58,19,George Foreman,0.26666666666666666
+59,19,Muhammad Ali,0.7333333333333333
+60,20,$\it{Other}$,0.06666666666666667
+61,20,George Foreman,0.3
+62,20,Muhammad Ali,0.6333333333333333
+63,21,$\it{Other}$,0.02837847378284268
+64,21,George Foreman,0.2864861048686293
+65,21,Muhammad Ali,0.685135421348528
+66,22,$\it{Other}$,0.0
+67,22,George Foreman,0.23333333333333334
+68,22,Muhammad Ali,0.7666666666666667
+69,23,$\it{Other}$,0.06666666666666667
+70,23,George Foreman,0.3333333333333333
+71,23,Muhammad Ali,0.6
+72,24,$\it{Other}$,0.0
+73,24,George Foreman,0.26666666666666666
+74,24,Muhammad Ali,0.7333333333333333
+75,25,$\it{Other}$,0.006553981020935894
+76,25,George Foreman,0.2863286097294743
+77,25,Muhammad Ali,0.7071174092495897
+78,26,$\it{Other}$,0.03180674712244351
+79,26,George Foreman,0.25885441995115444
+80,26,Muhammad Ali,0.7093388329264021
+81,27,$\it{Other}$,0.01818801295563112
+82,27,George Foreman,0.22427339811148894
+83,27,Muhammad Ali,0.75753858893288
+84,28,$\it{Other}$,0.03333333333333333
+85,28,George Foreman,0.1
+86,28,Muhammad Ali,0.8666666666666667
+87,29,$\it{Other}$,0.03333333333333333
+88,29,George Foreman,0.16666666666666666
+89,29,Muhammad Ali,0.8
+90,30,$\it{Other}$,0.06666666666666667
+91,30,George Foreman,0.26666666666666666
+92,30,Muhammad Ali,0.6666666666666666
+93,31,$\it{Other}$,0.014075416873895923
+94,31,George Foreman,0.11531688943717358
+95,31,Muhammad Ali,0.8706076936889304
+96,32,$\it{Other}$,0.10265992173871503
+97,32,George Foreman,0.1241477221676976
+98,32,Muhammad Ali,0.7731923560935874
+99,33,$\it{Other}$,0.03333333333333333
+100,33,George Foreman,0.13333333333333333
+101,33,Muhammad Ali,0.8333333333333334
+102,34,$\it{Other}$,0.03965186409374971
+103,34,George Foreman,0.1399192891117571
+104,34,Muhammad Ali,0.8204288467944931
+105,35,$\it{Other}$,0.0
+106,35,George Foreman,0.2
+107,35,Muhammad Ali,0.8
+108,36,$\it{Other}$,0.04324983914424137
+109,36,George Foreman,0.11983301162181607
+110,36,Muhammad Ali,0.8369171492339427
+111,37,$\it{Other}$,0.0
+112,37,George Foreman,0.06666666666666667
+113,37,Muhammad Ali,0.9333333333333333
+114,38,$\it{Other}$,0.0
+115,38,George Foreman,0.06666666666666667
+116,38,Muhammad Ali,0.9333333333333333
+117,39,$\it{Other}$,0.0
+118,39,George Foreman,0.15215659453927433
+119,39,Muhammad Ali,0.8478434054607257
+120,40,$\it{Other}$,0.0
+121,40,George Foreman,0.1
+122,40,Muhammad Ali,0.9
+123,41,$\it{Other}$,0.0
+124,41,George Foreman,0.16666666666666666
+125,41,Muhammad Ali,0.8333333333333334
+126,42,$\it{Other}$,0.00563544837969704
+127,42,George Foreman,0.10563544837969704
+128,42,Muhammad Ali,0.8887291032406059
+129,43,$\it{Other}$,0.0
+130,43,George Foreman,0.1117526554778363
+131,43,Muhammad Ali,0.8882473445221637
+132,44,$\it{Other}$,0.0
+133,44,George Foreman,0.13333333333333333
+134,44,Muhammad Ali,0.8666666666666667
+135,45,$\it{Other}$,0.0
+136,45,George Foreman,0.23333333333333334
+137,45,Muhammad Ali,0.7666666666666667
+138,46,$\it{Other}$,0.0
+139,46,George Foreman,0.13333333333333333
+140,46,Muhammad Ali,0.8666666666666667
+141,47,$\it{Other}$,0.0
+142,47,George Foreman,0.1061331333556968
+143,47,Muhammad Ali,0.8938668666443033
+144,48,$\it{Other}$,0.0073496152166872145
+145,48,George Foreman,0.11347414771920464
+146,48,Muhammad Ali,0.8791762370641082
+147,49,$\it{Other}$,0.0
+148,49,George Foreman,0.0
+149,49,Muhammad Ali,1.0
+150,50,$\it{Other}$,0.0
+151,50,George Foreman,0.03333333333333333
+152,50,Muhammad Ali,0.9666666666666667
+153,51,$\it{Other}$,0.0
+154,51,George Foreman,0.0
+155,51,Muhammad Ali,1.0
+156,52,$\it{Other}$,0.0
+157,52,George Foreman,0.0
+158,52,Muhammad Ali,1.0
+159,53,$\it{Other}$,0.0
+160,53,George Foreman,0.0
+161,53,Muhammad Ali,1.0
+162,54,$\it{Other}$,0.0
+163,54,George Foreman,0.0
+164,54,Muhammad Ali,1.0
+165,55,$\it{Other}$,0.0
+166,55,George Foreman,0.0
+167,55,Muhammad Ali,1.0
+168,56,$\it{Other}$,0.0
+169,56,George Foreman,0.0
+170,56,Muhammad Ali,1.0
+171,57,$\it{Other}$,0.0
+172,57,George Foreman,0.0
+173,57,Muhammad Ali,1.0
+174,58,$\it{Other}$,0.0
+175,58,George Foreman,0.0028672961513236334
+176,58,Muhammad Ali,0.9971327038486762
+177,59,$\it{Other}$,0.0
+178,59,George Foreman,0.0
+179,59,Muhammad Ali,1.0
+180,60,$\it{Other}$,0.0
+181,60,George Foreman,0.0
+182,60,Muhammad Ali,1.0
+183,61,$\it{Other}$,0.0
+184,61,George Foreman,0.0
+185,61,Muhammad Ali,1.0
+186,62,$\it{Other}$,0.0
+187,62,George Foreman,0.0
+188,62,Muhammad Ali,1.0
+189,63,$\it{Other}$,0.0
+190,63,George Foreman,0.0
+191,63,Muhammad Ali,0.9999999999999999
+192,64,$\it{Other}$,0.0
+193,64,George Foreman,0.0
+194,64,Muhammad Ali,1.0
+195,65,$\it{Other}$,0.0
+196,65,George Foreman,0.0
+197,65,Muhammad Ali,1.0
+198,66,$\it{Other}$,0.0
+199,66,George Foreman,0.0
+200,66,Muhammad Ali,1.0
+201,67,$\it{Other}$,0.0
+202,67,George Foreman,0.0
+203,67,Muhammad Ali,1.0
+204,68,$\it{Other}$,0.0
+205,68,George Foreman,0.0
+206,68,Muhammad Ali,1.0
+207,69,$\it{Other}$,0.0
+208,69,George Foreman,0.0
+209,69,Muhammad Ali,1.0
+210,70,$\it{Other}$,0.0
+211,70,George Foreman,0.0
+212,70,Muhammad Ali,1.0
+213,71,$\it{Other}$,0.0
+214,71,George Foreman,0.0
+215,71,Muhammad Ali,1.0
+216,72,$\it{Other}$,0.0
+217,72,George Foreman,0.0
+218,72,Muhammad Ali,1.0
+219,73,$\it{Other}$,0.0
+220,73,George Foreman,0.0
+221,73,Muhammad Ali,1.0
+222,74,$\it{Other}$,0.0
+223,74,George Foreman,0.0
+224,74,Muhammad Ali,1.0
+225,75,$\it{Other}$,0.0
+226,75,George Foreman,0.0
+227,75,Muhammad Ali,1.0
+228,76,$\it{Other}$,0.0
+229,76,George Foreman,0.0
+230,76,Muhammad Ali,1.0
+231,77,$\it{Other}$,0.0
+232,77,George Foreman,0.0
+233,77,Muhammad Ali,1.0
+234,78,$\it{Other}$,0.0
+235,78,George Foreman,0.0
+236,78,Muhammad Ali,1.0
+237,79,$\it{Other}$,0.0
+238,79,George Foreman,0.0
+239,79,Muhammad Ali,1.0
+240,80,$\it{Other}$,0.0
+241,80,George Foreman,0.0
+242,80,Muhammad Ali,1.0
+243,81,$\it{Other}$,0.0
+244,81,George Foreman,0.0
+245,81,Muhammad Ali,1.0
+246,82,$\it{Other}$,0.0
+247,82,George Foreman,0.0
+248,82,Muhammad Ali,1.0
+249,83,$\it{Other}$,0.0
+250,83,George Foreman,0.0
+251,83,Muhammad Ali,1.0
+252,84,$\it{Other}$,0.0
+253,84,George Foreman,0.0
+254,84,Muhammad Ali,1.0
+255,85,$\it{Other}$,0.0
+256,85,George Foreman,0.0
+257,85,Muhammad Ali,1.0
+258,86,$\it{Other}$,0.0
+259,86,George Foreman,0.0
+260,86,Muhammad Ali,1.0
+261,87,$\it{Other}$,0.0
+262,87,George Foreman,0.0
+263,87,Muhammad Ali,1.0
+264,88,$\it{Other}$,0.0
+265,88,George Foreman,0.0
+266,88,Muhammad Ali,1.0
+267,89,$\it{Other}$,0.0
+268,89,George Foreman,0.0
+269,89,Muhammad Ali,1.0
+270,90,$\it{Other}$,0.0
+271,90,George Foreman,0.0
+272,90,Muhammad Ali,1.0
+273,91,$\it{Other}$,0.0
+274,91,George Foreman,0.0
+275,91,Muhammad Ali,1.0
+276,92,$\it{Other}$,0.0
+277,92,George Foreman,0.0
+278,92,Muhammad Ali,0.9999999999999999
+279,93,$\it{Other}$,0.0
+280,93,George Foreman,0.0
+281,93,Muhammad Ali,1.0
+282,94,$\it{Other}$,0.0
+283,94,George Foreman,0.0
+284,94,Muhammad Ali,1.0
+285,95,$\it{Other}$,0.0
+286,95,George Foreman,0.0
+287,95,Muhammad Ali,1.0
+288,96,$\it{Other}$,0.0
+289,96,George Foreman,0.0
+290,96,Muhammad Ali,1.0
+291,97,$\it{Other}$,0.0
+292,97,George Foreman,0.0
+293,97,Muhammad Ali,1.0
+294,98,$\it{Other}$,0.0
+295,98,George Foreman,0.0
+296,98,Muhammad Ali,1.0
+297,99,$\it{Other}$,0.0
+298,99,George Foreman,0.0
+299,99,Muhammad Ali,1.0
+300,100,$\it{Other}$,0.0
+301,100,George Foreman,0.0
+302,100,Muhammad Ali,1.0
+303,101,$\it{Other}$,0.0
+304,101,George Foreman,0.0
+305,101,Muhammad Ali,1.0
+306,102,$\it{Other}$,0.0
+307,102,George Foreman,0.0
+308,102,Muhammad Ali,0.9999999999999999
+309,103,$\it{Other}$,0.0
+310,103,George Foreman,0.0
+311,103,Muhammad Ali,1.0
+312,104,$\it{Other}$,0.0
+313,104,George Foreman,0.0
+314,104,Muhammad Ali,1.0
+315,105,$\it{Other}$,0.0
+316,105,George Foreman,0.0
+317,105,Muhammad Ali,1.0
+318,106,$\it{Other}$,0.0
+319,106,George Foreman,0.0
+320,106,Muhammad Ali,1.0
+321,107,$\it{Other}$,0.0
+322,107,George Foreman,0.0
+323,107,Muhammad Ali,1.0
+324,108,$\it{Other}$,0.0
+325,108,George Foreman,0.0
+326,108,Muhammad Ali,1.0
+327,109,$\it{Other}$,0.0
+328,109,George Foreman,0.0
+329,109,Muhammad Ali,1.0
+330,110,$\it{Other}$,0.0
+331,110,George Foreman,0.0
+332,110,Muhammad Ali,1.0
+333,111,$\it{Other}$,0.0
+334,111,George Foreman,0.0
+335,111,Muhammad Ali,1.0
+336,112,$\it{Other}$,0.0
+337,112,George Foreman,0.0
+338,112,Muhammad Ali,1.0
+339,113,$\it{Other}$,0.0
+340,113,George Foreman,0.0
+341,113,Muhammad Ali,1.0
+342,114,$\it{Other}$,0.0
+343,114,George Foreman,0.0
+344,114,Muhammad Ali,0.9999999999999999
+345,115,$\it{Other}$,0.0
+346,115,George Foreman,0.0
+347,115,Muhammad Ali,1.0
+348,116,$\it{Other}$,0.0
+349,116,George Foreman,0.0
+350,116,Muhammad Ali,1.0
+351,117,$\it{Other}$,0.0
+352,117,George Foreman,0.0
+353,117,Muhammad Ali,1.0
+354,118,$\it{Other}$,0.0
+355,118,George Foreman,0.0
+356,118,Muhammad Ali,1.0
+357,119,$\it{Other}$,0.0
+358,119,George Foreman,0.0
+359,119,Muhammad Ali,1.0
+360,120,$\it{Other}$,0.0
+361,120,George Foreman,0.0
+362,120,Muhammad Ali,1.0
+363,121,$\it{Other}$,0.0
+364,121,George Foreman,0.0
+365,121,Muhammad Ali,1.0
+366,122,$\it{Other}$,0.0
+367,122,George Foreman,0.0
+368,122,Muhammad Ali,1.0
+369,123,$\it{Other}$,0.0
+370,123,George Foreman,0.0
+371,123,Muhammad Ali,1.0
+372,124,$\it{Other}$,0.0
+373,124,George Foreman,0.0
+374,124,Muhammad Ali,1.0
+375,125,$\it{Other}$,0.0
+376,125,George Foreman,0.0
+377,125,Muhammad Ali,1.0
+378,126,$\it{Other}$,0.0
+379,126,George Foreman,0.0
+380,126,Muhammad Ali,1.0
+381,127,$\it{Other}$,0.0
+382,127,George Foreman,0.0
+383,127,Muhammad Ali,1.0
+384,128,$\it{Other}$,0.0
+385,128,George Foreman,0.0
+386,128,Muhammad Ali,1.0
+387,129,$\it{Other}$,0.0
+388,129,George Foreman,0.0
+389,129,Muhammad Ali,1.0
+390,130,$\it{Other}$,0.0
+391,130,George Foreman,0.0
+392,130,Muhammad Ali,1.0
+393,131,$\it{Other}$,0.0
+394,131,George Foreman,0.0
+395,131,Muhammad Ali,1.0
+396,132,$\it{Other}$,0.0
+397,132,George Foreman,0.0
+398,132,Muhammad Ali,1.0
+399,133,$\it{Other}$,0.0
+400,133,George Foreman,0.0
+401,133,Muhammad Ali,1.0
+402,134,$\it{Other}$,0.0
+403,134,George Foreman,0.0
+404,134,Muhammad Ali,1.0
+405,135,$\it{Other}$,0.0
+406,135,George Foreman,0.0
+407,135,Muhammad Ali,1.0
+408,136,$\it{Other}$,0.0
+409,136,George Foreman,0.0
+410,136,Muhammad Ali,1.0
+411,137,$\it{Other}$,0.0
+412,137,George Foreman,0.0
+413,137,Muhammad Ali,1.0
+414,138,$\it{Other}$,0.0
+415,138,George Foreman,0.0
+416,138,Muhammad Ali,1.0
+417,139,$\it{Other}$,0.0
+418,139,George Foreman,0.0
+419,139,Muhammad Ali,1.0
+420,140,$\it{Other}$,0.0
+421,140,George Foreman,0.0
+422,140,Muhammad Ali,1.0
+423,141,$\it{Other}$,0.0
+424,141,George Foreman,0.0
+425,141,Muhammad Ali,1.0
+426,142,$\it{Other}$,0.0
+427,142,George Foreman,0.0
+428,142,Muhammad Ali,1.0
+429,143,$\it{Other}$,0.0
+430,143,George Foreman,0.0
+431,143,Muhammad Ali,1.0
+432,144,$\it{Other}$,0.0
+433,144,George Foreman,0.0
+434,144,Muhammad Ali,0.9999999999999999
+435,145,$\it{Other}$,0.010485991414027805
+436,145,George Foreman,0.0
+437,145,Muhammad Ali,0.9895140085859722
+438,146,$\it{Other}$,0.0
+439,146,George Foreman,0.0
+440,146,Muhammad Ali,1.0
+441,147,$\it{Other}$,0.0
+442,147,George Foreman,0.0
+443,147,Muhammad Ali,1.0
+444,148,$\it{Other}$,0.0
+445,148,George Foreman,0.0
+446,148,Muhammad Ali,1.0
+447,149,$\it{Other}$,0.0
+448,149,George Foreman,0.0
+449,149,Muhammad Ali,1.0
+450,150,$\it{Other}$,0.0
+451,150,George Foreman,0.0
+452,150,Muhammad Ali,1.0
+453,151,$\it{Other}$,0.0
+454,151,George Foreman,0.0
+455,151,Muhammad Ali,1.0
+456,152,$\it{Other}$,0.0
+457,152,George Foreman,0.0
+458,152,Muhammad Ali,1.0
+459,153,$\it{Other}$,0.0
+460,153,George Foreman,0.0
+461,153,Muhammad Ali,1.0
+462,154,$\it{Other}$,0.0
+463,154,George Foreman,0.0
+464,154,Muhammad Ali,1.0
+465,155,$\it{Other}$,0.0
+466,155,George Foreman,0.0
+467,155,Muhammad Ali,1.0

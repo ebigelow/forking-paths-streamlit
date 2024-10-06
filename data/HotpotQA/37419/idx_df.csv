@@ -1,0 +1,277 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.14048754071667766
+1,0,Carolyn Janice Cherry,0.467860572562657
+2,0,Carolyn Janice Cherryh,0.39165188672066525
+3,1,$\it{Other}$,0.13530980112809698
+4,1,Carolyn Janice Cherry,0.3138352745633455
+5,1,Carolyn Janice Cherryh,0.5508549243085574
+6,2,$\it{Other}$,0.1419816115589273
+7,2,Carolyn Janice Cherry,0.49999999999999994
+8,2,Carolyn Janice Cherryh,0.3580183884410727
+9,3,$\it{Other}$,0.11440844290285841
+10,3,Carolyn Janice Cherry,0.37511656049472497
+11,3,Carolyn Janice Cherryh,0.5104749966024167
+12,4,$\it{Other}$,0.15730941315914285
+13,4,Carolyn Janice Cherry,0.2906427464924762
+14,4,Carolyn Janice Cherryh,0.5520478403483811
+15,5,$\it{Other}$,0.2
+16,5,Carolyn Janice Cherry,0.2601372450471188
+17,5,Carolyn Janice Cherryh,0.5398627549528812
+18,6,$\it{Other}$,0.13333333333333333
+19,6,Carolyn Janice Cherry,0.36666666666666664
+20,6,Carolyn Janice Cherryh,0.5
+21,7,$\it{Other}$,0.13333333333333333
+22,7,Carolyn Janice Cherry,0.23333333333333334
+23,7,Carolyn Janice Cherryh,0.6333333333333333
+24,8,$\it{Other}$,0.09564110664399536
+25,8,Carolyn Janice Cherry,0.2666560859624981
+26,8,Carolyn Janice Cherryh,0.6377028073935066
+27,9,$\it{Other}$,0.2262912698589198
+28,9,Carolyn Janice Cherry,0.2807507936154937
+29,9,Carolyn Janice Cherryh,0.4929579365255865
+30,10,$\it{Other}$,0.03333333333333333
+31,10,Carolyn Janice Cherry,0.16666666666666666
+32,10,Carolyn Janice Cherryh,0.8
+33,11,$\it{Other}$,0.3333333333333333
+34,11,Carolyn Janice Cherry,0.26666666666666666
+35,11,Carolyn Janice Cherryh,0.4
+36,12,$\it{Other}$,0.1
+37,12,Carolyn Janice Cherry,0.3
+38,12,Carolyn Janice Cherryh,0.6
+39,13,$\it{Other}$,0.2
+40,13,Carolyn Janice Cherry,0.3333333333333333
+41,13,Carolyn Janice Cherryh,0.4666666666666667
+42,14,$\it{Other}$,0.16666666666666666
+43,14,Carolyn Janice Cherry,0.2
+44,14,Carolyn Janice Cherryh,0.6333333333333333
+45,15,$\it{Other}$,0.16666666666666666
+46,15,Carolyn Janice Cherry,0.23333333333333334
+47,15,Carolyn Janice Cherryh,0.6
+48,16,$\it{Other}$,0.26666666666666666
+49,16,Carolyn Janice Cherry,0.23333333333333334
+50,16,Carolyn Janice Cherryh,0.5
+51,17,$\it{Other}$,0.2637040353200931
+52,17,Carolyn Janice Cherry,0.30428484979505693
+53,17,Carolyn Janice Cherryh,0.4320111148848499
+54,18,$\it{Other}$,0.16666666666666666
+55,18,Carolyn Janice Cherry,0.1
+56,18,Carolyn Janice Cherryh,0.7333333333333333
+57,19,$\it{Other}$,0.13829416539490552
+58,19,Carolyn Janice Cherry,0.17658833078981107
+59,19,Carolyn Janice Cherryh,0.6851175038152834
+60,20,$\it{Other}$,0.13333333333333333
+61,20,Carolyn Janice Cherry,0.20950346194347558
+62,20,Carolyn Janice Cherryh,0.6571632047231911
+63,21,$\it{Other}$,0.0724280111872256
+64,21,Carolyn Janice Cherry,0.18948342930757656
+65,21,Carolyn Janice Cherryh,0.7380885595051979
+66,22,$\it{Other}$,0.06666666666666667
+67,22,Carolyn Janice Cherry,0.2
+68,22,Carolyn Janice Cherryh,0.7333333333333333
+69,23,$\it{Other}$,0.08129234846625948
+70,23,Carolyn Janice Cherry,0.07140821756211876
+71,23,Carolyn Janice Cherryh,0.8472994339716218
+72,24,$\it{Other}$,0.13333333333333333
+73,24,Carolyn Janice Cherry,0.1
+74,24,Carolyn Janice Cherryh,0.7666666666666667
+75,25,$\it{Other}$,0.26666666666666666
+76,25,Carolyn Janice Cherry,0.13333333333333333
+77,25,Carolyn Janice Cherryh,0.6
+78,26,$\it{Other}$,0.03333333333333333
+79,26,Carolyn Janice Cherry,0.1
+80,26,Carolyn Janice Cherryh,0.8666666666666667
+81,27,$\it{Other}$,0.13333333333333333
+82,27,Carolyn Janice Cherry,0.13333333333333333
+83,27,Carolyn Janice Cherryh,0.7333333333333333
+84,28,$\it{Other}$,0.1
+85,28,Carolyn Janice Cherry,0.13680101647209258
+86,28,Carolyn Janice Cherryh,0.7631989835279075
+87,29,$\it{Other}$,0.044047099439372635
+88,29,Carolyn Janice Cherry,0.16997722045949848
+89,29,Carolyn Janice Cherryh,0.7859756801011288
+90,30,$\it{Other}$,0.0628944609338779
+91,30,Carolyn Janice Cherry,0.13720737817034967
+92,30,Carolyn Janice Cherryh,0.7998981608957725
+93,31,$\it{Other}$,0.0
+94,31,Carolyn Janice Cherry,0.06666666666666667
+95,31,Carolyn Janice Cherryh,0.9333333333333333
+96,32,$\it{Other}$,0.11069943312873423
+97,32,Carolyn Janice Cherry,0.06666666666666667
+98,32,Carolyn Janice Cherryh,0.8226339002045991
+99,33,$\it{Other}$,0.0
+100,33,Carolyn Janice Cherry,0.13793103448275862
+101,33,Carolyn Janice Cherryh,0.8620689655172413
+102,34,$\it{Other}$,0.06896551724137931
+103,34,Carolyn Janice Cherry,0.1724137931034483
+104,34,Carolyn Janice Cherryh,0.7586206896551724
+105,35,$\it{Other}$,0.04125634624016293
+106,35,Carolyn Janice Cherry,0.08610935301224062
+107,35,Carolyn Janice Cherryh,0.8726343007475964
+108,36,$\it{Other}$,0.13333333333333333
+109,36,Carolyn Janice Cherry,0.16666666666666666
+110,36,Carolyn Janice Cherryh,0.7
+111,37,$\it{Other}$,0.1607246497970518
+112,37,Carolyn Janice Cherry,0.07123307159135349
+113,37,Carolyn Janice Cherryh,0.7680422786115947
+114,38,$\it{Other}$,0.03969413454615642
+115,38,Carolyn Janice Cherry,0.04393466868803848
+116,38,Carolyn Janice Cherryh,0.9163711967658051
+117,39,$\it{Other}$,0.06539061648274958
+118,39,Carolyn Janice Cherry,0.03205728314941624
+119,39,Carolyn Janice Cherryh,0.9025521003678343
+120,40,$\it{Other}$,0.1
+121,40,Carolyn Janice Cherry,0.03333333333333333
+122,40,Carolyn Janice Cherryh,0.8666666666666667
+123,41,$\it{Other}$,0.1
+124,41,Carolyn Janice Cherry,0.06666666666666667
+125,41,Carolyn Janice Cherryh,0.8333333333333334
+126,42,$\it{Other}$,0.08167007702848438
+127,42,Carolyn Janice Cherry,0.035951893757835564
+128,42,Carolyn Janice Cherryh,0.88237802921368
+129,43,$\it{Other}$,0.06666666666666667
+130,43,Carolyn Janice Cherry,0.03333333333333333
+131,43,Carolyn Janice Cherryh,0.9
+132,44,$\it{Other}$,0.10344827586206896
+133,44,Carolyn Janice Cherry,0.0
+134,44,Carolyn Janice Cherryh,0.896551724137931
+135,45,$\it{Other}$,0.06896551724137931
+136,45,Carolyn Janice Cherry,0.13793103448275862
+137,45,Carolyn Janice Cherryh,0.7931034482758621
+138,46,$\it{Other}$,0.07142857142857142
+139,46,Carolyn Janice Cherry,0.03571428571428571
+140,46,Carolyn Janice Cherryh,0.8928571428571429
+141,47,$\it{Other}$,0.13333333333333333
+142,47,Carolyn Janice Cherry,0.0
+143,47,Carolyn Janice Cherryh,0.8666666666666667
+144,48,$\it{Other}$,0.19420603961858768
+145,48,Carolyn Janice Cherry,0.0
+146,48,Carolyn Janice Cherryh,0.8057939603814124
+147,49,$\it{Other}$,0.06666666666666667
+148,49,Carolyn Janice Cherry,0.03333333333333333
+149,49,Carolyn Janice Cherryh,0.9
+150,50,$\it{Other}$,0.13333333333333333
+151,50,Carolyn Janice Cherry,0.03333333333333333
+152,50,Carolyn Janice Cherryh,0.8333333333333334
+153,51,$\it{Other}$,0.1
+154,51,Carolyn Janice Cherry,0.06666666666666667
+155,51,Carolyn Janice Cherryh,0.8333333333333334
+156,52,$\it{Other}$,0.03333333333333333
+157,52,Carolyn Janice Cherry,0.03333333333333333
+158,52,Carolyn Janice Cherryh,0.9333333333333333
+159,53,$\it{Other}$,0.06666666666666667
+160,53,Carolyn Janice Cherry,0.0
+161,53,Carolyn Janice Cherryh,0.9333333333333333
+162,54,$\it{Other}$,0.12951164909921958
+163,54,Carolyn Janice Cherry,0.06666666666666667
+164,54,Carolyn Janice Cherryh,0.8038216842341138
+165,55,$\it{Other}$,0.05714903759920109
+166,55,Carolyn Janice Cherry,0.01607021158933311
+167,55,Carolyn Janice Cherryh,0.9267807508114658
+168,56,$\it{Other}$,0.13793103448275862
+169,56,Carolyn Janice Cherry,0.0
+170,56,Carolyn Janice Cherryh,0.8620689655172413
+171,57,$\it{Other}$,0.2538830344994983
+172,57,Carolyn Janice Cherry,0.006391816083584182
+173,57,Carolyn Janice Cherryh,0.7397251494169174
+174,58,$\it{Other}$,0.08759149715140808
+175,58,Carolyn Janice Cherry,0.03921447720709108
+176,58,Carolyn Janice Cherryh,0.8731940256415007
+177,59,$\it{Other}$,0.1143636815049624
+178,59,Carolyn Janice Cherry,0.005718100343863926
+179,59,Carolyn Janice Cherryh,0.8799182181511738
+180,60,$\it{Other}$,0.16666666666666666
+181,60,Carolyn Janice Cherry,0.0
+182,60,Carolyn Janice Cherryh,0.8333333333333334
+183,61,$\it{Other}$,0.24725794560858924
+184,61,Carolyn Janice Cherry,0.02014781973548065
+185,61,Carolyn Janice Cherryh,0.7325942346559301
+186,62,$\it{Other}$,0.22165815355390364
+187,62,Carolyn Janice Cherry,0.0
+188,62,Carolyn Janice Cherryh,0.7783418464460964
+189,63,$\it{Other}$,0.12025167960999597
+190,63,Carolyn Janice Cherry,0.003463755112039645
+191,63,Carolyn Janice Cherryh,0.8762845652779645
+192,64,$\it{Other}$,0.16666666666666666
+193,64,Carolyn Janice Cherry,0.0
+194,64,Carolyn Janice Cherryh,0.8333333333333334
+195,65,$\it{Other}$,0.14679937165524443
+196,65,Carolyn Janice Cherry,0.0
+197,65,Carolyn Janice Cherryh,0.8532006283447555
+198,66,$\it{Other}$,0.08842326502996545
+199,66,Carolyn Janice Cherry,0.0
+200,66,Carolyn Janice Cherryh,0.9115767349700346
+201,67,$\it{Other}$,0.06896551724137931
+202,67,Carolyn Janice Cherry,0.0
+203,67,Carolyn Janice Cherryh,0.9310344827586207
+204,68,$\it{Other}$,0.06666666666666667
+205,68,Carolyn Janice Cherry,0.0
+206,68,Carolyn Janice Cherryh,0.9333333333333333
+207,69,$\it{Other}$,0.0
+208,69,Carolyn Janice Cherry,0.034482758620689655
+209,69,Carolyn Janice Cherryh,0.9655172413793104
+210,70,$\it{Other}$,0.06666666666666667
+211,70,Carolyn Janice Cherry,0.0
+212,70,Carolyn Janice Cherryh,0.9333333333333333
+213,71,$\it{Other}$,0.034482758620689655
+214,71,Carolyn Janice Cherry,0.0
+215,71,Carolyn Janice Cherryh,0.9655172413793104
+216,72,$\it{Other}$,0.08413857112522105
+217,72,Carolyn Janice Cherry,0.0
+218,72,Carolyn Janice Cherryh,0.915861428874779
+219,73,$\it{Other}$,0.024643915087604676
+220,73,Carolyn Janice Cherry,0.002913261205601157
+221,73,Carolyn Janice Cherryh,0.9724428237067941
+222,74,$\it{Other}$,0.17391304347826086
+223,74,Carolyn Janice Cherry,0.0
+224,74,Carolyn Janice Cherryh,0.8260869565217391
+225,75,$\it{Other}$,0.11563848309763412
+226,75,Carolyn Janice Cherry,0.0
+227,75,Carolyn Janice Cherryh,0.8843615169023659
+228,76,$\it{Other}$,0.0
+229,76,Carolyn Janice Cherry,0.0
+230,76,Carolyn Janice Cherryh,1.0
+231,77,$\it{Other}$,0.07692307692307693
+232,77,Carolyn Janice Cherry,0.0
+233,77,Carolyn Janice Cherryh,0.9230769230769231
+234,78,$\it{Other}$,0.08333333333333333
+235,78,Carolyn Janice Cherry,0.0
+236,78,Carolyn Janice Cherryh,0.9166666666666666
+237,79,$\it{Other}$,0.0
+238,79,Carolyn Janice Cherry,0.0
+239,79,Carolyn Janice Cherryh,0.9999999999999999
+240,80,$\it{Other}$,0.0
+241,80,Carolyn Janice Cherry,0.0
+242,80,Carolyn Janice Cherryh,1.0
+243,81,$\it{Other}$,0.0
+244,81,Carolyn Janice Cherry,0.0
+245,81,Carolyn Janice Cherryh,1.0
+246,82,$\it{Other}$,0.0
+247,82,Carolyn Janice Cherry,0.0
+248,82,Carolyn Janice Cherryh,1.0
+249,83,$\it{Other}$,0.0
+250,83,Carolyn Janice Cherry,0.0
+251,83,Carolyn Janice Cherryh,1.0
+252,84,$\it{Other}$,0.0
+253,84,Carolyn Janice Cherry,0.0
+254,84,Carolyn Janice Cherryh,1.0
+255,85,$\it{Other}$,0.0
+256,85,Carolyn Janice Cherry,0.0
+257,85,Carolyn Janice Cherryh,1.0
+258,86,$\it{Other}$,0.0
+259,86,Carolyn Janice Cherry,0.0
+260,86,Carolyn Janice Cherryh,1.0
+261,87,$\it{Other}$,0.0
+262,87,Carolyn Janice Cherry,0.0
+263,87,Carolyn Janice Cherryh,1.0
+264,88,$\it{Other}$,0.0
+265,88,Carolyn Janice Cherry,0.0
+266,88,Carolyn Janice Cherryh,1.0
+267,89,$\it{Other}$,0.0
+268,89,Carolyn Janice Cherry,0.0
+269,89,Carolyn Janice Cherryh,1.0
+270,90,$\it{Other}$,0.0
+271,90,Carolyn Janice Cherry,0.0
+272,90,Carolyn Janice Cherryh,1.0
+273,91,$\it{Other}$,0.0
+274,91,Carolyn Janice Cherry,0.0
+275,91,Carolyn Janice Cherryh,1.0

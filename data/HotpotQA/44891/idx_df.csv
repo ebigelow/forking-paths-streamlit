@@ -1,1189 +1,397 @@
 ,idx,ans,weighted
-0,0,$\it{Other}$,0.9793430868281529
-1,0,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-2,0,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-3,0,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-4,0,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.020656913171847126
-5,0,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-6,1,$\it{Other}$,1.0
-7,1,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-8,1,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-9,1,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-10,1,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-11,1,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-12,2,$\it{Other}$,0.9845070244246151
-13,2,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-14,2,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-15,2,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-16,2,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.015492975575384718
-17,2,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-18,3,$\it{Other}$,0.9369755318591277
-19,3,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-20,3,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-21,3,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-22,3,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.029691134807538933
-23,3,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-24,4,$\it{Other}$,0.9666666666666667
-25,4,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-26,4,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-27,4,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-28,4,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-29,4,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-30,5,$\it{Other}$,0.9892102835631614
-31,5,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0023762943863003456
-32,5,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-33,5,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-34,5,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.00841342205053827
-35,5,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-36,6,$\it{Other}$,0.9333333333333333
-37,6,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-38,6,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-39,6,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-40,6,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-41,6,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-42,7,$\it{Other}$,0.9594292730574225
-43,7,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.020285363471288776
-44,7,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-45,7,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.020285363471288776
-46,7,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-47,7,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-48,8,$\it{Other}$,1.0
-49,8,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-50,8,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-51,8,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-52,8,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-53,8,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-54,9,$\it{Other}$,0.9666666666666667
-55,9,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-56,9,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-57,9,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-58,9,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-59,9,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-60,10,$\it{Other}$,0.9666666666666667
-61,10,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-62,10,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-63,10,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-64,10,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-65,10,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-66,11,$\it{Other}$,1.0
-67,11,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-68,11,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-69,11,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-70,11,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-71,11,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-72,12,$\it{Other}$,0.9333333333333333
-73,12,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-74,12,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-75,12,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-76,12,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-77,12,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-78,13,$\it{Other}$,0.9333333333333333
-79,13,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-80,13,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-81,13,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-82,13,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-83,13,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-84,14,$\it{Other}$,0.978700212201903
-85,14,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.00421283425566975
-86,14,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.004271968128433992
-87,14,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-88,14,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.012814985413993334
-89,14,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-90,15,$\it{Other}$,0.9666666666666667
-91,15,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-92,15,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-93,15,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-94,15,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-95,15,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-96,16,$\it{Other}$,0.9919481430727902
-97,16,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.005807993519127249
-98,16,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-99,16,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-100,16,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0022438634080824945
-101,16,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-102,17,$\it{Other}$,0.9775954510489427
-103,17,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-104,17,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-105,17,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-106,17,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-107,17,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.022404548951057535
-108,18,$\it{Other}$,0.9848477435861069
-109,18,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-110,18,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-111,18,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-112,18,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.015152256413892994
-113,18,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-114,19,$\it{Other}$,1.0
-115,19,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-116,19,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-117,19,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-118,19,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-119,19,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-120,20,$\it{Other}$,0.9666666666666667
-121,20,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-122,20,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-123,20,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-124,20,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-125,20,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-126,21,$\it{Other}$,1.0
-127,21,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-128,21,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-129,21,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-130,21,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-131,21,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-132,22,$\it{Other}$,1.0
-133,22,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-134,22,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-135,22,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-136,22,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-137,22,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-138,23,$\it{Other}$,1.0
-139,23,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-140,23,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-141,23,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-142,23,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-143,23,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-144,24,$\it{Other}$,1.0
-145,24,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-146,24,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-147,24,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-148,24,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-149,24,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-150,25,$\it{Other}$,1.0
-151,25,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-152,25,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-153,25,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-154,25,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-155,25,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-156,26,$\it{Other}$,0.9461981177954111
-157,26,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-158,26,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-159,26,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-160,26,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.05380188220458903
-161,26,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-162,27,$\it{Other}$,1.0
-163,27,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-164,27,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-165,27,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-166,27,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-167,27,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-168,28,$\it{Other}$,1.0
-169,28,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-170,28,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-171,28,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-172,28,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-173,28,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-174,29,$\it{Other}$,1.0
-175,29,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-176,29,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-177,29,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-178,29,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-179,29,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-180,30,$\it{Other}$,1.0
-181,30,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-182,30,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-183,30,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-184,30,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-185,30,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-186,31,$\it{Other}$,1.0
-187,31,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-188,31,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-189,31,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-190,31,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-191,31,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-192,32,$\it{Other}$,0.9666666666666667
-193,32,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.025224202131138823
-194,32,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-195,32,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-196,32,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.00810913120219451
-197,32,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-198,33,$\it{Other}$,0.9666666666666666
-199,33,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-200,33,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-201,33,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.030965784793135845
-202,33,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0023675485401974845
-203,33,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-204,34,$\it{Other}$,1.0
-205,34,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-206,34,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-207,34,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-208,34,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-209,34,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-210,35,$\it{Other}$,1.0
-211,35,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-212,35,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-213,35,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-214,35,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-215,35,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-216,36,$\it{Other}$,0.9858100117375421
-217,36,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-218,36,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-219,36,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.007094994131228975
-220,36,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-221,36,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.007094994131228975
-222,37,$\it{Other}$,1.0
-223,37,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-224,37,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-225,37,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-226,37,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-227,37,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-228,38,$\it{Other}$,1.0
-229,38,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-230,38,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-231,38,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-232,38,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-233,38,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-234,39,$\it{Other}$,0.9666666666666667
-235,39,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-236,39,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-237,39,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-238,39,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-239,39,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-240,40,$\it{Other}$,0.9852761158189658
-241,40,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-242,40,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-243,40,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-244,40,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-245,40,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.01472388418103409
-246,41,$\it{Other}$,1.0
-247,41,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-248,41,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-249,41,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-250,41,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-251,41,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-252,42,$\it{Other}$,0.9333333333333333
-253,42,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-254,42,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-255,42,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-256,42,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-257,42,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-258,43,$\it{Other}$,1.0
-259,43,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-260,43,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-261,43,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-262,43,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-263,43,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-264,44,$\it{Other}$,1.0
-265,44,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-266,44,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-267,44,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-268,44,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-269,44,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-270,45,$\it{Other}$,1.0
-271,45,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-272,45,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-273,45,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-274,45,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-275,45,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-276,46,$\it{Other}$,1.0
-277,46,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-278,46,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-279,46,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-280,46,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-281,46,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-282,47,$\it{Other}$,1.0
-283,47,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-284,47,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-285,47,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-286,47,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-287,47,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-288,48,$\it{Other}$,1.0
-289,48,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-290,48,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-291,48,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-292,48,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-293,48,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-294,49,$\it{Other}$,0.9869086205918178
-295,49,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.006545689704091106
-296,49,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.006545689704091106
-297,49,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-298,49,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-299,49,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-300,50,$\it{Other}$,0.9999999999999999
-301,50,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-302,50,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-303,50,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-304,50,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-305,50,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-306,51,$\it{Other}$,0.9585405536614429
-307,51,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.016247436246644077
-308,51,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-309,51,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-310,51,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.01260600504595653
-311,51,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.01260600504595653
-312,52,$\it{Other}$,0.9999999999999999
-313,52,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-314,52,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-315,52,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-316,52,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-317,52,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-318,53,$\it{Other}$,1.0
-319,53,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-320,53,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-321,53,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-322,53,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-323,53,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-324,54,$\it{Other}$,0.994187203118301
-325,54,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-326,54,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-327,54,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-328,54,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-329,54,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0058127968816990925
-330,55,$\it{Other}$,1.0
-331,55,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-332,55,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-333,55,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-334,55,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-335,55,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-336,56,$\it{Other}$,0.989989264629307
-337,56,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-338,56,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-339,56,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-340,56,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.010010735370692912
-341,56,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-342,57,$\it{Other}$,1.0
-343,57,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-344,57,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-345,57,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-346,57,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-347,57,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-348,58,$\it{Other}$,1.0
-349,58,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-350,58,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-351,58,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-352,58,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-353,58,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-354,59,$\it{Other}$,0.9666666666666667
-355,59,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-356,59,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-357,59,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-358,59,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-359,59,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-360,60,$\it{Other}$,1.0
-361,60,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-362,60,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-363,60,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-364,60,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-365,60,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-366,61,$\it{Other}$,0.9333333333333333
-367,61,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-368,61,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-369,61,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-370,61,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-371,61,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-372,62,$\it{Other}$,0.9584190952590801
-373,62,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-374,62,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-375,62,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-376,62,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.04158090474092002
-377,62,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-378,63,$\it{Other}$,0.9514729260934044
-379,63,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-380,63,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-381,63,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-382,63,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.037436955317907535
-383,63,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.011090118588687999
-384,64,$\it{Other}$,1.0
-385,64,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-386,64,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-387,64,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-388,64,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-389,64,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-390,65,$\it{Other}$,0.9666666666666667
-391,65,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-392,65,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-393,65,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-394,65,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-395,65,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-396,66,$\it{Other}$,1.0
-397,66,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-398,66,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-399,66,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-400,66,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-401,66,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-402,67,$\it{Other}$,1.0
-403,67,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-404,67,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-405,67,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-406,67,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-407,67,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-408,68,$\it{Other}$,1.0
-409,68,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-410,68,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-411,68,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-412,68,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-413,68,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-414,69,$\it{Other}$,1.0
-415,69,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-416,69,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-417,69,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-418,69,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-419,69,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-420,70,$\it{Other}$,1.0
-421,70,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-422,70,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-423,70,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-424,70,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-425,70,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-426,71,$\it{Other}$,0.9409583133235233
-427,71,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.02952084333823833
-428,71,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-429,71,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-430,71,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.02952084333823833
-431,71,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-432,72,$\it{Other}$,0.9666666666666667
-433,72,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-434,72,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.026385668417571433
-435,72,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-436,72,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-437,72,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0069476649157619
-438,73,$\it{Other}$,0.9717683602334932
-439,73,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-440,73,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.028231639766506795
-441,73,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-442,73,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-443,73,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-444,74,$\it{Other}$,0.9333333333333333
-445,74,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-446,74,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-447,74,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-448,74,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-449,74,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-450,75,$\it{Other}$,0.9666666666666667
-451,75,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-452,75,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-453,75,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-454,75,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-455,75,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-456,76,$\it{Other}$,0.9333333333333333
-457,76,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-458,76,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-459,76,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-460,76,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-461,76,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-462,77,$\it{Other}$,0.9333333333333333
-463,77,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-464,77,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-465,77,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-466,77,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-467,77,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-468,78,$\it{Other}$,0.9
-469,78,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-470,78,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-471,78,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-472,78,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-473,78,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-474,79,$\it{Other}$,0.9666666666666667
-475,79,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-476,79,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-477,79,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-478,79,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-479,79,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-480,80,$\it{Other}$,0.9333333333333333
-481,80,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-482,80,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-483,80,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-484,80,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-485,80,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-486,81,$\it{Other}$,0.9312665890597724
-487,81,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.017700038803447102
-488,81,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.012929864621236499
-489,81,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-490,81,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.008850019401723551
-491,81,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.029253488113820385
-492,82,$\it{Other}$,0.9333333333333333
-493,82,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-494,82,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-495,82,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-496,82,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-497,82,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-498,83,$\it{Other}$,0.9624022956372782
-499,83,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-500,83,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.029068962303944883
-501,83,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-502,83,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.008528742058776902
-503,83,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-504,84,$\it{Other}$,0.9047610542493715
-505,84,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.030952806208647588
-506,84,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0023805271246857473
-507,84,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.030952806208647588
-508,84,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.030952806208647588
-509,84,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-510,85,$\it{Other}$,0.9
-511,85,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06666666666666667
-512,85,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-513,85,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-514,85,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-515,85,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-516,86,$\it{Other}$,1.0
-517,86,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-518,86,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-519,86,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-520,86,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-521,86,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-522,87,$\it{Other}$,0.9
-523,87,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-524,87,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-525,87,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-526,87,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-527,87,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-528,88,$\it{Other}$,0.9000000000000001
-529,88,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06666666666666667
-530,88,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.02873950547080137
-531,88,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-532,88,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-533,88,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.004593827862531966
-534,89,$\it{Other}$,0.8666666666666667
-535,89,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06666666666666667
-536,89,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-537,89,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-538,89,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-539,89,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-540,90,$\it{Other}$,0.9333333333333333
-541,90,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-542,90,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-543,90,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-544,90,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-545,90,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-546,91,$\it{Other}$,0.9
-547,91,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-548,91,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-549,91,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-550,91,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-551,91,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-552,92,$\it{Other}$,0.9666666666666667
-553,92,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-554,92,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-555,92,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-556,92,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-557,92,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-558,93,$\it{Other}$,0.9666666666666667
-559,93,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-560,93,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-561,93,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-562,93,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-563,93,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-564,94,$\it{Other}$,0.8898544808027535
-565,94,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.005072759598623163
-566,94,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.005072759598623163
-567,94,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-568,94,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666665
-569,94,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.033333333333333326
-570,95,$\it{Other}$,0.8778147637156983
-571,95,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.05900418364663021
-572,95,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-573,95,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.029502091823315105
-574,95,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03159052631883573
-575,95,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0020884344955206247
-576,96,$\it{Other}$,0.9332004092334193
-577,96,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.026773005946597882
-578,96,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.02664008184668386
-579,96,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-580,96,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.006693251486649471
-581,96,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.006693251486649471
-582,97,$\it{Other}$,0.9333333333333333
-583,97,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-584,97,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-585,97,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-586,97,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-587,97,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-588,98,$\it{Other}$,0.9373108899166669
-589,98,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.004464309942663998
-590,98,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-591,98,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-592,98,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.04035268554606966
-593,98,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.017872114594599475
-594,99,$\it{Other}$,0.9666666666666667
-595,99,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-596,99,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-597,99,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-598,99,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-599,99,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-600,100,$\it{Other}$,0.9684458460169203
-601,100,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-602,100,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-603,100,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-604,100,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-605,100,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.031554153983079695
-606,101,$\it{Other}$,0.9666666666666667
-607,101,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-608,101,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-609,101,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-610,101,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-611,101,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-612,102,$\it{Other}$,0.8666666666666667
-613,102,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-614,102,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-615,102,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-616,102,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-617,102,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-618,103,$\it{Other}$,1.0
-619,103,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-620,103,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-621,103,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-622,103,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-623,103,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-624,104,$\it{Other}$,0.9666666666666667
-625,104,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-626,104,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-627,104,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-628,104,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-629,104,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-630,105,$\it{Other}$,0.9
-631,105,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-632,105,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-633,105,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-634,105,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-635,105,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-636,106,$\it{Other}$,0.9333333333333333
-637,106,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-638,106,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-639,106,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-640,106,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-641,106,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-642,107,$\it{Other}$,0.9333333333333333
-643,107,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.014409528546182401
-644,107,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.014409528546182401
-645,107,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-646,107,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.004127459864780536
-647,107,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03372014970952133
-648,108,$\it{Other}$,0.9
-649,108,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-650,108,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-651,108,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-652,108,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-653,108,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-654,109,$\it{Other}$,0.9019410992021454
-655,109,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06278446826237594
-656,109,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-657,109,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-658,109,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.033333333333333326
-659,109,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0019410992021453605
-660,110,$\it{Other}$,0.9277994966457388
-661,110,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03148872110413514
-662,110,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0018446122291981904
-663,110,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-664,110,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.037022557791729714
-665,110,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0018446122291981904
-666,111,$\it{Other}$,0.9265488867972567
-667,111,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-668,111,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-669,111,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.006784446536076598
-670,111,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.013568893072153195
-671,111,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.053097773594513474
-672,112,$\it{Other}$,0.8743254667588749
-673,112,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-674,112,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-675,112,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.031418633310281274
-676,112,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-677,112,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.09425589993084384
-678,113,$\it{Other}$,0.9045534628963294
-679,113,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-680,113,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.004553462896329483
-681,113,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.02877987043700385
-682,113,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-683,113,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.02877987043700385
-684,114,$\it{Other}$,0.9001247451356424
-685,114,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.002388691216048832
-686,114,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.01794153409396787
-687,114,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.009840553638391404
-688,114,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.030819896981642
-689,114,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03888457893430739
-690,115,$\it{Other}$,0.9892283234850037
-691,115,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.005385838257498179
-692,115,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-693,115,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-694,115,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.005385838257498179
-695,115,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-696,116,$\it{Other}$,0.8666666666666667
-697,116,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06666666666666667
-698,116,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-699,116,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-700,116,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-701,116,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-702,117,$\it{Other}$,0.9333333333333333
-703,117,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-704,117,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-705,117,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-706,117,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-707,117,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-708,118,$\it{Other}$,0.9333333333333333
-709,118,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-710,118,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-711,118,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-712,118,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-713,118,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-714,119,$\it{Other}$,0.9511640488497568
-715,119,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.005556459342073073
-716,119,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-717,119,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.00636558956690685
-718,119,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.018274056500006096
-719,119,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.018639845741257214
-720,120,$\it{Other}$,0.8269062631134474
-721,120,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-722,120,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-723,120,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-724,120,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.12470050444152417
-725,120,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.015059899111695167
-726,121,$\it{Other}$,0.9280382119082726
-727,121,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.005295121425060716
-728,121,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-729,121,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-730,121,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03862845475839405
-731,121,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.028038211908272617
-732,122,$\it{Other}$,0.9666666666666667
-733,122,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-734,122,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-735,122,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-736,122,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-737,122,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-738,123,$\it{Other}$,0.9
-739,123,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-740,123,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-741,123,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-742,123,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-743,123,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.1
-744,124,$\it{Other}$,0.8767023129417918
-745,124,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03749717307385382
-746,124,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-747,124,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.026233590325510554
-748,124,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.007099743007822779
-749,124,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.05246718065102111
-750,125,$\it{Other}$,0.8666666666666667
-751,125,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-752,125,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-753,125,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-754,125,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-755,125,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.06666666666666667
-756,126,$\it{Other}$,0.9468010065472223
-757,126,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.016110344746023016
-758,126,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.003610739302606435
-759,126,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-760,126,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.003279899377530575
-761,126,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.030198010026617688
-762,127,$\it{Other}$,0.8779240274171809
-763,127,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-764,127,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-765,127,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.033333333333333326
-766,127,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.033333333333333326
-767,127,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.05540930591615242
-768,128,$\it{Other}$,0.9333333333333333
-769,128,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-770,128,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-771,128,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-772,128,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-773,128,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-774,129,$\it{Other}$,0.9196111162836297
-775,129,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.02542285869754496
-776,129,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.01357901523351114
-777,129,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.004214292411924421
-778,129,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.011402400538391191
-779,129,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.025770316834998645
-780,130,$\it{Other}$,0.8666666666666668
-781,130,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06102724280638841
-782,130,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.002819711930139129
-783,130,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.002819711930139129
-784,130,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06384695473652754
-785,130,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.002819711930139129
-786,131,$\it{Other}$,0.7666666666666667
-787,131,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-788,131,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-789,131,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-790,131,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-791,131,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.1
-792,132,$\it{Other}$,1.0
-793,132,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-794,132,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-795,132,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-796,132,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-797,132,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-798,133,$\it{Other}$,0.9080557338679085
-799,133,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.04032070277050625
-800,133,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-801,133,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-802,133,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0516235633615853
-803,133,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-804,134,$\it{Other}$,0.9449518565892567
-805,134,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0072382700258032786
-806,134,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.02609506330753005
-807,134,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0072382700258032786
-808,134,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-809,134,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.014476540051606557
-810,135,$\it{Other}$,0.9333333333333333
-811,135,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-812,135,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-813,135,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-814,135,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-815,135,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-816,136,$\it{Other}$,0.9282756261781966
-817,136,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0023450341522513298
-818,136,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-819,136,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.020603139470249478
-820,136,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.028173060729053255
-821,136,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.020603139470249478
-822,137,$\it{Other}$,0.9
-823,137,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-824,137,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-825,137,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-826,137,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-827,137,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-828,138,$\it{Other}$,0.9540102650562288
-829,138,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.01265640161043792
-830,138,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.01265640161043792
-831,138,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.012512339824634535
-832,138,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.008164591898260876
-833,138,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-834,139,$\it{Other}$,0.9397133205918402
-835,139,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-836,139,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0026444262996550036
-837,139,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0026444262996550036
-838,139,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.026176700254597392
-839,139,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.028821126554252396
-840,140,$\it{Other}$,1.0
-841,140,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-842,140,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-843,140,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-844,140,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-845,140,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-846,141,$\it{Other}$,1.0
-847,141,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-848,141,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-849,141,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-850,141,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-851,141,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-852,142,$\it{Other}$,0.9333333333333333
-853,142,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-854,142,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-855,142,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-856,142,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-857,142,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-858,143,$\it{Other}$,0.9
-859,143,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06666666666666667
-860,143,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-861,143,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-862,143,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-863,143,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-864,144,$\it{Other}$,0.9333333333333333
-865,144,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-866,144,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-867,144,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.06666666666666667
-868,144,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-869,144,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-870,145,$\it{Other}$,0.8333333333333334
-871,145,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.03333333333333333
-872,145,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-873,145,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-874,145,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-875,145,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.06666666666666667
-876,146,$\it{Other}$,0.9333333333333333
-877,146,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.0
-878,146,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-879,146,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-880,146,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-881,146,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-882,147,$\it{Other}$,0.9
-883,147,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.06666666666666667
-884,147,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-885,147,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-886,147,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-887,147,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-888,148,$\it{Other}$,0.9400825001840439
-889,148,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.019972499938652032
-890,148,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.019972499938652032
-891,148,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.019972499938652032
-892,148,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-893,148,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-894,149,$\it{Other}$,0.8
-895,149,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.1
-896,149,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-897,149,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-898,149,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-899,149,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-900,150,$\it{Other}$,0.8666666666666667
-901,150,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.1
-902,150,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-903,150,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-904,150,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-905,150,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-906,151,$\it{Other}$,0.9075879416964677
-907,151,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.018482411660706435
-908,151,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.018482411660706435
-909,151,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-910,151,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03696482332141287
-911,151,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.018482411660706435
-912,152,$\it{Other}$,0.7333333333333333
-913,152,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.1
-914,152,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-915,152,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.1
-916,152,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-917,152,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-918,153,$\it{Other}$,0.6333333333333333
-919,153,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.1
-920,153,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-921,153,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.06666666666666667
-922,153,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-923,153,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.13333333333333333
-924,154,$\it{Other}$,0.7333333333333333
-925,154,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.13333333333333333
-926,154,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.03333333333333333
-927,154,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-928,154,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-929,154,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.06666666666666667
-930,155,$\it{Other}$,0.6333333333333333
-931,155,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.16666666666666666
-932,155,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-933,155,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.06666666666666667
-934,155,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.1
-935,155,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.03333333333333333
-936,156,$\it{Other}$,0.5333333333333333
-937,156,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.2
-938,156,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-939,156,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.03333333333333333
-940,156,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-941,156,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.2
-942,157,$\it{Other}$,0.7193884423658129
-943,157,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.1408154101789162
-944,157,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-945,157,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.08061155763418715
-946,157,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.026870519211395716
-947,157,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.032314070609688085
-948,158,$\it{Other}$,0.7200977475809744
-949,158,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.05661779287617944
-950,158,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.02830889643808972
-951,158,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-952,158,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.05661779287617944
-953,158,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.13835777022857695
-954,159,$\it{Other}$,0.7275736760813467
-955,159,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.13665065481767458
-956,159,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-957,159,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.022775109136279097
-958,159,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.09110043654511639
-959,159,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.021900123419583185
-960,160,$\it{Other}$,0.5096653331600646
-961,160,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.15601557581270675
-962,160,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.022287939401815247
-963,160,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.11143969700907624
-964,160,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.20059145461633723
-965,160,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-966,161,$\it{Other}$,0.2008047863722957
-967,161,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.23679858181561608
-968,161,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.14799911363476004
-969,161,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.2071987590886641
-970,161,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.2071987590886641
-971,161,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-972,162,$\it{Other}$,0.06860335649642038
-973,162,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.36432037060939265
-974,162,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.09612662034049257
-975,162,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.18837986102147775
-976,162,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.2825697915322166
-977,162,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-978,163,$\it{Other}$,0.003435754257740939
-979,163,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.4122296116582949
-980,163,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.14966802842303492
-981,163,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.20690560264008842
-982,163,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.22776100302084076
-983,163,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-984,164,$\it{Other}$,0.0
-985,164,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-986,164,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-987,164,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-988,164,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-989,164,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-990,165,$\it{Other}$,0.0
-991,165,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-992,165,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-993,165,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-994,165,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-995,165,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-996,166,$\it{Other}$,0.0
-997,166,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-998,166,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-999,166,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1000,166,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1001,166,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1002,167,$\it{Other}$,0.0
-1003,167,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1004,167,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1005,167,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1006,167,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1007,167,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1008,168,$\it{Other}$,0.0
-1009,168,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1010,168,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1011,168,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1012,168,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1013,168,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1014,169,$\it{Other}$,0.0
-1015,169,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1016,169,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1017,169,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1018,169,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1019,169,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1020,170,$\it{Other}$,0.0
-1021,170,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.9777538682276947
-1022,170,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1023,170,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1024,170,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.02224613177230517
-1025,170,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1026,171,$\it{Other}$,0.0
-1027,171,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.9666666666666667
-1028,171,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1029,171,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1030,171,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.03333333333333333
-1031,171,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1032,172,$\it{Other}$,0.0
-1033,172,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1034,172,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1035,172,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1036,172,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1037,172,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1038,173,$\it{Other}$,0.0
-1039,173,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.9333333333333333
-1040,173,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1041,173,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1042,173,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.06666666666666667
-1043,173,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1044,174,$\it{Other}$,0.0
-1045,174,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,0.9711496808998568
-1046,174,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1047,174,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1048,174,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.028850319100143268
-1049,174,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1050,175,$\it{Other}$,0.0
-1051,175,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1052,175,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1053,175,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1054,175,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1055,175,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1056,176,$\it{Other}$,0.0
-1057,176,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1058,176,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1059,176,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1060,176,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1061,176,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1062,177,$\it{Other}$,0.0
-1063,177,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1064,177,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1065,177,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1066,177,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1067,177,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1068,178,$\it{Other}$,0.0
-1069,178,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1070,178,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1071,178,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1072,178,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1073,178,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1074,179,$\it{Other}$,0.0
-1075,179,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1076,179,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1077,179,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1078,179,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1079,179,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1080,180,$\it{Other}$,0.0
-1081,180,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1082,180,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1083,180,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1084,180,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1085,180,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1086,181,$\it{Other}$,0.0
-1087,181,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1088,181,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1089,181,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1090,181,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1091,181,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1092,182,$\it{Other}$,0.0
-1093,182,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1094,182,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1095,182,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1096,182,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1097,182,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1098,183,$\it{Other}$,0.0
-1099,183,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1100,183,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1101,183,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1102,183,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1103,183,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1104,184,$\it{Other}$,0.0
-1105,184,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1106,184,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1107,184,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1108,184,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1109,184,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1110,185,$\it{Other}$,0.0
-1111,185,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1112,185,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1113,185,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1114,185,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1115,185,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1116,186,$\it{Other}$,0.0
-1117,186,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1118,186,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1119,186,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1120,186,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1121,186,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1122,187,$\it{Other}$,0.0
-1123,187,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1124,187,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1125,187,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1126,187,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1127,187,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1128,188,$\it{Other}$,0.0
-1129,188,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1130,188,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1131,188,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1132,188,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1133,188,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1134,189,$\it{Other}$,0.0
-1135,189,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1136,189,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1137,189,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1138,189,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1139,189,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1140,190,$\it{Other}$,0.0
-1141,190,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1142,190,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1143,190,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1144,190,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1145,190,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1146,191,$\it{Other}$,0.0
-1147,191,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1148,191,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1149,191,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1150,191,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1151,191,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1152,192,$\it{Other}$,0.0
-1153,192,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1154,192,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1155,192,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1156,192,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1157,192,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1158,193,$\it{Other}$,0.0
-1159,193,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1160,193,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1161,193,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1162,193,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1163,193,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1164,194,$\it{Other}$,0.0
-1165,194,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1166,194,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1167,194,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1168,194,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1169,194,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1170,195,$\it{Other}$,0.0
-1171,195,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1172,195,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1173,195,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1174,195,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1175,195,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1176,196,$\it{Other}$,0.0
-1177,196,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1178,196,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1179,196,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1180,196,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1181,196,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
-1182,197,$\it{Other}$,0.0
-1183,197,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and impact,1.0
-1184,197,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and lasting,0.0
-1185,197,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and significant,0.0
-1186,197,The Maxey Flat facility inspired the documentary film American Threnody due to its controversial history and the,0.0
-1187,197,The Maxey Flat facility inspired the documentary film American Threnody due to its impact on the local,0.0
+0,0,$\it{Other}$,0.049339373635950354
+1,0,Finish: length,0.9506606263640496
+2,1,$\it{Other}$,0.03333333333333333
+3,1,Finish: length,0.9666666666666667
+4,2,$\it{Other}$,0.06273229381893904
+5,2,Finish: length,0.9372677061810609
+6,3,$\it{Other}$,0.029691134807538933
+7,3,Finish: length,0.9703088651924611
+8,4,$\it{Other}$,0.03333333333333333
+9,4,Finish: length,0.9666666666666667
+10,5,$\it{Other}$,0.028403274562804847
+11,5,Finish: length,0.9715967254371952
+12,6,$\it{Other}$,0.0
+13,6,Finish: length,1.0
+14,7,$\it{Other}$,0.027545783008977854
+15,7,Finish: length,0.9724542169910222
+16,8,$\it{Other}$,0.06666666666666667
+17,8,Finish: length,0.9333333333333333
+18,9,$\it{Other}$,0.06666666666666667
+19,9,Finish: length,0.9333333333333333
+20,10,$\it{Other}$,0.06666666666666667
+21,10,Finish: length,0.9333333333333333
+22,11,$\it{Other}$,0.0
+23,11,Finish: length,1.0
+24,12,$\it{Other}$,0.06666666666666667
+25,12,Finish: length,0.9333333333333333
+26,13,$\it{Other}$,0.03333333333333333
+27,13,Finish: length,0.9666666666666667
+28,14,$\it{Other}$,0.04086948633612229
+29,14,Finish: length,0.9591305136638778
+30,15,$\it{Other}$,0.0
+31,15,Finish: length,1.0
+32,16,$\it{Other}$,0.02597994857470006
+33,16,Finish: length,0.9740200514252999
+34,17,$\it{Other}$,0.0672136468531726
+35,17,Finish: length,0.9327863531468277
+36,18,$\it{Other}$,0.018181076919440334
+37,18,Finish: length,0.9818189230805596
+38,19,$\it{Other}$,0.0
+39,19,Finish: length,1.0
+40,20,$\it{Other}$,0.0
+41,20,Finish: length,1.0
+42,21,$\it{Other}$,0.030132242384695796
+43,21,Finish: length,0.9698677576153041
+44,22,$\it{Other}$,0.0017629783394728696
+45,22,Finish: length,0.9982370216605272
+46,23,$\it{Other}$,0.06666666666666667
+47,23,Finish: length,0.9333333333333333
+48,24,$\it{Other}$,0.06666666666666667
+49,24,Finish: length,0.9333333333333333
+50,25,$\it{Other}$,0.06666666666666667
+51,25,Finish: length,0.9333333333333333
+52,26,$\it{Other}$,0.06023427443562785
+53,26,Finish: length,0.9397657255643722
+54,27,$\it{Other}$,0.1
+55,27,Finish: length,0.9
+56,28,$\it{Other}$,0.005270800106891817
+57,28,Finish: length,0.9947291998931082
+58,29,$\it{Other}$,0.0
+59,29,Finish: length,1.0
+60,30,$\it{Other}$,0.017275602495279076
+61,30,Finish: length,0.9827243975047211
+62,31,$\it{Other}$,0.03333333333333333
+63,31,Finish: length,0.9666666666666667
+64,32,$\it{Other}$,0.04144246453552784
+65,32,Finish: length,0.9585575354644722
+66,33,$\it{Other}$,0.09526490291960503
+67,33,Finish: length,0.9047350970803949
+68,34,$\it{Other}$,0.02463947413919521
+69,34,Finish: length,0.9753605258608048
+70,35,$\it{Other}$,0.0
+71,35,Finish: length,1.0
+72,36,$\it{Other}$,0.018807353985563165
+73,36,Finish: length,0.9811926460144369
+74,37,$\it{Other}$,0.03333333333333333
+75,37,Finish: length,0.9666666666666667
+76,38,$\it{Other}$,0.01131723435119076
+77,38,Finish: length,0.9886827656488093
+78,39,$\it{Other}$,0.03333333333333333
+79,39,Finish: length,0.9666666666666667
+80,40,$\it{Other}$,0.021192835812405934
+81,40,Finish: length,0.978807164187594
+82,41,$\it{Other}$,0.0
+83,41,Finish: length,1.0
+84,42,$\it{Other}$,0.03333333333333333
+85,42,Finish: length,0.9666666666666667
+86,43,$\it{Other}$,0.0
+87,43,Finish: length,1.0
+88,44,$\it{Other}$,0.06666666666666667
+89,44,Finish: length,0.9333333333333333
+90,45,$\it{Other}$,0.03333333333333333
+91,45,Finish: length,0.9666666666666667
+92,46,$\it{Other}$,0.06666666666666667
+93,46,Finish: length,0.9333333333333333
+94,47,$\it{Other}$,0.0
+95,47,Finish: length,1.0
+96,48,$\it{Other}$,0.0
+97,48,Finish: length,1.0
+98,49,$\it{Other}$,0.006545689704091106
+99,49,Finish: length,0.9934543102959089
+100,50,$\it{Other}$,0.013978356077946633
+101,50,Finish: length,0.9860216439220533
+102,51,$\it{Other}$,0.017998841155692374
+103,51,Finish: length,0.9820011588443076
+104,52,$\it{Other}$,0.026327925978411732
+105,52,Finish: length,0.9736720740215882
+106,53,$\it{Other}$,0.03333333333333333
+107,53,Finish: length,0.9666666666666667
+108,54,$\it{Other}$,0.11589494268823607
+109,54,Finish: length,0.884105057311764
+110,55,$\it{Other}$,0.0
+111,55,Finish: length,1.0
+112,56,$\it{Other}$,0.042829651907560995
+113,56,Finish: length,0.957170348092439
+114,57,$\it{Other}$,0.03333333333333333
+115,57,Finish: length,0.9666666666666667
+116,58,$\it{Other}$,0.0
+117,58,Finish: length,1.0
+118,59,$\it{Other}$,0.0
+119,59,Finish: length,1.0
+120,60,$\it{Other}$,0.03333333333333333
+121,60,Finish: length,0.9666666666666667
+122,61,$\it{Other}$,0.0
+123,61,Finish: length,1.0
+124,62,$\it{Other}$,0.0709619762219533
+125,62,Finish: length,0.9290380237780469
+126,63,$\it{Other}$,0.04442345192202134
+127,63,Finish: length,0.9555765480779786
+128,64,$\it{Other}$,0.0
+129,64,Finish: length,1.0
+130,65,$\it{Other}$,0.03333333333333333
+131,65,Finish: length,0.9666666666666667
+132,66,$\it{Other}$,0.0
+133,66,Finish: length,1.0
+134,67,$\it{Other}$,0.06666666666666667
+135,67,Finish: length,0.9333333333333333
+136,68,$\it{Other}$,0.0
+137,68,Finish: length,1.0
+138,69,$\it{Other}$,0.03786427259751231
+139,69,Finish: length,0.9621357274024878
+140,70,$\it{Other}$,0.0
+141,70,Finish: length,1.0
+142,71,$\it{Other}$,0.088562530014715
+143,71,Finish: length,0.9114374699852852
+144,72,$\it{Other}$,0.026385668417571433
+145,72,Finish: length,0.9736143315824286
+146,73,$\it{Other}$,0.005101693566826538
+147,73,Finish: length,0.9948983064331735
+148,74,$\it{Other}$,0.16666666666666666
+149,74,Finish: length,0.8333333333333334
+150,75,$\it{Other}$,0.03333333333333333
+151,75,Finish: length,0.9666666666666667
+152,76,$\it{Other}$,0.1
+153,76,Finish: length,0.9
+154,77,$\it{Other}$,0.06666666666666667
+155,77,Finish: length,0.9333333333333333
+156,78,$\it{Other}$,0.06666666666666667
+157,78,Finish: length,0.9333333333333333
+158,79,$\it{Other}$,0.1
+159,79,Finish: length,0.9
+160,80,$\it{Other}$,0.06666666666666667
+161,80,Finish: length,0.9333333333333333
+162,81,$\it{Other}$,0.042183352735056884
+163,81,Finish: length,0.9578166472649432
+164,82,$\it{Other}$,0.1
+165,82,Finish: length,0.9
+166,83,$\it{Other}$,0.12906896230394488
+167,83,Finish: length,0.8709310376960552
+168,84,$\it{Other}$,0.12381122483459035
+169,84,Finish: length,0.8761887751654097
+170,85,$\it{Other}$,0.03333333333333333
+171,85,Finish: length,0.9666666666666667
+172,86,$\it{Other}$,0.13333333333333333
+173,86,Finish: length,0.8666666666666667
+174,87,$\it{Other}$,0.13333333333333333
+175,87,Finish: length,0.8666666666666667
+176,88,$\it{Other}$,0.04252098905839727
+177,88,Finish: length,0.9574790109416028
+178,89,$\it{Other}$,0.06666666666666667
+179,89,Finish: length,0.9333333333333333
+180,90,$\it{Other}$,0.13333333333333333
+181,90,Finish: length,0.8666666666666667
+182,91,$\it{Other}$,0.03333333333333333
+183,91,Finish: length,0.9666666666666667
+184,92,$\it{Other}$,0.06666666666666667
+185,92,Finish: length,0.9333333333333333
+186,93,$\it{Other}$,0.0
+187,93,Finish: length,1.0
+188,94,$\it{Other}$,0.06159390706804349
+189,94,Finish: length,0.9384060929319564
+190,95,$\it{Other}$,0.033333333333333326
+191,95,Finish: length,0.9666666666666666
+192,96,$\it{Other}$,0.05997341518001719
+193,96,Finish: length,0.9400265848199827
+194,97,$\it{Other}$,0.0
+195,97,Finish: length,1.0
+196,98,$\it{Other}$,0.04164592826906763
+197,98,Finish: length,0.9583540717309325
+198,99,$\it{Other}$,0.03333333333333333
+199,99,Finish: length,0.9666666666666667
+200,100,$\it{Other}$,0.03867087138409423
+201,100,Finish: length,0.9613291286159058
+202,101,$\it{Other}$,0.06666666666666667
+203,101,Finish: length,0.9333333333333333
+204,102,$\it{Other}$,0.1
+205,102,Finish: length,0.9
+206,103,$\it{Other}$,0.06666666666666667
+207,103,Finish: length,0.9333333333333333
+208,104,$\it{Other}$,0.0
+209,104,Finish: length,1.0
+210,105,$\it{Other}$,0.0
+211,105,Finish: length,1.0
+212,106,$\it{Other}$,0.06666666666666667
+213,106,Finish: length,0.9333333333333333
+214,107,$\it{Other}$,0.020600718343353204
+215,107,Finish: length,0.9793992816566468
+216,108,$\it{Other}$,0.0
+217,108,Finish: length,1.0
+218,109,$\it{Other}$,0.033333333333333326
+219,109,Finish: length,0.9666666666666667
+220,110,$\it{Other}$,0.03333333333333333
+221,110,Finish: length,0.9666666666666667
+222,111,$\it{Other}$,0.0
+223,111,Finish: length,1.0
+224,112,$\it{Other}$,0.031418633310281274
+225,112,Finish: length,0.9685813666897187
+226,113,$\it{Other}$,0.004553462896329483
+227,113,Finish: length,0.9954465371036705
+228,114,$\it{Other}$,0.02539339651631044
+229,114,Finish: length,0.9746066034836895
+230,115,$\it{Other}$,0.03602625246208242
+231,115,Finish: length,0.9639737475379176
+232,116,$\it{Other}$,0.03333333333333333
+233,116,Finish: length,0.9666666666666667
+234,117,$\it{Other}$,0.03333333333333333
+235,117,Finish: length,0.9666666666666667
+236,118,$\it{Other}$,0.0
+237,118,Finish: length,1.0
+238,119,$\it{Other}$,0.05263062826522922
+239,119,Finish: length,0.9473693717347709
+240,120,$\it{Other}$,0.0
+241,120,Finish: length,1.0
+242,121,$\it{Other}$,0.056076423816545234
+243,121,Finish: length,0.9439235761834548
+244,122,$\it{Other}$,0.03333333333333333
+245,122,Finish: length,0.9666666666666667
+246,123,$\it{Other}$,0.0
+247,123,Finish: length,1.0
+248,124,$\it{Other}$,0.03333333333333333
+249,124,Finish: length,0.9666666666666667
+250,125,$\it{Other}$,0.0
+251,125,Finish: length,1.0
+252,126,$\it{Other}$,0.035662400719082325
+253,126,Finish: length,0.9643375992809178
+254,127,$\it{Other}$,0.022514721501028484
+255,127,Finish: length,0.9774852784989715
+256,128,$\it{Other}$,0.06666666666666667
+257,128,Finish: length,0.9333333333333333
+258,129,$\it{Other}$,0.03689241133119886
+259,129,Finish: length,0.9631075886688012
+260,130,$\it{Other}$,0.06666666666666667
+261,130,Finish: length,0.9333333333333333
+262,131,$\it{Other}$,0.0
+263,131,Finish: length,1.0
+264,132,$\it{Other}$,0.06666666666666667
+265,132,Finish: length,0.9333333333333333
+266,133,$\it{Other}$,0.04060832699045815
+267,133,Finish: length,0.9593916730095418
+268,134,$\it{Other}$,0.03333333333333333
+269,134,Finish: length,0.9666666666666666
+270,135,$\it{Other}$,0.03333333333333333
+271,135,Finish: length,0.9666666666666667
+272,136,$\it{Other}$,0.0075699212588037764
+273,136,Finish: length,0.9924300787411963
+274,137,$\it{Other}$,0.1
+275,137,Finish: length,0.9
+276,138,$\it{Other}$,0.01265640161043792
+277,138,Finish: length,0.9873435983895621
+278,139,$\it{Other}$,0.028821126554252396
+279,139,Finish: length,0.9711788734457476
+280,140,$\it{Other}$,0.0
+281,140,Finish: length,1.0
+282,141,$\it{Other}$,0.1
+283,141,Finish: length,0.9
+284,142,$\it{Other}$,0.03333333333333333
+285,142,Finish: length,0.9666666666666667
+286,143,$\it{Other}$,0.03333333333333333
+287,143,Finish: length,0.9666666666666667
+288,144,$\it{Other}$,0.03333333333333333
+289,144,Finish: length,0.9666666666666667
+290,145,$\it{Other}$,0.0
+291,145,Finish: length,1.0
+292,146,$\it{Other}$,0.06666666666666667
+293,146,Finish: length,0.9333333333333333
+294,147,$\it{Other}$,0.0
+295,147,Finish: length,1.0
+296,148,$\it{Other}$,0.019827290820883452
+297,148,Finish: length,0.9801727091791166
+298,149,$\it{Other}$,0.0
+299,149,Finish: length,1.0
+300,150,$\it{Other}$,0.0
+301,150,Finish: length,1.0
+302,151,$\it{Other}$,0.0
+303,151,Finish: length,0.9999999999999999
+304,152,$\it{Other}$,0.0
+305,152,Finish: length,1.0
+306,153,$\it{Other}$,0.0
+307,153,Finish: length,1.0
+308,154,$\it{Other}$,0.0
+309,154,Finish: length,1.0
+310,155,$\it{Other}$,0.0
+311,155,Finish: length,1.0
+312,156,$\it{Other}$,0.0
+313,156,Finish: length,1.0
+314,157,$\it{Other}$,0.0
+315,157,Finish: length,1.0
+316,158,$\it{Other}$,0.0
+317,158,Finish: length,1.0
+318,159,$\it{Other}$,0.0
+319,159,Finish: length,1.0
+320,160,$\it{Other}$,0.0
+321,160,Finish: length,1.0
+322,161,$\it{Other}$,0.0
+323,161,Finish: length,1.0
+324,162,$\it{Other}$,0.0
+325,162,Finish: length,1.0
+326,163,$\it{Other}$,0.0
+327,163,Finish: length,1.0
+328,164,$\it{Other}$,0.0
+329,164,Finish: length,1.0
+330,165,$\it{Other}$,0.0
+331,165,Finish: length,1.0
+332,166,$\it{Other}$,0.0
+333,166,Finish: length,1.0
+334,167,$\it{Other}$,0.0
+335,167,Finish: length,1.0
+336,168,$\it{Other}$,0.0
+337,168,Finish: length,1.0
+338,169,$\it{Other}$,0.0
+339,169,Finish: length,1.0
+340,170,$\it{Other}$,0.0
+341,170,Finish: length,1.0
+342,171,$\it{Other}$,0.0
+343,171,Finish: length,1.0
+344,172,$\it{Other}$,0.0
+345,172,Finish: length,1.0
+346,173,$\it{Other}$,0.0
+347,173,Finish: length,1.0
+348,174,$\it{Other}$,0.0
+349,174,Finish: length,1.0
+350,175,$\it{Other}$,0.0
+351,175,Finish: length,1.0
+352,176,$\it{Other}$,0.0
+353,176,Finish: length,1.0
+354,177,$\it{Other}$,0.0
+355,177,Finish: length,1.0
+356,178,$\it{Other}$,0.0
+357,178,Finish: length,1.0
+358,179,$\it{Other}$,0.0
+359,179,Finish: length,1.0
+360,180,$\it{Other}$,0.0
+361,180,Finish: length,1.0
+362,181,$\it{Other}$,0.0
+363,181,Finish: length,1.0
+364,182,$\it{Other}$,0.0
+365,182,Finish: length,1.0
+366,183,$\it{Other}$,0.0
+367,183,Finish: length,1.0
+368,184,$\it{Other}$,0.0
+369,184,Finish: length,1.0
+370,185,$\it{Other}$,0.0
+371,185,Finish: length,1.0
+372,186,$\it{Other}$,0.0
+373,186,Finish: length,1.0
+374,187,$\it{Other}$,0.0
+375,187,Finish: length,1.0
+376,188,$\it{Other}$,0.0
+377,188,Finish: length,1.0
+378,189,$\it{Other}$,0.0
+379,189,Finish: length,1.0
+380,190,$\it{Other}$,0.0
+381,190,Finish: length,1.0
+382,191,$\it{Other}$,0.0
+383,191,Finish: length,1.0
+384,192,$\it{Other}$,0.0
+385,192,Finish: length,1.0
+386,193,$\it{Other}$,0.0
+387,193,Finish: length,1.0
+388,194,$\it{Other}$,0.0
+389,194,Finish: length,1.0
+390,195,$\it{Other}$,0.0
+391,195,Finish: length,1.0
+392,196,$\it{Other}$,0.0
+393,196,Finish: length,1.0
+394,197,$\it{Other}$,0.0
+395,197,Finish: length,1.0

@@ -1,0 +1,526 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.09715182455193352
+1,0,Masherbrum,0.8214519230170347
+2,0,Sherpi Kangri,0.08139625243103177
+3,1,$\it{Other}$,0.0965743085009333
+4,1,Masherbrum,0.7948137943614311
+5,1,Sherpi Kangri,0.10861189713763572
+6,2,$\it{Other}$,0.05866372023189829
+7,2,Masherbrum,0.8080029464347684
+8,2,Sherpi Kangri,0.13333333333333333
+9,3,$\it{Other}$,0.15492891476203244
+10,3,Masherbrum,0.7270984587370228
+11,3,Sherpi Kangri,0.11797262650094474
+12,4,$\it{Other}$,0.1
+13,4,Masherbrum,0.8333333333333334
+14,4,Sherpi Kangri,0.06666666666666667
+15,5,$\it{Other}$,0.06666666666666667
+16,5,Masherbrum,0.8781023192845664
+17,5,Sherpi Kangri,0.05523101404876704
+18,6,$\it{Other}$,0.06666666666666667
+19,6,Masherbrum,0.8
+20,6,Sherpi Kangri,0.13333333333333333
+21,7,$\it{Other}$,0.03333333333333333
+22,7,Masherbrum,0.9333333333333333
+23,7,Sherpi Kangri,0.03333333333333333
+24,8,$\it{Other}$,0.10990440364404977
+25,8,Masherbrum,0.7867348921746979
+26,8,Sherpi Kangri,0.10336070418125234
+27,9,$\it{Other}$,0.07486848275166472
+28,9,Masherbrum,0.8348688219579319
+29,9,Sherpi Kangri,0.09026269529040325
+30,10,$\it{Other}$,0.07595551030712917
+31,10,Masherbrum,0.8295112921048166
+32,10,Sherpi Kangri,0.0945331975880542
+33,11,$\it{Other}$,0.09303523834334812
+34,11,Masherbrum,0.9017101716901055
+35,11,Sherpi Kangri,0.00525458996654627
+36,12,$\it{Other}$,0.08381408979274536
+37,12,Masherbrum,0.8804847673808865
+38,12,Sherpi Kangri,0.03570114282636812
+39,13,$\it{Other}$,0.09030452656857096
+40,13,Masherbrum,0.8705583253302496
+41,13,Sherpi Kangri,0.03913714810117948
+42,14,$\it{Other}$,0.047440211376301014
+43,14,Masherbrum,0.8762798943118495
+44,14,Sherpi Kangri,0.0762798943118495
+45,15,$\it{Other}$,0.03333333333333333
+46,15,Masherbrum,0.7
+47,15,Sherpi Kangri,0.26666666666666666
+48,16,$\it{Other}$,0.06849519046851255
+49,16,Masherbrum,0.8096701256332095
+50,16,Sherpi Kangri,0.12183468389827784
+51,17,$\it{Other}$,0.0211700903369593
+52,17,Masherbrum,0.8687138062391256
+53,17,Sherpi Kangri,0.11011610342391517
+54,18,$\it{Other}$,0.0
+55,18,Masherbrum,0.9666666666666667
+56,18,Sherpi Kangri,0.03333333333333333
+57,19,$\it{Other}$,0.03333333333333333
+58,19,Masherbrum,0.9333333333333333
+59,19,Sherpi Kangri,0.03333333333333333
+60,20,$\it{Other}$,0.06666666666666667
+61,20,Masherbrum,0.9
+62,20,Sherpi Kangri,0.03333333333333333
+63,21,$\it{Other}$,0.06666666666666667
+64,21,Masherbrum,0.9
+65,21,Sherpi Kangri,0.03333333333333333
+66,22,$\it{Other}$,0.16666666666666666
+67,22,Masherbrum,0.7666666666666667
+68,22,Sherpi Kangri,0.06666666666666667
+69,23,$\it{Other}$,0.09657545123908771
+70,23,Masherbrum,0.8393374575051541
+71,23,Sherpi Kangri,0.06408709125575825
+72,24,$\it{Other}$,0.06666666666666667
+73,24,Masherbrum,0.9
+74,24,Sherpi Kangri,0.03333333333333333
+75,25,$\it{Other}$,0.06666666666666667
+76,25,Masherbrum,0.7333333333333333
+77,25,Sherpi Kangri,0.2
+78,26,$\it{Other}$,0.01733903185322345
+79,26,Masherbrum,0.8930841599471877
+80,26,Sherpi Kangri,0.08957680819958888
+81,27,$\it{Other}$,0.0896609011980197
+82,27,Masherbrum,0.7991952111643735
+83,27,Sherpi Kangri,0.11114388763760669
+84,28,$\it{Other}$,0.13333333333333333
+85,28,Masherbrum,0.8
+86,28,Sherpi Kangri,0.06666666666666667
+87,29,$\it{Other}$,0.0
+88,29,Masherbrum,0.962768556083192
+89,29,Sherpi Kangri,0.03723144391680812
+90,30,$\it{Other}$,0.061674116889674425
+91,30,Masherbrum,0.8615278263372228
+92,30,Sherpi Kangri,0.0767980567731028
+93,31,$\it{Other}$,0.06666666666666667
+94,31,Masherbrum,0.8666666666666667
+95,31,Sherpi Kangri,0.06666666666666667
+96,32,$\it{Other}$,0.0
+97,32,Masherbrum,0.9333333333333333
+98,32,Sherpi Kangri,0.06666666666666667
+99,33,$\it{Other}$,0.16666666666666666
+100,33,Masherbrum,0.8
+101,33,Sherpi Kangri,0.03333333333333333
+102,34,$\it{Other}$,0.053900352095730845
+103,34,Masherbrum,0.8659786256774201
+104,34,Sherpi Kangri,0.08012102222684908
+105,35,$\it{Other}$,0.03333333333333333
+106,35,Masherbrum,0.9666666666666667
+107,35,Sherpi Kangri,0.0
+108,36,$\it{Other}$,0.0
+109,36,Masherbrum,1.0
+110,36,Sherpi Kangri,0.0
+111,37,$\it{Other}$,0.06666666666666667
+112,37,Masherbrum,0.9333333333333333
+113,37,Sherpi Kangri,0.0
+114,38,$\it{Other}$,0.0
+115,38,Masherbrum,0.9
+116,38,Sherpi Kangri,0.1
+117,39,$\it{Other}$,0.0
+118,39,Masherbrum,0.9666666666666667
+119,39,Sherpi Kangri,0.03333333333333333
+120,40,$\it{Other}$,0.003390326783672705
+121,40,Masherbrum,0.9666666666666667
+122,40,Sherpi Kangri,0.02994300654966063
+123,41,$\it{Other}$,0.0
+124,41,Masherbrum,1.0
+125,41,Sherpi Kangri,0.0
+126,42,$\it{Other}$,0.0
+127,42,Masherbrum,0.9666666666666667
+128,42,Sherpi Kangri,0.03333333333333333
+129,43,$\it{Other}$,0.03333333333333333
+130,43,Masherbrum,0.9666666666666667
+131,43,Sherpi Kangri,0.0
+132,44,$\it{Other}$,0.0
+133,44,Masherbrum,1.0
+134,44,Sherpi Kangri,0.0
+135,45,$\it{Other}$,0.0
+136,45,Masherbrum,1.0
+137,45,Sherpi Kangri,0.0
+138,46,$\it{Other}$,0.0
+139,46,Masherbrum,1.0
+140,46,Sherpi Kangri,0.0
+141,47,$\it{Other}$,0.0
+142,47,Masherbrum,1.0
+143,47,Sherpi Kangri,0.0
+144,48,$\it{Other}$,0.0
+145,48,Masherbrum,1.0
+146,48,Sherpi Kangri,0.0
+147,49,$\it{Other}$,0.0
+148,49,Masherbrum,1.0
+149,49,Sherpi Kangri,0.0
+150,50,$\it{Other}$,0.0
+151,50,Masherbrum,1.0
+152,50,Sherpi Kangri,0.0
+153,51,$\it{Other}$,0.0016737232814868278
+154,51,Masherbrum,0.9983262767185132
+155,51,Sherpi Kangri,0.0
+156,52,$\it{Other}$,0.0
+157,52,Masherbrum,1.0
+158,52,Sherpi Kangri,0.0
+159,53,$\it{Other}$,0.0
+160,53,Masherbrum,1.0
+161,53,Sherpi Kangri,0.0
+162,54,$\it{Other}$,0.0
+163,54,Masherbrum,1.0
+164,54,Sherpi Kangri,0.0
+165,55,$\it{Other}$,0.0
+166,55,Masherbrum,1.0
+167,55,Sherpi Kangri,0.0
+168,56,$\it{Other}$,0.0
+169,56,Masherbrum,1.0
+170,56,Sherpi Kangri,0.0
+171,57,$\it{Other}$,0.0
+172,57,Masherbrum,1.0
+173,57,Sherpi Kangri,0.0
+174,58,$\it{Other}$,0.004333597167802953
+175,58,Masherbrum,0.9956664028321971
+176,58,Sherpi Kangri,0.0
+177,59,$\it{Other}$,0.0
+178,59,Masherbrum,1.0
+179,59,Sherpi Kangri,0.0
+180,60,$\it{Other}$,0.0
+181,60,Masherbrum,1.0
+182,60,Sherpi Kangri,0.0
+183,61,$\it{Other}$,0.0
+184,61,Masherbrum,1.0
+185,61,Sherpi Kangri,0.0
+186,62,$\it{Other}$,0.0
+187,62,Masherbrum,1.0
+188,62,Sherpi Kangri,0.0
+189,63,$\it{Other}$,0.0
+190,63,Masherbrum,1.0
+191,63,Sherpi Kangri,0.0
+192,64,$\it{Other}$,0.0
+193,64,Masherbrum,1.0
+194,64,Sherpi Kangri,0.0
+195,65,$\it{Other}$,0.0
+196,65,Masherbrum,1.0
+197,65,Sherpi Kangri,0.0
+198,66,$\it{Other}$,0.0
+199,66,Masherbrum,1.0
+200,66,Sherpi Kangri,0.0
+201,67,$\it{Other}$,0.0
+202,67,Masherbrum,1.0
+203,67,Sherpi Kangri,0.0
+204,68,$\it{Other}$,0.0
+205,68,Masherbrum,1.0
+206,68,Sherpi Kangri,0.0
+207,69,$\it{Other}$,0.0
+208,69,Masherbrum,1.0
+209,69,Sherpi Kangri,0.0
+210,70,$\it{Other}$,0.0
+211,70,Masherbrum,1.0
+212,70,Sherpi Kangri,0.0
+213,71,$\it{Other}$,0.0
+214,71,Masherbrum,1.0
+215,71,Sherpi Kangri,0.0
+216,72,$\it{Other}$,0.0
+217,72,Masherbrum,1.0000000000000002
+218,72,Sherpi Kangri,0.0
+219,73,$\it{Other}$,0.0
+220,73,Masherbrum,1.0
+221,73,Sherpi Kangri,0.0
+222,74,$\it{Other}$,0.030921156518277003
+223,74,Masherbrum,0.969078843481723
+224,74,Sherpi Kangri,0.0
+225,75,$\it{Other}$,0.0
+226,75,Masherbrum,1.0
+227,75,Sherpi Kangri,0.0
+228,76,$\it{Other}$,0.0
+229,76,Masherbrum,1.0
+230,76,Sherpi Kangri,0.0
+231,77,$\it{Other}$,0.0
+232,77,Masherbrum,1.0
+233,77,Sherpi Kangri,0.0
+234,78,$\it{Other}$,0.0
+235,78,Masherbrum,1.0
+236,78,Sherpi Kangri,0.0
+237,79,$\it{Other}$,0.0
+238,79,Masherbrum,1.0
+239,79,Sherpi Kangri,0.0
+240,80,$\it{Other}$,0.0
+241,80,Masherbrum,1.0
+242,80,Sherpi Kangri,0.0
+243,81,$\it{Other}$,0.0
+244,81,Masherbrum,1.0
+245,81,Sherpi Kangri,0.0
+246,82,$\it{Other}$,0.0
+247,82,Masherbrum,1.0
+248,82,Sherpi Kangri,0.0
+249,83,$\it{Other}$,0.0
+250,83,Masherbrum,1.0
+251,83,Sherpi Kangri,0.0
+252,84,$\it{Other}$,0.0
+253,84,Masherbrum,1.0
+254,84,Sherpi Kangri,0.0
+255,85,$\it{Other}$,0.0
+256,85,Masherbrum,1.0
+257,85,Sherpi Kangri,0.0
+258,86,$\it{Other}$,0.0
+259,86,Masherbrum,1.0
+260,86,Sherpi Kangri,0.0
+261,87,$\it{Other}$,0.0
+262,87,Masherbrum,1.0
+263,87,Sherpi Kangri,0.0
+264,88,$\it{Other}$,0.0
+265,88,Masherbrum,1.0
+266,88,Sherpi Kangri,0.0
+267,89,$\it{Other}$,0.0
+268,89,Masherbrum,1.0
+269,89,Sherpi Kangri,0.0
+270,90,$\it{Other}$,0.0
+271,90,Masherbrum,1.0
+272,90,Sherpi Kangri,0.0
+273,91,$\it{Other}$,0.0
+274,91,Masherbrum,0.9999999999999999
+275,91,Sherpi Kangri,0.0
+276,92,$\it{Other}$,0.0
+277,92,Masherbrum,1.0
+278,92,Sherpi Kangri,0.0
+279,93,$\it{Other}$,0.0
+280,93,Masherbrum,1.0
+281,93,Sherpi Kangri,0.0
+282,94,$\it{Other}$,0.0
+283,94,Masherbrum,1.0
+284,94,Sherpi Kangri,0.0
+285,95,$\it{Other}$,0.0
+286,95,Masherbrum,1.0
+287,95,Sherpi Kangri,0.0
+288,96,$\it{Other}$,0.0
+289,96,Masherbrum,1.0
+290,96,Sherpi Kangri,0.0
+291,97,$\it{Other}$,0.0
+292,97,Masherbrum,1.0
+293,97,Sherpi Kangri,0.0
+294,98,$\it{Other}$,0.0
+295,98,Masherbrum,1.0
+296,98,Sherpi Kangri,0.0
+297,99,$\it{Other}$,0.0
+298,99,Masherbrum,1.0
+299,99,Sherpi Kangri,0.0
+300,100,$\it{Other}$,0.0
+301,100,Masherbrum,1.0
+302,100,Sherpi Kangri,0.0
+303,101,$\it{Other}$,0.0
+304,101,Masherbrum,1.0
+305,101,Sherpi Kangri,0.0
+306,102,$\it{Other}$,0.0
+307,102,Masherbrum,1.0
+308,102,Sherpi Kangri,0.0
+309,103,$\it{Other}$,0.0
+310,103,Masherbrum,1.0
+311,103,Sherpi Kangri,0.0
+312,104,$\it{Other}$,0.0
+313,104,Masherbrum,0.9999999999999999
+314,104,Sherpi Kangri,0.0
+315,105,$\it{Other}$,0.0
+316,105,Masherbrum,1.0
+317,105,Sherpi Kangri,0.0
+318,106,$\it{Other}$,0.0
+319,106,Masherbrum,1.0
+320,106,Sherpi Kangri,0.0
+321,107,$\it{Other}$,0.0
+322,107,Masherbrum,1.0
+323,107,Sherpi Kangri,0.0
+324,108,$\it{Other}$,0.0
+325,108,Masherbrum,1.0
+326,108,Sherpi Kangri,0.0
+327,109,$\it{Other}$,0.0
+328,109,Masherbrum,0.9999999999999999
+329,109,Sherpi Kangri,0.0
+330,110,$\it{Other}$,0.0
+331,110,Masherbrum,1.0
+332,110,Sherpi Kangri,0.0
+333,111,$\it{Other}$,0.0
+334,111,Masherbrum,0.9999999999999999
+335,111,Sherpi Kangri,0.0
+336,112,$\it{Other}$,0.0
+337,112,Masherbrum,1.0
+338,112,Sherpi Kangri,0.0
+339,113,$\it{Other}$,0.0
+340,113,Masherbrum,1.0
+341,113,Sherpi Kangri,0.0
+342,114,$\it{Other}$,0.0
+343,114,Masherbrum,1.0
+344,114,Sherpi Kangri,0.0
+345,115,$\it{Other}$,0.0
+346,115,Masherbrum,1.0
+347,115,Sherpi Kangri,0.0
+348,116,$\it{Other}$,0.0
+349,116,Masherbrum,1.0
+350,116,Sherpi Kangri,0.0
+351,117,$\it{Other}$,0.0
+352,117,Masherbrum,1.0
+353,117,Sherpi Kangri,0.0
+354,118,$\it{Other}$,0.0
+355,118,Masherbrum,1.0
+356,118,Sherpi Kangri,0.0
+357,119,$\it{Other}$,0.0
+358,119,Masherbrum,1.0
+359,119,Sherpi Kangri,0.0
+360,120,$\it{Other}$,0.0
+361,120,Masherbrum,1.0
+362,120,Sherpi Kangri,0.0
+363,121,$\it{Other}$,0.0
+364,121,Masherbrum,1.0
+365,121,Sherpi Kangri,0.0
+366,122,$\it{Other}$,0.0
+367,122,Masherbrum,1.0
+368,122,Sherpi Kangri,0.0
+369,123,$\it{Other}$,0.0
+370,123,Masherbrum,1.0
+371,123,Sherpi Kangri,0.0
+372,124,$\it{Other}$,0.0
+373,124,Masherbrum,1.0
+374,124,Sherpi Kangri,0.0
+375,125,$\it{Other}$,0.0
+376,125,Masherbrum,1.0
+377,125,Sherpi Kangri,0.0
+378,126,$\it{Other}$,0.0
+379,126,Masherbrum,1.0
+380,126,Sherpi Kangri,0.0
+381,127,$\it{Other}$,0.0
+382,127,Masherbrum,1.0
+383,127,Sherpi Kangri,0.0
+384,128,$\it{Other}$,0.0
+385,128,Masherbrum,1.0
+386,128,Sherpi Kangri,0.0
+387,129,$\it{Other}$,0.0
+388,129,Masherbrum,1.0
+389,129,Sherpi Kangri,0.0
+390,130,$\it{Other}$,0.0
+391,130,Masherbrum,1.0
+392,130,Sherpi Kangri,0.0
+393,131,$\it{Other}$,0.0
+394,131,Masherbrum,1.0
+395,131,Sherpi Kangri,0.0
+396,132,$\it{Other}$,0.0
+397,132,Masherbrum,1.0
+398,132,Sherpi Kangri,0.0
+399,133,$\it{Other}$,0.0
+400,133,Masherbrum,1.0
+401,133,Sherpi Kangri,0.0
+402,134,$\it{Other}$,0.0
+403,134,Masherbrum,1.0
+404,134,Sherpi Kangri,0.0
+405,135,$\it{Other}$,0.0
+406,135,Masherbrum,1.0
+407,135,Sherpi Kangri,0.0
+408,136,$\it{Other}$,0.0
+409,136,Masherbrum,1.0
+410,136,Sherpi Kangri,0.0
+411,137,$\it{Other}$,0.0
+412,137,Masherbrum,1.0
+413,137,Sherpi Kangri,0.0
+414,138,$\it{Other}$,0.0
+415,138,Masherbrum,1.0
+416,138,Sherpi Kangri,0.0
+417,139,$\it{Other}$,0.0
+418,139,Masherbrum,1.0
+419,139,Sherpi Kangri,0.0
+420,140,$\it{Other}$,0.0
+421,140,Masherbrum,1.0
+422,140,Sherpi Kangri,0.0
+423,141,$\it{Other}$,0.0
+424,141,Masherbrum,1.0
+425,141,Sherpi Kangri,0.0
+426,142,$\it{Other}$,0.0
+427,142,Masherbrum,1.0
+428,142,Sherpi Kangri,0.0
+429,143,$\it{Other}$,0.0
+430,143,Masherbrum,1.0
+431,143,Sherpi Kangri,0.0
+432,144,$\it{Other}$,0.0
+433,144,Masherbrum,1.0
+434,144,Sherpi Kangri,0.0
+435,145,$\it{Other}$,0.0
+436,145,Masherbrum,1.0
+437,145,Sherpi Kangri,0.0
+438,146,$\it{Other}$,0.0
+439,146,Masherbrum,1.0
+440,146,Sherpi Kangri,0.0
+441,147,$\it{Other}$,0.0
+442,147,Masherbrum,1.0
+443,147,Sherpi Kangri,0.0
+444,148,$\it{Other}$,0.0
+445,148,Masherbrum,1.0
+446,148,Sherpi Kangri,0.0
+447,149,$\it{Other}$,0.0
+448,149,Masherbrum,1.0
+449,149,Sherpi Kangri,0.0
+450,150,$\it{Other}$,0.0
+451,150,Masherbrum,1.0
+452,150,Sherpi Kangri,0.0
+453,151,$\it{Other}$,0.0
+454,151,Masherbrum,1.0
+455,151,Sherpi Kangri,0.0
+456,152,$\it{Other}$,0.0
+457,152,Masherbrum,1.0
+458,152,Sherpi Kangri,0.0
+459,153,$\it{Other}$,0.0
+460,153,Masherbrum,1.0
+461,153,Sherpi Kangri,0.0
+462,154,$\it{Other}$,0.0
+463,154,Masherbrum,1.0
+464,154,Sherpi Kangri,0.0
+465,155,$\it{Other}$,0.0
+466,155,Masherbrum,1.0
+467,155,Sherpi Kangri,0.0
+468,156,$\it{Other}$,0.0
+469,156,Masherbrum,1.0
+470,156,Sherpi Kangri,0.0
+471,157,$\it{Other}$,0.0
+472,157,Masherbrum,1.0
+473,157,Sherpi Kangri,0.0
+474,158,$\it{Other}$,0.0
+475,158,Masherbrum,1.0
+476,158,Sherpi Kangri,0.0
+477,159,$\it{Other}$,0.0
+478,159,Masherbrum,1.0
+479,159,Sherpi Kangri,0.0
+480,160,$\it{Other}$,0.0
+481,160,Masherbrum,0.9999999999999999
+482,160,Sherpi Kangri,0.0
+483,161,$\it{Other}$,0.0
+484,161,Masherbrum,1.0
+485,161,Sherpi Kangri,0.0
+486,162,$\it{Other}$,0.0
+487,162,Masherbrum,1.0
+488,162,Sherpi Kangri,0.0
+489,163,$\it{Other}$,0.0
+490,163,Masherbrum,1.0
+491,163,Sherpi Kangri,0.0
+492,164,$\it{Other}$,0.0
+493,164,Masherbrum,1.0
+494,164,Sherpi Kangri,0.0
+495,165,$\it{Other}$,0.0
+496,165,Masherbrum,1.0
+497,165,Sherpi Kangri,0.0
+498,166,$\it{Other}$,0.0
+499,166,Masherbrum,1.0
+500,166,Sherpi Kangri,0.0
+501,167,$\it{Other}$,0.0
+502,167,Masherbrum,1.0
+503,167,Sherpi Kangri,0.0
+504,168,$\it{Other}$,0.0
+505,168,Masherbrum,1.0
+506,168,Sherpi Kangri,0.0
+507,169,$\it{Other}$,0.0
+508,169,Masherbrum,1.0
+509,169,Sherpi Kangri,0.0
+510,170,$\it{Other}$,0.0
+511,170,Masherbrum,1.0
+512,170,Sherpi Kangri,0.0
+513,171,$\it{Other}$,0.0
+514,171,Masherbrum,1.0
+515,171,Sherpi Kangri,0.0
+516,172,$\it{Other}$,0.0
+517,172,Masherbrum,1.0
+518,172,Sherpi Kangri,0.0
+519,173,$\it{Other}$,0.0
+520,173,Masherbrum,1.0
+521,173,Sherpi Kangri,0.0
+522,174,$\it{Other}$,0.0
+523,174,Masherbrum,1.0
+524,174,Sherpi Kangri,0.0

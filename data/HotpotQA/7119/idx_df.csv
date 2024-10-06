@@ -1,0 +1,1063 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.8307612109186031
+1,0,Cannot be determined,0.08767218989530356
+2,0,It is impossible to answer,0.0
+3,0,It is not possible to answer the question,0.0053094888121313685
+4,0,The answer cannot be determined,0.07625711037396203
+5,0,The question cannot be answered,0.0
+6,1,$\it{Other}$,0.9497932301667364
+7,1,Cannot be determined,0.021091795624912812
+8,1,It is impossible to answer,0.0
+9,1,It is not possible to answer the question,0.0
+10,1,The answer cannot be determined,0.029114974208350772
+11,1,The question cannot be answered,0.0
+12,2,$\it{Other}$,1.0
+13,2,Cannot be determined,0.0
+14,2,It is impossible to answer,0.0
+15,2,It is not possible to answer the question,0.0
+16,2,The answer cannot be determined,0.0
+17,2,The question cannot be answered,0.0
+18,3,$\it{Other}$,0.9
+19,3,Cannot be determined,0.0
+20,3,It is impossible to answer,0.0
+21,3,It is not possible to answer the question,0.0
+22,3,The answer cannot be determined,0.1
+23,3,The question cannot be answered,0.0
+24,4,$\it{Other}$,0.9666666666666667
+25,4,Cannot be determined,0.03333333333333333
+26,4,It is impossible to answer,0.0
+27,4,It is not possible to answer the question,0.0
+28,4,The answer cannot be determined,0.0
+29,4,The question cannot be answered,0.0
+30,5,$\it{Other}$,0.9168621977068206
+31,5,Cannot be determined,0.031103315980405236
+32,5,It is impossible to answer,0.0
+33,5,It is not possible to answer the question,0.0
+34,5,The answer cannot be determined,0.052034486312774214
+35,5,The question cannot be answered,0.0
+36,6,$\it{Other}$,0.8666666666666667
+37,6,Cannot be determined,0.06666666666666667
+38,6,It is impossible to answer,0.0
+39,6,It is not possible to answer the question,0.0
+40,6,The answer cannot be determined,0.06666666666666667
+41,6,The question cannot be answered,0.0
+42,7,$\it{Other}$,0.8561855462869793
+43,7,Cannot be determined,0.03333333333333334
+44,7,It is impossible to answer,0.010481120379687478
+45,7,It is not possible to answer the question,0.0
+46,7,The answer cannot be determined,0.10000000000000002
+47,7,The question cannot be answered,0.0
+48,8,$\it{Other}$,0.8764905066428668
+49,8,Cannot be determined,0.022875253453729337
+50,8,It is impossible to answer,0.018291442609288593
+51,8,It is not possible to answer the question,0.004588007513534142
+52,8,The answer cannot be determined,0.07775478978058128
+53,8,The question cannot be answered,0.0
+54,9,$\it{Other}$,0.7606398300469059
+55,9,Cannot be determined,0.05840105783287595
+56,9,It is impossible to answer,0.03082366312113283
+57,9,It is not possible to answer the question,0.05840105783287595
+58,9,The answer cannot be determined,0.0917343911662093
+59,9,The question cannot be answered,0.0
+60,10,$\it{Other}$,0.8608225075577934
+61,10,Cannot be determined,0.0556709969768827
+62,10,It is impossible to answer,0.0
+63,10,It is not possible to answer the question,0.0
+64,10,The answer cannot be determined,0.08350649546532406
+65,10,The question cannot be answered,0.0
+66,11,$\it{Other}$,0.6596954374137898
+67,11,Cannot be determined,0.064030456258621
+68,11,It is impossible to answer,0.030697122925287673
+69,11,It is not possible to answer the question,0.030697122925287673
+70,11,The answer cannot be determined,0.15348561462643837
+71,11,The question cannot be answered,0.061394245850575346
+72,12,$\it{Other}$,0.7
+73,12,Cannot be determined,0.06666666666666667
+74,12,It is impossible to answer,0.06666666666666667
+75,12,It is not possible to answer the question,0.03333333333333333
+76,12,The answer cannot be determined,0.13333333333333333
+77,12,The question cannot be answered,0.0
+78,13,$\it{Other}$,0.8
+79,13,Cannot be determined,0.03333333333333333
+80,13,It is impossible to answer,0.03333333333333333
+81,13,It is not possible to answer the question,0.0
+82,13,The answer cannot be determined,0.06666666666666667
+83,13,The question cannot be answered,0.06666666666666667
+84,14,$\it{Other}$,0.8333333333333334
+85,14,Cannot be determined,0.06666666666666667
+86,14,It is impossible to answer,0.0
+87,14,It is not possible to answer the question,0.0
+88,14,The answer cannot be determined,0.03333333333333333
+89,14,The question cannot be answered,0.06666666666666667
+90,15,$\it{Other}$,0.7666666666666667
+91,15,Cannot be determined,0.1
+92,15,It is impossible to answer,0.0
+93,15,It is not possible to answer the question,0.1
+94,15,The answer cannot be determined,0.03333333333333333
+95,15,The question cannot be answered,0.0
+96,16,$\it{Other}$,0.7
+97,16,Cannot be determined,0.03333333333333333
+98,16,It is impossible to answer,0.0
+99,16,It is not possible to answer the question,0.13333333333333333
+100,16,The answer cannot be determined,0.13333333333333333
+101,16,The question cannot be answered,0.0
+102,17,$\it{Other}$,0.7494775143123674
+103,17,Cannot be determined,0.04947751431236746
+104,17,It is impossible to answer,0.0
+105,17,It is not possible to answer the question,0.08385581902096588
+106,17,The answer cannot be determined,0.08923721268064393
+107,17,The question cannot be answered,0.02795193967365529
+108,18,$\it{Other}$,0.8333333333333334
+109,18,Cannot be determined,0.06666666666666667
+110,18,It is impossible to answer,0.0
+111,18,It is not possible to answer the question,0.03333333333333333
+112,18,The answer cannot be determined,0.03333333333333333
+113,18,The question cannot be answered,0.03333333333333333
+114,19,$\it{Other}$,0.7431829562068372
+115,19,Cannot be determined,0.09015037712649615
+116,19,It is impossible to answer,0.0
+117,19,It is not possible to answer the question,0.033333333333333326
+118,19,The answer cannot be determined,0.06174185522991474
+119,19,The question cannot be answered,0.07159147810341858
+120,20,$\it{Other}$,0.7666666666666666
+121,20,Cannot be determined,0.035898238487791605
+122,20,It is impossible to answer,0.030768428178875058
+123,20,It is not possible to answer the question,0.061536856357750115
+124,20,The answer cannot be determined,0.012824525772291363
+125,20,The question cannot be answered,0.09230528453662518
+126,21,$\it{Other}$,0.8333333333333334
+127,21,Cannot be determined,0.0
+128,21,It is impossible to answer,0.0
+129,21,It is not possible to answer the question,0.06666666666666667
+130,21,The answer cannot be determined,0.03333333333333333
+131,21,The question cannot be answered,0.06666666666666667
+132,22,$\it{Other}$,0.6084199903995701
+133,22,Cannot be determined,0.12772000640028652
+134,22,It is impossible to answer,0.03052666986680994
+135,22,It is not possible to answer the question,0.09719333653347662
+136,22,The answer cannot be determined,0.1361399967998567
+137,22,The question cannot be answered,0.0
+138,23,$\it{Other}$,0.7264619943068867
+139,23,Cannot be determined,0.026461994306886776
+140,23,It is impossible to answer,0.0402046723597799
+141,23,It is not possible to answer the question,0.03333333333333333
+142,23,The answer cannot be determined,0.15292398861377354
+143,23,The question cannot be answered,0.02061401707933968
+144,24,$\it{Other}$,0.5869882896207143
+145,24,Cannot be determined,0.03768770942176598
+146,24,It is impossible to answer,0.019599834186548155
+147,24,It is not possible to answer the question,0.06163163611954435
+148,24,The answer cannot be determined,0.23179052365039565
+149,24,The question cannot be answered,0.06230200700103157
+150,25,$\it{Other}$,0.6
+151,25,Cannot be determined,0.06666666666666667
+152,25,It is impossible to answer,0.0
+153,25,It is not possible to answer the question,0.03333333333333333
+154,25,The answer cannot be determined,0.26666666666666666
+155,25,The question cannot be answered,0.03333333333333333
+156,26,$\it{Other}$,0.6602725574025832
+157,26,Cannot be determined,0.06986372129870837
+158,26,It is impossible to answer,0.030136278701291635
+159,26,It is not possible to answer the question,0.049318606493541826
+160,26,The answer cannot be determined,0.12693922406924993
+161,26,The question cannot be answered,0.06346961203462496
+162,27,$\it{Other}$,0.5820487091339241
+163,27,Cannot be determined,0.10998928704226513
+164,27,It is impossible to answer,0.0
+165,27,It is not possible to answer the question,0.03024305398935708
+166,27,The answer cannot be determined,0.2502216280738873
+167,27,The question cannot be answered,0.027497321760566282
+168,28,$\it{Other}$,0.6236924546727677
+169,28,Cannot be determined,0.0939843865348035
+170,28,It is impossible to answer,0.0100942198961381
+171,28,It is not possible to answer the question,0.04026947769521961
+172,28,The answer cannot be determined,0.19018145319741941
+173,28,The question cannot be answered,0.04177800800365165
+174,29,$\it{Other}$,0.5455319811432684
+175,29,Cannot be determined,0.1
+176,29,It is impossible to answer,0.0
+177,29,It is not possible to answer the question,0.05528367138084958
+178,29,The answer cannot be determined,0.2
+179,29,The question cannot be answered,0.09918434747588208
+180,30,$\it{Other}$,0.5080281458563097
+181,30,Cannot be determined,0.0712911145488688
+182,30,It is impossible to answer,0.03333333333333333
+183,30,It is not possible to answer the question,0.10462444788220213
+184,30,The answer cannot be determined,0.24136147918964304
+185,30,The question cannot be answered,0.04136147918964302
+186,31,$\it{Other}$,0.5666666666666667
+187,31,Cannot be determined,0.1
+188,31,It is impossible to answer,0.0
+189,31,It is not possible to answer the question,0.03333333333333333
+190,31,The answer cannot be determined,0.2
+191,31,The question cannot be answered,0.1
+192,32,$\it{Other}$,0.43562688989323084
+193,32,Cannot be determined,0.13106084323514128
+194,32,It is impossible to answer,0.00886424620436875
+195,32,It is not possible to answer the question,0.0530243358050418
+196,32,The answer cannot be determined,0.22411697417033272
+197,32,The question cannot be answered,0.14730671069188472
+198,33,$\it{Other}$,0.4470528522586757
+199,33,Cannot be determined,0.12452520285230634
+200,33,It is impossible to answer,0.006604252483441385
+201,33,It is not possible to answer the question,0.13803839722600006
+202,33,The answer cannot be determined,0.17026610080588286
+203,33,The question cannot be answered,0.11351319437369371
+204,34,$\it{Other}$,0.5333333333333333
+205,34,Cannot be determined,0.13333333333333333
+206,34,It is impossible to answer,0.0
+207,34,It is not possible to answer the question,0.1
+208,34,The answer cannot be determined,0.23333333333333334
+209,34,The question cannot be answered,0.0
+210,35,$\it{Other}$,0.49386770479237363
+211,35,Cannot be determined,0.12911958474971724
+212,35,It is impossible to answer,0.052106874291808054
+213,35,It is not possible to answer the question,0.058239169499434466
+214,35,The answer cannot be determined,0.23754708191694945
+215,35,The question cannot be answered,0.029119584749717233
+216,36,$\it{Other}$,0.4666666666666667
+217,36,Cannot be determined,0.06666666666666667
+218,36,It is impossible to answer,0.03333333333333333
+219,36,It is not possible to answer the question,0.03333333333333333
+220,36,The answer cannot be determined,0.2
+221,36,The question cannot be answered,0.2
+222,37,$\it{Other}$,0.5333333333333333
+223,37,Cannot be determined,0.03333333333333333
+224,37,It is impossible to answer,0.1
+225,37,It is not possible to answer the question,0.1
+226,37,The answer cannot be determined,0.2
+227,37,The question cannot be answered,0.03333333333333333
+228,38,$\it{Other}$,0.5666666666666667
+229,38,Cannot be determined,0.06666666666666667
+230,38,It is impossible to answer,0.03333333333333333
+231,38,It is not possible to answer the question,0.1
+232,38,The answer cannot be determined,0.16666666666666666
+233,38,The question cannot be answered,0.06666666666666667
+234,39,$\it{Other}$,0.5
+235,39,Cannot be determined,0.13333333333333333
+236,39,It is impossible to answer,0.06666666666666667
+237,39,It is not possible to answer the question,0.06666666666666667
+238,39,The answer cannot be determined,0.1
+239,39,The question cannot be answered,0.13333333333333333
+240,40,$\it{Other}$,0.4041603192609369
+241,40,Cannot be determined,0.12494210922705336
+242,40,It is impossible to answer,0.01127631939859108
+243,40,It is not possible to answer the question,0.15023415507325355
+244,40,The answer cannot be determined,0.17973663253777575
+245,40,The question cannot be answered,0.12965046450238943
+246,41,$\it{Other}$,0.40443290357935646
+247,41,Cannot be determined,0.07346541689207979
+248,41,It is impossible to answer,0.0054030564658205495
+249,41,It is not possible to answer the question,0.16552121976649994
+250,41,The answer cannot be determined,0.32586065559667604
+251,41,The question cannot be answered,0.025316747699567183
+252,42,$\it{Other}$,0.4180281882211437
+253,42,Cannot be determined,0.09376451307486103
+254,42,It is impossible to answer,0.017717080436984403
+255,42,It is not possible to answer the question,0.10959011508918273
+256,42,The answer cannot be determined,0.20289487300758383
+257,42,The question cannot be answered,0.1580052301702443
+258,43,$\it{Other}$,0.26666666666666666
+259,43,Cannot be determined,0.06666666666666667
+260,43,It is impossible to answer,0.0
+261,43,It is not possible to answer the question,0.13333333333333333
+262,43,The answer cannot be determined,0.4
+263,43,The question cannot be answered,0.13333333333333333
+264,44,$\it{Other}$,0.46762651906807545
+265,44,Cannot be determined,0.0670796858582678
+266,44,It is impossible to answer,0.015427769121737232
+267,44,It is not possible to answer the question,0.07003829374552256
+268,44,The answer cannot be determined,0.28653442977113686
+269,44,The question cannot be answered,0.0932933024352601
+270,45,$\it{Other}$,0.4771598808718651
+271,45,Cannot be determined,0.13370407147688096
+272,45,It is impossible to answer,0.0
+273,45,It is not possible to answer the question,0.1
+274,45,The answer cannot be determined,0.2
+275,45,The question cannot be answered,0.08913604765125396
+276,46,$\it{Other}$,0.4229979731173511
+277,46,Cannot be determined,0.10258384005399557
+278,46,It is impossible to answer,0.03333333333333333
+279,46,It is not possible to answer the question,0.043668693549315574
+280,46,The answer cannot be determined,0.29741615994600445
+281,46,The question cannot be answered,0.1
+282,47,$\it{Other}$,0.21723372487274428
+283,47,Cannot be determined,0.08390039153941095
+284,47,It is impossible to answer,0.0
+285,47,It is not possible to answer the question,0.13446744974548852
+286,47,The answer cannot be determined,0.41609960846058913
+287,47,The question cannot be answered,0.14829882538176722
+288,48,$\it{Other}$,0.36395342437043704
+289,48,Cannot be determined,0.1393410959382605
+290,48,It is impossible to answer,0.0
+291,48,It is not possible to answer the question,0.12131780812347899
+292,48,The answer cannot be determined,0.2753876715678235
+293,48,The question cannot be answered,0.1
+294,49,$\it{Other}$,0.3333333333333333
+295,49,Cannot be determined,0.23333333333333334
+296,49,It is impossible to answer,0.0
+297,49,It is not possible to answer the question,0.06666666666666667
+298,49,The answer cannot be determined,0.3
+299,49,The question cannot be answered,0.06666666666666667
+300,50,$\it{Other}$,0.23333333333333334
+301,50,Cannot be determined,0.3
+302,50,It is impossible to answer,0.03333333333333333
+303,50,It is not possible to answer the question,0.06666666666666667
+304,50,The answer cannot be determined,0.3333333333333333
+305,50,The question cannot be answered,0.03333333333333333
+306,51,$\it{Other}$,0.3333333333333333
+307,51,Cannot be determined,0.06666666666666667
+308,51,It is impossible to answer,0.06666666666666667
+309,51,It is not possible to answer the question,0.0
+310,51,The answer cannot be determined,0.3
+311,51,The question cannot be answered,0.23333333333333334
+312,52,$\it{Other}$,0.2618270357470295
+313,52,Cannot be determined,0.10473081429881179
+314,52,It is impossible to answer,0.06666666666666667
+315,52,It is not possible to answer the question,0.0952691857011882
+316,52,The answer cannot be determined,0.3713974809654784
+317,52,The question cannot be answered,0.10010881662082538
+318,53,$\it{Other}$,0.3
+319,53,Cannot be determined,0.1
+320,53,It is impossible to answer,0.03333333333333333
+321,53,It is not possible to answer the question,0.06666666666666667
+322,53,The answer cannot be determined,0.4
+323,53,The question cannot be answered,0.1
+324,54,$\it{Other}$,0.2656191085103453
+325,54,Cannot be determined,0.12446539865756992
+326,54,It is impossible to answer,0.0
+327,54,It is not possible to answer the question,0.10991549283208474
+328,54,The answer cannot be determined,0.3880087089157748
+329,54,The question cannot be answered,0.11199129108422516
+330,55,$\it{Other}$,0.2531243233193072
+331,55,Cannot be determined,0.13357019437870243
+332,55,It is impossible to answer,0.03797951929432997
+333,55,It is not possible to answer the question,0.0884776793776309
+334,55,The answer cannot be determined,0.32367931588396653
+335,55,The question cannot be answered,0.16316896774606307
+336,56,$\it{Other}$,0.29560637441556115
+337,56,Cannot be determined,0.15459405943718213
+338,56,It is impossible to answer,0.02809554857269214
+339,56,It is not possible to answer the question,0.08338651797167206
+340,56,The answer cannot be determined,0.32694180233520576
+341,56,The question cannot be answered,0.11137569726768677
+342,57,$\it{Other}$,0.16666666666666666
+343,57,Cannot be determined,0.1
+344,57,It is impossible to answer,0.0
+345,57,It is not possible to answer the question,0.16666666666666666
+346,57,The answer cannot be determined,0.43333333333333335
+347,57,The question cannot be answered,0.13333333333333333
+348,58,$\it{Other}$,0.3333333333333333
+349,58,Cannot be determined,0.17916586091296977
+350,58,It is impossible to answer,0.004166398082101031
+351,58,It is not possible to answer the question,0.09166720383579795
+352,58,The answer cannot be determined,0.2166677410049292
+353,58,The question cannot be answered,0.17499946283086873
+354,59,$\it{Other}$,0.19173064564699174
+355,59,Cannot be determined,0.15788548047105794
+356,59,It is impossible to answer,0.03333333333333333
+357,59,It is not possible to answer the question,0.1416026876863416
+358,59,The answer cannot be determined,0.3167946246273168
+359,59,The question cannot be answered,0.15865322823495862
+360,60,$\it{Other}$,0.3675454496223427
+361,60,Cannot be determined,0.14220677467221962
+362,60,It is impossible to answer,0.012211281898373557
+363,60,It is not possible to answer the question,0.084525533937539
+364,60,The answer cannot be determined,0.3056662494713487
+365,60,The question cannot be answered,0.08784471039817629
+366,61,$\it{Other}$,0.26666666666666666
+367,61,Cannot be determined,0.2
+368,61,It is impossible to answer,0.0
+369,61,It is not possible to answer the question,0.1
+370,61,The answer cannot be determined,0.13333333333333333
+371,61,The question cannot be answered,0.3
+372,62,$\it{Other}$,0.3333333333333333
+373,62,Cannot be determined,0.06666666666666667
+374,62,It is impossible to answer,0.06666666666666667
+375,62,It is not possible to answer the question,0.06666666666666667
+376,62,The answer cannot be determined,0.3
+377,62,The question cannot be answered,0.16666666666666666
+378,63,$\it{Other}$,0.23333333333333334
+379,63,Cannot be determined,0.2
+380,63,It is impossible to answer,0.0
+381,63,It is not possible to answer the question,0.03333333333333333
+382,63,The answer cannot be determined,0.4
+383,63,The question cannot be answered,0.13333333333333333
+384,64,$\it{Other}$,0.23333333333333334
+385,64,Cannot be determined,0.03333333333333333
+386,64,It is impossible to answer,0.0
+387,64,It is not possible to answer the question,0.1
+388,64,The answer cannot be determined,0.43333333333333335
+389,64,The question cannot be answered,0.2
+390,65,$\it{Other}$,0.18966523363755333
+391,65,Cannot be determined,0.1885694352567161
+392,65,It is impossible to answer,0.0026410385232326743
+393,65,It is not possible to answer the question,0.10979510348098818
+394,65,The answer cannot be determined,0.4182150995901138
+395,65,The question cannot be answered,0.09111408951139591
+396,66,$\it{Other}$,0.17333327765948045
+397,66,Cannot be determined,0.10000000000000002
+398,66,It is impossible to answer,0.03333333333333333
+399,66,It is not possible to answer the question,0.0599997773045884
+400,66,The answer cannot be determined,0.4666669450359312
+401,66,The question cannot be answered,0.16666666666666669
+402,67,$\it{Other}$,0.13333333333333333
+403,67,Cannot be determined,0.23333333333333334
+404,67,It is impossible to answer,0.03333333333333333
+405,67,It is not possible to answer the question,0.0
+406,67,The answer cannot be determined,0.43333333333333335
+407,67,The question cannot be answered,0.16666666666666666
+408,68,$\it{Other}$,0.22316001996157728
+409,68,Cannot be determined,0.04431047333882229
+410,68,It is impossible to answer,0.010977140005488956
+411,68,It is not possible to answer the question,0.12155236669411143
+412,68,The answer cannot be determined,0.4666666666666666
+413,68,The question cannot be answered,0.13333333333333333
+414,69,$\it{Other}$,0.16666666666666666
+415,69,Cannot be determined,0.13333333333333333
+416,69,It is impossible to answer,0.03333333333333333
+417,69,It is not possible to answer the question,0.13333333333333333
+418,69,The answer cannot be determined,0.5
+419,69,The question cannot be answered,0.03333333333333333
+420,70,$\it{Other}$,0.3
+421,70,Cannot be determined,0.03333333333333333
+422,70,It is impossible to answer,0.0
+423,70,It is not possible to answer the question,0.16666666666666666
+424,70,The answer cannot be determined,0.43333333333333335
+425,70,The question cannot be answered,0.06666666666666667
+426,71,$\it{Other}$,0.2
+427,71,Cannot be determined,0.2
+428,71,It is impossible to answer,0.0
+429,71,It is not possible to answer the question,0.1
+430,71,The answer cannot be determined,0.43333333333333335
+431,71,The question cannot be answered,0.06666666666666667
+432,72,$\it{Other}$,0.1530379157567118
+433,72,Cannot be determined,0.12708383336735654
+434,72,It is impossible to answer,0.024065270590882006
+435,72,It is not possible to answer the question,0.12891515252298713
+436,72,The answer cannot be determined,0.4407922641252821
+437,72,The question cannot be answered,0.12610556363678044
+438,73,$\it{Other}$,0.127772398415899
+439,73,Cannot be determined,0.072227601584101
+440,73,It is impossible to answer,0.0055609349174343395
+441,73,It is not possible to answer the question,0.10556093491743435
+442,73,The answer cannot be determined,0.5055609349174344
+443,73,The question cannot be answered,0.183317195247697
+444,74,$\it{Other}$,0.1531632297724022
+445,74,Cannot be determined,0.13514636856013307
+446,74,It is impossible to answer,0.008504892567481296
+447,74,It is not possible to answer the question,0.20777770761802816
+448,74,The answer cannot be determined,0.3542967605305938
+449,74,The question cannot be answered,0.1411110409513615
+450,75,$\it{Other}$,0.06666666666666667
+451,75,Cannot be determined,0.06666666666666667
+452,75,It is impossible to answer,0.03333333333333333
+453,75,It is not possible to answer the question,0.23333333333333334
+454,75,The answer cannot be determined,0.5
+455,75,The question cannot be answered,0.1
+456,76,$\it{Other}$,0.2
+457,76,Cannot be determined,0.06666666666666667
+458,76,It is impossible to answer,0.06666666666666667
+459,76,It is not possible to answer the question,0.1
+460,76,The answer cannot be determined,0.4
+461,76,The question cannot be answered,0.16666666666666666
+462,77,$\it{Other}$,0.16072722497183575
+463,77,Cannot be determined,0.02138199010139121
+464,77,It is impossible to answer,0.0071273300337970705
+465,77,It is not possible to answer the question,0.1800434759053682
+466,77,The answer cannot be determined,0.5106909950506956
+467,77,The question cannot be answered,0.12002898393691214
+468,78,$\it{Other}$,0.16666666666666666
+469,78,Cannot be determined,0.03333333333333333
+470,78,It is impossible to answer,0.03333333333333333
+471,78,It is not possible to answer the question,0.13333333333333333
+472,78,The answer cannot be determined,0.43333333333333335
+473,78,The question cannot be answered,0.2
+474,79,$\it{Other}$,0.2
+475,79,Cannot be determined,0.1
+476,79,It is impossible to answer,0.0
+477,79,It is not possible to answer the question,0.1
+478,79,The answer cannot be determined,0.4666666666666667
+479,79,The question cannot be answered,0.13333333333333333
+480,80,$\it{Other}$,0.2
+481,80,Cannot be determined,0.06666666666666667
+482,80,It is impossible to answer,0.03333333333333333
+483,80,It is not possible to answer the question,0.13333333333333333
+484,80,The answer cannot be determined,0.36666666666666664
+485,80,The question cannot be answered,0.2
+486,81,$\it{Other}$,0.13333333333333333
+487,81,Cannot be determined,0.13333333333333333
+488,81,It is impossible to answer,0.0
+489,81,It is not possible to answer the question,0.06666666666666667
+490,81,The answer cannot be determined,0.5
+491,81,The question cannot be answered,0.16666666666666666
+492,82,$\it{Other}$,0.16666666666666666
+493,82,Cannot be determined,0.13333333333333333
+494,82,It is impossible to answer,0.0
+495,82,It is not possible to answer the question,0.1
+496,82,The answer cannot be determined,0.5
+497,82,The question cannot be answered,0.1
+498,83,$\it{Other}$,0.1
+499,83,Cannot be determined,0.16666666666666666
+500,83,It is impossible to answer,0.03333333333333333
+501,83,It is not possible to answer the question,0.16666666666666666
+502,83,The answer cannot be determined,0.4
+503,83,The question cannot be answered,0.13333333333333333
+504,84,$\it{Other}$,0.09040894506589336
+505,84,Cannot be determined,0.058243803329122275
+506,84,It is impossible to answer,0.02376104470843262
+507,84,It is not possible to answer the question,0.16169207919119125
+508,84,The answer cannot be determined,0.4352365312727899
+509,84,The question cannot be answered,0.23065759643257056
+510,85,$\it{Other}$,0.08884492180294869
+511,85,Cannot be determined,0.1185038628232051
+512,85,It is impossible to answer,0.07034105897974358
+513,85,It is not possible to answer the question,0.15551158846961535
+514,85,The answer cannot be determined,0.37047296023756415
+515,85,The question cannot be answered,0.1963256076869231
+516,86,$\it{Other}$,0.16741866624148635
+517,86,Cannot be determined,0.10045119974489182
+518,86,It is impossible to answer,0.09142720484705572
+519,86,It is not possible to answer the question,0.19639040204086558
+520,86,The answer cannot be determined,0.3638090682823519
+521,86,The question cannot be answered,0.0805034588433487
+522,87,$\it{Other}$,0.23498130575776668
+523,87,Cannot be determined,0.15247195863665006
+524,87,It is impossible to answer,0.05874532643944167
+525,87,It is not possible to answer the question,0.09043068734834164
+526,87,The answer cannot be determined,0.3300373884844666
+527,87,The question cannot be answered,0.13333333333333333
+528,88,$\it{Other}$,0.1600027118620827
+529,88,Cannot be determined,0.13269467935976914
+530,88,It is impossible to answer,0.02407548146598179
+531,88,It is not possible to answer the question,0.18674670876577198
+532,88,The answer cannot be determined,0.3886558910312579
+533,88,The question cannot be answered,0.10782452751513649
+534,89,$\it{Other}$,0.13333333333333333
+535,89,Cannot be determined,0.2
+536,89,It is impossible to answer,0.03333333333333333
+537,89,It is not possible to answer the question,0.13333333333333333
+538,89,The answer cannot be determined,0.3
+539,89,The question cannot be answered,0.2
+540,90,$\it{Other}$,0.03333333333333333
+541,90,Cannot be determined,0.13333333333333333
+542,90,It is impossible to answer,0.0
+543,90,It is not possible to answer the question,0.2
+544,90,The answer cannot be determined,0.5333333333333333
+545,90,The question cannot be answered,0.1
+546,91,$\it{Other}$,0.2
+547,91,Cannot be determined,0.03333333333333333
+548,91,It is impossible to answer,0.03333333333333333
+549,91,It is not possible to answer the question,0.16666666666666666
+550,91,The answer cannot be determined,0.4666666666666667
+551,91,The question cannot be answered,0.1
+552,92,$\it{Other}$,0.18921244230095208
+553,92,Cannot be determined,0.18098044853047673
+554,92,It is impossible to answer,0.035753777844761914
+555,92,It is not possible to answer the question,0.11881066626476185
+556,92,The answer cannot be determined,0.37953066425523774
+557,92,The question cannot be answered,0.09571200080380964
+558,93,$\it{Other}$,0.04448374283540804
+559,93,Cannot be determined,0.15001568032236975
+560,93,It is impossible to answer,0.011256094532998955
+561,93,It is not possible to answer the question,0.22481968921376314
+562,93,The answer cannot be determined,0.4025249709735919
+563,93,The question cannot be answered,0.16689982212186819
+564,94,$\it{Other}$,0.06666666666666667
+565,94,Cannot be determined,0.2
+566,94,It is impossible to answer,0.03333333333333333
+567,94,It is not possible to answer the question,0.23333333333333334
+568,94,The answer cannot be determined,0.3333333333333333
+569,94,The question cannot be answered,0.13333333333333333
+570,95,$\it{Other}$,0.1
+571,95,Cannot be determined,0.3
+572,95,It is impossible to answer,0.03333333333333333
+573,95,It is not possible to answer the question,0.16666666666666666
+574,95,The answer cannot be determined,0.23333333333333334
+575,95,The question cannot be answered,0.16666666666666666
+576,96,$\it{Other}$,0.26666666666666666
+577,96,Cannot be determined,0.2
+578,96,It is impossible to answer,0.0
+579,96,It is not possible to answer the question,0.26666666666666666
+580,96,The answer cannot be determined,0.23333333333333334
+581,96,The question cannot be answered,0.03333333333333333
+582,97,$\it{Other}$,0.23333333333333334
+583,97,Cannot be determined,0.3
+584,97,It is impossible to answer,0.0
+585,97,It is not possible to answer the question,0.2
+586,97,The answer cannot be determined,0.16666666666666666
+587,97,The question cannot be answered,0.1
+588,98,$\it{Other}$,0.17223640924548925
+589,98,Cannot be determined,0.15004256106980107
+590,98,It is impossible to answer,0.03333333333333333
+591,98,It is not possible to answer the question,0.34995743893019887
+592,98,The answer cannot be determined,0.16109692408784407
+593,98,The question cannot be answered,0.13333333333333333
+594,99,$\it{Other}$,0.1566501245648697
+595,99,Cannot be determined,0.17962630235174207
+596,99,It is impossible to answer,0.03333333333333334
+597,99,It is not possible to answer the question,0.2051785777732305
+598,99,The answer cannot be determined,0.2563095111202057
+599,99,The question cannot be answered,0.16890215085661875
+600,100,$\it{Other}$,0.06666666666666667
+601,100,Cannot be determined,0.3333333333333333
+602,100,It is impossible to answer,0.03333333333333333
+603,100,It is not possible to answer the question,0.1
+604,100,The answer cannot be determined,0.23333333333333334
+605,100,The question cannot be answered,0.23333333333333334
+606,101,$\it{Other}$,0.22562788410385243
+607,101,Cannot be determined,0.16827833667182532
+608,101,It is impossible to answer,0.0
+609,101,It is not possible to answer the question,0.22070180279845275
+610,101,The answer cannot be determined,0.18619879813436485
+611,101,The question cannot be answered,0.1991931782915047
+612,102,$\it{Other}$,0.25785971841998034
+613,102,Cannot be determined,0.22119692904216798
+614,102,It is impossible to answer,0.0
+615,102,It is not possible to answer the question,0.16276142869421212
+616,102,The answer cannot be determined,0.2514156099467952
+617,102,The question cannot be answered,0.10676631389684439
+618,103,$\it{Other}$,0.12094318845147758
+619,103,Cannot be determined,0.19030703341361221
+620,103,It is impossible to answer,0.011210131126070572
+621,103,It is not possible to answer the question,0.24593403172409328
+622,103,The answer cannot be determined,0.236308762294796
+623,103,The question cannot be answered,0.19529685298995028
+624,104,$\it{Other}$,0.13333333333333333
+625,104,Cannot be determined,0.03333333333333333
+626,104,It is impossible to answer,0.13333333333333333
+627,104,It is not possible to answer the question,0.0
+628,104,The answer cannot be determined,0.43333333333333335
+629,104,The question cannot be answered,0.26666666666666666
+630,105,$\it{Other}$,0.2
+631,105,Cannot be determined,0.0
+632,105,It is impossible to answer,0.03333333333333333
+633,105,It is not possible to answer the question,0.06666666666666667
+634,105,The answer cannot be determined,0.4
+635,105,The question cannot be answered,0.3
+636,106,$\it{Other}$,0.26666666666666666
+637,106,Cannot be determined,0.0
+638,106,It is impossible to answer,0.03333333333333333
+639,106,It is not possible to answer the question,0.16666666666666666
+640,106,The answer cannot be determined,0.3
+641,106,The question cannot be answered,0.23333333333333334
+642,107,$\it{Other}$,0.16680408097330846
+643,107,Cannot be determined,0.04310048264572397
+644,107,It is impossible to answer,0.03747467528149646
+645,107,It is not possible to answer the question,0.07550184510076846
+646,107,The answer cannot be determined,0.43580249810832083
+647,107,The question cannot be answered,0.24131641789038188
+648,108,$\it{Other}$,0.25648675904549173
+649,108,Cannot be determined,0.03333333333333333
+650,108,It is impossible to answer,0.0043512601725677925
+651,108,It is not possible to answer the question,0.08214385298784851
+652,108,The answer cannot be determined,0.31990656938030726
+653,108,The question cannot be answered,0.3037782250804514
+654,109,$\it{Other}$,0.16666666666666666
+655,109,Cannot be determined,0.03333333333333333
+656,109,It is impossible to answer,0.0
+657,109,It is not possible to answer the question,0.16666666666666666
+658,109,The answer cannot be determined,0.36666666666666664
+659,109,The question cannot be answered,0.26666666666666666
+660,110,$\it{Other}$,0.13333333333333333
+661,110,Cannot be determined,0.01985369024273292
+662,110,It is impossible to answer,0.09338210325242237
+663,110,It is not possible to answer the question,0.22009753983817806
+664,110,The answer cannot be determined,0.3333333333333333
+665,110,The question cannot be answered,0.20000000000000004
+666,111,$\it{Other}$,0.23333333333333334
+667,111,Cannot be determined,0.06666666666666667
+668,111,It is impossible to answer,0.06666666666666667
+669,111,It is not possible to answer the question,0.13333333333333333
+670,111,The answer cannot be determined,0.3333333333333333
+671,111,The question cannot be answered,0.16666666666666666
+672,112,$\it{Other}$,0.3
+673,112,Cannot be determined,0.0
+674,112,It is impossible to answer,0.03333333333333333
+675,112,It is not possible to answer the question,0.03333333333333333
+676,112,The answer cannot be determined,0.3333333333333333
+677,112,The question cannot be answered,0.3
+678,113,$\it{Other}$,0.06666666666666667
+679,113,Cannot be determined,0.03333333333333333
+680,113,It is impossible to answer,0.03333333333333333
+681,113,It is not possible to answer the question,0.13333333333333333
+682,113,The answer cannot be determined,0.5333333333333333
+683,113,The question cannot be answered,0.2
+684,114,$\it{Other}$,0.13310592646297856
+685,114,Cannot be determined,0.0684929473908348
+686,114,It is impossible to answer,0.002070149257897042
+687,114,It is not possible to answer the question,0.12919303481753924
+688,114,The answer cannot be determined,0.3772448198265067
+689,114,The question cannot be answered,0.28989312224424374
+690,115,$\it{Other}$,0.2535793891434642
+691,115,Cannot be determined,0.035202944408076545
+692,115,It is impossible to answer,0.035202944408076545
+693,115,It is not possible to answer the question,0.1
+694,115,The answer cannot be determined,0.3760147220403827
+695,115,The question cannot be answered,0.2
+696,116,$\it{Other}$,0.20799168828542755
+697,116,Cannot be determined,0.05794895802414373
+698,116,It is impossible to answer,0.01916354488757091
+699,116,It is not possible to answer the question,0.049957269738716184
+700,116,The answer cannot be determined,0.2832051425494819
+701,116,The question cannot be answered,0.38173339651465976
+702,117,$\it{Other}$,0.10397956252638099
+703,117,Cannot be determined,0.10795912505276198
+704,117,It is impossible to answer,0.09204087494723805
+705,117,It is not possible to answer the question,0.03731289585971431
+706,117,The answer cannot be determined,0.2452720209124763
+707,117,The question cannot be answered,0.4134355207014284
+708,118,$\it{Other}$,0.3333333333333333
+709,118,Cannot be determined,0.06666666666666667
+710,118,It is impossible to answer,0.0
+711,118,It is not possible to answer the question,0.13333333333333333
+712,118,The answer cannot be determined,0.2
+713,118,The question cannot be answered,0.26666666666666666
+714,119,$\it{Other}$,0.23333333333333334
+715,119,Cannot be determined,0.03333333333333333
+716,119,It is impossible to answer,0.03333333333333333
+717,119,It is not possible to answer the question,0.13333333333333333
+718,119,The answer cannot be determined,0.2
+719,119,The question cannot be answered,0.36666666666666664
+720,120,$\it{Other}$,0.23333333333333334
+721,120,Cannot be determined,0.2
+722,120,It is impossible to answer,0.03333333333333333
+723,120,It is not possible to answer the question,0.13333333333333333
+724,120,The answer cannot be determined,0.26666666666666666
+725,120,The question cannot be answered,0.13333333333333333
+726,121,$\it{Other}$,0.1877872416614396
+727,121,Cannot be determined,0.11511489666457585
+728,121,It is impossible to answer,0.03333333333333334
+729,121,It is not possible to answer the question,0.06666666666666668
+730,121,The answer cannot be determined,0.3424425516677121
+731,121,The question cannot be answered,0.2546553100062725
+732,122,$\it{Other}$,0.2026615108216779
+733,122,Cannot be determined,0.04131786579836704
+734,122,It is impossible to answer,0.06400515584498875
+735,122,It is not possible to answer the question,0.13333333333333333
+736,122,The answer cannot be determined,0.26932817748834453
+737,122,The question cannot be answered,0.2893539567132884
+738,123,$\it{Other}$,0.222151496887214
+739,123,Cannot be determined,0.10031998133477694
+740,123,It is impossible to answer,0.06279301499202301
+741,123,It is not possible to answer the question,0.07533128322742766
+742,123,The answer cannot be determined,0.23319279723108727
+743,123,The question cannot be answered,0.3062114263274711
+744,124,$\it{Other}$,0.06666666666666667
+745,124,Cannot be determined,0.03333333333333333
+746,124,It is impossible to answer,0.2
+747,124,It is not possible to answer the question,0.03333333333333333
+748,124,The answer cannot be determined,0.43333333333333335
+749,124,The question cannot be answered,0.23333333333333334
+750,125,$\it{Other}$,0.23333333333333334
+751,125,Cannot be determined,0.08445550629381106
+752,125,It is impossible to answer,0.12003318554809982
+753,125,It is not possible to answer the question,0.015544493706188954
+754,125,The answer cannot be determined,0.3310889874123779
+755,125,The question cannot be answered,0.21554449370618897
+756,126,$\it{Other}$,0.16666666666666666
+757,126,Cannot be determined,0.06666666666666667
+758,126,It is impossible to answer,0.03333333333333333
+759,126,It is not possible to answer the question,0.03333333333333333
+760,126,The answer cannot be determined,0.43333333333333335
+761,126,The question cannot be answered,0.26666666666666666
+762,127,$\it{Other}$,0.13333333333333333
+763,127,Cannot be determined,0.16666666666666666
+764,127,It is impossible to answer,0.03333333333333333
+765,127,It is not possible to answer the question,0.03333333333333333
+766,127,The answer cannot be determined,0.4
+767,127,The question cannot be answered,0.23333333333333334
+768,128,$\it{Other}$,0.2
+769,128,Cannot be determined,0.1
+770,128,It is impossible to answer,0.1
+771,128,It is not possible to answer the question,0.0
+772,128,The answer cannot be determined,0.4666666666666667
+773,128,The question cannot be answered,0.13333333333333333
+774,129,$\it{Other}$,0.16666666666666666
+775,129,Cannot be determined,0.1
+776,129,It is impossible to answer,0.03333333333333333
+777,129,It is not possible to answer the question,0.03333333333333333
+778,129,The answer cannot be determined,0.4
+779,129,The question cannot be answered,0.26666666666666666
+780,130,$\it{Other}$,0.3333333333333333
+781,130,Cannot be determined,0.03333333333333333
+782,130,It is impossible to answer,0.0
+783,130,It is not possible to answer the question,0.0
+784,130,The answer cannot be determined,0.3
+785,130,The question cannot be answered,0.3333333333333333
+786,131,$\it{Other}$,0.1
+787,131,Cannot be determined,0.03333333333333333
+788,131,It is impossible to answer,0.1
+789,131,It is not possible to answer the question,0.06666666666666667
+790,131,The answer cannot be determined,0.3
+791,131,The question cannot be answered,0.4
+792,132,$\it{Other}$,0.12217167472356552
+793,132,Cannot be determined,0.18891416263821723
+794,132,It is impossible to answer,0.06389520732622098
+795,132,It is not possible to answer the question,0.06389520732622098
+796,132,The answer cannot be determined,0.3250189553119962
+797,132,The question cannot be answered,0.23610479267377904
+798,133,$\it{Other}$,0.18660872069201356
+799,133,Cannot be determined,0.08288328460989194
+800,133,It is impossible to answer,0.08666540229147945
+801,133,It is not possible to answer the question,0.05488145374083509
+802,133,The answer cannot be determined,0.3283983589310004
+803,133,The question cannot be answered,0.2605627797347796
+804,134,$\it{Other}$,0.13333333333333333
+805,134,Cannot be determined,0.03333333333333333
+806,134,It is impossible to answer,0.03333333333333333
+807,134,It is not possible to answer the question,0.03333333333333333
+808,134,The answer cannot be determined,0.5
+809,134,The question cannot be answered,0.26666666666666666
+810,135,$\it{Other}$,0.2243276916342905
+811,135,Cannot be determined,0.08743659743203795
+812,135,It is impossible to answer,0.028111355552850506
+813,135,It is not possible to answer the question,0.06064207551954204
+814,135,The answer cannot be determined,0.2945543095298989
+815,135,The question cannot be answered,0.3049279703313801
+816,136,$\it{Other}$,0.1
+817,136,Cannot be determined,0.06666666666666667
+818,136,It is impossible to answer,0.06666666666666667
+819,136,It is not possible to answer the question,0.06666666666666667
+820,136,The answer cannot be determined,0.43333333333333335
+821,136,The question cannot be answered,0.26666666666666666
+822,137,$\it{Other}$,0.16483433840160933
+823,137,Cannot be determined,0.15384036881126537
+824,137,It is impossible to answer,0.039563249434528255
+825,137,It is not possible to answer the question,0.07362951407388453
+826,137,The answer cannot be determined,0.3923042212867593
+827,137,The question cannot be answered,0.17582830799195331
+828,138,$\it{Other}$,0.13722866404111578
+829,138,Cannot be determined,0.16018547529469793
+830,138,It is impossible to answer,0.04561078050188208
+831,138,It is not possible to answer the question,0.031107387246432628
+832,138,The answer cannot be determined,0.39498851760217685
+833,138,The question cannot be answered,0.2308791753136948
+834,139,$\it{Other}$,0.23919419733745173
+835,139,Cannot be determined,0.03834452503697984
+836,139,It is impossible to answer,0.07364670103543546
+837,139,It is not possible to answer the question,0.0030423490385242252
+838,139,The answer cannot be determined,0.4510072533281854
+839,139,The question cannot be answered,0.19476497422342343
+840,140,$\it{Other}$,0.11538461538461539
+841,140,Cannot be determined,0.0
+842,140,It is impossible to answer,0.11538461538461539
+843,140,It is not possible to answer the question,0.0
+844,140,The answer cannot be determined,0.46153846153846156
+845,140,The question cannot be answered,0.3076923076923077
+846,141,$\it{Other}$,0.16017999459355275
+847,141,Cannot be determined,0.042354882461843706
+848,141,It is impossible to answer,0.10823706801260424
+849,141,It is not possible to answer the question,0.05159441771566579
+850,141,The answer cannot be determined,0.37503100395074357
+851,141,The question cannot be answered,0.26260263326558997
+852,142,$\it{Other}$,0.10714285714285714
+853,142,Cannot be determined,0.0
+854,142,It is impossible to answer,0.03571428571428571
+855,142,It is not possible to answer the question,0.25
+856,142,The answer cannot be determined,0.39285714285714285
+857,142,The question cannot be answered,0.21428571428571427
+858,143,$\it{Other}$,0.16
+859,143,Cannot be determined,0.08
+860,143,It is impossible to answer,0.16
+861,143,It is not possible to answer the question,0.08
+862,143,The answer cannot be determined,0.32
+863,143,The question cannot be answered,0.2
+864,144,$\it{Other}$,0.16
+865,144,Cannot be determined,0.04
+866,144,It is impossible to answer,0.12
+867,144,It is not possible to answer the question,0.08
+868,144,The answer cannot be determined,0.36
+869,144,The question cannot be answered,0.24
+870,145,$\it{Other}$,0.18342385782143406
+871,145,Cannot be determined,0.09844390371862673
+872,145,It is impossible to answer,0.151512232577334
+873,145,It is not possible to answer the question,0.02987092349431816
+874,145,The answer cannot be determined,0.2848622948958446
+875,145,The question cannot be answered,0.2518867874924425
+876,146,$\it{Other}$,0.23201136742449974
+877,146,Cannot be determined,0.04991359030724315
+878,146,It is impossible to answer,0.053149290926795864
+879,146,It is not possible to answer the question,0.012478397576810787
+880,146,The answer cannot be determined,0.29116765468900097
+881,146,The question cannot be answered,0.3612796990756496
+882,147,$\it{Other}$,0.26345806930794313
+883,147,Cannot be determined,0.0900425894960003
+884,147,It is impossible to answer,0.2230676903481065
+885,147,It is not possible to answer the question,0.055695476289020274
+886,147,The answer cannot be determined,0.23597479783294364
+887,147,The question cannot be answered,0.13176137672598617
+888,148,$\it{Other}$,0.22773691331964155
+889,148,Cannot be determined,0.10265093579595927
+890,148,It is impossible to answer,0.01325467897979635
+891,148,It is not possible to answer the question,0.09381448314276171
+892,148,The answer cannot be determined,0.2387824791361385
+893,148,The question cannot be answered,0.32376050962570263
+894,149,$\it{Other}$,0.10714285714285714
+895,149,Cannot be determined,0.0
+896,149,It is impossible to answer,0.2857142857142857
+897,149,It is not possible to answer the question,0.03571428571428571
+898,149,The answer cannot be determined,0.25
+899,149,The question cannot be answered,0.32142857142857145
+900,150,$\it{Other}$,0.17387988765616658
+901,150,Cannot be determined,0.1303598888871767
+902,150,It is impossible to answer,0.1373216322680609
+903,150,It is not possible to answer the question,0.04577387742268696
+904,150,The answer cannot be determined,0.2813136322403995
+905,150,The question cannot be answered,0.23135108152550937
+906,151,$\it{Other}$,0.06893759675729395
+907,151,Cannot be determined,0.002456700069424847
+908,151,It is impossible to answer,0.4334921986075185
+909,151,It is not possible to answer the question,0.04381938504576319
+910,151,The answer cannot be determined,0.3116268969344316
+911,151,The question cannot be answered,0.13966722258556785
+912,152,$\it{Other}$,0.21166637755910667
+913,152,Cannot be determined,0.006682458122852202
+914,152,It is impossible to answer,0.43037726030309287
+915,152,It is not possible to answer the question,0.06014212310566981
+916,152,The answer cannot be determined,0.1919810502525774
+917,152,The question cannot be answered,0.09915073065670113
+918,153,$\it{Other}$,0.3073613099630627
+919,153,Cannot be determined,0.03489482332549815
+920,153,It is impossible to answer,0.3704588566476384
+921,153,It is not possible to answer the question,0.10468446997649443
+922,153,The answer cannot be determined,0.12655367424250014
+923,153,The question cannot be answered,0.056046865844806296
+924,154,$\it{Other}$,0.29309795507069786
+925,154,Cannot be determined,0.0
+926,154,It is impossible to answer,0.3262150264953672
+927,154,It is not possible to answer the question,0.14484736174548776
+928,154,The answer cannot be determined,0.11791982834422364
+929,154,The question cannot be answered,0.11791982834422364
+930,155,$\it{Other}$,0.21428571428571427
+931,155,Cannot be determined,0.0
+932,155,It is impossible to answer,0.2857142857142857
+933,155,It is not possible to answer the question,0.0
+934,155,The answer cannot be determined,0.35714285714285715
+935,155,The question cannot be answered,0.14285714285714285
+936,156,$\it{Other}$,0.26595425410596907
+937,156,Cannot be determined,0.059162674139640194
+938,156,It is impossible to answer,0.31272428107869366
+939,156,It is not possible to answer the question,0.0
+940,156,The answer cannot be determined,0.26917429577507146
+941,156,The question cannot be answered,0.09298449490062552
+942,157,$\it{Other}$,0.4035163304689083
+943,157,Cannot be determined,0.0
+944,157,It is impossible to answer,0.29005142489568564
+945,157,It is not possible to answer the question,0.0
+946,157,The answer cannot be determined,0.1614065321875633
+947,157,The question cannot be answered,0.14502571244784282
+948,158,$\it{Other}$,0.21945061002837826
+949,158,Cannot be determined,0.0
+950,158,It is impossible to answer,0.31489506634557746
+951,158,It is not possible to answer the question,0.0
+952,158,The answer cannot be determined,0.3015185145609336
+953,158,The question cannot be answered,0.16413580906511066
+954,159,$\it{Other}$,0.2727272727272727
+955,159,Cannot be determined,0.0
+956,159,It is impossible to answer,0.36363636363636365
+957,159,It is not possible to answer the question,0.0
+958,159,The answer cannot be determined,0.2727272727272727
+959,159,The question cannot be answered,0.09090909090909091
+960,160,$\it{Other}$,0.32548216931068996
+961,160,Cannot be determined,0.013452122331337225
+962,160,It is impossible to answer,0.12305676697709753
+963,160,It is not possible to answer the question,0.0
+964,160,The answer cannot be determined,0.49765257438686356
+965,160,The question cannot be answered,0.040356366994011676
+966,161,$\it{Other}$,0.18181818181818182
+967,161,Cannot be determined,0.0
+968,161,It is impossible to answer,0.36363636363636365
+969,161,It is not possible to answer the question,0.0
+970,161,The answer cannot be determined,0.45454545454545453
+971,161,The question cannot be answered,0.0
+972,162,$\it{Other}$,0.2
+973,162,Cannot be determined,0.0
+974,162,It is impossible to answer,0.2
+975,162,It is not possible to answer the question,0.0
+976,162,The answer cannot be determined,0.4
+977,162,The question cannot be answered,0.2
+978,163,$\it{Other}$,0.2222222222222222
+979,163,Cannot be determined,0.0
+980,163,It is impossible to answer,0.1111111111111111
+981,163,It is not possible to answer the question,0.0
+982,163,The answer cannot be determined,0.6666666666666666
+983,163,The question cannot be answered,0.0
+984,164,$\it{Other}$,0.2
+985,164,Cannot be determined,0.0
+986,164,It is impossible to answer,0.2
+987,164,It is not possible to answer the question,0.0
+988,164,The answer cannot be determined,0.4
+989,164,The question cannot be answered,0.2
+990,165,$\it{Other}$,0.42857142857142855
+991,165,Cannot be determined,0.0
+992,165,It is impossible to answer,0.14285714285714285
+993,165,It is not possible to answer the question,0.0
+994,165,The answer cannot be determined,0.42857142857142855
+995,165,The question cannot be answered,0.0
+996,166,$\it{Other}$,0.0
+997,166,Cannot be determined,0.0
+998,166,It is impossible to answer,0.0
+999,166,It is not possible to answer the question,0.0
+1000,166,The answer cannot be determined,1.0
+1001,166,The question cannot be answered,0.0
+1002,167,$\it{Other}$,0.2857142857142857
+1003,167,Cannot be determined,0.0
+1004,167,It is impossible to answer,0.2857142857142857
+1005,167,It is not possible to answer the question,0.0
+1006,167,The answer cannot be determined,0.42857142857142855
+1007,167,The question cannot be answered,0.0
+1008,168,$\it{Other}$,0.25
+1009,168,Cannot be determined,0.0
+1010,168,It is impossible to answer,0.125
+1011,168,It is not possible to answer the question,0.0
+1012,168,The answer cannot be determined,0.625
+1013,168,The question cannot be answered,0.0
+1014,169,$\it{Other}$,0.0
+1015,169,Cannot be determined,0.0
+1016,169,It is impossible to answer,0.2
+1017,169,It is not possible to answer the question,0.0
+1018,169,The answer cannot be determined,0.8
+1019,169,The question cannot be answered,0.0
+1020,170,$\it{Other}$,0.0
+1021,170,Cannot be determined,0.3333333333333333
+1022,170,It is impossible to answer,0.0
+1023,170,It is not possible to answer the question,0.0
+1024,170,The answer cannot be determined,0.6666666666666666
+1025,170,The question cannot be answered,0.0
+1026,171,$\it{Other}$,0.0
+1027,171,Cannot be determined,0.0
+1028,171,It is impossible to answer,0.2
+1029,171,It is not possible to answer the question,0.0
+1030,171,The answer cannot be determined,0.8
+1031,171,The question cannot be answered,0.0
+1032,172,$\it{Other}$,0.0
+1033,172,Cannot be determined,0.0
+1034,172,It is impossible to answer,0.0
+1035,172,It is not possible to answer the question,0.0
+1036,172,The answer cannot be determined,1.0
+1037,172,The question cannot be answered,0.0
+1038,173,$\it{Other}$,0.0
+1039,173,Cannot be determined,0.0
+1040,173,It is impossible to answer,0.0
+1041,173,It is not possible to answer the question,0.0
+1042,173,The answer cannot be determined,0.5
+1043,173,The question cannot be answered,0.5
+1044,174,$\it{Other}$,0.2
+1045,174,Cannot be determined,0.0
+1046,174,It is impossible to answer,0.2
+1047,174,It is not possible to answer the question,0.0
+1048,174,The answer cannot be determined,0.6
+1049,174,The question cannot be answered,0.0
+1050,175,$\it{Other}$,0.0
+1051,175,Cannot be determined,0.0
+1052,175,It is impossible to answer,0.25
+1053,175,It is not possible to answer the question,0.0
+1054,175,The answer cannot be determined,0.75
+1055,175,The question cannot be answered,0.0
+1056,176,$\it{Other}$,0.15188214582255716
+1057,176,Cannot be determined,0.0
+1058,176,It is impossible to answer,0.0
+1059,176,It is not possible to answer the question,0.0
+1060,176,The answer cannot be determined,0.7569885666839086
+1061,176,The question cannot be answered,0.09112928749353429

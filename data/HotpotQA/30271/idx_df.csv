@@ -1,0 +1,1837 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.4934689587363805
+1,0,American,0.06691062752527266
+2,0,American and Canadian,0.010207494237334106
+3,0,Canadian,0.4294129195010126
+4,0,We cannot definitively determine their mutual nationality,0.0
+5,0,We cannot definitively determine their nationality,0.0
+6,1,$\it{Other}$,0.4679596661155695
+7,1,American,0.09167834391591531
+8,1,American and Canadian,0.0
+9,1,Canadian,0.44036198996851517
+10,1,We cannot definitively determine their mutual nationality,0.0
+11,1,We cannot definitively determine their nationality,0.0
+12,2,$\it{Other}$,0.36666666666666664
+13,2,American,0.16666666666666666
+14,2,American and Canadian,0.0
+15,2,Canadian,0.4666666666666667
+16,2,We cannot definitively determine their mutual nationality,0.0
+17,2,We cannot definitively determine their nationality,0.0
+18,3,$\it{Other}$,0.423467196879418
+19,3,American,0.06320450834186897
+20,3,American and Canadian,0.01951567963283106
+21,3,Canadian,0.493812615145882
+22,3,We cannot definitively determine their mutual nationality,0.0
+23,3,We cannot definitively determine their nationality,0.0
+24,4,$\it{Other}$,0.5735023883796169
+25,4,American,0.06335446521411878
+26,4,American and Canadian,0.0
+27,4,Canadian,0.3631431464062642
+28,4,We cannot definitively determine their mutual nationality,0.0
+29,4,We cannot definitively determine their nationality,0.0
+30,5,$\it{Other}$,0.43333333333333335
+31,5,American,0.06666666666666667
+32,5,American and Canadian,0.0
+33,5,Canadian,0.5
+34,5,We cannot definitively determine their mutual nationality,0.0
+35,5,We cannot definitively determine their nationality,0.0
+36,6,$\it{Other}$,0.5
+37,6,American,0.13333333333333333
+38,6,American and Canadian,0.0
+39,6,Canadian,0.36666666666666664
+40,6,We cannot definitively determine their mutual nationality,0.0
+41,6,We cannot definitively determine their nationality,0.0
+42,7,$\it{Other}$,0.4666666666666667
+43,7,American,0.03333333333333333
+44,7,American and Canadian,0.0
+45,7,Canadian,0.5
+46,7,We cannot definitively determine their mutual nationality,0.0
+47,7,We cannot definitively determine their nationality,0.0
+48,8,$\it{Other}$,0.26666666666666666
+49,8,American,0.13333333333333333
+50,8,American and Canadian,0.0
+51,8,Canadian,0.6
+52,8,We cannot definitively determine their mutual nationality,0.0
+53,8,We cannot definitively determine their nationality,0.0
+54,9,$\it{Other}$,0.43333333333333335
+55,9,American,0.06666666666666667
+56,9,American and Canadian,0.0
+57,9,Canadian,0.5
+58,9,We cannot definitively determine their mutual nationality,0.0
+59,9,We cannot definitively determine their nationality,0.0
+60,10,$\it{Other}$,0.43333333333333335
+61,10,American,0.03333333333333333
+62,10,American and Canadian,0.0
+63,10,Canadian,0.5333333333333333
+64,10,We cannot definitively determine their mutual nationality,0.0
+65,10,We cannot definitively determine their nationality,0.0
+66,11,$\it{Other}$,0.3
+67,11,American,0.06666666666666667
+68,11,American and Canadian,0.06666666666666667
+69,11,Canadian,0.5666666666666667
+70,11,We cannot definitively determine their mutual nationality,0.0
+71,11,We cannot definitively determine their nationality,0.0
+72,12,$\it{Other}$,0.36666666666666664
+73,12,American,0.1
+74,12,American and Canadian,0.0
+75,12,Canadian,0.5333333333333333
+76,12,We cannot definitively determine their mutual nationality,0.0
+77,12,We cannot definitively determine their nationality,0.0
+78,13,$\it{Other}$,0.26666666666666666
+79,13,American,0.13333333333333333
+80,13,American and Canadian,0.0
+81,13,Canadian,0.6
+82,13,We cannot definitively determine their mutual nationality,0.0
+83,13,We cannot definitively determine their nationality,0.0
+84,14,$\it{Other}$,0.4464148782133649
+85,14,American,0.044189971561467034
+86,14,American and Canadian,0.02101520710223394
+87,14,Canadian,0.488379943122934
+88,14,We cannot definitively determine their mutual nationality,0.0
+89,14,We cannot definitively determine their nationality,0.0
+90,15,$\it{Other}$,0.4570890922765057
+91,15,American,0.11187787947158617
+92,15,American and Canadian,0.0
+93,15,Canadian,0.43103302825190815
+94,15,We cannot definitively determine their mutual nationality,0.0
+95,15,We cannot definitively determine their nationality,0.0
+96,16,$\it{Other}$,0.4545487084678037
+97,16,American,0.03333333333333333
+98,16,American and Canadian,0.0
+99,16,Canadian,0.5121179581988631
+100,16,We cannot definitively determine their mutual nationality,0.0
+101,16,We cannot definitively determine their nationality,0.0
+102,17,$\it{Other}$,0.4666666666666667
+103,17,American,0.1
+104,17,American and Canadian,0.0
+105,17,Canadian,0.43333333333333335
+106,17,We cannot definitively determine their mutual nationality,0.0
+107,17,We cannot definitively determine their nationality,0.0
+108,18,$\it{Other}$,0.41181834605603973
+109,18,American,0.15590917302801985
+110,18,American and Canadian,0.0
+111,18,Canadian,0.4322724809159405
+112,18,We cannot definitively determine their mutual nationality,0.0
+113,18,We cannot definitively determine their nationality,0.0
+114,19,$\it{Other}$,0.4977506866578353
+115,19,American,0.10840710222614725
+116,19,American and Canadian,0.01456489111012985
+117,19,Canadian,0.37927732000588754
+118,19,We cannot definitively determine their mutual nationality,0.0
+119,19,We cannot definitively determine their nationality,0.0
+120,20,$\it{Other}$,0.3704911056908443
+121,20,American,0.14013784617221905
+122,20,American and Canadian,0.010006697666447989
+123,20,Canadian,0.47936435047048864
+124,20,We cannot definitively determine their mutual nationality,0.0
+125,20,We cannot definitively determine their nationality,0.0
+126,21,$\it{Other}$,0.3807746884773151
+127,21,American,0.13333333333333333
+128,21,American and Canadian,0.015448289231673237
+129,21,Canadian,0.4704436889576782
+130,21,We cannot definitively determine their mutual nationality,0.0
+131,21,We cannot definitively determine their nationality,0.0
+132,22,$\it{Other}$,0.3333333333333333
+133,22,American,0.16666666666666666
+134,22,American and Canadian,0.0
+135,22,Canadian,0.5
+136,22,We cannot definitively determine their mutual nationality,0.0
+137,22,We cannot definitively determine their nationality,0.0
+138,23,$\it{Other}$,0.31268247708280844
+139,23,American,0.20796837916771638
+140,23,American and Canadian,0.0
+141,23,Canadian,0.4793491437494751
+142,23,We cannot definitively determine their mutual nationality,0.0
+143,23,We cannot definitively determine their nationality,0.0
+144,24,$\it{Other}$,0.297187762036334
+145,24,American,0.1593052061737768
+146,24,American and Canadian,0.023159634876777538
+147,24,Canadian,0.5203473969131115
+148,24,We cannot definitively determine their mutual nationality,0.0
+149,24,We cannot definitively determine their nationality,0.0
+150,25,$\it{Other}$,0.3794401465192868
+151,25,American,0.2059201953590491
+152,25,American and Canadian,0.0068532844935710584
+153,25,Canadian,0.40778637362809295
+154,25,We cannot definitively determine their mutual nationality,0.0
+155,25,We cannot definitively determine their nationality,0.0
+156,26,$\it{Other}$,0.4258446087603443
+157,26,American,0.10187218114324725
+158,26,American and Canadian,0.0
+159,26,Canadian,0.47228321009640845
+160,26,We cannot definitively determine their mutual nationality,0.0
+161,26,We cannot definitively determine their nationality,0.0
+162,27,$\it{Other}$,0.26666666666666666
+163,27,American,0.1
+164,27,American and Canadian,0.0
+165,27,Canadian,0.6333333333333333
+166,27,We cannot definitively determine their mutual nationality,0.0
+167,27,We cannot definitively determine their nationality,0.0
+168,28,$\it{Other}$,0.4561549882861235
+169,28,American,0.03858917252360492
+170,28,American and Canadian,0.0
+171,28,Canadian,0.5052558391902716
+172,28,We cannot definitively determine their mutual nationality,0.0
+173,28,We cannot definitively determine their nationality,0.0
+174,29,$\it{Other}$,0.23922730412986867
+175,29,American,0.13934398136372547
+176,29,American and Canadian,0.0
+177,29,Canadian,0.6214287145064058
+178,29,We cannot definitively determine their mutual nationality,0.0
+179,29,We cannot definitively determine their nationality,0.0
+180,30,$\it{Other}$,0.23333333333333334
+181,30,American,0.1
+182,30,American and Canadian,0.03333333333333333
+183,30,Canadian,0.6333333333333333
+184,30,We cannot definitively determine their mutual nationality,0.0
+185,30,We cannot definitively determine their nationality,0.0
+186,31,$\it{Other}$,0.2
+187,31,American,0.06666666666666667
+188,31,American and Canadian,0.0
+189,31,Canadian,0.7333333333333333
+190,31,We cannot definitively determine their mutual nationality,0.0
+191,31,We cannot definitively determine their nationality,0.0
+192,32,$\it{Other}$,0.26666666666666666
+193,32,American,0.13333333333333333
+194,32,American and Canadian,0.0
+195,32,Canadian,0.6
+196,32,We cannot definitively determine their mutual nationality,0.0
+197,32,We cannot definitively determine their nationality,0.0
+198,33,$\it{Other}$,0.26666666666666666
+199,33,American,0.2
+200,33,American and Canadian,0.0
+201,33,Canadian,0.5333333333333333
+202,33,We cannot definitively determine their mutual nationality,0.0
+203,33,We cannot definitively determine their nationality,0.0
+204,34,$\it{Other}$,0.23333333333333334
+205,34,American,0.13333333333333333
+206,34,American and Canadian,0.0
+207,34,Canadian,0.6333333333333333
+208,34,We cannot definitively determine their mutual nationality,0.0
+209,34,We cannot definitively determine their nationality,0.0
+210,35,$\it{Other}$,0.26666666666666666
+211,35,American,0.06666666666666667
+212,35,American and Canadian,0.0
+213,35,Canadian,0.6666666666666666
+214,35,We cannot definitively determine their mutual nationality,0.0
+215,35,We cannot definitively determine their nationality,0.0
+216,36,$\it{Other}$,0.36666666666666664
+217,36,American,0.06666666666666667
+218,36,American and Canadian,0.0
+219,36,Canadian,0.5666666666666667
+220,36,We cannot definitively determine their mutual nationality,0.0
+221,36,We cannot definitively determine their nationality,0.0
+222,37,$\it{Other}$,0.2
+223,37,American,0.23333333333333334
+224,37,American and Canadian,0.0
+225,37,Canadian,0.5666666666666667
+226,37,We cannot definitively determine their mutual nationality,0.0
+227,37,We cannot definitively determine their nationality,0.0
+228,38,$\it{Other}$,0.4
+229,38,American,0.1
+230,38,American and Canadian,0.0
+231,38,Canadian,0.5
+232,38,We cannot definitively determine their mutual nationality,0.0
+233,38,We cannot definitively determine their nationality,0.0
+234,39,$\it{Other}$,0.217771369136427
+235,39,American,0.08222863086357303
+236,39,American and Canadian,0.024447648765119845
+237,39,Canadian,0.6755523512348802
+238,39,We cannot definitively determine their mutual nationality,0.0
+239,39,We cannot definitively determine their nationality,0.0
+240,40,$\it{Other}$,0.30446943312324537
+241,40,American,0.10446943312324534
+242,40,American and Canadian,0.018901383228289336
+243,40,Canadian,0.5721597505252201
+244,40,We cannot definitively determine their mutual nationality,0.0
+245,40,We cannot definitively determine their nationality,0.0
+246,41,$\it{Other}$,0.29845627038760536
+247,41,American,0.1841051981395307
+248,41,American and Canadian,0.025385932403098662
+249,41,Canadian,0.49205259906976534
+250,41,We cannot definitively determine their mutual nationality,0.0
+251,41,We cannot definitively determine their nationality,0.0
+252,42,$\it{Other}$,0.16666666666666666
+253,42,American,0.06666666666666667
+254,42,American and Canadian,0.0
+255,42,Canadian,0.7666666666666667
+256,42,We cannot definitively determine their mutual nationality,0.0
+257,42,We cannot definitively determine their nationality,0.0
+258,43,$\it{Other}$,0.3
+259,43,American,0.06666666666666667
+260,43,American and Canadian,0.0
+261,43,Canadian,0.6333333333333333
+262,43,We cannot definitively determine their mutual nationality,0.0
+263,43,We cannot definitively determine their nationality,0.0
+264,44,$\it{Other}$,0.2712850016402001
+265,44,American,0.1287149983597999
+266,44,American and Canadian,0.0
+267,44,Canadian,0.6
+268,44,We cannot definitively determine their mutual nationality,0.0
+269,44,We cannot definitively determine their nationality,0.0
+270,45,$\it{Other}$,0.3
+271,45,American,0.03333333333333333
+272,45,American and Canadian,0.0
+273,45,Canadian,0.6666666666666666
+274,45,We cannot definitively determine their mutual nationality,0.0
+275,45,We cannot definitively determine their nationality,0.0
+276,46,$\it{Other}$,0.3333333333333333
+277,46,American,0.23333333333333334
+278,46,American and Canadian,0.0
+279,46,Canadian,0.43333333333333335
+280,46,We cannot definitively determine their mutual nationality,0.0
+281,46,We cannot definitively determine their nationality,0.0
+282,47,$\it{Other}$,0.4122159596485252
+283,47,American,0.1363073385077573
+284,47,American and Canadian,0.0
+285,47,Canadian,0.45147670184371747
+286,47,We cannot definitively determine their mutual nationality,0.0
+287,47,We cannot definitively determine their nationality,0.0
+288,48,$\it{Other}$,0.2896845168896291
+289,48,American,0.13427269309951306
+290,48,American and Canadian,0.0
+291,48,Canadian,0.5760427900108578
+292,48,We cannot definitively determine their mutual nationality,0.0
+293,48,We cannot definitively determine their nationality,0.0
+294,49,$\it{Other}$,0.36498006796485666
+295,49,American,0.11470676440916418
+296,49,American and Canadian,0.0
+297,49,Canadian,0.5203131676259791
+298,49,We cannot definitively determine their mutual nationality,0.0
+299,49,We cannot definitively determine their nationality,0.0
+300,50,$\it{Other}$,0.3333333333333333
+301,50,American,0.2
+302,50,American and Canadian,0.0
+303,50,Canadian,0.4666666666666667
+304,50,We cannot definitively determine their mutual nationality,0.0
+305,50,We cannot definitively determine their nationality,0.0
+306,51,$\it{Other}$,0.2969820655857857
+307,51,American,0.16968460108088093
+308,51,American and Canadian,0.0
+309,51,Canadian,0.5333333333333333
+310,51,We cannot definitively determine their mutual nationality,0.0
+311,51,We cannot definitively determine their nationality,0.0
+312,52,$\it{Other}$,0.43333333333333335
+313,52,American,0.1
+314,52,American and Canadian,0.06666666666666667
+315,52,Canadian,0.4
+316,52,We cannot definitively determine their mutual nationality,0.0
+317,52,We cannot definitively determine their nationality,0.0
+318,53,$\it{Other}$,0.26666666666666666
+319,53,American,0.13333333333333333
+320,53,American and Canadian,0.0
+321,53,Canadian,0.6
+322,53,We cannot definitively determine their mutual nationality,0.0
+323,53,We cannot definitively determine their nationality,0.0
+324,54,$\it{Other}$,0.3220532862976228
+325,54,American,0.11784535214761753
+326,54,American and Canadian,0.024410657259524567
+327,54,Canadian,0.535690704295235
+328,54,We cannot definitively determine their mutual nationality,0.0
+329,54,We cannot definitively determine their nationality,0.0
+330,55,$\it{Other}$,0.26666666666666666
+331,55,American,0.1
+332,55,American and Canadian,0.0
+333,55,Canadian,0.6333333333333333
+334,55,We cannot definitively determine their mutual nationality,0.0
+335,55,We cannot definitively determine their nationality,0.0
+336,56,$\it{Other}$,0.2427535443598426
+337,56,American,0.2525363501269028
+338,56,American and Canadian,0.0
+339,56,Canadian,0.5047101055132546
+340,56,We cannot definitively determine their mutual nationality,0.0
+341,56,We cannot definitively determine their nationality,0.0
+342,57,$\it{Other}$,0.24705850791277584
+343,57,American,0.1243143958268472
+344,57,American and Canadian,0.0
+345,57,Canadian,0.6286270962603768
+346,57,We cannot definitively determine their mutual nationality,0.0
+347,57,We cannot definitively determine their nationality,0.0
+348,58,$\it{Other}$,0.19289614885235362
+349,58,American,0.16989643403174087
+350,58,American and Canadian,0.0018957220711304595
+351,58,Canadian,0.6353116950447749
+352,58,We cannot definitively determine their mutual nationality,0.0
+353,58,We cannot definitively determine their nationality,0.0
+354,59,$\it{Other}$,0.23333333333333334
+355,59,American,0.16666666666666666
+356,59,American and Canadian,0.0
+357,59,Canadian,0.6
+358,59,We cannot definitively determine their mutual nationality,0.0
+359,59,We cannot definitively determine their nationality,0.0
+360,60,$\it{Other}$,0.2374783935831414
+361,60,American,0.22963466008780944
+362,60,American and Canadian,0.025794230622872748
+363,60,Canadian,0.5070927157061764
+364,60,We cannot definitively determine their mutual nationality,0.0
+365,60,We cannot definitively determine their nationality,0.0
+366,61,$\it{Other}$,0.23333333333333334
+367,61,American,0.13333333333333333
+368,61,American and Canadian,0.0
+369,61,Canadian,0.6333333333333333
+370,61,We cannot definitively determine their mutual nationality,0.0
+371,61,We cannot definitively determine their nationality,0.0
+372,62,$\it{Other}$,0.23333333333333334
+373,62,American,0.13333333333333333
+374,62,American and Canadian,0.0
+375,62,Canadian,0.6333333333333333
+376,62,We cannot definitively determine their mutual nationality,0.0
+377,62,We cannot definitively determine their nationality,0.0
+378,63,$\it{Other}$,0.29165453123954466
+379,63,American,0.11177898627143353
+380,63,American and Canadian,0.005388601283457458
+381,63,Canadian,0.5911778812055644
+382,63,We cannot definitively determine their mutual nationality,0.0
+383,63,We cannot definitively determine their nationality,0.0
+384,64,$\it{Other}$,0.1
+385,64,American,0.2
+386,64,American and Canadian,0.0
+387,64,Canadian,0.7
+388,64,We cannot definitively determine their mutual nationality,0.0
+389,64,We cannot definitively determine their nationality,0.0
+390,65,$\it{Other}$,0.2671738654161759
+391,65,American,0.11000126550008774
+392,65,American and Canadian,0.014138820411311273
+393,65,Canadian,0.6086860486724252
+394,65,We cannot definitively determine their mutual nationality,0.0
+395,65,We cannot definitively determine their nationality,0.0
+396,66,$\it{Other}$,0.3616410353986678
+397,66,American,0.14502602884244342
+398,66,American and Canadian,0.011153250209802073
+399,66,Canadian,0.48217968554908675
+400,66,We cannot definitively determine their mutual nationality,0.0
+401,66,We cannot definitively determine their nationality,0.0
+402,67,$\it{Other}$,0.3333333333333333
+403,67,American,0.06666666666666667
+404,67,American and Canadian,0.0
+405,67,Canadian,0.6
+406,67,We cannot definitively determine their mutual nationality,0.0
+407,67,We cannot definitively determine their nationality,0.0
+408,68,$\it{Other}$,0.23333333333333334
+409,68,American,0.16666666666666666
+410,68,American and Canadian,0.03333333333333333
+411,68,Canadian,0.5666666666666667
+412,68,We cannot definitively determine their mutual nationality,0.0
+413,68,We cannot definitively determine their nationality,0.0
+414,69,$\it{Other}$,0.26666666666666666
+415,69,American,0.1
+416,69,American and Canadian,0.0
+417,69,Canadian,0.6333333333333333
+418,69,We cannot definitively determine their mutual nationality,0.0
+419,69,We cannot definitively determine their nationality,0.0
+420,70,$\it{Other}$,0.1
+421,70,American,0.16666666666666666
+422,70,American and Canadian,0.0
+423,70,Canadian,0.7333333333333333
+424,70,We cannot definitively determine their mutual nationality,0.0
+425,70,We cannot definitively determine their nationality,0.0
+426,71,$\it{Other}$,0.2
+427,71,American,0.1
+428,71,American and Canadian,0.0
+429,71,Canadian,0.7
+430,71,We cannot definitively determine their mutual nationality,0.0
+431,71,We cannot definitively determine their nationality,0.0
+432,72,$\it{Other}$,0.23333333333333334
+433,72,American,0.2
+434,72,American and Canadian,0.03333333333333333
+435,72,Canadian,0.5333333333333333
+436,72,We cannot definitively determine their mutual nationality,0.0
+437,72,We cannot definitively determine their nationality,0.0
+438,73,$\it{Other}$,0.21255057458098767
+439,73,American,0.16107115486104584
+440,73,American and Canadian,0.028665170102954978
+441,73,Canadian,0.5977131004550115
+442,73,We cannot definitively determine their mutual nationality,0.0
+443,73,We cannot definitively determine their nationality,0.0
+444,74,$\it{Other}$,0.36666666666666664
+445,74,American,0.2
+446,74,American and Canadian,0.0
+447,74,Canadian,0.43333333333333335
+448,74,We cannot definitively determine their mutual nationality,0.0
+449,74,We cannot definitively determine their nationality,0.0
+450,75,$\it{Other}$,0.16666666666666666
+451,75,American,0.13333333333333333
+452,75,American and Canadian,0.03333333333333333
+453,75,Canadian,0.6666666666666666
+454,75,We cannot definitively determine their mutual nationality,0.0
+455,75,We cannot definitively determine their nationality,0.0
+456,76,$\it{Other}$,0.26666666666666666
+457,76,American,0.20550564163885104
+458,76,American and Canadian,0.03333333333333333
+459,76,Canadian,0.49449435836114897
+460,76,We cannot definitively determine their mutual nationality,0.0
+461,76,We cannot definitively determine their nationality,0.0
+462,77,$\it{Other}$,0.16454142862287113
+463,77,American,0.17125840275194645
+464,77,American and Canadian,0.057716708822962266
+465,77,Canadian,0.6064834598022201
+466,77,We cannot definitively determine their mutual nationality,0.0
+467,77,We cannot definitively determine their nationality,0.0
+468,78,$\it{Other}$,0.09474955490779363
+469,78,American,0.29297927793971823
+470,78,American and Canadian,0.02631261127305159
+471,78,Canadian,0.5859585558794365
+472,78,We cannot definitively determine their mutual nationality,0.0
+473,78,We cannot definitively determine their nationality,0.0
+474,79,$\it{Other}$,0.22178231725268516
+475,79,American,0.1782176827473149
+476,79,American and Canadian,0.011551016080648216
+477,79,Canadian,0.5884489839193519
+478,79,We cannot definitively determine their mutual nationality,0.0
+479,79,We cannot definitively determine their nationality,0.0
+480,80,$\it{Other}$,0.13333333333333333
+481,80,American,0.1
+482,80,American and Canadian,0.0
+483,80,Canadian,0.7666666666666667
+484,80,We cannot definitively determine their mutual nationality,0.0
+485,80,We cannot definitively determine their nationality,0.0
+486,81,$\it{Other}$,0.36666666666666664
+487,81,American,0.1
+488,81,American and Canadian,0.0
+489,81,Canadian,0.5333333333333333
+490,81,We cannot definitively determine their mutual nationality,0.0
+491,81,We cannot definitively determine their nationality,0.0
+492,82,$\it{Other}$,0.16666666666666666
+493,82,American,0.2
+494,82,American and Canadian,0.0
+495,82,Canadian,0.6333333333333333
+496,82,We cannot definitively determine their mutual nationality,0.0
+497,82,We cannot definitively determine their nationality,0.0
+498,83,$\it{Other}$,0.2
+499,83,American,0.13333333333333333
+500,83,American and Canadian,0.0
+501,83,Canadian,0.6666666666666666
+502,83,We cannot definitively determine their mutual nationality,0.0
+503,83,We cannot definitively determine their nationality,0.0
+504,84,$\it{Other}$,0.22879078574274053
+505,84,American,0.12847978353985615
+506,84,American and Canadian,0.002665581486486757
+507,84,Canadian,0.6400638492309165
+508,84,We cannot definitively determine their mutual nationality,0.0
+509,84,We cannot definitively determine their nationality,0.0
+510,85,$\it{Other}$,0.3333333333333333
+511,85,American,0.16666666666666666
+512,85,American and Canadian,0.0
+513,85,Canadian,0.5
+514,85,We cannot definitively determine their mutual nationality,0.0
+515,85,We cannot definitively determine their nationality,0.0
+516,86,$\it{Other}$,0.26277015346787913
+517,86,American,0.28640939945899524
+518,86,American and Canadian,0.011457770724600594
+519,86,Canadian,0.439362676348525
+520,86,We cannot definitively determine their mutual nationality,0.0
+521,86,We cannot definitively determine their nationality,0.0
+522,87,$\it{Other}$,0.21342457157867686
+523,87,American,0.24263831515770445
+524,87,American and Canadian,0.033333333333333326
+525,87,Canadian,0.5106037799302853
+526,87,We cannot definitively determine their mutual nationality,0.0
+527,87,We cannot definitively determine their nationality,0.0
+528,88,$\it{Other}$,0.20283563960632847
+529,88,American,0.16993447921725455
+530,88,American and Canadian,0.0024286380205939847
+531,88,Canadian,0.624801243155823
+532,88,We cannot definitively determine their mutual nationality,0.0
+533,88,We cannot definitively determine their nationality,0.0
+534,89,$\it{Other}$,0.2
+535,89,American,0.4
+536,89,American and Canadian,0.0
+537,89,Canadian,0.4
+538,89,We cannot definitively determine their mutual nationality,0.0
+539,89,We cannot definitively determine their nationality,0.0
+540,90,$\it{Other}$,0.23333333333333334
+541,90,American,0.2
+542,90,American and Canadian,0.0
+543,90,Canadian,0.5666666666666667
+544,90,We cannot definitively determine their mutual nationality,0.0
+545,90,We cannot definitively determine their nationality,0.0
+546,91,$\it{Other}$,0.2384476793719887
+547,91,American,0.26155232062801126
+548,91,American and Canadian,0.0
+549,91,Canadian,0.5
+550,91,We cannot definitively determine their mutual nationality,0.0
+551,91,We cannot definitively determine their nationality,0.0
+552,92,$\it{Other}$,0.3063856538314298
+553,92,American,0.14835549121800296
+554,92,American and Canadian,0.02446781825385238
+555,92,Canadian,0.5207910366967149
+556,92,We cannot definitively determine their mutual nationality,0.0
+557,92,We cannot definitively determine their nationality,0.0
+558,93,$\it{Other}$,0.20566135123260754
+559,93,American,0.0903905999331397
+560,93,American and Canadian,0.0
+561,93,Canadian,0.7039480488342528
+562,93,We cannot definitively determine their mutual nationality,0.0
+563,93,We cannot definitively determine their nationality,0.0
+564,94,$\it{Other}$,0.30861247429610816
+565,94,American,0.1529234700062854
+566,94,American and Canadian,0.0026192360609216927
+567,94,Canadian,0.5358448196366847
+568,94,We cannot definitively determine their mutual nationality,0.0
+569,94,We cannot definitively determine their nationality,0.0
+570,95,$\it{Other}$,0.36666666666666664
+571,95,American,0.2
+572,95,American and Canadian,0.0
+573,95,Canadian,0.43333333333333335
+574,95,We cannot definitively determine their mutual nationality,0.0
+575,95,We cannot definitively determine their nationality,0.0
+576,96,$\it{Other}$,0.3
+577,96,American,0.13333333333333333
+578,96,American and Canadian,0.0
+579,96,Canadian,0.5666666666666667
+580,96,We cannot definitively determine their mutual nationality,0.0
+581,96,We cannot definitively determine their nationality,0.0
+582,97,$\it{Other}$,0.3
+583,97,American,0.23333333333333334
+584,97,American and Canadian,0.03333333333333333
+585,97,Canadian,0.43333333333333335
+586,97,We cannot definitively determine their mutual nationality,0.0
+587,97,We cannot definitively determine their nationality,0.0
+588,98,$\it{Other}$,0.23333333333333334
+589,98,American,0.26666666666666666
+590,98,American and Canadian,0.0
+591,98,Canadian,0.5
+592,98,We cannot definitively determine their mutual nationality,0.0
+593,98,We cannot definitively determine their nationality,0.0
+594,99,$\it{Other}$,0.16666666666666666
+595,99,American,0.16666666666666666
+596,99,American and Canadian,0.0
+597,99,Canadian,0.6666666666666666
+598,99,We cannot definitively determine their mutual nationality,0.0
+599,99,We cannot definitively determine their nationality,0.0
+600,100,$\it{Other}$,0.1788939992652131
+601,100,American,0.2738710025717543
+602,100,American and Canadian,0.022780332965939867
+603,100,Canadian,0.5244546651970928
+604,100,We cannot definitively determine their mutual nationality,0.0
+605,100,We cannot definitively determine their nationality,0.0
+606,101,$\it{Other}$,0.25034392067921585
+607,101,American,0.16791796057496655
+608,101,American and Canadian,0.04296053493742695
+609,101,Canadian,0.5387775838083906
+610,101,We cannot definitively determine their mutual nationality,0.0
+611,101,We cannot definitively determine their nationality,0.0
+612,102,$\it{Other}$,0.23563840917985973
+613,102,American,0.4195028782541749
+614,102,American and Canadian,0.0023050758465264025
+615,102,Canadian,0.34255363671943895
+616,102,We cannot definitively determine their mutual nationality,0.0
+617,102,We cannot definitively determine their nationality,0.0
+618,103,$\it{Other}$,0.23333333333333334
+619,103,American,0.26666666666666666
+620,103,American and Canadian,0.0
+621,103,Canadian,0.5
+622,103,We cannot definitively determine their mutual nationality,0.0
+623,103,We cannot definitively determine their nationality,0.0
+624,104,$\it{Other}$,0.2679223568635694
+625,104,American,0.321385095424287
+626,104,American and Canadian,0.0
+627,104,Canadian,0.41069254771214353
+628,104,We cannot definitively determine their mutual nationality,0.0
+629,104,We cannot definitively determine their nationality,0.0
+630,105,$\it{Other}$,0.4188725212541404
+631,105,American,0.2290308046770244
+632,105,American and Canadian,0.031456999259783146
+633,105,Canadian,0.3206396748090521
+634,105,We cannot definitively determine their mutual nationality,0.0
+635,105,We cannot definitively determine their nationality,0.0
+636,106,$\it{Other}$,0.19770517375220056
+637,106,American,0.2781909504752643
+638,106,American and Canadian,0.049941409373319826
+639,106,Canadian,0.4741624663992152
+640,106,We cannot definitively determine their mutual nationality,0.0
+641,106,We cannot definitively determine their nationality,0.0
+642,107,$\it{Other}$,0.20900098865332115
+643,107,American,0.31881992109660645
+644,107,American and Canadian,0.02600385556295374
+645,107,Canadian,0.4461752346871187
+646,107,We cannot definitively determine their mutual nationality,0.0
+647,107,We cannot definitively determine their nationality,0.0
+648,108,$\it{Other}$,0.2892000436878533
+649,108,American,0.3892179628175114
+650,108,American and Canadian,0.08570660608728935
+651,108,Canadian,0.23587538740734593
+652,108,We cannot definitively determine their mutual nationality,0.0
+653,108,We cannot definitively determine their nationality,0.0
+654,109,$\it{Other}$,0.23333333333333334
+655,109,American,0.3333333333333333
+656,109,American and Canadian,0.1
+657,109,Canadian,0.3333333333333333
+658,109,We cannot definitively determine their mutual nationality,0.0
+659,109,We cannot definitively determine their nationality,0.0
+660,110,$\it{Other}$,0.18868302261748487
+661,110,American,0.36796975419001976
+662,110,American and Canadian,0.043303670239730974
+663,110,Canadian,0.40004355295276434
+664,110,We cannot definitively determine their mutual nationality,0.0
+665,110,We cannot definitively determine their nationality,0.0
+666,111,$\it{Other}$,0.23333333333333334
+667,111,American,0.5666666666666667
+668,111,American and Canadian,0.1
+669,111,Canadian,0.1
+670,111,We cannot definitively determine their mutual nationality,0.0
+671,111,We cannot definitively determine their nationality,0.0
+672,112,$\it{Other}$,0.327841711185402
+673,112,American,0.5168584668895394
+674,112,American and Canadian,0.06666666666666667
+675,112,Canadian,0.088633155258392
+676,112,We cannot definitively determine their mutual nationality,0.0
+677,112,We cannot definitively determine their nationality,0.0
+678,113,$\it{Other}$,0.13333333333333333
+679,113,American,0.6666666666666666
+680,113,American and Canadian,0.06666666666666667
+681,113,Canadian,0.13333333333333333
+682,113,We cannot definitively determine their mutual nationality,0.0
+683,113,We cannot definitively determine their nationality,0.0
+684,114,$\it{Other}$,0.2
+685,114,American,0.5
+686,114,American and Canadian,0.0
+687,114,Canadian,0.3
+688,114,We cannot definitively determine their mutual nationality,0.0
+689,114,We cannot definitively determine their nationality,0.0
+690,115,$\it{Other}$,0.16149506727063767
+691,115,American,0.5136606665653959
+692,115,American and Canadian,0.09594186532694854
+693,115,Canadian,0.22890240083701788
+694,115,We cannot definitively determine their mutual nationality,0.0
+695,115,We cannot definitively determine their nationality,0.0
+696,116,$\it{Other}$,0.1
+697,116,American,0.4
+698,116,American and Canadian,0.16666666666666666
+699,116,Canadian,0.3333333333333333
+700,116,We cannot definitively determine their mutual nationality,0.0
+701,116,We cannot definitively determine their nationality,0.0
+702,117,$\it{Other}$,0.17210148867537772
+703,117,American,0.4188404746434372
+704,117,American and Canadian,0.15760862998548159
+705,117,Canadian,0.21992768069860721
+706,117,We cannot definitively determine their mutual nationality,0.031521725997096316
+707,117,We cannot definitively determine their nationality,0.0
+708,118,$\it{Other}$,0.26266494550509645
+709,118,American,0.2844684133330741
+710,118,American and Canadian,0.16549468985871965
+711,118,Canadian,0.2873719513031097
+712,118,We cannot definitively determine their mutual nationality,0.0
+713,118,We cannot definitively determine their nationality,0.0
+714,119,$\it{Other}$,0.24502962355533348
+715,119,American,0.3471585872239319
+716,119,American and Canadian,0.11950807944273467
+717,119,Canadian,0.28830370977799985
+718,119,We cannot definitively determine their mutual nationality,0.0
+719,119,We cannot definitively determine their nationality,0.0
+720,120,$\it{Other}$,0.19256684670597538
+721,120,American,0.36398967412933914
+722,120,American and Canadian,0.22827826041765725
+723,120,Canadian,0.21516521874702832
+724,120,We cannot definitively determine their mutual nationality,0.0
+725,120,We cannot definitively determine their nationality,0.0
+726,121,$\it{Other}$,0.15962426510465783
+727,121,American,0.3808611448542977
+728,121,American and Canadian,0.18870115139248073
+729,121,Canadian,0.27081343864856383
+730,121,We cannot definitively determine their mutual nationality,0.0
+731,121,We cannot definitively determine their nationality,0.0
+732,122,$\it{Other}$,0.18321960762927875
+733,122,American,0.35867123399254
+734,122,American and Canadian,0.2408747691107307
+735,122,Canadian,0.21723438926745056
+736,122,We cannot definitively determine their mutual nationality,0.0
+737,122,We cannot definitively determine their nationality,0.0
+738,123,$\it{Other}$,0.26666666666666666
+739,123,American,0.30226223139497166
+740,123,American and Canadian,0.20226223139497163
+741,123,Canadian,0.2288088705433901
+742,123,We cannot definitively determine their mutual nationality,0.0
+743,123,We cannot definitively determine their nationality,0.0
+744,124,$\it{Other}$,0.20608630623817925
+745,124,American,0.3095866612856515
+746,124,American and Canadian,0.19182241223142743
+747,124,Canadian,0.2925046202447418
+748,124,We cannot definitively determine their mutual nationality,0.0
+749,124,We cannot definitively determine their nationality,0.0
+750,125,$\it{Other}$,0.2
+751,125,American,0.26666666666666666
+752,125,American and Canadian,0.3333333333333333
+753,125,Canadian,0.2
+754,125,We cannot definitively determine their mutual nationality,0.0
+755,125,We cannot definitively determine their nationality,0.0
+756,126,$\it{Other}$,0.17924926155219775
+757,126,American,0.35220722566163
+758,126,American and Canadian,0.18112610767170334
+759,126,Canadian,0.2874174051144689
+760,126,We cannot definitively determine their mutual nationality,0.0
+761,126,We cannot definitively determine their nationality,0.0
+762,127,$\it{Other}$,0.2246823790908236
+763,127,American,0.28396857515168616
+764,127,American and Canadian,0.19134904575749023
+765,127,Canadian,0.3
+766,127,We cannot definitively determine their mutual nationality,0.0
+767,127,We cannot definitively determine their nationality,0.0
+768,128,$\it{Other}$,0.13333333333333333
+769,128,American,0.5333333333333333
+770,128,American and Canadian,0.26666666666666666
+771,128,Canadian,0.06666666666666667
+772,128,We cannot definitively determine their mutual nationality,0.0
+773,128,We cannot definitively determine their nationality,0.0
+774,129,$\it{Other}$,0.23333333333333334
+775,129,American,0.43333333333333335
+776,129,American and Canadian,0.13333333333333333
+777,129,Canadian,0.2
+778,129,We cannot definitively determine their mutual nationality,0.0
+779,129,We cannot definitively determine their nationality,0.0
+780,130,$\it{Other}$,0.16666666666666666
+781,130,American,0.36666666666666664
+782,130,American and Canadian,0.23333333333333334
+783,130,Canadian,0.23333333333333334
+784,130,We cannot definitively determine their mutual nationality,0.0
+785,130,We cannot definitively determine their nationality,0.0
+786,131,$\it{Other}$,0.26666666666666666
+787,131,American,0.26666666666666666
+788,131,American and Canadian,0.13333333333333333
+789,131,Canadian,0.3333333333333333
+790,131,We cannot definitively determine their mutual nationality,0.0
+791,131,We cannot definitively determine their nationality,0.0
+792,132,$\it{Other}$,0.1
+793,132,American,0.5
+794,132,American and Canadian,0.2
+795,132,Canadian,0.2
+796,132,We cannot definitively determine their mutual nationality,0.0
+797,132,We cannot definitively determine their nationality,0.0
+798,133,$\it{Other}$,0.26666666666666666
+799,133,American,0.3
+800,133,American and Canadian,0.2
+801,133,Canadian,0.23333333333333334
+802,133,We cannot definitively determine their mutual nationality,0.0
+803,133,We cannot definitively determine their nationality,0.0
+804,134,$\it{Other}$,0.23333333333333334
+805,134,American,0.23333333333333334
+806,134,American and Canadian,0.16666666666666666
+807,134,Canadian,0.36666666666666664
+808,134,We cannot definitively determine their mutual nationality,0.0
+809,134,We cannot definitively determine their nationality,0.0
+810,135,$\it{Other}$,0.3
+811,135,American,0.3333333333333333
+812,135,American and Canadian,0.16666666666666666
+813,135,Canadian,0.16666666666666666
+814,135,We cannot definitively determine their mutual nationality,0.0
+815,135,We cannot definitively determine their nationality,0.03333333333333333
+816,136,$\it{Other}$,0.23333333333333334
+817,136,American,0.26666666666666666
+818,136,American and Canadian,0.26666666666666666
+819,136,Canadian,0.23333333333333334
+820,136,We cannot definitively determine their mutual nationality,0.0
+821,136,We cannot definitively determine their nationality,0.0
+822,137,$\it{Other}$,0.26666666666666666
+823,137,American,0.23333333333333334
+824,137,American and Canadian,0.2
+825,137,Canadian,0.3
+826,137,We cannot definitively determine their mutual nationality,0.0
+827,137,We cannot definitively determine their nationality,0.0
+828,138,$\it{Other}$,0.16666666666666666
+829,138,American,0.4
+830,138,American and Canadian,0.16666666666666666
+831,138,Canadian,0.26666666666666666
+832,138,We cannot definitively determine their mutual nationality,0.0
+833,138,We cannot definitively determine their nationality,0.0
+834,139,$\it{Other}$,0.1322783140279254
+835,139,American,0.26877670527748254
+836,139,American and Canadian,0.37523236808306765
+837,139,Canadian,0.22371261261152442
+838,139,We cannot definitively determine their mutual nationality,0.0
+839,139,We cannot definitively determine their nationality,0.0
+840,140,$\it{Other}$,0.2
+841,140,American,0.5
+842,140,American and Canadian,0.2
+843,140,Canadian,0.1
+844,140,We cannot definitively determine their mutual nationality,0.0
+845,140,We cannot definitively determine their nationality,0.0
+846,141,$\it{Other}$,0.23333333333333334
+847,141,American,0.4
+848,141,American and Canadian,0.13333333333333333
+849,141,Canadian,0.23333333333333334
+850,141,We cannot definitively determine their mutual nationality,0.0
+851,141,We cannot definitively determine their nationality,0.0
+852,142,$\it{Other}$,0.2
+853,142,American,0.4
+854,142,American and Canadian,0.16666666666666666
+855,142,Canadian,0.23333333333333334
+856,142,We cannot definitively determine their mutual nationality,0.0
+857,142,We cannot definitively determine their nationality,0.0
+858,143,$\it{Other}$,0.18925802693265076
+859,143,American,0.33932502197079484
+860,143,American and Canadian,0.28992219222341986
+861,143,Canadian,0.18149475887313452
+862,143,We cannot definitively determine their mutual nationality,0.0
+863,143,We cannot definitively determine their nationality,0.0
+864,144,$\it{Other}$,0.21713974946668704
+865,144,American,0.204217937539188
+866,144,American and Canadian,0.2760904426720202
+867,144,Canadian,0.30255187032210473
+868,144,We cannot definitively determine their mutual nationality,0.0
+869,144,We cannot definitively determine their nationality,0.0
+870,145,$\it{Other}$,0.16666666666666666
+871,145,American,0.1
+872,145,American and Canadian,0.5
+873,145,Canadian,0.23333333333333334
+874,145,We cannot definitively determine their mutual nationality,0.0
+875,145,We cannot definitively determine their nationality,0.0
+876,146,$\it{Other}$,0.23333333333333334
+877,146,American,0.3
+878,146,American and Canadian,0.3
+879,146,Canadian,0.16666666666666666
+880,146,We cannot definitively determine their mutual nationality,0.0
+881,146,We cannot definitively determine their nationality,0.0
+882,147,$\it{Other}$,0.24402775335297433
+883,147,American,0.24932540380391208
+884,147,American and Canadian,0.33333333333333326
+885,147,Canadian,0.17331350950978025
+886,147,We cannot definitively determine their mutual nationality,0.0
+887,147,We cannot definitively determine their nationality,0.0
+888,148,$\it{Other}$,0.16666666666666666
+889,148,American,0.43333333333333335
+890,148,American and Canadian,0.26666666666666666
+891,148,Canadian,0.13333333333333333
+892,148,We cannot definitively determine their mutual nationality,0.0
+893,148,We cannot definitively determine their nationality,0.0
+894,149,$\it{Other}$,0.3
+895,149,American,0.23333333333333334
+896,149,American and Canadian,0.3333333333333333
+897,149,Canadian,0.13333333333333333
+898,149,We cannot definitively determine their mutual nationality,0.0
+899,149,We cannot definitively determine their nationality,0.0
+900,150,$\it{Other}$,0.19718976590176876
+901,150,American,0.22878020081014397
+902,150,American and Canadian,0.3603706357185192
+903,150,Canadian,0.21365939756956814
+904,150,We cannot definitively determine their mutual nationality,0.0
+905,150,We cannot definitively determine their nationality,0.0
+906,151,$\it{Other}$,0.26666666666666666
+907,151,American,0.26666666666666666
+908,151,American and Canadian,0.23333333333333334
+909,151,Canadian,0.23333333333333334
+910,151,We cannot definitively determine their mutual nationality,0.0
+911,151,We cannot definitively determine their nationality,0.0
+912,152,$\it{Other}$,0.16666666666666666
+913,152,American,0.2
+914,152,American and Canadian,0.36666666666666664
+915,152,Canadian,0.26666666666666666
+916,152,We cannot definitively determine their mutual nationality,0.0
+917,152,We cannot definitively determine their nationality,0.0
+918,153,$\it{Other}$,0.23309254607646188
+919,153,American,0.3083903249397923
+920,153,American and Canadian,0.3396299838014421
+921,153,Canadian,0.11888714518230381
+922,153,We cannot definitively determine their mutual nationality,0.0
+923,153,We cannot definitively determine their nationality,0.0
+924,154,$\it{Other}$,0.23333333333333334
+925,154,American,0.3
+926,154,American and Canadian,0.43333333333333335
+927,154,Canadian,0.03333333333333333
+928,154,We cannot definitively determine their mutual nationality,0.0
+929,154,We cannot definitively determine their nationality,0.0
+930,155,$\it{Other}$,0.3061035703463312
+931,155,American,0.3231607160894481
+932,155,American and Canadian,0.2666666666666667
+933,155,Canadian,0.10406904689755413
+934,155,We cannot definitively determine their mutual nationality,0.0
+935,155,We cannot definitively determine their nationality,0.0
+936,156,$\it{Other}$,0.19294423124659288
+937,156,American,0.3070557687534071
+938,156,American and Canadian,0.3397405986088397
+939,156,Canadian,0.1602594013911603
+940,156,We cannot definitively determine their mutual nationality,0.0
+941,156,We cannot definitively determine their nationality,0.0
+942,157,$\it{Other}$,0.16666666666666666
+943,157,American,0.36666666666666664
+944,157,American and Canadian,0.4
+945,157,Canadian,0.06666666666666667
+946,157,We cannot definitively determine their mutual nationality,0.0
+947,157,We cannot definitively determine their nationality,0.0
+948,158,$\it{Other}$,0.16666666666666666
+949,158,American,0.26666666666666666
+950,158,American and Canadian,0.43333333333333335
+951,158,Canadian,0.13333333333333333
+952,158,We cannot definitively determine their mutual nationality,0.0
+953,158,We cannot definitively determine their nationality,0.0
+954,159,$\it{Other}$,0.13333333333333333
+955,159,American,0.26666666666666666
+956,159,American and Canadian,0.3333333333333333
+957,159,Canadian,0.26666666666666666
+958,159,We cannot definitively determine their mutual nationality,0.0
+959,159,We cannot definitively determine their nationality,0.0
+960,160,$\it{Other}$,0.2102374791654105
+961,160,American,0.22565522395927548
+962,160,American and Canadian,0.4589885572926088
+963,160,Canadian,0.10511873958270525
+964,160,We cannot definitively determine their mutual nationality,0.0
+965,160,We cannot definitively determine their nationality,0.0
+966,161,$\it{Other}$,0.1
+967,161,American,0.23333333333333334
+968,161,American and Canadian,0.36666666666666664
+969,161,Canadian,0.3
+970,161,We cannot definitively determine their mutual nationality,0.0
+971,161,We cannot definitively determine their nationality,0.0
+972,162,$\it{Other}$,0.16666666666666666
+973,162,American,0.3333333333333333
+974,162,American and Canadian,0.3
+975,162,Canadian,0.2
+976,162,We cannot definitively determine their mutual nationality,0.0
+977,162,We cannot definitively determine their nationality,0.0
+978,163,$\it{Other}$,0.03333333333333333
+979,163,American,0.23333333333333334
+980,163,American and Canadian,0.6
+981,163,Canadian,0.13333333333333333
+982,163,We cannot definitively determine their mutual nationality,0.0
+983,163,We cannot definitively determine their nationality,0.0
+984,164,$\it{Other}$,0.2311822189912408
+985,164,American,0.3955329473735444
+986,164,American and Canadian,0.27637385069553183
+987,164,Canadian,0.09691098293968298
+988,164,We cannot definitively determine their mutual nationality,0.0
+989,164,We cannot definitively determine their nationality,0.0
+990,165,$\it{Other}$,0.211601302639763
+991,165,American,0.17084999255791855
+992,165,American and Canadian,0.4322214049932144
+993,165,Canadian,0.17097257812497532
+994,165,We cannot definitively determine their mutual nationality,0.014354721684128638
+995,165,We cannot definitively determine their nationality,0.0
+996,166,$\it{Other}$,0.36666666666666664
+997,166,American,0.1
+998,166,American and Canadian,0.5
+999,166,Canadian,0.03333333333333333
+1000,166,We cannot definitively determine their mutual nationality,0.0
+1001,166,We cannot definitively determine their nationality,0.0
+1002,167,$\it{Other}$,0.2552494301328523
+1003,167,American,0.14246712256038485
+1004,167,American and Canadian,0.44246712256038495
+1005,167,Canadian,0.15981632474637802
+1006,167,We cannot definitively determine their mutual nationality,0.0
+1007,167,We cannot definitively determine their nationality,0.0
+1008,168,$\it{Other}$,0.26568444801525926
+1009,168,American,0.13235111468192595
+1010,168,American and Canadian,0.4901985137574321
+1011,168,Canadian,0.11176592354538271
+1012,168,We cannot definitively determine their mutual nationality,0.0
+1013,168,We cannot definitively determine their nationality,0.0
+1014,169,$\it{Other}$,0.3
+1015,169,American,0.1
+1016,169,American and Canadian,0.4666666666666667
+1017,169,Canadian,0.13333333333333333
+1018,169,We cannot definitively determine their mutual nationality,0.0
+1019,169,We cannot definitively determine their nationality,0.0
+1020,170,$\it{Other}$,0.261775860166368
+1021,170,American,0.1097816130005973
+1022,170,American and Canadian,0.5097816130005973
+1023,170,Canadian,0.1186609138324374
+1024,170,We cannot definitively determine their mutual nationality,0.0
+1025,170,We cannot definitively determine their nationality,0.0
+1026,171,$\it{Other}$,0.36666666666666664
+1027,171,American,0.13333333333333333
+1028,171,American and Canadian,0.3333333333333333
+1029,171,Canadian,0.16666666666666666
+1030,171,We cannot definitively determine their mutual nationality,0.0
+1031,171,We cannot definitively determine their nationality,0.0
+1032,172,$\it{Other}$,0.23333333333333334
+1033,172,American,0.2
+1034,172,American and Canadian,0.5
+1035,172,Canadian,0.06666666666666667
+1036,172,We cannot definitively determine their mutual nationality,0.0
+1037,172,We cannot definitively determine their nationality,0.0
+1038,173,$\it{Other}$,0.3
+1039,173,American,0.16666666666666666
+1040,173,American and Canadian,0.5
+1041,173,Canadian,0.03333333333333333
+1042,173,We cannot definitively determine their mutual nationality,0.0
+1043,173,We cannot definitively determine their nationality,0.0
+1044,174,$\it{Other}$,0.26666666666666666
+1045,174,American,0.1
+1046,174,American and Canadian,0.6
+1047,174,Canadian,0.03333333333333333
+1048,174,We cannot definitively determine their mutual nationality,0.0
+1049,174,We cannot definitively determine their nationality,0.0
+1050,175,$\it{Other}$,0.3916305376544278
+1051,175,American,0.10133842848537486
+1052,175,American and Canadian,0.4032267575902123
+1053,175,Canadian,0.10380427626998512
+1054,175,We cannot definitively determine their mutual nationality,0.0
+1055,175,We cannot definitively determine their nationality,0.0
+1056,176,$\it{Other}$,0.3333333333333333
+1057,176,American,0.23333333333333334
+1058,176,American and Canadian,0.2
+1059,176,Canadian,0.2
+1060,176,We cannot definitively determine their mutual nationality,0.03333333333333333
+1061,176,We cannot definitively determine their nationality,0.0
+1062,177,$\it{Other}$,0.3333333333333333
+1063,177,American,0.1
+1064,177,American and Canadian,0.36666666666666664
+1065,177,Canadian,0.16666666666666666
+1066,177,We cannot definitively determine their mutual nationality,0.03333333333333333
+1067,177,We cannot definitively determine their nationality,0.0
+1068,178,$\it{Other}$,0.23333333333333334
+1069,178,American,0.1
+1070,178,American and Canadian,0.4666666666666667
+1071,178,Canadian,0.2
+1072,178,We cannot definitively determine their mutual nationality,0.0
+1073,178,We cannot definitively determine their nationality,0.0
+1074,179,$\it{Other}$,0.26666666666666666
+1075,179,American,0.13333333333333333
+1076,179,American and Canadian,0.4
+1077,179,Canadian,0.2
+1078,179,We cannot definitively determine their mutual nationality,0.0
+1079,179,We cannot definitively determine their nationality,0.0
+1080,180,$\it{Other}$,0.4666666666666667
+1081,180,American,0.13333333333333333
+1082,180,American and Canadian,0.23333333333333334
+1083,180,Canadian,0.16666666666666666
+1084,180,We cannot definitively determine their mutual nationality,0.0
+1085,180,We cannot definitively determine their nationality,0.0
+1086,181,$\it{Other}$,0.23333333333333334
+1087,181,American,0.16666666666666666
+1088,181,American and Canadian,0.3333333333333333
+1089,181,Canadian,0.26666666666666666
+1090,181,We cannot definitively determine their mutual nationality,0.0
+1091,181,We cannot definitively determine their nationality,0.0
+1092,182,$\it{Other}$,0.3
+1093,182,American,0.3
+1094,182,American and Canadian,0.26666666666666666
+1095,182,Canadian,0.13333333333333333
+1096,182,We cannot definitively determine their mutual nationality,0.0
+1097,182,We cannot definitively determine their nationality,0.0
+1098,183,$\it{Other}$,0.3333333333333333
+1099,183,American,0.2
+1100,183,American and Canadian,0.26666666666666666
+1101,183,Canadian,0.2
+1102,183,We cannot definitively determine their mutual nationality,0.0
+1103,183,We cannot definitively determine their nationality,0.0
+1104,184,$\it{Other}$,0.23333333333333334
+1105,184,American,0.1
+1106,184,American and Canadian,0.5
+1107,184,Canadian,0.16666666666666666
+1108,184,We cannot definitively determine their mutual nationality,0.0
+1109,184,We cannot definitively determine their nationality,0.0
+1110,185,$\it{Other}$,0.24694656531482206
+1111,185,American,0.27006997466203886
+1112,185,American and Canadian,0.36326335867129445
+1113,185,Canadian,0.11972010135184463
+1114,185,We cannot definitively determine their mutual nationality,0.0
+1115,185,We cannot definitively determine their nationality,0.0
+1116,186,$\it{Other}$,0.24725442107201034
+1117,186,American,0.14170455658819525
+1118,186,American and Canadian,0.39530618494516234
+1119,186,Canadian,0.20284912501485103
+1120,186,We cannot definitively determine their mutual nationality,0.012885712379781002
+1121,186,We cannot definitively determine their nationality,0.0
+1122,187,$\it{Other}$,0.23333333333333334
+1123,187,American,0.03333333333333333
+1124,187,American and Canadian,0.4666666666666667
+1125,187,Canadian,0.26666666666666666
+1126,187,We cannot definitively determine their mutual nationality,0.0
+1127,187,We cannot definitively determine their nationality,0.0
+1128,188,$\it{Other}$,0.3183762242715145
+1129,188,American,0.11723651920161596
+1130,188,American and Canadian,0.34943014746505074
+1131,188,Canadian,0.1977205898602029
+1132,188,We cannot definitively determine their mutual nationality,0.01723651920161595
+1133,188,We cannot definitively determine their nationality,0.0
+1134,189,$\it{Other}$,0.26666666666666666
+1135,189,American,0.2
+1136,189,American and Canadian,0.43333333333333335
+1137,189,Canadian,0.1
+1138,189,We cannot definitively determine their mutual nationality,0.0
+1139,189,We cannot definitively determine their nationality,0.0
+1140,190,$\it{Other}$,0.3333333333333333
+1141,190,American,0.1
+1142,190,American and Canadian,0.4666666666666667
+1143,190,Canadian,0.1
+1144,190,We cannot definitively determine their mutual nationality,0.0
+1145,190,We cannot definitively determine their nationality,0.0
+1146,191,$\it{Other}$,0.13075727474156748
+1147,191,American,0.18212301821726173
+1148,191,American and Canadian,0.4537863737078374
+1149,191,Canadian,0.23333333333333334
+1150,191,We cannot definitively determine their mutual nationality,0.0
+1151,191,We cannot definitively determine their nationality,0.0
+1152,192,$\it{Other}$,0.5192904857876087
+1153,192,American,0.11768716915180585
+1154,192,American and Canadian,0.2369776549394147
+1155,192,Canadian,0.1260446901211706
+1156,192,We cannot definitively determine their mutual nationality,0.0
+1157,192,We cannot definitively determine their nationality,0.0
+1158,193,$\it{Other}$,0.3225169506544293
+1159,193,American,0.05579924717485997
+1160,193,American and Canadian,0.34162688226119386
+1161,193,Canadian,0.2767531799771675
+1162,193,We cannot definitively determine their mutual nationality,0.0
+1163,193,We cannot definitively determine their nationality,0.003303739932349396
+1164,194,$\it{Other}$,0.4590593169224861
+1165,194,American,0.02046066166802765
+1166,194,American and Canadian,0.2629140211121027
+1167,194,Canadian,0.25756600029738363
+1168,194,We cannot definitively determine their mutual nationality,0.0
+1169,194,We cannot definitively determine their nationality,0.0
+1170,195,$\it{Other}$,0.38175615273676555
+1171,195,American,0.13557200775993447
+1172,195,American and Canadian,0.13211977882486797
+1173,195,Canadian,0.35055206067843214
+1174,195,We cannot definitively determine their mutual nationality,0.0
+1175,195,We cannot definitively determine their nationality,0.0
+1176,196,$\it{Other}$,0.5598810315309306
+1177,196,American,0.11304702141916521
+1178,196,American and Canadian,0.05933228544070662
+1179,196,Canadian,0.26773966160919765
+1180,196,We cannot definitively determine their mutual nationality,0.0
+1181,196,We cannot definitively determine their nationality,0.0
+1182,197,$\it{Other}$,0.801574841744808
+1183,197,American,0.0
+1184,197,American and Canadian,0.10715220202472736
+1185,197,Canadian,0.09127295623046466
+1186,197,We cannot definitively determine their mutual nationality,0.0
+1187,197,We cannot definitively determine their nationality,0.0
+1188,198,$\it{Other}$,0.7315594426020264
+1189,198,American,0.004322382710721583
+1190,198,American and Canadian,0.060042230845770456
+1191,198,Canadian,0.1707426105081483
+1192,198,We cannot definitively determine their mutual nationality,0.02901095062261175
+1193,198,We cannot definitively determine their nationality,0.004322382710721583
+1194,199,$\it{Other}$,0.7734964171174228
+1195,199,American,0.03333333333333334
+1196,199,American and Canadian,0.04337410427935571
+1197,199,Canadian,0.14979614526988816
+1198,199,We cannot definitively determine their mutual nationality,0.0
+1199,199,We cannot definitively determine their nationality,0.0
+1200,200,$\it{Other}$,0.6926716549007067
+1201,200,American,0.029618335014184753
+1202,200,American and Canadian,0.08885500504255427
+1203,200,Canadian,0.18885500504255429
+1204,200,We cannot definitively determine their mutual nationality,0.0
+1205,200,We cannot definitively determine their nationality,0.0
+1206,201,$\it{Other}$,0.8
+1207,201,American,0.03333333333333333
+1208,201,American and Canadian,0.06666666666666667
+1209,201,Canadian,0.03333333333333333
+1210,201,We cannot definitively determine their mutual nationality,0.03333333333333333
+1211,201,We cannot definitively determine their nationality,0.03333333333333333
+1212,202,$\it{Other}$,0.7557648166215052
+1213,202,American,0.028243531723192446
+1214,202,American and Canadian,0.055506675295091915
+1215,202,Canadian,0.16048497636021047
+1216,202,We cannot definitively determine their mutual nationality,0.0
+1217,202,We cannot definitively determine their nationality,0.0
+1218,203,$\it{Other}$,0.7
+1219,203,American,0.03333333333333333
+1220,203,American and Canadian,0.03333333333333333
+1221,203,Canadian,0.23333333333333334
+1222,203,We cannot definitively determine their mutual nationality,0.0
+1223,203,We cannot definitively determine their nationality,0.0
+1224,204,$\it{Other}$,0.7720186247004359
+1225,204,American,0.002675979016884556
+1226,204,American and Canadian,0.09267907563317655
+1227,204,Canadian,0.1326263206495031
+1228,204,We cannot definitively determine their mutual nationality,0.0
+1229,204,We cannot definitively determine their nationality,0.0
+1230,205,$\it{Other}$,0.8177555612320557
+1231,205,American,0.03333333333333333
+1232,205,American and Canadian,0.06666666666666667
+1233,205,Canadian,0.057788886050638866
+1234,205,We cannot definitively determine their mutual nationality,0.0
+1235,205,We cannot definitively determine their nationality,0.02445555271730553
+1236,206,$\it{Other}$,0.8
+1237,206,American,0.03333333333333333
+1238,206,American and Canadian,0.06666666666666667
+1239,206,Canadian,0.1
+1240,206,We cannot definitively determine their mutual nationality,0.0
+1241,206,We cannot definitively determine their nationality,0.0
+1242,207,$\it{Other}$,0.6666666666666666
+1243,207,American,0.06666666666666667
+1244,207,American and Canadian,0.03333333333333333
+1245,207,Canadian,0.23333333333333334
+1246,207,We cannot definitively determine their mutual nationality,0.0
+1247,207,We cannot definitively determine their nationality,0.0
+1248,208,$\it{Other}$,0.6704451230179117
+1249,208,American,0.011930655732145586
+1250,208,American and Canadian,0.06272265689661195
+1251,208,Canadian,0.21016557606416275
+1252,208,We cannot definitively determine their mutual nationality,0.028333322010656796
+1253,208,We cannot definitively determine their nationality,0.01640266627851121
+1254,209,$\it{Other}$,0.9666666666666667
+1255,209,American,0.0
+1256,209,American and Canadian,0.0
+1257,209,Canadian,0.0
+1258,209,We cannot definitively determine their mutual nationality,0.03333333333333333
+1259,209,We cannot definitively determine their nationality,0.0
+1260,210,$\it{Other}$,0.8516850661445625
+1261,210,American,0.008103787759657843
+1262,210,American and Canadian,0.034290527920260994
+1263,210,Canadian,0.10139988007528235
+1264,210,We cannot definitively determine their mutual nationality,0.0
+1265,210,We cannot definitively determine their nationality,0.004520738100236326
+1266,211,$\it{Other}$,0.9666666666666667
+1267,211,American,0.0
+1268,211,American and Canadian,0.03333333333333333
+1269,211,Canadian,0.0
+1270,211,We cannot definitively determine their mutual nationality,0.0
+1271,211,We cannot definitively determine their nationality,0.0
+1272,212,$\it{Other}$,0.9346900730189296
+1273,212,American,0.0
+1274,212,American and Canadian,0.021769975660356773
+1275,212,Canadian,0.021769975660356773
+1276,212,We cannot definitively determine their mutual nationality,0.0
+1277,212,We cannot definitively determine their nationality,0.021769975660356773
+1278,213,$\it{Other}$,0.9478901411486315
+1279,213,American,0.0
+1280,213,American and Canadian,0.010677255459296679
+1281,213,Canadian,0.030755347932775214
+1282,213,We cannot definitively determine their mutual nationality,0.0
+1283,213,We cannot definitively determine their nationality,0.010677255459296679
+1284,214,$\it{Other}$,0.9666666666666667
+1285,214,American,0.0
+1286,214,American and Canadian,0.03333333333333333
+1287,214,Canadian,0.0
+1288,214,We cannot definitively determine their mutual nationality,0.0
+1289,214,We cannot definitively determine their nationality,0.0
+1290,215,$\it{Other}$,0.9292625694663642
+1291,215,American,0.0
+1292,215,American and Canadian,0.0
+1293,215,Canadian,0.07073743053363585
+1294,215,We cannot definitively determine their mutual nationality,0.0
+1295,215,We cannot definitively determine their nationality,0.0
+1296,216,$\it{Other}$,0.8333333333333334
+1297,216,American,0.0
+1298,216,American and Canadian,0.03333333333333333
+1299,216,Canadian,0.06666666666666667
+1300,216,We cannot definitively determine their mutual nationality,0.03333333333333333
+1301,216,We cannot definitively determine their nationality,0.03333333333333333
+1302,217,$\it{Other}$,0.8333333333333334
+1303,217,American,0.0
+1304,217,American and Canadian,0.03333333333333333
+1305,217,Canadian,0.13333333333333333
+1306,217,We cannot definitively determine their mutual nationality,0.0
+1307,217,We cannot definitively determine their nationality,0.0
+1308,218,$\it{Other}$,0.8
+1309,218,American,0.0
+1310,218,American and Canadian,0.1
+1311,218,Canadian,0.06666666666666667
+1312,218,We cannot definitively determine their mutual nationality,0.03333333333333333
+1313,218,We cannot definitively determine their nationality,0.0
+1314,219,$\it{Other}$,0.948434860695067
+1315,219,American,0.0
+1316,219,American and Canadian,0.043361761281728986
+1317,219,Canadian,0.00820337802320388
+1318,219,We cannot definitively determine their mutual nationality,0.0
+1319,219,We cannot definitively determine their nationality,0.0
+1320,220,$\it{Other}$,0.9666666666666667
+1321,220,American,0.0
+1322,220,American and Canadian,0.0
+1323,220,Canadian,0.03333333333333333
+1324,220,We cannot definitively determine their mutual nationality,0.0
+1325,220,We cannot definitively determine their nationality,0.0
+1326,221,$\it{Other}$,0.8111660902653557
+1327,221,American,0.0
+1328,221,American and Canadian,0.03333333333333333
+1329,221,Canadian,0.12216724306797762
+1330,221,We cannot definitively determine their mutual nationality,0.03333333333333333
+1331,221,We cannot definitively determine their nationality,0.0
+1332,222,$\it{Other}$,1.0
+1333,222,American,0.0
+1334,222,American and Canadian,0.0
+1335,222,Canadian,0.0
+1336,222,We cannot definitively determine their mutual nationality,0.0
+1337,222,We cannot definitively determine their nationality,0.0
+1338,223,$\it{Other}$,0.86294240133968
+1339,223,American,0.0
+1340,223,American and Canadian,0.013894479743260161
+1341,223,Canadian,0.07039093199365334
+1342,223,We cannot definitively determine their mutual nationality,0.038877707180146354
+1343,223,We cannot definitively determine their nationality,0.013894479743260161
+1344,224,$\it{Other}$,0.7666666666666667
+1345,224,American,0.03333333333333333
+1346,224,American and Canadian,0.06666666666666667
+1347,224,Canadian,0.13333333333333333
+1348,224,We cannot definitively determine their mutual nationality,0.0
+1349,224,We cannot definitively determine their nationality,0.0
+1350,225,$\it{Other}$,0.8
+1351,225,American,0.0
+1352,225,American and Canadian,0.0
+1353,225,Canadian,0.2
+1354,225,We cannot definitively determine their mutual nationality,0.0
+1355,225,We cannot definitively determine their nationality,0.0
+1356,226,$\it{Other}$,0.8968707651322285
+1357,226,American,0.018998275596506863
+1358,226,American and Canadian,0.026489247137194746
+1359,226,Canadian,0.03333333333333333
+1360,226,We cannot definitively determine their mutual nationality,0.02430837880073655
+1361,226,We cannot definitively determine their nationality,0.0
+1362,227,$\it{Other}$,0.9
+1363,227,American,0.0
+1364,227,American and Canadian,0.0
+1365,227,Canadian,0.06666666666666667
+1366,227,We cannot definitively determine their mutual nationality,0.0
+1367,227,We cannot definitively determine their nationality,0.03333333333333333
+1368,228,$\it{Other}$,0.9749823122141772
+1369,228,American,0.0
+1370,228,American and Canadian,0.0
+1371,228,Canadian,0.025017687785822872
+1372,228,We cannot definitively determine their mutual nationality,0.0
+1373,228,We cannot definitively determine their nationality,0.0
+1374,229,$\it{Other}$,0.9102102288711857
+1375,229,American,0.0
+1376,229,American and Canadian,0.056456437795480804
+1377,229,Canadian,0.03333333333333333
+1378,229,We cannot definitively determine their mutual nationality,0.0
+1379,229,We cannot definitively determine their nationality,0.0
+1380,230,$\it{Other}$,0.9666666666666667
+1381,230,American,0.0
+1382,230,American and Canadian,0.02684753408260682
+1383,230,Canadian,0.006485799250726511
+1384,230,We cannot definitively determine their mutual nationality,0.0
+1385,230,We cannot definitively determine their nationality,0.0
+1386,231,$\it{Other}$,0.9620697560211936
+1387,231,American,0.0
+1388,231,American and Canadian,0.004741280497350802
+1389,231,Canadian,0.03318896348145561
+1390,231,We cannot definitively determine their mutual nationality,0.0
+1391,231,We cannot definitively determine their nationality,0.0
+1392,232,$\it{Other}$,0.9574061734623641
+1393,232,American,0.001967532282555754
+1394,232,American and Canadian,0.003298203443219152
+1395,232,Canadian,0.030731683925422693
+1396,232,We cannot definitively determine their mutual nationality,0.006596406886438304
+1397,232,We cannot definitively determine their nationality,0.0
+1398,233,$\it{Other}$,0.9969658292460366
+1399,233,American,0.0
+1400,233,American and Canadian,0.0030341707539634664
+1401,233,Canadian,0.0
+1402,233,We cannot definitively determine their mutual nationality,0.0
+1403,233,We cannot definitively determine their nationality,0.0
+1404,234,$\it{Other}$,0.9666666666666667
+1405,234,American,0.0
+1406,234,American and Canadian,0.0
+1407,234,Canadian,0.03333333333333333
+1408,234,We cannot definitively determine their mutual nationality,0.0
+1409,234,We cannot definitively determine their nationality,0.0
+1410,235,$\it{Other}$,0.9576629415312585
+1411,235,American,0.0
+1412,235,American and Canadian,0.0
+1413,235,Canadian,0.02348691027261397
+1414,235,We cannot definitively determine their mutual nationality,0.0
+1415,235,We cannot definitively determine their nationality,0.018850148196127573
+1416,236,$\it{Other}$,0.9780257987511567
+1417,236,American,0.0
+1418,236,American and Canadian,0.0
+1419,236,Canadian,0.02197420124884331
+1420,236,We cannot definitively determine their mutual nationality,0.0
+1421,236,We cannot definitively determine their nationality,0.0
+1422,237,$\it{Other}$,0.9686871274208047
+1423,237,American,0.0
+1424,237,American and Canadian,0.0
+1425,237,Canadian,0.0
+1426,237,We cannot definitively determine their mutual nationality,0.031312872579195336
+1427,237,We cannot definitively determine their nationality,0.0
+1428,238,$\it{Other}$,0.9666666666666667
+1429,238,American,0.0
+1430,238,American and Canadian,0.03333333333333333
+1431,238,Canadian,0.0
+1432,238,We cannot definitively determine their mutual nationality,0.0
+1433,238,We cannot definitively determine their nationality,0.0
+1434,239,$\it{Other}$,0.96850400702862
+1435,239,American,0.0
+1436,239,American and Canadian,0.0
+1437,239,Canadian,0.031495992971379914
+1438,239,We cannot definitively determine their mutual nationality,0.0
+1439,239,We cannot definitively determine their nationality,0.0
+1440,240,$\it{Other}$,0.9333333333333333
+1441,240,American,0.0033378135892720776
+1442,240,American and Canadian,0.0
+1443,240,Canadian,0.033333333333333326
+1444,240,We cannot definitively determine their mutual nationality,0.0
+1445,240,We cannot definitively determine their nationality,0.029995519744061252
+1446,241,$\it{Other}$,0.9803266203841263
+1447,241,American,0.0
+1448,241,American and Canadian,0.0
+1449,241,Canadian,0.013115586410582398
+1450,241,We cannot definitively determine their mutual nationality,0.0
+1451,241,We cannot definitively determine their nationality,0.006557793205291199
+1452,242,$\it{Other}$,0.9356352186979289
+1453,242,American,0.031031447968737743
+1454,242,American and Canadian,0.0
+1455,242,Canadian,0.031031447968737743
+1456,242,We cannot definitively determine their mutual nationality,0.0023018853645955886
+1457,242,We cannot definitively determine their nationality,0.0
+1458,243,$\it{Other}$,0.9666666666666667
+1459,243,American,0.0
+1460,243,American and Canadian,0.03333333333333333
+1461,243,Canadian,0.0
+1462,243,We cannot definitively determine their mutual nationality,0.0
+1463,243,We cannot definitively determine their nationality,0.0
+1464,244,$\it{Other}$,0.9917996093844246
+1465,244,American,0.0
+1466,244,American and Canadian,0.0041001953077877155
+1467,244,Canadian,0.0041001953077877155
+1468,244,We cannot definitively determine their mutual nationality,0.0
+1469,244,We cannot definitively determine their nationality,0.0
+1470,245,$\it{Other}$,1.0
+1471,245,American,0.0
+1472,245,American and Canadian,0.0
+1473,245,Canadian,0.0
+1474,245,We cannot definitively determine their mutual nationality,0.0
+1475,245,We cannot definitively determine their nationality,0.0
+1476,246,$\it{Other}$,1.0
+1477,246,American,0.0
+1478,246,American and Canadian,0.0
+1479,246,Canadian,0.0
+1480,246,We cannot definitively determine their mutual nationality,0.0
+1481,246,We cannot definitively determine their nationality,0.0
+1482,247,$\it{Other}$,1.0
+1483,247,American,0.0
+1484,247,American and Canadian,0.0
+1485,247,Canadian,0.0
+1486,247,We cannot definitively determine their mutual nationality,0.0
+1487,247,We cannot definitively determine their nationality,0.0
+1488,248,$\it{Other}$,1.0
+1489,248,American,0.0
+1490,248,American and Canadian,0.0
+1491,248,Canadian,0.0
+1492,248,We cannot definitively determine their mutual nationality,0.0
+1493,248,We cannot definitively determine their nationality,0.0
+1494,249,$\it{Other}$,1.0
+1495,249,American,0.0
+1496,249,American and Canadian,0.0
+1497,249,Canadian,0.0
+1498,249,We cannot definitively determine their mutual nationality,0.0
+1499,249,We cannot definitively determine their nationality,0.0
+1500,250,$\it{Other}$,1.0
+1501,250,American,0.0
+1502,250,American and Canadian,0.0
+1503,250,Canadian,0.0
+1504,250,We cannot definitively determine their mutual nationality,0.0
+1505,250,We cannot definitively determine their nationality,0.0
+1506,251,$\it{Other}$,0.970114764024284
+1507,251,American,0.0
+1508,251,American and Canadian,0.02988523597571599
+1509,251,Canadian,0.0
+1510,251,We cannot definitively determine their mutual nationality,0.0
+1511,251,We cannot definitively determine their nationality,0.0
+1512,252,$\it{Other}$,1.0
+1513,252,American,0.0
+1514,252,American and Canadian,0.0
+1515,252,Canadian,0.0
+1516,252,We cannot definitively determine their mutual nationality,0.0
+1517,252,We cannot definitively determine their nationality,0.0
+1518,253,$\it{Other}$,1.0
+1519,253,American,0.0
+1520,253,American and Canadian,0.0
+1521,253,Canadian,0.0
+1522,253,We cannot definitively determine their mutual nationality,0.0
+1523,253,We cannot definitively determine their nationality,0.0
+1524,254,$\it{Other}$,0.9588735871522293
+1525,254,American,0.006712890594633337
+1526,254,American and Canadian,0.01049387053193539
+1527,254,Canadian,0.01720676112656873
+1528,254,We cannot definitively determine their mutual nationality,0.006712890594633337
+1529,254,We cannot definitively determine their nationality,0.0
+1530,255,$\it{Other}$,0.98556356490186
+1531,255,American,0.0
+1532,255,American and Canadian,0.0
+1533,255,Canadian,0.0
+1534,255,We cannot definitively determine their mutual nationality,0.014436435098140002
+1535,255,We cannot definitively determine their nationality,0.0
+1536,256,$\it{Other}$,1.0
+1537,256,American,0.0
+1538,256,American and Canadian,0.0
+1539,256,Canadian,0.0
+1540,256,We cannot definitively determine their mutual nationality,0.0
+1541,256,We cannot definitively determine their nationality,0.0
+1542,257,$\it{Other}$,1.0
+1543,257,American,0.0
+1544,257,American and Canadian,0.0
+1545,257,Canadian,0.0
+1546,257,We cannot definitively determine their mutual nationality,0.0
+1547,257,We cannot definitively determine their nationality,0.0
+1548,258,$\it{Other}$,0.9513790503309888
+1549,258,American,0.0
+1550,258,American and Canadian,0.0
+1551,258,Canadian,0.0
+1552,258,We cannot definitively determine their mutual nationality,0.02431047483450556
+1553,258,We cannot definitively determine their nationality,0.02431047483450556
+1554,259,$\it{Other}$,0.9471958314159552
+1555,259,American,0.0
+1556,259,American and Canadian,0.0
+1557,259,Canadian,0.0
+1558,259,We cannot definitively determine their mutual nationality,0.017601389528014967
+1559,259,We cannot definitively determine their nationality,0.035202779056029934
+1560,260,$\it{Other}$,0.9333333333333333
+1561,260,American,0.0
+1562,260,American and Canadian,0.0
+1563,260,Canadian,0.0
+1564,260,We cannot definitively determine their mutual nationality,0.03333333333333333
+1565,260,We cannot definitively determine their nationality,0.03333333333333333
+1566,261,$\it{Other}$,0.8818242781319399
+1567,261,American,0.0
+1568,261,American and Canadian,0.0
+1569,261,Canadian,0.0
+1570,261,We cannot definitively determine their mutual nationality,0.05204351628593248
+1571,261,We cannot definitively determine their nationality,0.06613220558212765
+1572,262,$\it{Other}$,0.9333333333333333
+1573,262,American,0.0
+1574,262,American and Canadian,0.0
+1575,262,Canadian,0.0
+1576,262,We cannot definitively determine their mutual nationality,0.0
+1577,262,We cannot definitively determine their nationality,0.06666666666666667
+1578,263,$\it{Other}$,0.7737571936498713
+1579,263,American,0.0
+1580,263,American and Canadian,0.0
+1581,263,Canadian,0.0
+1582,263,We cannot definitively determine their mutual nationality,0.06171184058201772
+1583,263,We cannot definitively determine their nationality,0.16453096576811108
+1584,264,$\it{Other}$,0.7129301147779921
+1585,264,American,0.0
+1586,264,American and Canadian,0.0273451931789815
+1587,264,Canadian,0.0
+1588,264,We cannot definitively determine their mutual nationality,0.09062945489281982
+1589,264,We cannot definitively determine their nationality,0.16909523715020652
+1590,265,$\it{Other}$,0.7834664755592623
+1591,265,American,0.0
+1592,265,American and Canadian,0.003538877800645319
+1593,265,Canadian,0.0
+1594,265,We cannot definitively determine their mutual nationality,0.14368368228341133
+1595,265,We cannot definitively determine their nationality,0.06931096435668103
+1596,266,$\it{Other}$,0.8275862068965517
+1597,266,American,0.0
+1598,266,American and Canadian,0.0
+1599,266,Canadian,0.0
+1600,266,We cannot definitively determine their mutual nationality,0.06896551724137931
+1601,266,We cannot definitively determine their nationality,0.10344827586206896
+1602,267,$\it{Other}$,0.7931034482758621
+1603,267,American,0.0
+1604,267,American and Canadian,0.0
+1605,267,Canadian,0.0
+1606,267,We cannot definitively determine their mutual nationality,0.06896551724137931
+1607,267,We cannot definitively determine their nationality,0.13793103448275862
+1608,268,$\it{Other}$,0.8
+1609,268,American,0.0
+1610,268,American and Canadian,0.0
+1611,268,Canadian,0.0
+1612,268,We cannot definitively determine their mutual nationality,0.1
+1613,268,We cannot definitively determine their nationality,0.1
+1614,269,$\it{Other}$,0.7931034482758621
+1615,269,American,0.0
+1616,269,American and Canadian,0.0
+1617,269,Canadian,0.0
+1618,269,We cannot definitively determine their mutual nationality,0.06896551724137931
+1619,269,We cannot definitively determine their nationality,0.13793103448275862
+1620,270,$\it{Other}$,0.8666666666666667
+1621,270,American,0.0
+1622,270,American and Canadian,0.0
+1623,270,Canadian,0.0
+1624,270,We cannot definitively determine their mutual nationality,0.0
+1625,270,We cannot definitively determine their nationality,0.13333333333333333
+1626,271,$\it{Other}$,0.8928571428571429
+1627,271,American,0.0
+1628,271,American and Canadian,0.0
+1629,271,Canadian,0.0
+1630,271,We cannot definitively determine their mutual nationality,0.03571428571428571
+1631,271,We cannot definitively determine their nationality,0.07142857142857142
+1632,272,$\it{Other}$,0.8518518518518519
+1633,272,American,0.0
+1634,272,American and Canadian,0.0
+1635,272,Canadian,0.0
+1636,272,We cannot definitively determine their mutual nationality,0.07407407407407407
+1637,272,We cannot definitively determine their nationality,0.07407407407407407
+1638,273,$\it{Other}$,0.896551724137931
+1639,273,American,0.0
+1640,273,American and Canadian,0.0
+1641,273,Canadian,0.0
+1642,273,We cannot definitively determine their mutual nationality,0.0
+1643,273,We cannot definitively determine their nationality,0.10344827586206896
+1644,274,$\it{Other}$,0.7931034482758621
+1645,274,American,0.0
+1646,274,American and Canadian,0.0
+1647,274,Canadian,0.0
+1648,274,We cannot definitively determine their mutual nationality,0.06896551724137931
+1649,274,We cannot definitively determine their nationality,0.13793103448275862
+1650,275,$\it{Other}$,0.7333333333333333
+1651,275,American,0.0
+1652,275,American and Canadian,0.0
+1653,275,Canadian,0.0
+1654,275,We cannot definitively determine their mutual nationality,0.03333333333333333
+1655,275,We cannot definitively determine their nationality,0.23333333333333334
+1656,276,$\it{Other}$,0.7666666666666667
+1657,276,American,0.0
+1658,276,American and Canadian,0.0
+1659,276,Canadian,0.0
+1660,276,We cannot definitively determine their mutual nationality,0.06666666666666667
+1661,276,We cannot definitively determine their nationality,0.16666666666666666
+1662,277,$\it{Other}$,0.7586206896551724
+1663,277,American,0.0
+1664,277,American and Canadian,0.0
+1665,277,Canadian,0.0
+1666,277,We cannot definitively determine their mutual nationality,0.13793103448275862
+1667,277,We cannot definitively determine their nationality,0.10344827586206896
+1668,278,$\it{Other}$,0.675933674026671
+1669,278,American,0.0
+1670,278,American and Canadian,0.0
+1671,278,Canadian,0.0
+1672,278,We cannot definitively determine their mutual nationality,0.1453525497386566
+1673,278,We cannot definitively determine their nationality,0.17871377623467233
+1674,279,$\it{Other}$,0.8454124336103551
+1675,279,American,0.0
+1676,279,American and Canadian,0.0
+1677,279,Canadian,0.0
+1678,279,We cannot definitively determine their mutual nationality,0.0824258434902921
+1679,279,We cannot definitively determine their nationality,0.0721617228993528
+1680,280,$\it{Other}$,0.843738727587042
+1681,280,American,0.0
+1682,280,American and Canadian,0.0
+1683,280,Canadian,0.0
+1684,280,We cannot definitively determine their mutual nationality,0.013227657161321963
+1685,280,We cannot definitively determine their nationality,0.1430336152516361
+1686,281,$\it{Other}$,0.6689523755303328
+1687,281,American,0.0
+1688,281,American and Canadian,0.0
+1689,281,Canadian,0.0
+1690,281,We cannot definitively determine their mutual nationality,0.1492996544144627
+1691,281,We cannot definitively determine their nationality,0.1817479700552045
+1692,282,$\it{Other}$,0.3103448275862069
+1693,282,American,0.0
+1694,282,American and Canadian,0.0
+1695,282,Canadian,0.0
+1696,282,We cannot definitively determine their mutual nationality,0.3103448275862069
+1697,282,We cannot definitively determine their nationality,0.3793103448275862
+1698,283,$\it{Other}$,0.4344817331706512
+1699,283,American,0.0
+1700,283,American and Canadian,0.0
+1701,283,Canadian,0.0
+1702,283,We cannot definitively determine their mutual nationality,0.16260953081200277
+1703,283,We cannot definitively determine their nationality,0.402908736017346
+1704,284,$\it{Other}$,0.23333333333333334
+1705,284,American,0.0
+1706,284,American and Canadian,0.0
+1707,284,Canadian,0.0
+1708,284,We cannot definitively determine their mutual nationality,0.26666666666666666
+1709,284,We cannot definitively determine their nationality,0.5
+1710,285,$\it{Other}$,0.27533689561695357
+1711,285,American,0.0
+1712,285,American and Canadian,0.00903458690726287
+1713,285,Canadian,0.0
+1714,285,We cannot definitively determine their mutual nationality,0.3307104980161032
+1715,285,We cannot definitively determine their nationality,0.3849180194596804
+1716,286,$\it{Other}$,0.41379310344827586
+1717,286,American,0.0
+1718,286,American and Canadian,0.0
+1719,286,Canadian,0.0
+1720,286,We cannot definitively determine their mutual nationality,0.13793103448275862
+1721,286,We cannot definitively determine their nationality,0.4482758620689655
+1722,287,$\it{Other}$,0.2796742933991478
+1723,287,American,0.0
+1724,287,American and Canadian,0.0
+1725,287,Canadian,0.0
+1726,287,We cannot definitively determine their mutual nationality,0.25935632578639856
+1727,287,We cannot definitively determine their nationality,0.4609693808144537
+1728,288,$\it{Other}$,0.16666666666666666
+1729,288,American,0.0
+1730,288,American and Canadian,0.0
+1731,288,Canadian,0.0
+1732,288,We cannot definitively determine their mutual nationality,0.20833333333333334
+1733,288,We cannot definitively determine their nationality,0.625
+1734,289,$\it{Other}$,0.34109974841065027
+1735,289,American,0.0
+1736,289,American and Canadian,0.0
+1737,289,Canadian,0.0
+1738,289,We cannot definitively determine their mutual nationality,0.19835603878725466
+1739,289,We cannot definitively determine their nationality,0.4605442128020952
+1740,290,$\it{Other}$,0.28243111265129456
+1741,290,American,0.0
+1742,290,American and Canadian,0.0
+1743,290,Canadian,0.0
+1744,290,We cannot definitively determine their mutual nationality,0.21768489111524103
+1745,290,We cannot definitively determine their nationality,0.49988399623346436
+1746,291,$\it{Other}$,0.13793103448275862
+1747,291,American,0.0
+1748,291,American and Canadian,0.0
+1749,291,Canadian,0.0
+1750,291,We cannot definitively determine their mutual nationality,0.4482758620689655
+1751,291,We cannot definitively determine their nationality,0.41379310344827586
+1752,292,$\it{Other}$,0.17553637990415666
+1753,292,American,0.0
+1754,292,American and Canadian,0.0
+1755,292,Canadian,0.0
+1756,292,We cannot definitively determine their mutual nationality,0.3182097759084337
+1757,292,We cannot definitively determine their nationality,0.5062538441874096
+1758,293,$\it{Other}$,0.23076923076923078
+1759,293,American,0.0
+1760,293,American and Canadian,0.0
+1761,293,Canadian,0.0
+1762,293,We cannot definitively determine their mutual nationality,0.5
+1763,293,We cannot definitively determine their nationality,0.2692307692307692
+1764,294,$\it{Other}$,0.12
+1765,294,American,0.0
+1766,294,American and Canadian,0.0
+1767,294,Canadian,0.0
+1768,294,We cannot definitively determine their mutual nationality,0.36
+1769,294,We cannot definitively determine their nationality,0.52
+1770,295,$\it{Other}$,0.19727379461070516
+1771,295,American,0.0
+1772,295,American and Canadian,0.01264298179557824
+1773,295,Canadian,0.0
+1774,295,We cannot definitively determine their mutual nationality,0.39939954919170206
+1775,295,We cannot definitively determine their nationality,0.39068367440201446
+1776,296,$\it{Other}$,0.13473686311068966
+1777,296,American,0.0
+1778,296,American and Canadian,0.0051884213532270695
+1779,296,Canadian,0.0
+1780,296,We cannot definitively determine their mutual nationality,0.4563740114131998
+1781,296,We cannot definitively determine their nationality,0.4037007041228834
+1782,297,$\it{Other}$,0.1114549098453133
+1783,297,American,0.0
+1784,297,American and Canadian,0.0
+1785,297,Canadian,0.0
+1786,297,We cannot definitively determine their mutual nationality,0.5694535737458312
+1787,297,We cannot definitively determine their nationality,0.31909151640885547
+1788,298,$\it{Other}$,0.25874123358339174
+1789,298,American,0.0
+1790,298,American and Canadian,0.0
+1791,298,Canadian,0.0
+1792,298,We cannot definitively determine their mutual nationality,0.35811563617089576
+1793,298,We cannot definitively determine their nationality,0.38314313024571245
+1794,299,$\it{Other}$,0.02643150449427623
+1795,299,American,0.0
+1796,299,American and Canadian,0.0
+1797,299,Canadian,0.0
+1798,299,We cannot definitively determine their mutual nationality,0.4370041062919867
+1799,299,We cannot definitively determine their nationality,0.536564389213737
+1800,300,$\it{Other}$,0.25
+1801,300,American,0.0
+1802,300,American and Canadian,0.0
+1803,300,Canadian,0.0
+1804,300,We cannot definitively determine their mutual nationality,0.25
+1805,300,We cannot definitively determine their nationality,0.5
+1806,301,$\it{Other}$,0.0
+1807,301,American,0.0
+1808,301,American and Canadian,0.0
+1809,301,Canadian,0.0
+1810,301,We cannot definitively determine their mutual nationality,0.6666666666666666
+1811,301,We cannot definitively determine their nationality,0.3333333333333333
+1812,302,$\it{Other}$,0.0
+1813,302,American,0.0
+1814,302,American and Canadian,0.0
+1815,302,Canadian,0.0
+1816,302,We cannot definitively determine their mutual nationality,0.5
+1817,302,We cannot definitively determine their nationality,0.5
+1818,303,$\it{Other}$,0.0
+1819,303,American,0.0
+1820,303,American and Canadian,0.0
+1821,303,Canadian,0.0
+1822,303,We cannot definitively determine their mutual nationality,0.4
+1823,303,We cannot definitively determine their nationality,0.6
+1824,304,$\it{Other}$,0.0
+1825,304,American,0.0
+1826,304,American and Canadian,0.0
+1827,304,Canadian,0.0
+1828,304,We cannot definitively determine their mutual nationality,0.5
+1829,304,We cannot definitively determine their nationality,0.5
+1830,305,$\it{Other}$,0.014348095765223204
+1831,305,American,0.0
+1832,305,American and Canadian,0.002869619153044641
+1833,305,Canadian,0.0
+1834,305,We cannot definitively determine their mutual nationality,0.48852152338782145
+1835,305,We cannot definitively determine their nationality,0.49426076169391076

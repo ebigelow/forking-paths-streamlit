@@ -78,7 +78,7 @@ ans_key_map = {
 def check_password():
     """Returns `True` if the user had the correct password.
     
-    https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso
+    https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso  (option 1)
     """
     
     def password_entered():

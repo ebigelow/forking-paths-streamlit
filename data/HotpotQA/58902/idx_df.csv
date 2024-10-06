@@ -1,733 +1,733 @@
 ,idx,ans,weighted
-0,0,$\it{Other}$,0.658650091217961
-1,0,2008,0.10811937118562928
-2,0,2008.,0.057496352887235085
-3,0,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0772470521077383
+0,0,$\it{Other}$,0.5883114053965888
+1,0,2008,0.16561572407286437
+2,0,Finish: length,0.07033868582137226
+3,0,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0772470521077383
 4,0,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-5,0,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.09848713260143632
-6,1,$\it{Other}$,0.6666666666666666
-7,1,2008,0.06666666666666667
-8,1,2008.,0.03333333333333333
-9,1,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+5,0,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.09848713260143632
+6,1,$\it{Other}$,0.5
+7,1,2008,0.1
+8,1,Finish: length,0.16666666666666666
+9,1,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 10,1,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-11,1,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-12,2,$\it{Other}$,0.6039007115791594
-13,2,2008,0.12553191017501475
-14,2,2008.,0.03723404491249263
-15,2,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.09219857684168142
+11,1,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+12,2,$\it{Other}$,0.45283689122912985
+13,2,2008,0.16276595508750735
+14,2,Finish: length,0.1510638203500295
+15,2,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.09219857684168142
 16,2,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-17,2,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.14113475649165194
-18,3,$\it{Other}$,0.6446559117932716
-19,3,2008,0.16100537743669746
-20,3,2008.,0.027672044103364143
-21,3,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.061005377436697476
+17,2,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.14113475649165194
+18,3,$\it{Other}$,0.5503172010232409
+19,3,2008,0.18867742154006162
+20,3,Finish: length,0.09433871077003081
+21,3,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.061005377436697476
 22,3,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-23,3,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.10566128922996917
-24,4,$\it{Other}$,0.5666666666666667
+23,3,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.10566128922996917
+24,4,$\it{Other}$,0.43333333333333335
 25,4,2008,0.13333333333333333
-26,4,2008.,0.0
-27,4,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.2
+26,4,Finish: length,0.13333333333333333
+27,4,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.2
 28,4,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-29,4,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-30,5,$\it{Other}$,0.5401591654994639
-31,5,2008,0.1604488652148926
-32,5,2008.,0.0673055951784696
-33,5,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0916704236272577
+29,4,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+30,5,$\it{Other}$,0.42939859099323674
+31,5,2008,0.2277544603933622
+32,5,Finish: length,0.11076057450622717
+33,5,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0916704236272577
 34,5,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-35,5,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.14041595047991606
-36,6,$\it{Other}$,0.5333333333333333
-37,6,2008,0.16666666666666666
-38,6,2008.,0.03333333333333333
-39,6,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
+35,5,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.14041595047991606
+36,6,$\it{Other}$,0.4666666666666667
+37,6,2008,0.2
+38,6,Finish: length,0.06666666666666667
+39,6,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
 40,6,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-41,6,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-42,7,$\it{Other}$,0.6939824801577561
-43,7,2008,0.07569294643003244
-44,7,2008.,0.030324573412211408
-45,7,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
+41,6,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+42,7,$\it{Other}$,0.5939824801577561
+43,7,2008,0.10601751984224385
+44,7,Finish: length,0.1
+45,7,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
 46,7,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-47,7,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
-48,8,$\it{Other}$,0.6733139184709035
-49,8,2008,0.14192710887527654
-50,8,2008.,0.03758018437191489
-51,8,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.039232468754496666
+47,7,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
+48,8,$\it{Other}$,0.5760936884368163
+49,8,2008,0.17950729324719142
+50,8,Finish: length,0.09722023003408725
+51,8,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.039232468754496666
 52,8,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-53,8,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.10794631952740835
-54,9,$\it{Other}$,0.5333333333333333
+53,8,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.10794631952740835
+54,9,$\it{Other}$,0.4
 55,9,2008,0.06666666666666667
-56,9,2008.,0.0
-57,9,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
+56,9,Finish: length,0.13333333333333333
+57,9,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
 58,9,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-59,9,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-60,10,$\it{Other}$,0.6333333333333333
-61,10,2008,0.2
-62,10,2008.,0.03333333333333333
-63,10,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+59,9,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+60,10,$\it{Other}$,0.5333333333333333
+61,10,2008,0.23333333333333334
+62,10,Finish: length,0.1
+63,10,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 64,10,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-65,10,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-66,11,$\it{Other}$,0.5734162735636107
-67,11,2008,0.1706421239672892
-68,11,2008.,0.04419378063257985
-69,11,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.07411555568418757
+65,10,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+66,11,$\it{Other}$,0.5350406237854108
+67,11,2008,0.21483590459986904
+68,11,Finish: length,0.03837564977819981
+69,11,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.07411555568418757
 70,11,"Tara Reid starred in the 2008 film ""Deal.""",0.012355982870918115
-71,11,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.12527628328141455
-72,12,$\it{Other}$,0.5778363662651979
-73,12,2008,0.16373395257790893
-74,12,2008.,0.054416718454274794
-75,12,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.058203900809602374
+71,11,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.12527628328141455
+72,12,$\it{Other}$,0.49053198321663216
+73,12,2008,0.21815067103218375
+74,12,Finish: length,0.08730438304856566
+75,12,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.058203900809602374
 76,12,"Tara Reid starred in the 2008 film ""Deal.""",0.003007711776314892
-77,12,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.14280135011670114
-78,13,$\it{Other}$,0.6224200968485751
-79,13,2008,0.11877533697577115
-80,13,2008.,0.12004369906548815
-81,13,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.01036232327568318
+77,12,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.14280135011670114
+78,13,$\it{Other}$,0.48640582466207044
+79,13,2008,0.2388190360412593
+80,13,Finish: length,0.1360142721865047
+81,13,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.01036232327568318
 82,13,"Tara Reid starred in the 2008 film ""Deal.""",0.02547123284232039
-83,13,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.10292731099216201
-84,14,$\it{Other}$,0.5767615209585776
-85,14,2008,0.16666666666666663
-86,14,2008.,0.07339656952794069
-87,14,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.05993676380539264
+83,13,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.10292731099216201
+84,14,$\it{Other}$,0.513459805722548
+85,14,2008,0.24006323619460734
+86,14,Finish: length,0.06330171523602965
+87,14,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.05993676380539264
 88,14,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-89,14,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1232384790414223
-90,15,$\it{Other}$,0.5333333333333333
-91,15,2008,0.13333333333333333
-92,15,2008.,0.1
-93,15,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.1
+89,14,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1232384790414223
+90,15,$\it{Other}$,0.5
+91,15,2008,0.23333333333333334
+92,15,Finish: length,0.03333333333333333
+93,15,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.1
 94,15,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-95,15,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-96,16,$\it{Other}$,0.6666666666666666
-97,16,2008,0.2
-98,16,2008.,0.06666666666666667
-99,16,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
+95,15,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+96,16,$\it{Other}$,0.6333333333333333
+97,16,2008,0.26666666666666666
+98,16,Finish: length,0.03333333333333333
+99,16,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
 100,16,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-101,16,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
-102,17,$\it{Other}$,0.6851550521290819
-103,17,2008,0.05182171879574865
-104,17,2008.,0.08151161453758468
-105,17,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.057422473935459004
+101,16,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
+102,17,$\it{Other}$,0.6481782812042512
+103,17,2008,0.13333333333333333
+104,17,Finish: length,0.036976770924830635
+105,17,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.057422473935459004
 106,17,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-107,17,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.12408914060212567
-108,18,$\it{Other}$,0.7
-109,18,2008,0.1
-110,18,2008.,0.03333333333333333
-111,18,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+107,17,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.12408914060212567
+108,18,$\it{Other}$,0.5666666666666667
+109,18,2008,0.13333333333333333
+110,18,Finish: length,0.13333333333333333
+111,18,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 112,18,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-113,18,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-114,19,$\it{Other}$,0.6333333333333333
-115,19,2008,0.06666666666666667
-116,19,2008.,0.06666666666666667
-117,19,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
+113,18,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+114,19,$\it{Other}$,0.5
+115,19,2008,0.13333333333333333
+116,19,Finish: length,0.13333333333333333
+117,19,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
 118,19,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-119,19,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-120,20,$\it{Other}$,0.7333333333333333
-121,20,2008,0.03333333333333333
-122,20,2008.,0.06666666666666667
-123,20,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
+119,19,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+120,20,$\it{Other}$,0.6666666666666666
+121,20,2008,0.1
+122,20,Finish: length,0.06666666666666667
+123,20,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
 124,20,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-125,20,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
-126,21,$\it{Other}$,0.6333333333333333
+125,20,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
+126,21,$\it{Other}$,0.5333333333333333
 127,21,2008,0.2
-128,21,2008.,0.0
-129,21,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
+128,21,Finish: length,0.1
+129,21,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
 130,21,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-131,21,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-132,22,$\it{Other}$,0.7
-133,22,2008,0.0
-134,22,2008.,0.13333333333333333
-135,22,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+131,21,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+132,22,$\it{Other}$,0.6333333333333333
+133,22,2008,0.13333333333333333
+134,22,Finish: length,0.06666666666666667
+135,22,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 136,22,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-137,22,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-138,23,$\it{Other}$,0.6666666666666666
+137,22,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+138,23,$\it{Other}$,0.6
 139,23,2008,0.06666666666666667
-140,23,2008.,0.0
-141,23,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.1
+140,23,Finish: length,0.06666666666666667
+141,23,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.1
 142,23,"Tara Reid starred in the 2008 film ""Deal.""",0.06666666666666667
-143,23,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-144,24,$\it{Other}$,0.5952242462165187
-145,24,2008,0.083175848679437
-146,24,2008.,0.08572121022507401
-147,24,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.04252140001698533
+143,23,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+144,24,$\it{Other}$,0.5392000474479779
+145,24,2008,0.168897058904511
+146,24,Finish: length,0.05602419876854084
+147,24,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.04252140001698533
 148,24,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-149,24,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.19335729486198502
-150,25,$\it{Other}$,0.7258831373138444
-151,25,2008,0.08509960796102214
-152,25,2008.,0.06555197971333313
-153,25,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.04189821630615582
+149,24,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.19335729486198502
+150,25,$\it{Other}$,0.6560487161141
+151,25,2008,0.15065158767435524
+152,25,Finish: length,0.06983442119974437
+153,25,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.04189821630615582
 154,25,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-155,25,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.08156705870564454
-156,26,$\it{Other}$,0.5758501412995364
-157,26,2008,0.1270432016109023
-158,26,2008.,0.06352160080545115
-159,26,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06811333812188605
+155,25,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.08156705870564454
+156,26,$\it{Other}$,0.4919193337139818
+157,26,2008,0.19056480241635346
+158,26,Finish: length,0.08393080758555466
+159,26,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06811333812188605
 160,26,"Tara Reid starred in the 2008 film ""Deal.""",0.015817469463668604
-161,26,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1496542486985554
-162,27,$\it{Other}$,0.6623582637138564
-163,27,2008,0.04195013923895383
-164,27,2008.,0.06451246519026155
-165,27,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.12687072890411796
+161,26,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1496542486985554
+162,27,$\it{Other}$,0.5354875348097385
+163,27,2008,0.10646260442921539
+164,27,Finish: length,0.12687072890411796
+165,27,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.12687072890411796
 166,27,"Tara Reid starred in the 2008 film ""Deal.""",0.0021542014764051247
-167,27,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.10215420147640514
-168,28,$\it{Other}$,0.4666666666666667
-169,28,2008,0.2
-170,28,2008.,0.1
-171,28,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+167,27,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.10215420147640514
+168,28,$\it{Other}$,0.43333333333333335
+169,28,2008,0.3
+170,28,Finish: length,0.03333333333333333
+171,28,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 172,28,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-173,28,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
-174,29,$\it{Other}$,0.7333333333333333
+173,28,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
+174,29,$\it{Other}$,0.6666666666666666
 175,29,2008,0.06666666666666667
-176,29,2008.,0.0
-177,29,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+176,29,Finish: length,0.06666666666666667
+177,29,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 178,29,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-179,29,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-180,30,$\it{Other}$,0.7333333333333333
-181,30,2008,0.03333333333333333
-182,30,2008.,0.1
-183,30,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+179,29,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+180,30,$\it{Other}$,0.7
+181,30,2008,0.13333333333333333
+182,30,Finish: length,0.03333333333333333
+183,30,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 184,30,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-185,30,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
-186,31,$\it{Other}$,0.43333333333333335
-187,31,2008,0.2
-188,31,2008.,0.1
-189,31,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+185,30,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
+186,31,$\it{Other}$,0.4
+187,31,2008,0.3
+188,31,Finish: length,0.03333333333333333
+189,31,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 190,31,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-191,31,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-192,32,$\it{Other}$,0.6666666666666665
-193,32,2008,0.09999999999999999
-194,32,2008.,0.09455727134087741
-195,32,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.03514757621970753
+191,31,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+192,32,$\it{Other}$,0.5333333333333333
+193,32,2008,0.1945572713408774
+194,32,Finish: length,0.13333333333333333
+195,32,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.03514757621970753
 196,32,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-197,32,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.10362848577274839
-198,33,$\it{Other}$,0.7
-199,33,2008,0.06666666666666667
-200,33,2008.,0.03333333333333333
-201,33,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+197,32,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.10362848577274839
+198,33,$\it{Other}$,0.6666666666666666
+199,33,2008,0.1
+200,33,Finish: length,0.03333333333333333
+201,33,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 202,33,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-203,33,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-204,34,$\it{Other}$,0.6666666666666666
+203,33,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+204,34,$\it{Other}$,0.6
 205,34,2008,0.06666666666666667
-206,34,2008.,0.0
-207,34,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+206,34,Finish: length,0.06666666666666667
+207,34,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 208,34,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-209,34,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-210,35,$\it{Other}$,0.6333333333333333
-211,35,2008,0.13333333333333333
-212,35,2008.,0.03333333333333333
-213,35,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.1
+209,34,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+210,35,$\it{Other}$,0.5
+211,35,2008,0.16666666666666666
+212,35,Finish: length,0.13333333333333333
+213,35,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.1
 214,35,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-215,35,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-216,36,$\it{Other}$,0.6666666666666666
-217,36,2008,0.16666666666666666
-218,36,2008.,0.06666666666666667
-219,36,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
+215,35,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+216,36,$\it{Other}$,0.5666666666666667
+217,36,2008,0.23333333333333334
+218,36,Finish: length,0.1
+219,36,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
 220,36,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-221,36,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
-222,37,$\it{Other}$,0.5666666666666667
-223,37,2008,0.13333333333333333
-224,37,2008.,0.03333333333333333
-225,37,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+221,36,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
+222,37,$\it{Other}$,0.4
+223,37,2008,0.16666666666666666
+224,37,Finish: length,0.16666666666666666
+225,37,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 226,37,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-227,37,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.26666666666666666
-228,38,$\it{Other}$,0.614130011551088
-229,38,2008,0.11576504368345567
-230,38,2008.,0.06820551180317765
-231,38,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.10371083459378151
+227,37,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.26666666666666666
+228,38,$\it{Other}$,0.48867512222694215
+229,38,2008,0.1839705554866333
+230,38,Finish: length,0.1254548893241459
+231,38,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.10371083459378151
 232,38,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-233,38,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.09818859836849719
-234,39,$\it{Other}$,0.7031147140335876
-235,39,2008,0.10016152867062578
-236,39,2008.,0.057637667670661676
-237,39,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.021095233802043645
+233,38,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.09818859836849719
+234,39,$\it{Other}$,0.4063923757153894
+235,39,2008,0.15779919634128747
+236,39,Finish: length,0.2967223383181982
+237,39,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.021095233802043645
 238,39,"Tara Reid starred in the 2008 film ""Deal.""",0.00320594481988011
-239,39,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.11478491100320125
-240,40,$\it{Other}$,0.6666666666666666
-241,40,2008,0.0
-242,40,2008.,0.13333333333333333
-243,40,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+239,39,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.11478491100320125
+240,40,$\it{Other}$,0.5666666666666667
+241,40,2008,0.13333333333333333
+242,40,Finish: length,0.1
+243,40,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 244,40,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-245,40,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-246,41,$\it{Other}$,0.8218857702820389
+245,40,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+246,41,$\it{Other}$,0.7161619887563916
 247,41,2008,0.05050467791027507
-248,41,2008.,0.0
-249,41,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.05521910361537218
+248,41,Finish: length,0.10572378152564726
+249,41,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.05521910361537218
 250,41,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-251,41,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.07239044819231391
-252,42,$\it{Other}$,0.7560404567079586
-253,42,2008,0.021979771646020715
-254,42,2008.,0.04395954329204143
-255,42,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.04468689502064595
+251,41,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.07239044819231391
+252,42,$\it{Other}$,0.5560404567079585
+253,42,2008,0.06593931493806214
+254,42,Finish: length,0.2
+255,42,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.04468689502064595
 256,42,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-257,42,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-258,43,$\it{Other}$,0.7258046134917611
-259,43,2008,0.07959087538631764
-260,43,2008.,0.04808609874247167
-261,43,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.030591784946753124
+257,42,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+258,43,$\it{Other}$,0.6104888767774528
+259,43,2008,0.1276769741287893
+260,43,Finish: length,0.11531573671430828
+261,43,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.030591784946753124
 262,43,"Tara Reid starred in the 2008 film ""Deal.""",0.0044824971809858255
-263,43,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.11144413025171074
-264,44,$\it{Other}$,0.5333333333333333
-265,44,2008,0.16666666666666666
-266,44,2008.,0.13333333333333333
-267,44,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.1
+263,43,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.11144413025171074
+264,44,$\it{Other}$,0.43333333333333335
+265,44,2008,0.3
+266,44,Finish: length,0.1
+267,44,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.1
 268,44,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-269,44,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
-270,45,$\it{Other}$,0.5666666666666667
-271,45,2008,0.13333333333333333
-272,45,2008.,0.13333333333333333
-273,45,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.1
+269,44,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
+270,45,$\it{Other}$,0.5333333333333333
+271,45,2008,0.26666666666666666
+272,45,Finish: length,0.03333333333333333
+273,45,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.1
 274,45,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-275,45,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
-276,46,$\it{Other}$,0.7
-277,46,2008,0.12719511332106478
-278,46,2008.,0.03333333333333333
-279,46,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.03333333333333333
+275,45,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
+276,46,$\it{Other}$,0.6210568933087962
+277,46,2008,0.16052844665439808
+278,46,Finish: length,0.07894310669120379
+279,46,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.03333333333333333
 280,46,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-281,46,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.10613822001226857
-282,47,$\it{Other}$,0.7666666666666667
-283,47,2008,0.06666666666666667
-284,47,2008.,0.1
-285,47,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+281,46,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.10613822001226857
+282,47,$\it{Other}$,0.5666666666666667
+283,47,2008,0.16666666666666666
+284,47,Finish: length,0.2
+285,47,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 286,47,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-287,47,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
-288,48,$\it{Other}$,0.739168341259058
-289,48,2008,0.07766599682971018
-290,48,2008.,0.03883299841485509
-291,48,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.044332663496376844
+287,47,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
+288,48,$\it{Other}$,0.6336686761775361
+289,48,2008,0.11649899524456528
+290,48,Finish: length,0.10549966508152175
+291,48,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.044332663496376844
 292,48,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-293,48,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-294,49,$\it{Other}$,0.7333333333333333
+293,48,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+294,49,$\it{Other}$,0.6333333333333333
 295,49,2008,0.1
-296,49,2008.,0.0
-297,49,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+296,49,Finish: length,0.1
+297,49,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 298,49,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-299,49,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-300,50,$\it{Other}$,0.6974069430027059
-301,50,2008,0.06666666666666667
-302,50,2008.,0.03333333333333333
-303,50,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.07185278066125474
+299,49,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+300,50,$\it{Other}$,0.6281472193387452
+301,50,2008,0.1
+302,50,Finish: length,0.0692597236639607
+303,50,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.07185278066125474
 304,50,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-305,50,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1307402763360393
-306,51,$\it{Other}$,0.7666666666666667
+305,50,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1307402763360393
+306,51,$\it{Other}$,0.6333333333333333
 307,51,2008,0.03333333333333333
-308,51,2008.,0.0
-309,51,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.06666666666666667
+308,51,Finish: length,0.13333333333333333
+309,51,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.06666666666666667
 310,51,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-311,51,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.13333333333333333
-312,52,$\it{Other}$,0.8358856978531249
-313,52,2008,0.07106394792574405
-314,52,2008.,0.03333333333333333
-315,52,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.008794562518154766
+311,51,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.13333333333333333
+312,52,$\it{Other}$,0.6201414895561012
+313,52,2008,0.10439728125907739
+314,52,Finish: length,0.21574420829702382
+315,52,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.008794562518154766
 316,52,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-317,52,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.017589125036309532
-318,53,$\it{Other}$,0.6626592586089846
-319,53,2008,0.17439917832134325
-320,53,2008.,0.05586995985617936
-321,53,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.010796706810487305
+317,52,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.017589125036309532
+318,53,$\it{Other}$,0.5586518505513023
+319,53,2008,0.2302691381775226
+320,53,Finish: length,0.10400740805768216
+321,53,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.010796706810487305
 322,53,"Tara Reid starred in the 2008 film ""Deal.""",0.018529218465163876
-323,53,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.0777456779378417
-324,54,$\it{Other}$,0.7
-325,54,2008,0.06666666666666667
-326,54,2008.,0.03333333333333333
-327,54,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+323,53,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.0777456779378417
+324,54,$\it{Other}$,0.4666666666666667
+325,54,2008,0.1
+326,54,Finish: length,0.23333333333333334
+327,54,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 328,54,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-329,54,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
-330,55,$\it{Other}$,0.7017074489209926
-331,55,2008,0.12667342362539954
-332,55,2008.,0.08027516554516567
-333,55,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.01590235935028606
+329,54,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
+330,55,$\it{Other}$,0.587442630805223
+331,55,2008,0.20694858917056522
+332,55,Finish: length,0.11426481811576952
+333,55,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.01590235935028606
 334,55,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-335,55,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.07544160255815618
-336,56,$\it{Other}$,0.7
+335,55,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.07544160255815618
+336,56,$\it{Other}$,0.6666666666666666
 337,56,2008,0.1
-338,56,2008.,0.0
-339,56,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+338,56,Finish: length,0.03333333333333333
+339,56,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 340,56,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-341,56,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-342,57,$\it{Other}$,0.5638121448282787
-343,57,2008,0.07370606600737986
-344,57,2008.,0.1
-345,57,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+341,56,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+342,57,$\it{Other}$,0.4687761074663286
+343,57,2008,0.17370606600737987
+344,57,Finish: length,0.09503603736195002
+345,57,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 346,57,"Tara Reid starred in the 2008 film ""Deal.""",0.019432303887338787
-347,57,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2430494852770027
-348,58,$\it{Other}$,0.6798294072561067
-349,58,2008,0.10806823709755727
-350,58,2008.,0.03736745188211196
-351,58,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+347,57,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2430494852770027
+348,58,$\it{Other}$,0.5545643110203308
+349,58,2008,0.14543568897966924
+350,58,Finish: length,0.12526509623577609
+351,58,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 352,58,"Tara Reid starred in the 2008 film ""Deal.""",0.004034118548778632
-353,58,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1707007852154453
-354,59,$\it{Other}$,0.5
-355,59,2008,0.23333333333333334
-356,59,2008.,0.06666666666666667
-357,59,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+353,58,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1707007852154453
+354,59,$\it{Other}$,0.43333333333333335
+355,59,2008,0.3
+356,59,Finish: length,0.06666666666666667
+357,59,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 358,59,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-359,59,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-360,60,$\it{Other}$,0.5333333333333333
+359,59,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+360,60,$\it{Other}$,0.4666666666666667
 361,60,2008,0.16666666666666666
-362,60,2008.,0.0
-363,60,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+362,60,Finish: length,0.06666666666666667
+363,60,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 364,60,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-365,60,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.3
-366,61,$\it{Other}$,0.5666666666666667
-367,61,2008,0.03333333333333333
-368,61,2008.,0.06666666666666667
-369,61,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+365,60,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.3
+366,61,$\it{Other}$,0.5
+367,61,2008,0.1
+368,61,Finish: length,0.06666666666666667
+369,61,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 370,61,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-371,61,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.3333333333333333
-372,62,$\it{Other}$,0.7333333333333333
-373,62,2008,0.1
-374,62,2008.,0.03333333333333333
-375,62,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+371,61,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.3333333333333333
+372,62,$\it{Other}$,0.6
+373,62,2008,0.13333333333333333
+374,62,Finish: length,0.13333333333333333
+375,62,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 376,62,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-377,62,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1
-378,63,$\it{Other}$,0.6693545670778918
-379,63,2008,0.10115169853158539
-380,63,2008.,0.020423293657764876
-381,63,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+377,62,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1
+378,63,$\it{Other}$,0.6190688510166913
+379,63,2008,0.12157499218935025
+380,63,Finish: length,0.05028571606120036
+381,63,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 382,63,"Tara Reid starred in the 2008 film ""Deal.""",0.020423293657764876
-383,63,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.18864714707499308
-384,64,$\it{Other}$,0.6333333333333333
+383,63,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.18864714707499308
+384,64,$\it{Other}$,0.4666666666666667
 385,64,2008,0.16666666666666666
-386,64,2008.,0.0
-387,64,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+386,64,Finish: length,0.16666666666666666
+387,64,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 388,64,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-389,64,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
-390,65,$\it{Other}$,0.5333333333333333
-391,65,2008,0.03333333333333333
-392,65,2008.,0.03333333333333333
-393,65,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+389,64,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
+390,65,$\it{Other}$,0.43333333333333335
+391,65,2008,0.06666666666666667
+392,65,Finish: length,0.1
+393,65,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 394,65,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-395,65,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.36666666666666664
+395,65,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.36666666666666664
 396,66,$\it{Other}$,0.6333333333333333
-397,66,2008,0.0
-398,66,2008.,0.06666666666666667
-399,66,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+397,66,2008,0.06666666666666667
+398,66,Finish: length,0.0
+399,66,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 400,66,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-401,66,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.26666666666666666
-402,67,$\it{Other}$,0.5333333333333333
+401,66,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.26666666666666666
+402,67,$\it{Other}$,0.5
 403,67,2008,0.1
-404,67,2008.,0.0
-405,67,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+404,67,Finish: length,0.03333333333333333
+405,67,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 406,67,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-407,67,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.36666666666666664
-408,68,$\it{Other}$,0.738641858108812
-409,68,2008,0.03955150437409086
-410,68,2008.,0.06051546555656878
-411,68,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+407,67,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.36666666666666664
+408,68,$\it{Other}$,0.6269868389717346
+409,68,2008,0.10006696993065965
+410,68,Finish: length,0.11165501913707741
+411,68,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 412,68,"Tara Reid starred in the 2008 film ""Deal.""",0.006218171040757527
-413,68,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1550730009197709
-414,69,$\it{Other}$,0.6333333333333333
-415,69,2008,0.06666666666666667
-416,69,2008.,0.1
-417,69,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+413,68,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1550730009197709
+414,69,$\it{Other}$,0.6
+415,69,2008,0.16666666666666666
+416,69,Finish: length,0.03333333333333333
+417,69,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 418,69,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-419,69,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-420,70,$\it{Other}$,0.5666666666666667
+419,69,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+420,70,$\it{Other}$,0.5
 421,70,2008,0.23333333333333334
-422,70,2008.,0.0
-423,70,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+422,70,Finish: length,0.06666666666666667
+423,70,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 424,70,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-425,70,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.2
-426,71,$\it{Other}$,0.4666666666666667
-427,71,2008,0.2
-428,71,2008.,0.03333333333333333
-429,71,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+425,70,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.2
+426,71,$\it{Other}$,0.4
+427,71,2008,0.23333333333333334
+428,71,Finish: length,0.06666666666666667
+429,71,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 430,71,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-431,71,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.3
-432,72,$\it{Other}$,0.6666666666666666
-433,72,2008,0.06666666666666667
-434,72,2008.,0.06666666666666667
-435,72,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+431,71,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.3
+432,72,$\it{Other}$,0.6333333333333333
+433,72,2008,0.13333333333333333
+434,72,Finish: length,0.03333333333333333
+435,72,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 436,72,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-437,72,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.16666666666666666
-438,73,$\it{Other}$,0.5501732669413131
-439,73,2008,0.1311208659485695
-440,73,2008.,0.04229610237190258
-441,73,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+437,72,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.16666666666666666
+438,73,$\it{Other}$,0.48543636448081084
+439,73,2008,0.17341696832047207
+440,73,Finish: length,0.06473690246050223
+441,73,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 442,73,"Tara Reid starred in the 2008 film ""Deal.""",0.011220400044299831
-443,73,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.265189364693915
-444,74,$\it{Other}$,0.4604195976725231
-445,74,2008,0.10105770532281141
-446,74,2008.,0.014502450387768175
-447,74,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+443,73,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.265189364693915
+444,74,$\it{Other}$,0.4314342031113255
+445,74,2008,0.11556015571057959
+446,74,Finish: length,0.028985394561197593
+447,74,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 448,74,"Tara Reid starred in the 2008 film ""Deal.""",0.010209380191078926
-449,74,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.41381086642581844
-450,75,$\it{Other}$,0.4666666666666667
+449,74,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.41381086642581844
+450,75,$\it{Other}$,0.4
 451,75,2008,0.2
-452,75,2008.,0.0
-453,75,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+452,75,Finish: length,0.06666666666666667
+453,75,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 454,75,"Tara Reid starred in the 2008 film ""Deal.""",0.06666666666666667
-455,75,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.26666666666666666
+455,75,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.26666666666666666
 456,76,$\it{Other}$,0.4666666666666667
-457,76,2008,0.16666666666666666
-458,76,2008.,0.03333333333333333
-459,76,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+457,76,2008,0.2
+458,76,Finish: length,0.0
+459,76,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 460,76,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-461,76,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.3
-462,77,$\it{Other}$,0.7072131684358857
-463,77,2008,0.10522403297948953
-464,77,2008.,0.005224032979489525
-465,77,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+461,76,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.3
+462,77,$\it{Other}$,0.6124372014153752
+463,77,2008,0.11044806595897905
+464,77,Finish: length,0.09477596702051048
+465,77,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 466,77,"Tara Reid starred in the 2008 film ""Deal.""",0.005224032979489525
-467,77,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.1771147326256457
-468,78,$\it{Other}$,0.49776027178130744
+467,77,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.1771147326256457
+468,78,$\it{Other}$,0.49190327737694617
 469,78,2008,0.11576235012024949
-470,78,2008.,0.0
-471,78,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+470,78,Finish: length,0.005856994404361282
+471,78,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 472,78,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-473,78,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.38647737809844307
-474,79,$\it{Other}$,0.42477459317765853
-475,79,2008,0.1812555939394187
-476,79,2008.,0.03333333333333333
-477,79,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+473,78,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.38647737809844307
+474,79,$\it{Other}$,0.3985050122831495
+475,79,2008,0.21458892727275203
+476,79,Finish: length,0.026269580894509037
+477,79,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 478,79,"Tara Reid starred in the 2008 film ""Deal.""",0.019261188721454835
-479,79,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.3413752908281346
-480,80,$\it{Other}$,0.5
+479,79,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.3413752908281346
+480,80,$\it{Other}$,0.43333333333333335
 481,80,2008,0.06666666666666667
-482,80,2008.,0.0
-483,80,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+482,80,Finish: length,0.06666666666666667
+483,80,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 484,80,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-485,80,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.43333333333333335
-486,81,$\it{Other}$,0.4
-487,81,2008,0.1
-488,81,2008.,0.03333333333333333
-489,81,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+485,80,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.43333333333333335
+486,81,$\it{Other}$,0.3
+487,81,2008,0.13333333333333333
+488,81,Finish: length,0.1
+489,81,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 490,81,"Tara Reid starred in the 2008 film ""Deal.""",0.06666666666666667
-491,81,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.4
-492,82,$\it{Other}$,0.4482758620689655
-493,82,2008,0.034482758620689655
-494,82,2008.,0.034482758620689655
-495,82,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+491,81,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.4
+492,82,$\it{Other}$,0.3793103448275862
+493,82,2008,0.06896551724137931
+494,82,Finish: length,0.06896551724137931
+495,82,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 496,82,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-497,82,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.4827586206896552
-498,83,$\it{Other}$,0.31577511841502
+497,82,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.4827586206896552
+498,83,$\it{Other}$,0.22455422587417667
 499,83,2008,0.11755821491831336
-500,83,2008.,0.0
-501,83,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+500,83,Finish: length,0.09122089254084333
+501,83,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 502,83,"Tara Reid starred in the 2008 film ""Deal.""",0.012277112937088329
-503,83,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.5543895537295783
-504,84,$\it{Other}$,0.26666666666666666
-505,84,2008,0.06666666666666667
-506,84,2008.,0.03333333333333333
-507,84,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+503,83,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.5543895537295783
+504,84,$\it{Other}$,0.13333333333333333
+505,84,2008,0.1
+506,84,Finish: length,0.13333333333333333
+507,84,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 508,84,"Tara Reid starred in the 2008 film ""Deal.""",0.03333333333333333
-509,84,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6
-510,85,$\it{Other}$,0.43333333333333335
-511,85,2008,0.06666666666666667
-512,85,2008.,0.03333333333333333
-513,85,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+509,84,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6
+510,85,$\it{Other}$,0.4
+511,85,2008,0.1
+512,85,Finish: length,0.03333333333333333
+513,85,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 514,85,"Tara Reid starred in the 2008 film ""Deal.""",0.06666666666666667
-515,85,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.4
-516,86,$\it{Other}$,0.4782573283746167
-517,86,2008,0.09686459368822646
-518,86,2008.,0.028666840452404
-519,86,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+515,85,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.4
+516,86,$\it{Other}$,0.43615596370356924
+517,86,2008,0.12553143414063045
+518,86,Finish: length,0.042101364671047456
+519,86,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 520,86,"Tara Reid starred in the 2008 film ""Deal.""",0.011078892856061104
-521,86,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.38513234462869167
-522,87,$\it{Other}$,0.3316599440952975
-523,87,2008,0.14529131650102228
-524,87,2008.,0.02905826330020446
-525,87,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+521,86,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.38513234462869167
+522,87,$\it{Other}$,0.24068726411341076
+523,87,2008,0.17434957980122678
+524,87,Finish: length,0.0909726799818867
+525,87,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 526,87,"Tara Reid starred in the 2008 film ""Deal.""",0.02905826330020446
-527,87,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.46493221280327135
-528,88,$\it{Other}$,0.16949622299461387
-529,88,2008,0.14505164387796904
-530,88,2008.,0.05285355096404558
-531,88,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+527,87,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.46493221280327135
+528,88,$\it{Other}$,0.13224084648606638
+529,88,2008,0.19790519484201458
+530,88,Finish: length,0.03725537650854747
+531,88,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 532,88,"Tara Reid starred in the 2008 film ""Deal.""",0.0558830647628212
-533,88,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.5767155174005505
+533,88,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.5767155174005505
 534,89,$\it{Other}$,0.12990995658087498
-535,89,2008,0.02235677915881999
-536,89,2008.,0.10332245905001004
-537,89,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+535,89,2008,0.12567923820883004
+536,89,Finish: length,0.0
+537,89,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 538,89,"Tara Reid starred in the 2008 film ""Deal.""",0.08308103907721252
-539,89,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6613297661330826
-540,90,$\it{Other}$,0.19230769230769232
-541,90,2008,0.3076923076923077
-542,90,2008.,0.038461538461538464
-543,90,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+539,89,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6613297661330826
+540,90,$\it{Other}$,0.15384615384615385
+541,90,2008,0.34615384615384615
+542,90,Finish: length,0.038461538461538464
+543,90,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 544,90,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-545,90,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.46153846153846156
+545,90,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.46153846153846156
 546,91,$\it{Other}$,0.16666666666666666
-547,91,2008,0.16666666666666666
-548,91,2008.,0.08333333333333333
-549,91,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+547,91,2008,0.25
+548,91,Finish: length,0.0
+549,91,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 550,91,"Tara Reid starred in the 2008 film ""Deal.""",0.041666666666666664
-551,91,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.5416666666666666
-552,92,$\it{Other}$,0.2
-553,92,2008,0.08
-554,92,2008.,0.04
-555,92,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+551,91,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.5416666666666666
+552,92,$\it{Other}$,0.12
+553,92,2008,0.12
+554,92,Finish: length,0.08
+555,92,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 556,92,"Tara Reid starred in the 2008 film ""Deal.""",0.04
-557,92,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.64
+557,92,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.64
 558,93,$\it{Other}$,0.07692307692307693
-559,93,2008,0.15384615384615385
-560,93,2008.,0.038461538461538464
-561,93,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+559,93,2008,0.19230769230769232
+560,93,Finish: length,0.0
+561,93,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 562,93,"Tara Reid starred in the 2008 film ""Deal.""",0.038461538461538464
-563,93,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6923076923076923
+563,93,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6923076923076923
 564,94,$\it{Other}$,0.16666666666666666
-565,94,2008,0.1111111111111111
-566,94,2008.,0.1111111111111111
-567,94,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+565,94,2008,0.2222222222222222
+566,94,Finish: length,0.0
+567,94,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 568,94,"Tara Reid starred in the 2008 film ""Deal.""",0.1111111111111111
-569,94,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.5
+569,94,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.5
 570,95,$\it{Other}$,0.09090909090909091
 571,95,2008,0.13636363636363635
-572,95,2008.,0.0
-573,95,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+572,95,Finish: length,0.0
+573,95,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 574,95,"Tara Reid starred in the 2008 film ""Deal.""",0.045454545454545456
-575,95,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.7272727272727273
+575,95,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.7272727272727273
 576,96,$\it{Other}$,0.12123742927208983
-577,96,2008,0.15405516707538575
-578,96,2008.,0.011392107931101077
-579,96,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+577,96,2008,0.16544727500648682
+578,96,Finish: length,0.0
+579,96,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 580,96,"Tara Reid starred in the 2008 film ""Deal.""",0.032817737803295895
-581,96,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6804975579181275
-582,97,$\it{Other}$,0.16016884176906482
-583,97,2008,0.18602633121658385
-584,97,2008.,0.03396304430166027
-585,97,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+581,96,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6804975579181275
+582,97,$\it{Other}$,0.12620579746740454
+583,97,2008,0.2199893755182441
+584,97,Finish: length,0.03396304430166027
+585,97,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 586,97,"Tara Reid starred in the 2008 film ""Deal.""",0.10999468775912205
-587,97,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.509847094953569
-588,98,$\it{Other}$,0.2
-589,98,2008,0.15
-590,98,2008.,0.05
-591,98,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+587,97,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.509847094953569
+588,98,$\it{Other}$,0.15
+589,98,2008,0.2
+590,98,Finish: length,0.05
+591,98,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 592,98,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-593,98,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6
+593,98,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6
 594,99,$\it{Other}$,0.16
 595,99,2008,0.08
-596,99,2008.,0.0
-597,99,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+596,99,Finish: length,0.0
+597,99,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 598,99,"Tara Reid starred in the 2008 film ""Deal.""",0.08
-599,99,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.68
+599,99,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.68
 600,100,$\it{Other}$,0.1
-601,100,2008,0.05
-602,100,2008.,0.15
-603,100,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+601,100,2008,0.2
+602,100,Finish: length,0.0
+603,100,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 604,100,"Tara Reid starred in the 2008 film ""Deal.""",0.1
-605,100,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6
-606,101,$\it{Other}$,0.10870538491375066
-607,101,2008,0.0770765734717804
-608,101,2008.,0.061262167750795266
-609,101,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+605,100,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6
+606,101,$\it{Other}$,0.1007981820532581
+607,101,2008,0.13833874122257567
+608,101,Finish: length,0.007907202860492566
+609,101,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 610,101,"Tara Reid starred in the 2008 film ""Deal.""",0.13833874122257567
-611,101,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.614617132641098
+611,101,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.614617132641098
 612,102,$\it{Other}$,0.11764705882352941
-613,102,2008,0.058823529411764705
-614,102,2008.,0.17647058823529413
-615,102,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+613,102,2008,0.23529411764705882
+614,102,Finish: length,0.0
+615,102,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 616,102,"Tara Reid starred in the 2008 film ""Deal.""",0.11764705882352941
-617,102,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.5294117647058824
-618,103,$\it{Other}$,0.25
-619,103,2008,0.1
-620,103,2008.,0.15
-621,103,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+617,102,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.5294117647058824
+618,103,$\it{Other}$,0.2
+619,103,2008,0.25
+620,103,Finish: length,0.05
+621,103,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 622,103,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-623,103,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.5
-624,104,$\it{Other}$,0.25
-625,104,2008,0.0625
-626,104,2008.,0.0625
-627,104,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+623,103,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.5
+624,104,$\it{Other}$,0.1875
+625,104,2008,0.125
+626,104,Finish: length,0.0625
+627,104,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 628,104,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-629,104,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.625
+629,104,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.625
 630,105,$\it{Other}$,0.19084981745408064
-631,105,2008,0.021877436586014574
-632,105,2008.,0.051959397859474225
-633,105,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+631,105,2008,0.0738368344454888
+632,105,Finish: length,0.0
+633,105,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 634,105,"Tara Reid starred in the 2008 film ""Deal.""",0.04375487317202915
-635,105,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.6915584749284014
-636,106,$\it{Other}$,0.13400817985348915
-637,106,2008,0.0
-638,106,2008.,0.006005453235659431
-639,106,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+635,105,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.6915584749284014
+636,106,$\it{Other}$,0.12199727338217028
+637,106,2008,0.006005453235659431
+638,106,Finish: length,0.012010906471318862
+639,106,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 640,106,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-641,106,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.8599863669108515
+641,106,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.8599863669108515
 642,107,$\it{Other}$,0.0
 643,107,2008,0.0
-644,107,2008.,0.0
-645,107,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+644,107,Finish: length,0.0
+645,107,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 646,107,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-647,107,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+647,107,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 648,108,$\it{Other}$,0.25
 649,108,2008,0.0
-650,108,2008.,0.0
-651,108,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+650,108,Finish: length,0.0
+651,108,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 652,108,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-653,108,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.75
+653,108,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.75
 654,109,$\it{Other}$,0.07692307692307693
 655,109,2008,0.0
-656,109,2008.,0.0
-657,109,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+656,109,Finish: length,0.0
+657,109,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 658,109,"Tara Reid starred in the 2008 film ""Deal.""",0.15384615384615385
-659,109,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.7692307692307693
+659,109,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.7692307692307693
 660,110,$\it{Other}$,0.02118068032212674
 661,110,2008,0.0
-662,110,2008.,0.0
-663,110,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+662,110,Finish: length,0.0
+663,110,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 664,110,"Tara Reid starred in the 2008 film ""Deal.""",0.2675594168667485
-665,110,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",0.7112599028111247
+665,110,"Tara Reid starred in the poker drama film ""Deal"" in 2008",0.7112599028111247
 666,111,$\it{Other}$,0.0
 667,111,2008,0.0
-668,111,2008.,0.0
-669,111,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+668,111,Finish: length,0.0
+669,111,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 670,111,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-671,111,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+671,111,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 672,112,$\it{Other}$,0.0
 673,112,2008,0.0
-674,112,2008.,0.0
-675,112,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+674,112,Finish: length,0.0
+675,112,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 676,112,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-677,112,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+677,112,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 678,113,$\it{Other}$,0.0
 679,113,2008,0.0
-680,113,2008.,0.0
-681,113,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+680,113,Finish: length,0.0
+681,113,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 682,113,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-683,113,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+683,113,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 684,114,$\it{Other}$,0.0
 685,114,2008,0.0
-686,114,2008.,0.0
-687,114,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+686,114,Finish: length,0.0
+687,114,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 688,114,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-689,114,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+689,114,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 690,115,$\it{Other}$,0.0
 691,115,2008,0.0
-692,115,2008.,0.0
-693,115,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+692,115,Finish: length,0.0
+693,115,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 694,115,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-695,115,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+695,115,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 696,116,$\it{Other}$,0.0
 697,116,2008,0.0
-698,116,2008.,0.0
-699,116,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+698,116,Finish: length,0.0
+699,116,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 700,116,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-701,116,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+701,116,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 702,117,$\it{Other}$,0.0
 703,117,2008,0.0
-704,117,2008.,0.0
-705,117,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+704,117,Finish: length,0.0
+705,117,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 706,117,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-707,117,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+707,117,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 708,118,$\it{Other}$,0.0
 709,118,2008,0.0
-710,118,2008.,0.0
-711,118,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+710,118,Finish: length,0.0
+711,118,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 712,118,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-713,118,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+713,118,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 714,119,$\it{Other}$,0.0
 715,119,2008,0.0
-716,119,2008.,0.0
-717,119,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+716,119,Finish: length,0.0
+717,119,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 718,119,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-719,119,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+719,119,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 720,120,$\it{Other}$,0.0
 721,120,2008,0.0
-722,120,2008.,0.0
-723,120,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+722,120,Finish: length,0.0
+723,120,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 724,120,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-725,120,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+725,120,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0
 726,121,$\it{Other}$,0.0
 727,121,2008,0.0
-728,121,2008.,0.0
-729,121,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008.",0.0
+728,121,Finish: length,0.0
+729,121,"Shannon Elizabeth starred in the poker drama film ""Deal"" in 2008",0.0
 730,121,"Tara Reid starred in the 2008 film ""Deal.""",0.0
-731,121,"Tara Reid starred in the poker drama film ""Deal"" in 2008.",1.0
+731,121,"Tara Reid starred in the poker drama film ""Deal"" in 2008",1.0

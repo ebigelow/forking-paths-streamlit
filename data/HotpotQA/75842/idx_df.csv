@@ -1,0 +1,787 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.795019867507317
+1,0,Major combat action,0.0
+2,0,"Major combat action, war and battle",0.0
+3,0,"Major combat action, war, and battle",0.0
+4,0,War and battle,0.11455134047197305
+5,0,Wars,0.09042879202070991
+6,1,$\it{Other}$,0.9333333333333333
+7,1,Major combat action,0.0
+8,1,"Major combat action, war and battle",0.0
+9,1,"Major combat action, war, and battle",0.0
+10,1,War and battle,0.0
+11,1,Wars,0.06666666666666667
+12,2,$\it{Other}$,0.8221788642770702
+13,2,Major combat action,0.0
+14,2,"Major combat action, war and battle",0.0
+15,2,"Major combat action, war, and battle",0.0
+16,2,War and battle,0.07351370129049267
+17,2,Wars,0.10430743443243709
+18,3,$\it{Other}$,0.8756426177458325
+19,3,Major combat action,0.0
+20,3,"Major combat action, war and battle",0.0
+21,3,"Major combat action, war, and battle",0.0
+22,3,War and battle,0.023917356324589013
+23,3,Wars,0.10044002592957854
+24,4,$\it{Other}$,0.8666666666666667
+25,4,Major combat action,0.0
+26,4,"Major combat action, war and battle",0.0
+27,4,"Major combat action, war, and battle",0.0
+28,4,War and battle,0.03333333333333333
+29,4,Wars,0.1
+30,5,$\it{Other}$,0.730003208066138
+31,5,Major combat action,0.0
+32,5,"Major combat action, war and battle",0.0
+33,5,"Major combat action, war, and battle",0.0
+34,5,War and battle,0.10333012526719522
+35,5,Wars,0.16666666666666669
+36,6,$\it{Other}$,0.9666666666666667
+37,6,Major combat action,0.0
+38,6,"Major combat action, war and battle",0.0
+39,6,"Major combat action, war, and battle",0.0
+40,6,War and battle,0.0
+41,6,Wars,0.03333333333333333
+42,7,$\it{Other}$,0.8
+43,7,Major combat action,0.0
+44,7,"Major combat action, war and battle",0.0
+45,7,"Major combat action, war, and battle",0.0
+46,7,War and battle,0.13333333333333333
+47,7,Wars,0.06666666666666667
+48,8,$\it{Other}$,0.8088784555021575
+49,8,Major combat action,0.0
+50,8,"Major combat action, war and battle",0.0
+51,8,"Major combat action, war, and battle",0.0
+52,8,War and battle,0.05778821116450902
+53,8,Wars,0.1333333333333333
+54,9,$\it{Other}$,0.8
+55,9,Major combat action,0.016482551240030445
+56,9,"Major combat action, war and battle",0.0
+57,9,"Major combat action, war, and battle",0.0
+58,9,War and battle,0.05018411542663622
+59,9,Wars,0.13333333333333333
+60,10,$\it{Other}$,0.9
+61,10,Major combat action,0.0
+62,10,"Major combat action, war and battle",0.0
+63,10,"Major combat action, war, and battle",0.0
+64,10,War and battle,0.03333333333333333
+65,10,Wars,0.06666666666666667
+66,11,$\it{Other}$,0.9
+67,11,Major combat action,0.0
+68,11,"Major combat action, war and battle",0.0
+69,11,"Major combat action, war, and battle",0.0
+70,11,War and battle,0.06666666666666667
+71,11,Wars,0.03333333333333333
+72,12,$\it{Other}$,0.8333333333333334
+73,12,Major combat action,0.0
+74,12,"Major combat action, war and battle",0.0
+75,12,"Major combat action, war, and battle",0.0
+76,12,War and battle,0.0
+77,12,Wars,0.16666666666666666
+78,13,$\it{Other}$,0.9
+79,13,Major combat action,0.0
+80,13,"Major combat action, war and battle",0.0
+81,13,"Major combat action, war, and battle",0.0
+82,13,War and battle,0.03333333333333333
+83,13,Wars,0.06666666666666667
+84,14,$\it{Other}$,0.9000618349569038
+85,14,Major combat action,0.0
+86,14,"Major combat action, war and battle",0.0
+87,14,"Major combat action, war, and battle",0.0
+88,14,War and battle,0.033333333333333326
+89,14,Wars,0.06660483170976285
+90,15,$\it{Other}$,0.9333333333333333
+91,15,Major combat action,0.0
+92,15,"Major combat action, war and battle",0.0
+93,15,"Major combat action, war, and battle",0.0
+94,15,War and battle,0.0
+95,15,Wars,0.06666666666666667
+96,16,$\it{Other}$,0.824718144522358
+97,16,Major combat action,0.0
+98,16,"Major combat action, war and battle",0.0
+99,16,"Major combat action, war, and battle",0.0
+100,16,War and battle,0.010512299175273538
+101,16,Wars,0.16476955630236848
+102,17,$\it{Other}$,0.876080678397755
+103,17,Major combat action,0.0
+104,17,"Major combat action, war and battle",0.0
+105,17,"Major combat action, war, and battle",0.0
+106,17,War and battle,0.017514544457724327
+107,17,Wars,0.10640477714452062
+108,18,$\it{Other}$,0.8666666666666667
+109,18,Major combat action,0.0
+110,18,"Major combat action, war and battle",0.0
+111,18,"Major combat action, war, and battle",0.0
+112,18,War and battle,0.0
+113,18,Wars,0.13333333333333333
+114,19,$\it{Other}$,0.9333333333333335
+115,19,Major combat action,0.0
+116,19,"Major combat action, war and battle",0.0
+117,19,"Major combat action, war, and battle",0.0
+118,19,War and battle,0.003642081572942275
+119,19,Wars,0.0630245850937244
+120,20,$\it{Other}$,0.8099628412427446
+121,20,Major combat action,0.004981420621372327
+122,20,"Major combat action, war and battle",0.0
+123,20,"Major combat action, war, and battle",0.0
+124,20,War and battle,0.004981420621372327
+125,20,Wars,0.1800743175145107
+126,21,$\it{Other}$,0.8075628094209659
+127,21,Major combat action,0.0
+128,21,"Major combat action, war and battle",0.0
+129,21,"Major combat action, war, and battle",0.0
+130,21,War and battle,0.0
+131,21,Wars,0.19243719057903416
+132,22,$\it{Other}$,0.8558009387974168
+133,22,Major combat action,0.03333333333333333
+134,22,"Major combat action, war and battle",0.0
+135,22,"Major combat action, war, and battle",0.0
+136,22,War and battle,0.03333333333333333
+137,22,Wars,0.07753239453591662
+138,23,$\it{Other}$,0.9333333333333333
+139,23,Major combat action,0.0
+140,23,"Major combat action, war and battle",0.0
+141,23,"Major combat action, war, and battle",0.0
+142,23,War and battle,0.0
+143,23,Wars,0.06666666666666667
+144,24,$\it{Other}$,0.8606291811668949
+145,24,Major combat action,0.0
+146,24,"Major combat action, war and battle",0.0
+147,24,"Major combat action, war, and battle",0.0
+148,24,War and battle,0.0
+149,24,Wars,0.13937081883310504
+150,25,$\it{Other}$,0.8
+151,25,Major combat action,0.0
+152,25,"Major combat action, war and battle",0.0
+153,25,"Major combat action, war, and battle",0.0
+154,25,War and battle,0.002761163078824017
+155,25,Wars,0.197238836921176
+156,26,$\it{Other}$,0.8573611613101437
+157,26,Major combat action,0.016726332413688913
+158,26,"Major combat action, war and battle",0.0
+159,26,"Major combat action, war, and battle",0.0
+160,26,War and battle,0.04994033425297775
+161,26,Wars,0.07597217202318957
+162,27,$\it{Other}$,0.8725752418313043
+163,27,Major combat action,0.0
+164,27,"Major combat action, war and battle",0.0
+165,27,"Major combat action, war, and battle",0.0
+166,27,War and battle,0.033842236860670186
+167,27,Wars,0.09358252130802558
+168,28,$\it{Other}$,0.8983417510224717
+169,28,Major combat action,0.0
+170,28,"Major combat action, war and battle",0.0
+171,28,"Major combat action, war, and battle",0.0
+172,28,War and battle,0.003780238817135286
+173,28,Wars,0.09787801016039306
+174,29,$\it{Other}$,0.8895121966385836
+175,29,Major combat action,0.0023644413791397765
+176,29,"Major combat action, war and battle",0.0
+177,29,"Major combat action, war, and battle",0.0
+178,29,War and battle,0.0134456941945547
+179,29,Wars,0.0946776677877219
+180,30,$\it{Other}$,0.7666666666666667
+181,30,Major combat action,0.0
+182,30,"Major combat action, war and battle",0.0
+183,30,"Major combat action, war, and battle",0.0
+184,30,War and battle,0.0
+185,30,Wars,0.23333333333333334
+186,31,$\it{Other}$,0.9090917068999805
+187,31,Major combat action,0.0
+188,31,"Major combat action, war and battle",0.0
+189,31,"Major combat action, war, and battle",0.0
+190,31,War and battle,0.0
+191,31,Wars,0.09090829310001965
+192,32,$\it{Other}$,0.8522832206164748
+193,32,Major combat action,0.013249945703141046
+194,32,"Major combat action, war and battle",0.0
+195,32,"Major combat action, war, and battle",0.0
+196,32,War and battle,0.05251105802846785
+197,32,Wars,0.08195577565191639
+198,33,$\it{Other}$,0.9127613940903742
+199,33,Major combat action,0.004228628804864845
+200,33,"Major combat action, war and battle",0.0
+201,33,"Major combat action, war, and battle",0.0
+202,33,War and battle,0.040648181380332785
+203,33,Wars,0.042361795724428136
+204,34,$\it{Other}$,0.9666666666666668
+205,34,Major combat action,0.020720169652141886
+206,34,"Major combat action, war and battle",0.0
+207,34,"Major combat action, war, and battle",0.0
+208,34,War and battle,0.0
+209,34,Wars,0.01261316368119145
+210,35,$\it{Other}$,0.788092252559254
+211,35,Major combat action,0.007438266129262509
+212,35,"Major combat action, war and battle",0.0
+213,35,"Major combat action, war, and battle",0.0
+214,35,War and battle,0.12007861198152425
+215,35,Wars,0.08439086932995915
+216,36,$\it{Other}$,0.8666666666666667
+217,36,Major combat action,0.0
+218,36,"Major combat action, war and battle",0.0
+219,36,"Major combat action, war, and battle",0.0
+220,36,War and battle,0.1
+221,36,Wars,0.03333333333333333
+222,37,$\it{Other}$,0.8
+223,37,Major combat action,0.06666666666666667
+224,37,"Major combat action, war and battle",0.0
+225,37,"Major combat action, war, and battle",0.0
+226,37,War and battle,0.1
+227,37,Wars,0.03333333333333333
+228,38,$\it{Other}$,0.7333333333333333
+229,38,Major combat action,0.1
+230,38,"Major combat action, war and battle",0.0
+231,38,"Major combat action, war, and battle",0.0
+232,38,War and battle,0.06666666666666667
+233,38,Wars,0.1
+234,39,$\it{Other}$,0.8950694484076283
+235,39,Major combat action,0.02840278174096158
+236,39,"Major combat action, war and battle",0.0
+237,39,"Major combat action, war, and battle",0.0
+238,39,War and battle,0.03826388492570509
+239,39,Wars,0.03826388492570509
+240,40,$\it{Other}$,0.8972398285618567
+241,40,Major combat action,0.0
+242,40,"Major combat action, war and battle",0.0
+243,40,"Major combat action, war, and battle",0.0
+244,40,War and battle,0.0663485408257423
+245,40,Wars,0.03641163061240088
+246,41,$\it{Other}$,0.8592145844883078
+247,41,Major combat action,0.0
+248,41,"Major combat action, war and battle",0.0
+249,41,"Major combat action, war, and battle",0.0
+250,41,War and battle,0.12598176938961525
+251,41,Wars,0.01480364612207695
+252,42,$\it{Other}$,0.7333333333333333
+253,42,Major combat action,0.03333333333333333
+254,42,"Major combat action, war and battle",0.0
+255,42,"Major combat action, war, and battle",0.0
+256,42,War and battle,0.13333333333333333
+257,42,Wars,0.1
+258,43,$\it{Other}$,0.8333333333333334
+259,43,Major combat action,0.0
+260,43,"Major combat action, war and battle",0.0
+261,43,"Major combat action, war, and battle",0.0
+262,43,War and battle,0.13333333333333333
+263,43,Wars,0.03333333333333333
+264,44,$\it{Other}$,0.8311779816855223
+265,44,Major combat action,0.0
+266,44,"Major combat action, war and battle",0.017025891941301833
+267,44,"Major combat action, war, and battle",0.0
+268,44,War and battle,0.13548868498114433
+269,44,Wars,0.016307441392031496
+270,45,$\it{Other}$,0.8819376249488983
+271,45,Major combat action,0.015044301372395673
+272,45,"Major combat action, war and battle",0.0
+273,45,"Major combat action, war, and battle",0.0
+274,45,War and battle,0.05743185574184717
+275,45,Wars,0.04558621793685888
+276,46,$\it{Other}$,0.922730347911587
+277,46,Major combat action,0.009002867885405042
+278,46,"Major combat action, war and battle",0.0
+279,46,"Major combat action, war, and battle",0.0
+280,46,War and battle,0.06826678420300797
+281,46,Wars,0.0
+282,47,$\it{Other}$,0.9365129165731025
+283,47,Major combat action,0.007538437523391039
+284,47,"Major combat action, war and battle",0.0
+285,47,"Major combat action, war, and battle",0.0
+286,47,War and battle,0.04841020838011541
+287,47,Wars,0.007538437523391039
+288,48,$\it{Other}$,0.9333333333333333
+289,48,Major combat action,0.03333333333333333
+290,48,"Major combat action, war and battle",0.0
+291,48,"Major combat action, war, and battle",0.0
+292,48,War and battle,0.0
+293,48,Wars,0.03333333333333333
+294,49,$\it{Other}$,0.7
+295,49,Major combat action,0.1
+296,49,"Major combat action, war and battle",0.03333333333333333
+297,49,"Major combat action, war, and battle",0.0
+298,49,War and battle,0.13333333333333333
+299,49,Wars,0.03333333333333333
+300,50,$\it{Other}$,0.8
+301,50,Major combat action,0.0
+302,50,"Major combat action, war and battle",0.03333333333333333
+303,50,"Major combat action, war, and battle",0.0
+304,50,War and battle,0.13333333333333333
+305,50,Wars,0.03333333333333333
+306,51,$\it{Other}$,0.9333333333333333
+307,51,Major combat action,0.03333333333333333
+308,51,"Major combat action, war and battle",0.0
+309,51,"Major combat action, war, and battle",0.0
+310,51,War and battle,0.03333333333333333
+311,51,Wars,0.0
+312,52,$\it{Other}$,0.7777595510127575
+313,52,Major combat action,0.032560737091327216
+314,52,"Major combat action, war and battle",0.0
+315,52,"Major combat action, war, and battle",0.0
+316,52,War and battle,0.15529888339512898
+317,52,Wars,0.03438082850078628
+318,53,$\it{Other}$,0.717523803462779
+319,53,Major combat action,0.01580952987055429
+320,53,"Major combat action, war and battle",0.0
+321,53,"Major combat action, war, and battle",0.0
+322,53,War and battle,0.14914286320388762
+323,53,Wars,0.11752380346277905
+324,54,$\it{Other}$,0.767014305168376
+325,54,Major combat action,0.02238048354124431
+326,54,"Major combat action, war and battle",0.0
+327,54,"Major combat action, war, and battle",0.0
+328,54,War and battle,0.14393854462371317
+329,54,Wars,0.06666666666666668
+330,55,$\it{Other}$,0.7333333333333333
+331,55,Major combat action,0.03333333333333333
+332,55,"Major combat action, war and battle",0.0
+333,55,"Major combat action, war, and battle",0.0
+334,55,War and battle,0.2
+335,55,Wars,0.03333333333333333
+336,56,$\it{Other}$,0.7278778459501357
+337,56,Major combat action,0.0721221540498642
+338,56,"Major combat action, war and battle",0.0
+339,56,"Major combat action, war, and battle",0.0
+340,56,War and battle,0.1612111792834691
+341,56,Wars,0.03878882071653088
+342,57,$\it{Other}$,0.8333333333333334
+343,57,Major combat action,0.0
+344,57,"Major combat action, war and battle",0.0
+345,57,"Major combat action, war, and battle",0.0
+346,57,War and battle,0.1
+347,57,Wars,0.06666666666666667
+348,58,$\it{Other}$,0.8455013329514396
+349,58,Major combat action,0.010582666857613578
+350,58,"Major combat action, war and battle",0.022750666475719758
+351,58,"Major combat action, war, and battle",0.0
+352,58,War and battle,0.11058266685761359
+353,58,Wars,0.010582666857613578
+354,59,$\it{Other}$,0.6333333333333333
+355,59,Major combat action,0.06666666666666667
+356,59,"Major combat action, war and battle",0.0
+357,59,"Major combat action, war, and battle",0.0
+358,59,War and battle,0.23333333333333334
+359,59,Wars,0.06666666666666667
+360,60,$\it{Other}$,0.7957759089994391
+361,60,Major combat action,0.005088890839512585
+362,60,"Major combat action, war and battle",0.02197175746591713
+363,60,"Major combat action, war, and battle",0.0
+364,60,War and battle,0.154440290960299
+365,60,Wars,0.022723151734832414
+366,61,$\it{Other}$,0.8333333333333334
+367,61,Major combat action,0.03333333333333333
+368,61,"Major combat action, war and battle",0.0
+369,61,"Major combat action, war, and battle",0.0
+370,61,War and battle,0.13333333333333333
+371,61,Wars,0.0
+372,62,$\it{Other}$,0.6907066485636716
+373,62,Major combat action,0.003171118686068307
+374,62,"Major combat action, war and battle",0.0
+375,62,"Major combat action, war, and battle",0.0
+376,62,War and battle,0.24864915105235835
+377,62,Wars,0.05747308169790169
+378,63,$\it{Other}$,0.8666666666666667
+379,63,Major combat action,0.0
+380,63,"Major combat action, war and battle",0.0
+381,63,"Major combat action, war, and battle",0.0
+382,63,War and battle,0.13333333333333333
+383,63,Wars,0.0
+384,64,$\it{Other}$,0.8
+385,64,Major combat action,0.0
+386,64,"Major combat action, war and battle",0.03333333333333333
+387,64,"Major combat action, war, and battle",0.0
+388,64,War and battle,0.16666666666666666
+389,64,Wars,0.0
+390,65,$\it{Other}$,0.6333333333333333
+391,65,Major combat action,0.06666666666666667
+392,65,"Major combat action, war and battle",0.06666666666666667
+393,65,"Major combat action, war, and battle",0.0
+394,65,War and battle,0.23333333333333334
+395,65,Wars,0.0
+396,66,$\it{Other}$,0.7261770613778991
+397,66,Major combat action,0.027444022591443677
+398,66,"Major combat action, war and battle",0.0
+399,66,"Major combat action, war, and battle",0.0
+400,66,War and battle,0.24637891603065717
+401,66,Wars,0.0
+402,67,$\it{Other}$,0.7026713014458743
+403,67,Major combat action,0.02342790931725607
+404,67,"Major combat action, war and battle",0.04685581863451214
+405,67,"Major combat action, war, and battle",0.0
+406,67,War and battle,0.22704497060235762
+407,67,Wars,0.0
+408,68,$\it{Other}$,0.5715361193714121
+409,68,Major combat action,0.07533204017540523
+410,68,"Major combat action, war and battle",0.035171382913843856
+411,68,"Major combat action, war, and battle",0.01307575353411102
+412,68,War and battle,0.3048847040052279
+413,68,Wars,0.0
+414,69,$\it{Other}$,0.36666666666666664
+415,69,Major combat action,0.03333333333333333
+416,69,"Major combat action, war and battle",0.03333333333333333
+417,69,"Major combat action, war, and battle",0.0
+418,69,War and battle,0.5666666666666667
+419,69,Wars,0.0
+420,70,$\it{Other}$,0.5
+421,70,Major combat action,0.13333333333333333
+422,70,"Major combat action, war and battle",0.03333333333333333
+423,70,"Major combat action, war, and battle",0.0
+424,70,War and battle,0.3
+425,70,Wars,0.03333333333333333
+426,71,$\it{Other}$,0.4765291371155414
+427,71,Major combat action,0.10418130171180319
+428,71,"Major combat action, war and battle",0.02083982622873839
+429,71,"Major combat action, war, and battle",0.0
+430,71,War and battle,0.3688801530291816
+431,71,Wars,0.029569581914735417
+432,72,$\it{Other}$,0.6
+433,72,Major combat action,0.03333333333333333
+434,72,"Major combat action, war and battle",0.0
+435,72,"Major combat action, war, and battle",0.03333333333333333
+436,72,War and battle,0.3333333333333333
+437,72,Wars,0.0
+438,73,$\it{Other}$,0.5576990601363979
+439,73,Major combat action,0.04313206179608112
+440,73,"Major combat action, war and battle",0.00988781615692627
+441,73,"Major combat action, war, and battle",0.00788463302962072
+442,73,War and battle,0.37939324575366845
+443,73,Wars,0.00200318312730555
+444,74,$\it{Other}$,0.5666666666666667
+445,74,Major combat action,0.06666666666666667
+446,74,"Major combat action, war and battle",0.06666666666666667
+447,74,"Major combat action, war, and battle",0.0
+448,74,War and battle,0.3
+449,74,Wars,0.0
+450,75,$\it{Other}$,0.4354939887581811
+451,75,Major combat action,0.0
+452,75,"Major combat action, war and battle",0.03333333333333333
+453,75,"Major combat action, war, and battle",0.0
+454,75,War and battle,0.52685136705879
+455,75,Wars,0.004321310849695559
+456,76,$\it{Other}$,0.6269442729203683
+457,76,Major combat action,0.02199249223438236
+458,76,"Major combat action, war and battle",0.004718833584323082
+459,76,"Major combat action, war, and battle",0.0
+460,76,War and battle,0.32435190902654387
+461,76,Wars,0.02199249223438236
+462,77,$\it{Other}$,0.5986916405396039
+463,77,Major combat action,0.07690553813751365
+464,77,"Major combat action, war and battle",0.055119435735423494
+465,77,"Major combat action, war, and battle",0.0
+466,77,War and battle,0.2692833855874591
+467,77,Wars,0.0
+468,78,$\it{Other}$,0.3333333333333333
+469,78,Major combat action,0.06666666666666667
+470,78,"Major combat action, war and battle",0.03333333333333333
+471,78,"Major combat action, war, and battle",0.0
+472,78,War and battle,0.5666666666666667
+473,78,Wars,0.0
+474,79,$\it{Other}$,0.6
+475,79,Major combat action,0.06666666666666667
+476,79,"Major combat action, war and battle",0.03333333333333333
+477,79,"Major combat action, war, and battle",0.0
+478,79,War and battle,0.3
+479,79,Wars,0.0
+480,80,$\it{Other}$,0.39442400825281093
+481,80,Major combat action,0.044860935123007546
+482,80,"Major combat action, war and battle",0.026442800056936278
+483,80,"Major combat action, war, and battle",0.009209067533035634
+484,80,War and battle,0.5158541215011739
+485,80,Wars,0.009209067533035634
+486,81,$\it{Other}$,0.6333333333333333
+487,81,Major combat action,0.0
+488,81,"Major combat action, war and battle",0.0
+489,81,"Major combat action, war, and battle",0.0
+490,81,War and battle,0.36666666666666664
+491,81,Wars,0.0
+492,82,$\it{Other}$,0.43333333333333335
+493,82,Major combat action,0.06666666666666667
+494,82,"Major combat action, war and battle",0.06666666666666667
+495,82,"Major combat action, war, and battle",0.0
+496,82,War and battle,0.43333333333333335
+497,82,Wars,0.0
+498,83,$\it{Other}$,0.5666666666666667
+499,83,Major combat action,0.2
+500,83,"Major combat action, war and battle",0.0
+501,83,"Major combat action, war, and battle",0.0
+502,83,War and battle,0.2
+503,83,Wars,0.03333333333333333
+504,84,$\it{Other}$,0.6666666666666666
+505,84,Major combat action,0.03333333333333333
+506,84,"Major combat action, war and battle",0.06666666666666667
+507,84,"Major combat action, war, and battle",0.0
+508,84,War and battle,0.2
+509,84,Wars,0.03333333333333333
+510,85,$\it{Other}$,0.46362819864290894
+511,85,Major combat action,0.051519234011878856
+512,85,"Major combat action, war and battle",0.018185900678545527
+513,85,"Major combat action, war, and battle",0.0
+514,85,War and battle,0.44848076598812114
+515,85,Wars,0.018185900678545527
+516,86,$\it{Other}$,0.43333333333333335
+517,86,Major combat action,0.03333333333333333
+518,86,"Major combat action, war and battle",0.06666666666666667
+519,86,"Major combat action, war, and battle",0.03333333333333333
+520,86,War and battle,0.43333333333333335
+521,86,Wars,0.0
+522,87,$\it{Other}$,0.4929277459506759
+523,87,Major combat action,0.028289016197296173
+524,87,"Major combat action, war and battle",0.026261079284009288
+525,87,"Major combat action, war, and battle",0.0
+526,87,War and battle,0.4383776504693705
+527,87,Wars,0.014144508098648086
+528,88,$\it{Other}$,0.43333333333333335
+529,88,Major combat action,0.06666666666666667
+530,88,"Major combat action, war and battle",0.03333333333333333
+531,88,"Major combat action, war, and battle",0.0
+532,88,War and battle,0.43333333333333335
+533,88,Wars,0.03333333333333333
+534,89,$\it{Other}$,0.5666666666666667
+535,89,Major combat action,0.06666666666666667
+536,89,"Major combat action, war and battle",0.03333333333333333
+537,89,"Major combat action, war, and battle",0.0
+538,89,War and battle,0.3333333333333333
+539,89,Wars,0.0
+540,90,$\it{Other}$,0.4
+541,90,Major combat action,0.06666666666666667
+542,90,"Major combat action, war and battle",0.1
+543,90,"Major combat action, war, and battle",0.0
+544,90,War and battle,0.43333333333333335
+545,90,Wars,0.0
+546,91,$\it{Other}$,0.36666666666666664
+547,91,Major combat action,0.03333333333333333
+548,91,"Major combat action, war and battle",0.0
+549,91,"Major combat action, war, and battle",0.03333333333333333
+550,91,War and battle,0.5666666666666667
+551,91,Wars,0.0
+552,92,$\it{Other}$,0.37246400123401024
+553,92,Major combat action,0.054526833834429744
+554,92,"Major combat action, war and battle",0.03491080202211221
+555,92,"Major combat action, war, and battle",0.015235659076940671
+556,92,War and battle,0.5161341489238027
+557,92,Wars,0.006728554908704395
+558,93,$\it{Other}$,0.5608453771004424
+559,93,Major combat action,0.06666666666666667
+560,93,"Major combat action, war and battle",0.0
+561,93,"Major combat action, war, and battle",0.0
+562,93,War and battle,0.3724879562328909
+563,93,Wars,0.0
+564,94,$\it{Other}$,0.39304921914152446
+565,94,Major combat action,0.06805361241126683
+566,94,"Major combat action, war and battle",0.04805842805190925
+567,94,"Major combat action, war, and battle",0.0018490495935374568
+568,94,War and battle,0.488989690801762
+569,94,Wars,0.0
+570,95,$\it{Other}$,0.43819667983917143
+571,95,Major combat action,0.04009701721546462
+572,95,"Major combat action, war and battle",0.02074965246150202
+573,95,"Major combat action, war, and battle",0.008494213281280596
+574,95,War and battle,0.4713845430494695
+575,95,Wars,0.02107789415311191
+576,96,$\it{Other}$,0.4960580338523531
+577,96,Major combat action,0.05176728874515164
+578,96,"Major combat action, war and battle",0.022349066882272527
+579,96,"Major combat action, war, and battle",0.00849208523841074
+580,96,War and battle,0.42133352528181195
+581,96,Wars,0.0
+582,97,$\it{Other}$,0.43333333333333335
+583,97,Major combat action,0.0
+584,97,"Major combat action, war and battle",0.0
+585,97,"Major combat action, war, and battle",0.0
+586,97,War and battle,0.5333333333333333
+587,97,Wars,0.03333333333333333
+588,98,$\it{Other}$,0.6666666666666666
+589,98,Major combat action,0.03333333333333333
+590,98,"Major combat action, war and battle",0.0
+591,98,"Major combat action, war, and battle",0.0
+592,98,War and battle,0.3
+593,98,Wars,0.0
+594,99,$\it{Other}$,0.5376934668475377
+595,99,Major combat action,0.024140879633809193
+596,99,"Major combat action, war and battle",0.024140879633809193
+597,99,"Major combat action, war, and battle",0.016897579679026952
+598,99,War and battle,0.397127194205817
+599,99,Wars,0.0
+600,100,$\it{Other}$,0.3793103448275862
+601,100,Major combat action,0.06896551724137931
+602,100,"Major combat action, war and battle",0.13793103448275862
+603,100,"Major combat action, war, and battle",0.034482758620689655
+604,100,War and battle,0.3793103448275862
+605,100,Wars,0.0
+606,101,$\it{Other}$,0.6
+607,101,Major combat action,0.1
+608,101,"Major combat action, war and battle",0.0
+609,101,"Major combat action, war, and battle",0.0
+610,101,War and battle,0.3
+611,101,Wars,0.0
+612,102,$\it{Other}$,0.4
+613,102,Major combat action,0.1
+614,102,"Major combat action, war and battle",0.2
+615,102,"Major combat action, war, and battle",0.03333333333333333
+616,102,War and battle,0.26666666666666666
+617,102,Wars,0.0
+618,103,$\it{Other}$,0.5
+619,103,Major combat action,0.06666666666666667
+620,103,"Major combat action, war and battle",0.1
+621,103,"Major combat action, war, and battle",0.0
+622,103,War and battle,0.3333333333333333
+623,103,Wars,0.0
+624,104,$\it{Other}$,0.4666666666666667
+625,104,Major combat action,0.06666666666666667
+626,104,"Major combat action, war and battle",0.03333333333333333
+627,104,"Major combat action, war, and battle",0.03333333333333333
+628,104,War and battle,0.4
+629,104,Wars,0.0
+630,105,$\it{Other}$,0.36666666666666664
+631,105,Major combat action,0.1
+632,105,"Major combat action, war and battle",0.1
+633,105,"Major combat action, war, and battle",0.06666666666666667
+634,105,War and battle,0.36666666666666664
+635,105,Wars,0.0
+636,106,$\it{Other}$,0.5517241379310345
+637,106,Major combat action,0.10344827586206896
+638,106,"Major combat action, war and battle",0.0
+639,106,"Major combat action, war, and battle",0.034482758620689655
+640,106,War and battle,0.3103448275862069
+641,106,Wars,0.0
+642,107,$\it{Other}$,0.43333333333333335
+643,107,Major combat action,0.1
+644,107,"Major combat action, war and battle",0.03333333333333333
+645,107,"Major combat action, war, and battle",0.03333333333333333
+646,107,War and battle,0.4
+647,107,Wars,0.0
+648,108,$\it{Other}$,0.5377597163319566
+649,108,Major combat action,0.03775971633195663
+650,108,"Major combat action, war and battle",0.05911472340027534
+651,108,"Major combat action, war, and battle",0.0
+652,108,War and battle,0.36536584393581145
+653,108,Wars,0.0
+654,109,$\it{Other}$,0.42117673717275106
+655,109,Major combat action,0.027882326282724884
+656,109,"Major combat action, war and battle",0.08364697884817467
+657,109,"Major combat action, war, and battle",0.027882326282724884
+658,109,War and battle,0.43941163141362444
+659,109,Wars,0.0
+660,110,$\it{Other}$,0.3866794406226859
+661,110,Major combat action,0.03333333333333333
+662,110,"Major combat action, war and battle",0.08665815069598719
+663,110,"Major combat action, war, and battle",0.03333333333333333
+664,110,War and battle,0.45999574201466026
+665,110,Wars,0.0
+666,111,$\it{Other}$,0.3333333333333333
+667,111,Major combat action,0.1
+668,111,"Major combat action, war and battle",0.13333333333333333
+669,111,"Major combat action, war, and battle",0.03333333333333333
+670,111,War and battle,0.4
+671,111,Wars,0.0
+672,112,$\it{Other}$,0.3198191115050627
+673,112,Major combat action,0.03333333333333333
+674,112,"Major combat action, war and battle",0.1864857781717294
+675,112,"Major combat action, war, and battle",0.019819111505062728
+676,112,War and battle,0.4405426654848118
+677,112,Wars,0.0
+678,113,$\it{Other}$,0.36666666666666664
+679,113,Major combat action,0.0
+680,113,"Major combat action, war and battle",0.1
+681,113,"Major combat action, war, and battle",0.06666666666666667
+682,113,War and battle,0.4666666666666667
+683,113,Wars,0.0
+684,114,$\it{Other}$,0.4
+685,114,Major combat action,0.03333333333333333
+686,114,"Major combat action, war and battle",0.13333333333333333
+687,114,"Major combat action, war, and battle",0.0
+688,114,War and battle,0.43333333333333335
+689,114,Wars,0.0
+690,115,$\it{Other}$,0.3650132499179115
+691,115,Major combat action,0.0
+692,115,"Major combat action, war and battle",0.1587921514965929
+693,115,"Major combat action, war, and battle",0.031105492106593274
+694,115,War and battle,0.4450891064789023
+695,115,Wars,0.0
+696,116,$\it{Other}$,0.3
+697,116,Major combat action,0.03333333333333333
+698,116,"Major combat action, war and battle",0.06666666666666667
+699,116,"Major combat action, war, and battle",0.03333333333333333
+700,116,War and battle,0.5666666666666667
+701,116,Wars,0.0
+702,117,$\it{Other}$,0.41379310344827586
+703,117,Major combat action,0.034482758620689655
+704,117,"Major combat action, war and battle",0.13793103448275862
+705,117,"Major combat action, war, and battle",0.0
+706,117,War and battle,0.41379310344827586
+707,117,Wars,0.0
+708,118,$\it{Other}$,0.3448275862068966
+709,118,Major combat action,0.06896551724137931
+710,118,"Major combat action, war and battle",0.10344827586206896
+711,118,"Major combat action, war, and battle",0.0
+712,118,War and battle,0.4827586206896552
+713,118,Wars,0.0
+714,119,$\it{Other}$,0.3362795412930865
+715,119,Major combat action,0.0
+716,119,"Major combat action, war and battle",0.2184399770746167
+717,119,"Major combat action, war, and battle",0.03120571101065953
+718,119,War and battle,0.4140747706216372
+719,119,Wars,0.0
+720,120,$\it{Other}$,0.5628359232468201
+721,120,Major combat action,0.01089611307560824
+722,120,"Major combat action, war and battle",0.0477806076370941
+723,120,"Major combat action, war, and battle",0.0
+724,120,War and battle,0.3784873560404777
+725,120,Wars,0.0
+726,121,$\it{Other}$,0.5
+727,121,Major combat action,0.07142857142857142
+728,121,"Major combat action, war and battle",0.14285714285714285
+729,121,"Major combat action, war, and battle",0.0
+730,121,War and battle,0.2857142857142857
+731,121,Wars,0.0
+732,122,$\it{Other}$,0.3465061675688991
+733,122,Major combat action,0.0
+734,122,"Major combat action, war and battle",0.37462713730315605
+735,122,"Major combat action, war, and battle",0.04255431729822937
+736,122,War and battle,0.23631237782971545
+737,122,Wars,0.0
+738,123,$\it{Other}$,0.5238095238095238
+739,123,Major combat action,0.09523809523809523
+740,123,"Major combat action, war and battle",0.3333333333333333
+741,123,"Major combat action, war, and battle",0.0
+742,123,War and battle,0.047619047619047616
+743,123,Wars,0.0
+744,124,$\it{Other}$,0.7628548364246268
+745,124,Major combat action,0.03146778078134316
+746,124,"Major combat action, war and battle",0.20567738279402997
+747,124,"Major combat action, war, and battle",0.0
+748,124,War and battle,0.0
+749,124,Wars,0.0
+750,125,$\it{Other}$,0.6055862448772004
+751,125,Major combat action,0.0
+752,125,"Major combat action, war and battle",0.29088039440053987
+753,125,"Major combat action, war, and battle",0.09696013146684661
+754,125,War and battle,0.006573229255413092
+755,125,Wars,0.0
+756,126,$\it{Other}$,0.5243200290196423
+757,126,Major combat action,0.0
+758,126,"Major combat action, war and battle",0.42282664087142907
+759,126,"Major combat action, war, and battle",0.052853330108928634
+760,126,War and battle,0.0
+761,126,Wars,0.0
+762,127,$\it{Other}$,0.28608663763740105
+763,127,Major combat action,0.0
+764,127,"Major combat action, war and battle",0.42834801741755935
+765,127,"Major combat action, war, and battle",0.2855653449450396
+766,127,War and battle,0.0
+767,127,Wars,0.0
+768,128,$\it{Other}$,0.16545210259772788
+769,128,Major combat action,0.0
+770,128,"Major combat action, war and battle",0.7445344616897756
+771,128,"Major combat action, war, and battle",0.09001343571249665
+772,128,War and battle,0.0
+773,128,Wars,0.0
+774,129,$\it{Other}$,0.0
+775,129,Major combat action,0.0
+776,129,"Major combat action, war and battle",1.0
+777,129,"Major combat action, war, and battle",0.0
+778,129,War and battle,0.0
+779,129,Wars,0.0
+780,130,$\it{Other}$,0.125
+781,130,Major combat action,0.0
+782,130,"Major combat action, war and battle",0.875
+783,130,"Major combat action, war, and battle",0.0
+784,130,War and battle,0.0
+785,130,Wars,0.0

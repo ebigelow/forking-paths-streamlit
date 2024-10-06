@@ -1,0 +1,893 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.040170475234451934
+1,0,Femke Heemskerk,0.05400079960806951
+2,0,Marleen Veldhuis,0.0318811582376251
+3,0,Ranomi Kromowidjojo,0.8739475669198535
+4,1,$\it{Other}$,0.036519134831660666
+5,1,Femke Heemskerk,0.04035871375494601
+6,1,Marleen Veldhuis,0.037625599794656406
+7,1,Ranomi Kromowidjojo,0.8854965516187369
+8,2,$\it{Other}$,0.07702674029346296
+9,2,Femke Heemskerk,0.040991086568845675
+10,2,Marleen Veldhuis,0.06666666666666665
+11,2,Ranomi Kromowidjojo,0.8153155064710247
+12,3,$\it{Other}$,0.015161077592905185
+13,3,Femke Heemskerk,0.04192086044113537
+14,3,Marleen Veldhuis,0.05064212672676694
+15,3,Ranomi Kromowidjojo,0.8922759352391925
+16,4,$\it{Other}$,0.03333333333333333
+17,4,Femke Heemskerk,0.06666666666666667
+18,4,Marleen Veldhuis,0.03333333333333333
+19,4,Ranomi Kromowidjojo,0.8666666666666667
+20,5,$\it{Other}$,0.07365601278890986
+21,5,Femke Heemskerk,0.03333333333333333
+22,5,Marleen Veldhuis,0.04211466240369671
+23,5,Ranomi Kromowidjojo,0.85089599147406
+24,6,$\it{Other}$,0.010718569140846495
+25,6,Femke Heemskerk,0.0053592845704232474
+26,6,Marleen Veldhuis,0.02143713828169299
+27,6,Ranomi Kromowidjojo,0.9624850080070373
+28,7,$\it{Other}$,0.03333333333333333
+29,7,Femke Heemskerk,0.0
+30,7,Marleen Veldhuis,0.03333333333333333
+31,7,Ranomi Kromowidjojo,0.9333333333333333
+32,8,$\it{Other}$,0.02193809852224999
+33,8,Femke Heemskerk,0.0665765462671441
+34,8,Marleen Veldhuis,0.03918620880088474
+35,8,Ranomi Kromowidjojo,0.8722991464097212
+36,9,$\it{Other}$,0.03333333333333333
+37,9,Femke Heemskerk,0.03333333333333333
+38,9,Marleen Veldhuis,0.06666666666666667
+39,9,Ranomi Kromowidjojo,0.8666666666666667
+40,10,$\it{Other}$,0.023139005439721826
+41,10,Femke Heemskerk,0.04490283605319424
+42,10,Marleen Veldhuis,0.019655161217284087
+43,10,Ranomi Kromowidjojo,0.9123029972897998
+44,11,$\it{Other}$,0.01675265742685767
+45,11,Femke Heemskerk,0.049914009239808994
+46,11,Marleen Veldhuis,0.012104482552573737
+47,11,Ranomi Kromowidjojo,0.9212288507807596
+48,12,$\it{Other}$,0.0
+49,12,Femke Heemskerk,0.03333333333333333
+50,12,Marleen Veldhuis,0.1
+51,12,Ranomi Kromowidjojo,0.8666666666666667
+52,13,$\it{Other}$,0.0
+53,13,Femke Heemskerk,0.06666666666666667
+54,13,Marleen Veldhuis,0.03333333333333333
+55,13,Ranomi Kromowidjojo,0.9
+56,14,$\it{Other}$,0.0
+57,14,Femke Heemskerk,0.03333333333333333
+58,14,Marleen Veldhuis,0.06666666666666667
+59,14,Ranomi Kromowidjojo,0.9
+60,15,$\it{Other}$,0.0
+61,15,Femke Heemskerk,0.06666666666666667
+62,15,Marleen Veldhuis,0.03333333333333333
+63,15,Ranomi Kromowidjojo,0.9
+64,16,$\it{Other}$,0.03333333333333333
+65,16,Femke Heemskerk,0.01673848507208779
+66,16,Marleen Veldhuis,0.01853107790611381
+67,16,Ranomi Kromowidjojo,0.9313971036884651
+68,17,$\it{Other}$,0.06325673164283337
+69,17,Femke Heemskerk,0.09318012995233342
+70,17,Marleen Veldhuis,0.02992339830950004
+71,17,Ranomi Kromowidjojo,0.8136397400953332
+72,18,$\it{Other}$,0.0
+73,18,Femke Heemskerk,0.06666666666666667
+74,18,Marleen Veldhuis,0.0
+75,18,Ranomi Kromowidjojo,0.9333333333333333
+76,19,$\it{Other}$,0.0
+77,19,Femke Heemskerk,0.03333333333333333
+78,19,Marleen Veldhuis,0.0
+79,19,Ranomi Kromowidjojo,0.9666666666666667
+80,20,$\it{Other}$,0.06666666666666667
+81,20,Femke Heemskerk,0.03333333333333333
+82,20,Marleen Veldhuis,0.1
+83,20,Ranomi Kromowidjojo,0.8
+84,21,$\it{Other}$,0.0
+85,21,Femke Heemskerk,0.13333333333333333
+86,21,Marleen Veldhuis,0.1
+87,21,Ranomi Kromowidjojo,0.7666666666666667
+88,22,$\it{Other}$,0.0
+89,22,Femke Heemskerk,0.03333333333333333
+90,22,Marleen Veldhuis,0.03333333333333333
+91,22,Ranomi Kromowidjojo,0.9333333333333333
+92,23,$\it{Other}$,0.03333333333333333
+93,23,Femke Heemskerk,0.03333333333333333
+94,23,Marleen Veldhuis,0.06666666666666667
+95,23,Ranomi Kromowidjojo,0.8666666666666667
+96,24,$\it{Other}$,0.030888332548886524
+97,24,Femke Heemskerk,0.03275753509441205
+98,24,Marleen Veldhuis,0.020449768781014763
+99,24,Ranomi Kromowidjojo,0.9159043635756866
+100,25,$\it{Other}$,0.0
+101,25,Femke Heemskerk,0.06666666666666667
+102,25,Marleen Veldhuis,0.06666666666666667
+103,25,Ranomi Kromowidjojo,0.8666666666666667
+104,26,$\it{Other}$,0.021220727652652375
+105,26,Femke Heemskerk,0.03333333333333333
+106,26,Marleen Veldhuis,0.04244145530530475
+107,26,Ranomi Kromowidjojo,0.9030044837087096
+108,27,$\it{Other}$,0.01189686496660289
+109,27,Femke Heemskerk,0.003965621655534296
+110,27,Marleen Veldhuis,0.07196052733502699
+111,27,Ranomi Kromowidjojo,0.9121769860428358
+112,28,$\it{Other}$,0.03333333333333333
+113,28,Femke Heemskerk,0.06666666666666667
+114,28,Marleen Veldhuis,0.03333333333333333
+115,28,Ranomi Kromowidjojo,0.8666666666666667
+116,29,$\it{Other}$,0.0
+117,29,Femke Heemskerk,0.03937960713853762
+118,29,Marleen Veldhuis,0.06666666666666667
+119,29,Ranomi Kromowidjojo,0.8939537261947957
+120,30,$\it{Other}$,0.05072282967355582
+121,30,Femke Heemskerk,0.060932977953376065
+122,30,Marleen Veldhuis,0.035571563116598155
+123,30,Ranomi Kromowidjojo,0.8527726292564701
+124,31,$\it{Other}$,0.03333333333333333
+125,31,Femke Heemskerk,0.0
+126,31,Marleen Veldhuis,0.06666666666666667
+127,31,Ranomi Kromowidjojo,0.9
+128,32,$\it{Other}$,0.0
+129,32,Femke Heemskerk,0.0
+130,32,Marleen Veldhuis,0.03333333333333333
+131,32,Ranomi Kromowidjojo,0.9666666666666667
+132,33,$\it{Other}$,0.005154767551165892
+133,33,Femke Heemskerk,0.013038740372183411
+134,33,Marleen Veldhuis,0.0
+135,33,Ranomi Kromowidjojo,0.9818064920766507
+136,34,$\it{Other}$,0.03333333333333333
+137,34,Femke Heemskerk,0.06666666666666667
+138,34,Marleen Veldhuis,0.03333333333333333
+139,34,Ranomi Kromowidjojo,0.8666666666666667
+140,35,$\it{Other}$,0.03333333333333333
+141,35,Femke Heemskerk,0.0
+142,35,Marleen Veldhuis,0.06666666666666667
+143,35,Ranomi Kromowidjojo,0.9
+144,36,$\it{Other}$,0.0025317366238449043
+145,36,Femke Heemskerk,0.0949365267523102
+146,36,Marleen Veldhuis,0.061603193418976854
+147,36,Ranomi Kromowidjojo,0.840928543204868
+148,37,$\it{Other}$,0.03333333333333333
+149,37,Femke Heemskerk,0.0
+150,37,Marleen Veldhuis,0.03333333333333333
+151,37,Ranomi Kromowidjojo,0.9333333333333333
+152,38,$\it{Other}$,0.0
+153,38,Femke Heemskerk,0.1
+154,38,Marleen Veldhuis,0.0
+155,38,Ranomi Kromowidjojo,0.9
+156,39,$\it{Other}$,0.05950389933302432
+157,39,Femke Heemskerk,0.03333333333333333
+158,39,Marleen Veldhuis,0.003581383666821172
+159,39,Ranomi Kromowidjojo,0.9035813836668212
+160,40,$\it{Other}$,0.03333333333333333
+161,40,Femke Heemskerk,0.0
+162,40,Marleen Veldhuis,0.03333333333333333
+163,40,Ranomi Kromowidjojo,0.9333333333333333
+164,41,$\it{Other}$,0.004005771044679183
+165,41,Femke Heemskerk,0.05933632803933748
+166,41,Marleen Veldhuis,0.011336109672008375
+167,41,Ranomi Kromowidjojo,0.925321791243975
+168,42,$\it{Other}$,0.1
+169,42,Femke Heemskerk,0.0
+170,42,Marleen Veldhuis,0.0
+171,42,Ranomi Kromowidjojo,0.9
+172,43,$\it{Other}$,0.027955063383407103
+173,43,Femke Heemskerk,0.03333333333333333
+174,43,Marleen Veldhuis,0.027955063383407103
+175,43,Ranomi Kromowidjojo,0.9107565398998525
+176,44,$\it{Other}$,0.031298230815703335
+177,44,Femke Heemskerk,0.017799440742015595
+178,44,Marleen Veldhuis,0.026997580147375487
+179,44,Ranomi Kromowidjojo,0.9239047482949054
+180,45,$\it{Other}$,0.030107690357501698
+181,45,Femke Heemskerk,0.03333333333333333
+182,45,Marleen Veldhuis,0.06666666666666667
+183,45,Ranomi Kromowidjojo,0.8698923096424983
+184,46,$\it{Other}$,0.03333333333333333
+185,46,Femke Heemskerk,0.0
+186,46,Marleen Veldhuis,0.0
+187,46,Ranomi Kromowidjojo,0.9666666666666667
+188,47,$\it{Other}$,0.0
+189,47,Femke Heemskerk,0.13333333333333333
+190,47,Marleen Veldhuis,0.1
+191,47,Ranomi Kromowidjojo,0.7666666666666667
+192,48,$\it{Other}$,0.0
+193,48,Femke Heemskerk,0.03333333333333333
+194,48,Marleen Veldhuis,0.03333333333333333
+195,48,Ranomi Kromowidjojo,0.9333333333333333
+196,49,$\it{Other}$,0.024821926808141815
+197,49,Femke Heemskerk,0.05815526014147515
+198,49,Marleen Veldhuis,0.025534219575574557
+199,49,Ranomi Kromowidjojo,0.8914885934748085
+200,50,$\it{Other}$,0.03333333333333333
+201,50,Femke Heemskerk,0.0
+202,50,Marleen Veldhuis,0.03333333333333333
+203,50,Ranomi Kromowidjojo,0.9333333333333333
+204,51,$\it{Other}$,0.0
+205,51,Femke Heemskerk,0.03333333333333333
+206,51,Marleen Veldhuis,0.008864619097277439
+207,51,Ranomi Kromowidjojo,0.9578020475693892
+208,52,$\it{Other}$,0.06666666666666667
+209,52,Femke Heemskerk,0.0
+210,52,Marleen Veldhuis,0.06666666666666667
+211,52,Ranomi Kromowidjojo,0.8666666666666667
+212,53,$\it{Other}$,0.0
+213,53,Femke Heemskerk,0.13333333333333333
+214,53,Marleen Veldhuis,0.03333333333333333
+215,53,Ranomi Kromowidjojo,0.8333333333333334
+216,54,$\it{Other}$,0.0
+217,54,Femke Heemskerk,0.06666666666666667
+218,54,Marleen Veldhuis,0.06666666666666667
+219,54,Ranomi Kromowidjojo,0.8666666666666667
+220,55,$\it{Other}$,0.03333333333333333
+221,55,Femke Heemskerk,0.1
+222,55,Marleen Veldhuis,0.0
+223,55,Ranomi Kromowidjojo,0.8666666666666667
+224,56,$\it{Other}$,0.03333333333333333
+225,56,Femke Heemskerk,0.0
+226,56,Marleen Veldhuis,0.06666666666666667
+227,56,Ranomi Kromowidjojo,0.9
+228,57,$\it{Other}$,0.0
+229,57,Femke Heemskerk,0.0
+230,57,Marleen Veldhuis,0.0
+231,57,Ranomi Kromowidjojo,1.0
+232,58,$\it{Other}$,0.015190059769058949
+233,58,Femke Heemskerk,0.06708180148038395
+234,58,Marleen Veldhuis,0.01241649126906939
+235,58,Ranomi Kromowidjojo,0.9053116474814877
+236,59,$\it{Other}$,0.03333333333333333
+237,59,Femke Heemskerk,0.01888446147240651
+238,59,Marleen Veldhuis,0.08111553852759348
+239,59,Ranomi Kromowidjojo,0.8666666666666667
+240,60,$\it{Other}$,0.05468856368775315
+241,60,Femke Heemskerk,0.042710460708839625
+242,60,Marleen Veldhuis,0.03333333333333334
+243,60,Ranomi Kromowidjojo,0.869267642270074
+244,61,$\it{Other}$,0.0
+245,61,Femke Heemskerk,0.06666666666666667
+246,61,Marleen Veldhuis,0.03333333333333333
+247,61,Ranomi Kromowidjojo,0.9
+248,62,$\it{Other}$,0.03333333333333333
+249,62,Femke Heemskerk,0.06666666666666667
+250,62,Marleen Veldhuis,0.06666666666666667
+251,62,Ranomi Kromowidjojo,0.8333333333333334
+252,63,$\it{Other}$,0.06666666666666667
+253,63,Femke Heemskerk,0.06666666666666667
+254,63,Marleen Veldhuis,0.03333333333333333
+255,63,Ranomi Kromowidjojo,0.8333333333333334
+256,64,$\it{Other}$,0.03333333333333333
+257,64,Femke Heemskerk,0.06666666666666667
+258,64,Marleen Veldhuis,0.1
+259,64,Ranomi Kromowidjojo,0.8
+260,65,$\it{Other}$,0.03333333333333333
+261,65,Femke Heemskerk,0.06666666666666667
+262,65,Marleen Veldhuis,0.06666666666666667
+263,65,Ranomi Kromowidjojo,0.8333333333333334
+264,66,$\it{Other}$,0.03333333333333334
+265,66,Femke Heemskerk,0.025088574886187286
+266,66,Marleen Veldhuis,0.024734275341438152
+267,66,Ranomi Kromowidjojo,0.9168438164390413
+268,67,$\it{Other}$,0.006307112839415248
+269,67,Femke Heemskerk,0.052254671851579074
+270,67,Marleen Veldhuis,0.006307112839415248
+271,67,Ranomi Kromowidjojo,0.9351311024695904
+272,68,$\it{Other}$,0.06666666666666667
+273,68,Femke Heemskerk,0.0
+274,68,Marleen Veldhuis,0.06666666666666667
+275,68,Ranomi Kromowidjojo,0.8666666666666667
+276,69,$\it{Other}$,0.03333333333333333
+277,69,Femke Heemskerk,0.0
+278,69,Marleen Veldhuis,0.1
+279,69,Ranomi Kromowidjojo,0.8666666666666667
+280,70,$\it{Other}$,0.0
+281,70,Femke Heemskerk,0.2
+282,70,Marleen Veldhuis,0.03333333333333333
+283,70,Ranomi Kromowidjojo,0.7666666666666667
+284,71,$\it{Other}$,0.03333333333333333
+285,71,Femke Heemskerk,0.06666666666666667
+286,71,Marleen Veldhuis,0.03333333333333333
+287,71,Ranomi Kromowidjojo,0.8666666666666667
+288,72,$\it{Other}$,0.06666666666666667
+289,72,Femke Heemskerk,0.03333333333333333
+290,72,Marleen Veldhuis,0.03333333333333333
+291,72,Ranomi Kromowidjojo,0.8666666666666667
+292,73,$\it{Other}$,0.06287050614817727
+293,73,Femke Heemskerk,0.0037961605184894044
+294,73,Marleen Veldhuis,0.0018980802592447022
+295,73,Ranomi Kromowidjojo,0.9314352530740887
+296,74,$\it{Other}$,0.09227085466507795
+297,74,Femke Heemskerk,0.048791624003177464
+298,74,Marleen Veldhuis,0.09227085466507795
+299,74,Ranomi Kromowidjojo,0.7666666666666667
+300,75,$\it{Other}$,0.03333333333333333
+301,75,Femke Heemskerk,0.03333333333333333
+302,75,Marleen Veldhuis,0.0
+303,75,Ranomi Kromowidjojo,0.9333333333333333
+304,76,$\it{Other}$,0.03333333333333333
+305,76,Femke Heemskerk,0.06666666666666667
+306,76,Marleen Veldhuis,0.06666666666666667
+307,76,Ranomi Kromowidjojo,0.8333333333333334
+308,77,$\it{Other}$,0.046254183968768674
+309,77,Femke Heemskerk,0.0782073675823553
+310,77,Marleen Veldhuis,0.03333333333333333
+311,77,Ranomi Kromowidjojo,0.8422051151155427
+312,78,$\it{Other}$,0.06666666666666667
+313,78,Femke Heemskerk,0.1
+314,78,Marleen Veldhuis,0.1
+315,78,Ranomi Kromowidjojo,0.7333333333333333
+316,79,$\it{Other}$,0.03333333333333333
+317,79,Femke Heemskerk,0.1
+318,79,Marleen Veldhuis,0.16666666666666666
+319,79,Ranomi Kromowidjojo,0.7
+320,80,$\it{Other}$,0.03333333333333333
+321,80,Femke Heemskerk,0.03333333333333333
+322,80,Marleen Veldhuis,0.0
+323,80,Ranomi Kromowidjojo,0.9333333333333333
+324,81,$\it{Other}$,0.0
+325,81,Femke Heemskerk,0.06666666666666667
+326,81,Marleen Veldhuis,0.06666666666666667
+327,81,Ranomi Kromowidjojo,0.8666666666666667
+328,82,$\it{Other}$,0.0
+329,82,Femke Heemskerk,0.1
+330,82,Marleen Veldhuis,0.03333333333333333
+331,82,Ranomi Kromowidjojo,0.8666666666666667
+332,83,$\it{Other}$,0.0
+333,83,Femke Heemskerk,0.03333333333333333
+334,83,Marleen Veldhuis,0.03333333333333333
+335,83,Ranomi Kromowidjojo,0.9333333333333333
+336,84,$\it{Other}$,0.005608661486927046
+337,84,Femke Heemskerk,0.06666666666666667
+338,84,Marleen Veldhuis,0.06105800517973962
+339,84,Ranomi Kromowidjojo,0.8666666666666667
+340,85,$\it{Other}$,0.0
+341,85,Femke Heemskerk,0.03333333333333333
+342,85,Marleen Veldhuis,0.2
+343,85,Ranomi Kromowidjojo,0.7666666666666667
+344,86,$\it{Other}$,0.0
+345,86,Femke Heemskerk,0.06666666666666667
+346,86,Marleen Veldhuis,0.1
+347,86,Ranomi Kromowidjojo,0.8333333333333334
+348,87,$\it{Other}$,0.03333333333333333
+349,87,Femke Heemskerk,0.1
+350,87,Marleen Veldhuis,0.03333333333333333
+351,87,Ranomi Kromowidjojo,0.8333333333333334
+352,88,$\it{Other}$,0.0
+353,88,Femke Heemskerk,0.09440177373575451
+354,88,Marleen Veldhuis,0.09440177373575451
+355,88,Ranomi Kromowidjojo,0.8111964525284912
+356,89,$\it{Other}$,0.06666666666666667
+357,89,Femke Heemskerk,0.1
+358,89,Marleen Veldhuis,0.03333333333333333
+359,89,Ranomi Kromowidjojo,0.8
+360,90,$\it{Other}$,0.04912845016382962
+361,90,Femke Heemskerk,0.09123089174858148
+362,90,Marleen Veldhuis,0.1263073247542556
+363,90,Ranomi Kromowidjojo,0.7333333333333333
+364,91,$\it{Other}$,0.03333333333333333
+365,91,Femke Heemskerk,0.03333333333333333
+366,91,Marleen Veldhuis,0.13333333333333333
+367,91,Ranomi Kromowidjojo,0.8
+368,92,$\it{Other}$,0.03333333333333333
+369,92,Femke Heemskerk,0.12620546713747277
+370,92,Marleen Veldhuis,0.014255732391721097
+371,92,Ranomi Kromowidjojo,0.8262054671374728
+372,93,$\it{Other}$,0.0
+373,93,Femke Heemskerk,0.03333333333333333
+374,93,Marleen Veldhuis,0.06666666666666667
+375,93,Ranomi Kromowidjojo,0.9
+376,94,$\it{Other}$,0.0
+377,94,Femke Heemskerk,0.0
+378,94,Marleen Veldhuis,0.0327307878675801
+379,94,Ranomi Kromowidjojo,0.9672692121324199
+380,95,$\it{Other}$,0.01162938267208374
+381,95,Femke Heemskerk,0.03922743830692473
+382,95,Marleen Veldhuis,0.03475638190026236
+383,95,Ranomi Kromowidjojo,0.9143867971207291
+384,96,$\it{Other}$,0.010375437517528978
+385,96,Femke Heemskerk,0.05408420836839129
+386,96,Marleen Veldhuis,0.03333333333333333
+387,96,Ranomi Kromowidjojo,0.9022070207807463
+388,97,$\it{Other}$,0.03333333333333333
+389,97,Femke Heemskerk,0.0
+390,97,Marleen Veldhuis,0.13333333333333333
+391,97,Ranomi Kromowidjojo,0.8333333333333334
+392,98,$\it{Other}$,0.0
+393,98,Femke Heemskerk,0.15234889369105153
+394,98,Marleen Veldhuis,0.01242583853856217
+395,98,Ranomi Kromowidjojo,0.8352252677703864
+396,99,$\it{Other}$,0.008567743447645921
+397,99,Femke Heemskerk,0.17004314945529414
+398,99,Marleen Veldhuis,0.008567743447645921
+399,99,Ranomi Kromowidjojo,0.812821363649414
+400,100,$\it{Other}$,0.023045256433455216
+401,100,Femke Heemskerk,0.09243625473933818
+402,100,Marleen Veldhuis,0.032836739892544396
+403,100,Ranomi Kromowidjojo,0.8516817489346622
+404,101,$\it{Other}$,0.03333333333333333
+405,101,Femke Heemskerk,0.0
+406,101,Marleen Veldhuis,0.13333333333333333
+407,101,Ranomi Kromowidjojo,0.8333333333333334
+408,102,$\it{Other}$,0.03333333333333333
+409,102,Femke Heemskerk,0.0
+410,102,Marleen Veldhuis,0.06666666666666667
+411,102,Ranomi Kromowidjojo,0.9
+412,103,$\it{Other}$,0.03333333333333333
+413,103,Femke Heemskerk,0.0
+414,103,Marleen Veldhuis,0.06666666666666667
+415,103,Ranomi Kromowidjojo,0.9
+416,104,$\it{Other}$,0.0
+417,104,Femke Heemskerk,0.06666666666666667
+418,104,Marleen Veldhuis,0.0
+419,104,Ranomi Kromowidjojo,0.9333333333333333
+420,105,$\it{Other}$,0.0
+421,105,Femke Heemskerk,0.13333333333333333
+422,105,Marleen Veldhuis,0.03333333333333333
+423,105,Ranomi Kromowidjojo,0.8333333333333334
+424,106,$\it{Other}$,0.03122842139490892
+425,106,Femke Heemskerk,0.09756899934042647
+426,106,Marleen Veldhuis,0.005988647094124107
+427,106,Ranomi Kromowidjojo,0.8652139321705407
+428,107,$\it{Other}$,0.0
+429,107,Femke Heemskerk,0.0
+430,107,Marleen Veldhuis,0.03333333333333333
+431,107,Ranomi Kromowidjojo,0.9666666666666667
+432,108,$\it{Other}$,0.0
+433,108,Femke Heemskerk,0.06666666666666667
+434,108,Marleen Veldhuis,0.06666666666666667
+435,108,Ranomi Kromowidjojo,0.8666666666666667
+436,109,$\it{Other}$,0.0
+437,109,Femke Heemskerk,0.16666666666666666
+438,109,Marleen Veldhuis,0.03333333333333333
+439,109,Ranomi Kromowidjojo,0.8
+440,110,$\it{Other}$,0.03333333333333333
+441,110,Femke Heemskerk,0.03333333333333333
+442,110,Marleen Veldhuis,0.06666666666666667
+443,110,Ranomi Kromowidjojo,0.8666666666666667
+444,111,$\it{Other}$,0.01192546097026163
+445,111,Femke Heemskerk,0.05718425527385659
+446,111,Marleen Veldhuis,0.033333333333333326
+447,111,Ranomi Kromowidjojo,0.8975569504225485
+448,112,$\it{Other}$,0.0
+449,112,Femke Heemskerk,0.06666666666666667
+450,112,Marleen Veldhuis,0.06666666666666667
+451,112,Ranomi Kromowidjojo,0.8666666666666667
+452,113,$\it{Other}$,0.0
+453,113,Femke Heemskerk,0.06666666666666667
+454,113,Marleen Veldhuis,0.03333333333333333
+455,113,Ranomi Kromowidjojo,0.9
+456,114,$\it{Other}$,0.03333333333333333
+457,114,Femke Heemskerk,0.16666666666666666
+458,114,Marleen Veldhuis,0.0
+459,114,Ranomi Kromowidjojo,0.8
+460,115,$\it{Other}$,0.004913835386814208
+461,115,Femke Heemskerk,0.1267894709908887
+462,115,Marleen Veldhuis,0.02711951123360411
+463,115,Ranomi Kromowidjojo,0.841177182388693
+464,116,$\it{Other}$,0.0
+465,116,Femke Heemskerk,0.06666666666666667
+466,116,Marleen Veldhuis,0.0
+467,116,Ranomi Kromowidjojo,0.9333333333333333
+468,117,$\it{Other}$,0.0
+469,117,Femke Heemskerk,0.11814752698804135
+470,117,Marleen Veldhuis,0.013446549273314824
+471,117,Ranomi Kromowidjojo,0.8684059237386439
+472,118,$\it{Other}$,0.0
+473,118,Femke Heemskerk,0.03333333333333333
+474,118,Marleen Veldhuis,0.06666666666666667
+475,118,Ranomi Kromowidjojo,0.9
+476,119,$\it{Other}$,0.05764203066916835
+477,119,Femke Heemskerk,0.09548768200125085
+478,119,Marleen Veldhuis,0.033333333333333326
+479,119,Ranomi Kromowidjojo,0.8135369539962475
+480,120,$\it{Other}$,0.021118724629287683
+481,120,Femke Heemskerk,0.08778539129595436
+482,120,Marleen Veldhuis,0.03333333333333333
+483,120,Ranomi Kromowidjojo,0.8577625507414248
+484,121,$\it{Other}$,0.018328561515406107
+485,121,Femke Heemskerk,0.06666666666666667
+486,121,Marleen Veldhuis,0.08831901787955165
+487,121,Ranomi Kromowidjojo,0.8266857539383756
+488,122,$\it{Other}$,0.03333333333333333
+489,122,Femke Heemskerk,0.06666666666666667
+490,122,Marleen Veldhuis,0.03333333333333333
+491,122,Ranomi Kromowidjojo,0.8666666666666667
+492,123,$\it{Other}$,0.002480190375662118
+493,123,Femke Heemskerk,0.0843743991964848
+494,123,Marleen Veldhuis,0.0
+495,123,Ranomi Kromowidjojo,0.913145410427853
+496,124,$\it{Other}$,0.0
+497,124,Femke Heemskerk,0.0
+498,124,Marleen Veldhuis,0.0
+499,124,Ranomi Kromowidjojo,1.0
+500,125,$\it{Other}$,0.0
+501,125,Femke Heemskerk,0.0
+502,125,Marleen Veldhuis,0.0
+503,125,Ranomi Kromowidjojo,1.0
+504,126,$\it{Other}$,0.0
+505,126,Femke Heemskerk,0.0
+506,126,Marleen Veldhuis,0.0
+507,126,Ranomi Kromowidjojo,1.0
+508,127,$\it{Other}$,0.0
+509,127,Femke Heemskerk,0.0
+510,127,Marleen Veldhuis,0.0
+511,127,Ranomi Kromowidjojo,1.0
+512,128,$\it{Other}$,0.0
+513,128,Femke Heemskerk,0.0
+514,128,Marleen Veldhuis,0.0
+515,128,Ranomi Kromowidjojo,1.0
+516,129,$\it{Other}$,0.0
+517,129,Femke Heemskerk,0.0
+518,129,Marleen Veldhuis,0.0
+519,129,Ranomi Kromowidjojo,1.0
+520,130,$\it{Other}$,0.0
+521,130,Femke Heemskerk,0.0
+522,130,Marleen Veldhuis,0.0
+523,130,Ranomi Kromowidjojo,1.0
+524,131,$\it{Other}$,0.0
+525,131,Femke Heemskerk,0.0
+526,131,Marleen Veldhuis,0.0
+527,131,Ranomi Kromowidjojo,1.0
+528,132,$\it{Other}$,0.0
+529,132,Femke Heemskerk,0.0
+530,132,Marleen Veldhuis,0.0
+531,132,Ranomi Kromowidjojo,1.0
+532,133,$\it{Other}$,0.0
+533,133,Femke Heemskerk,0.0
+534,133,Marleen Veldhuis,0.0
+535,133,Ranomi Kromowidjojo,1.0
+536,134,$\it{Other}$,0.0
+537,134,Femke Heemskerk,0.0
+538,134,Marleen Veldhuis,0.0
+539,134,Ranomi Kromowidjojo,1.0
+540,135,$\it{Other}$,0.0
+541,135,Femke Heemskerk,0.0
+542,135,Marleen Veldhuis,0.0
+543,135,Ranomi Kromowidjojo,1.0
+544,136,$\it{Other}$,0.0
+545,136,Femke Heemskerk,0.0
+546,136,Marleen Veldhuis,0.0
+547,136,Ranomi Kromowidjojo,1.0
+548,137,$\it{Other}$,0.0
+549,137,Femke Heemskerk,0.0
+550,137,Marleen Veldhuis,0.0
+551,137,Ranomi Kromowidjojo,1.0
+552,138,$\it{Other}$,0.0
+553,138,Femke Heemskerk,0.0
+554,138,Marleen Veldhuis,0.0035888955189919748
+555,138,Ranomi Kromowidjojo,0.996411104481008
+556,139,$\it{Other}$,0.0
+557,139,Femke Heemskerk,0.0
+558,139,Marleen Veldhuis,0.0
+559,139,Ranomi Kromowidjojo,1.0
+560,140,$\it{Other}$,0.0
+561,140,Femke Heemskerk,0.0
+562,140,Marleen Veldhuis,0.0
+563,140,Ranomi Kromowidjojo,1.0
+564,141,$\it{Other}$,0.0
+565,141,Femke Heemskerk,0.0
+566,141,Marleen Veldhuis,0.0
+567,141,Ranomi Kromowidjojo,1.0
+568,142,$\it{Other}$,0.0
+569,142,Femke Heemskerk,0.0
+570,142,Marleen Veldhuis,0.0
+571,142,Ranomi Kromowidjojo,1.0
+572,143,$\it{Other}$,0.0
+573,143,Femke Heemskerk,0.0
+574,143,Marleen Veldhuis,0.0
+575,143,Ranomi Kromowidjojo,1.0
+576,144,$\it{Other}$,0.0
+577,144,Femke Heemskerk,0.0
+578,144,Marleen Veldhuis,0.0
+579,144,Ranomi Kromowidjojo,1.0
+580,145,$\it{Other}$,0.0
+581,145,Femke Heemskerk,0.0
+582,145,Marleen Veldhuis,0.0
+583,145,Ranomi Kromowidjojo,1.0
+584,146,$\it{Other}$,0.0
+585,146,Femke Heemskerk,0.0
+586,146,Marleen Veldhuis,0.0
+587,146,Ranomi Kromowidjojo,1.0
+588,147,$\it{Other}$,0.0
+589,147,Femke Heemskerk,0.0
+590,147,Marleen Veldhuis,0.0
+591,147,Ranomi Kromowidjojo,1.0
+592,148,$\it{Other}$,0.0
+593,148,Femke Heemskerk,0.0
+594,148,Marleen Veldhuis,0.0
+595,148,Ranomi Kromowidjojo,1.0
+596,149,$\it{Other}$,0.0
+597,149,Femke Heemskerk,0.0
+598,149,Marleen Veldhuis,0.0
+599,149,Ranomi Kromowidjojo,1.0
+600,150,$\it{Other}$,0.0
+601,150,Femke Heemskerk,0.0
+602,150,Marleen Veldhuis,0.0
+603,150,Ranomi Kromowidjojo,1.0
+604,151,$\it{Other}$,0.0
+605,151,Femke Heemskerk,0.0
+606,151,Marleen Veldhuis,0.0
+607,151,Ranomi Kromowidjojo,1.0
+608,152,$\it{Other}$,0.0
+609,152,Femke Heemskerk,0.0
+610,152,Marleen Veldhuis,0.0
+611,152,Ranomi Kromowidjojo,1.0
+612,153,$\it{Other}$,0.0
+613,153,Femke Heemskerk,0.0
+614,153,Marleen Veldhuis,0.0
+615,153,Ranomi Kromowidjojo,1.0
+616,154,$\it{Other}$,0.0
+617,154,Femke Heemskerk,0.0
+618,154,Marleen Veldhuis,0.0
+619,154,Ranomi Kromowidjojo,1.0
+620,155,$\it{Other}$,0.0
+621,155,Femke Heemskerk,0.0
+622,155,Marleen Veldhuis,0.0
+623,155,Ranomi Kromowidjojo,1.0
+624,156,$\it{Other}$,0.0
+625,156,Femke Heemskerk,0.0
+626,156,Marleen Veldhuis,0.0
+627,156,Ranomi Kromowidjojo,1.0
+628,157,$\it{Other}$,0.0
+629,157,Femke Heemskerk,0.0
+630,157,Marleen Veldhuis,0.0
+631,157,Ranomi Kromowidjojo,1.0
+632,158,$\it{Other}$,0.0
+633,158,Femke Heemskerk,0.0
+634,158,Marleen Veldhuis,0.0
+635,158,Ranomi Kromowidjojo,1.0
+636,159,$\it{Other}$,0.0
+637,159,Femke Heemskerk,0.0
+638,159,Marleen Veldhuis,0.0
+639,159,Ranomi Kromowidjojo,1.0000000000000002
+640,160,$\it{Other}$,0.0
+641,160,Femke Heemskerk,0.0
+642,160,Marleen Veldhuis,0.0
+643,160,Ranomi Kromowidjojo,1.0
+644,161,$\it{Other}$,0.0
+645,161,Femke Heemskerk,0.0
+646,161,Marleen Veldhuis,0.0
+647,161,Ranomi Kromowidjojo,1.0
+648,162,$\it{Other}$,0.0
+649,162,Femke Heemskerk,0.0
+650,162,Marleen Veldhuis,0.0
+651,162,Ranomi Kromowidjojo,1.0
+652,163,$\it{Other}$,0.0
+653,163,Femke Heemskerk,0.0
+654,163,Marleen Veldhuis,0.0
+655,163,Ranomi Kromowidjojo,1.0
+656,164,$\it{Other}$,0.0
+657,164,Femke Heemskerk,0.0
+658,164,Marleen Veldhuis,0.0
+659,164,Ranomi Kromowidjojo,1.0
+660,165,$\it{Other}$,0.0
+661,165,Femke Heemskerk,0.0
+662,165,Marleen Veldhuis,0.0
+663,165,Ranomi Kromowidjojo,1.0
+664,166,$\it{Other}$,0.0
+665,166,Femke Heemskerk,0.0
+666,166,Marleen Veldhuis,0.0
+667,166,Ranomi Kromowidjojo,1.0
+668,167,$\it{Other}$,0.0
+669,167,Femke Heemskerk,0.0
+670,167,Marleen Veldhuis,0.0
+671,167,Ranomi Kromowidjojo,1.0
+672,168,$\it{Other}$,0.0
+673,168,Femke Heemskerk,0.0
+674,168,Marleen Veldhuis,0.0
+675,168,Ranomi Kromowidjojo,1.0
+676,169,$\it{Other}$,0.0
+677,169,Femke Heemskerk,0.0
+678,169,Marleen Veldhuis,0.0
+679,169,Ranomi Kromowidjojo,1.0
+680,170,$\it{Other}$,0.0
+681,170,Femke Heemskerk,0.0
+682,170,Marleen Veldhuis,0.0
+683,170,Ranomi Kromowidjojo,0.9999999999999999
+684,171,$\it{Other}$,0.0
+685,171,Femke Heemskerk,0.0
+686,171,Marleen Veldhuis,0.0
+687,171,Ranomi Kromowidjojo,1.0
+688,172,$\it{Other}$,0.0
+689,172,Femke Heemskerk,0.0
+690,172,Marleen Veldhuis,0.0
+691,172,Ranomi Kromowidjojo,0.9999999999999999
+692,173,$\it{Other}$,0.0
+693,173,Femke Heemskerk,0.0
+694,173,Marleen Veldhuis,0.0
+695,173,Ranomi Kromowidjojo,1.0
+696,174,$\it{Other}$,0.0
+697,174,Femke Heemskerk,0.0
+698,174,Marleen Veldhuis,0.0
+699,174,Ranomi Kromowidjojo,1.0
+700,175,$\it{Other}$,0.0
+701,175,Femke Heemskerk,0.0
+702,175,Marleen Veldhuis,0.0
+703,175,Ranomi Kromowidjojo,1.0
+704,176,$\it{Other}$,0.0
+705,176,Femke Heemskerk,0.0
+706,176,Marleen Veldhuis,0.0
+707,176,Ranomi Kromowidjojo,1.0
+708,177,$\it{Other}$,0.0
+709,177,Femke Heemskerk,0.0
+710,177,Marleen Veldhuis,0.0
+711,177,Ranomi Kromowidjojo,1.0
+712,178,$\it{Other}$,0.0
+713,178,Femke Heemskerk,0.0
+714,178,Marleen Veldhuis,0.0
+715,178,Ranomi Kromowidjojo,1.0
+716,179,$\it{Other}$,0.0
+717,179,Femke Heemskerk,0.0
+718,179,Marleen Veldhuis,0.0
+719,179,Ranomi Kromowidjojo,1.0
+720,180,$\it{Other}$,0.0
+721,180,Femke Heemskerk,0.0
+722,180,Marleen Veldhuis,0.0
+723,180,Ranomi Kromowidjojo,1.0
+724,181,$\it{Other}$,0.0
+725,181,Femke Heemskerk,0.0
+726,181,Marleen Veldhuis,0.0
+727,181,Ranomi Kromowidjojo,1.0
+728,182,$\it{Other}$,0.0
+729,182,Femke Heemskerk,0.0
+730,182,Marleen Veldhuis,0.0
+731,182,Ranomi Kromowidjojo,1.0
+732,183,$\it{Other}$,0.0
+733,183,Femke Heemskerk,0.0
+734,183,Marleen Veldhuis,0.0
+735,183,Ranomi Kromowidjojo,1.0
+736,184,$\it{Other}$,0.0
+737,184,Femke Heemskerk,0.0
+738,184,Marleen Veldhuis,0.0
+739,184,Ranomi Kromowidjojo,1.0
+740,185,$\it{Other}$,0.0
+741,185,Femke Heemskerk,0.0
+742,185,Marleen Veldhuis,0.0
+743,185,Ranomi Kromowidjojo,1.0
+744,186,$\it{Other}$,0.0
+745,186,Femke Heemskerk,0.0
+746,186,Marleen Veldhuis,0.0
+747,186,Ranomi Kromowidjojo,1.0
+748,187,$\it{Other}$,0.0
+749,187,Femke Heemskerk,0.0
+750,187,Marleen Veldhuis,0.0
+751,187,Ranomi Kromowidjojo,1.0
+752,188,$\it{Other}$,0.0
+753,188,Femke Heemskerk,0.0
+754,188,Marleen Veldhuis,0.0
+755,188,Ranomi Kromowidjojo,1.0
+756,189,$\it{Other}$,0.0
+757,189,Femke Heemskerk,0.0
+758,189,Marleen Veldhuis,0.0
+759,189,Ranomi Kromowidjojo,1.0
+760,190,$\it{Other}$,0.0
+761,190,Femke Heemskerk,0.0
+762,190,Marleen Veldhuis,0.0
+763,190,Ranomi Kromowidjojo,1.0
+764,191,$\it{Other}$,0.0
+765,191,Femke Heemskerk,0.0
+766,191,Marleen Veldhuis,0.0
+767,191,Ranomi Kromowidjojo,1.0
+768,192,$\it{Other}$,0.0
+769,192,Femke Heemskerk,0.0
+770,192,Marleen Veldhuis,0.0
+771,192,Ranomi Kromowidjojo,1.0
+772,193,$\it{Other}$,0.0
+773,193,Femke Heemskerk,0.0
+774,193,Marleen Veldhuis,0.0
+775,193,Ranomi Kromowidjojo,1.0
+776,194,$\it{Other}$,0.0
+777,194,Femke Heemskerk,0.0
+778,194,Marleen Veldhuis,0.0
+779,194,Ranomi Kromowidjojo,1.0
+780,195,$\it{Other}$,0.0
+781,195,Femke Heemskerk,0.0
+782,195,Marleen Veldhuis,0.0
+783,195,Ranomi Kromowidjojo,1.0
+784,196,$\it{Other}$,0.0
+785,196,Femke Heemskerk,0.0
+786,196,Marleen Veldhuis,0.0
+787,196,Ranomi Kromowidjojo,1.0
+788,197,$\it{Other}$,0.0
+789,197,Femke Heemskerk,0.0
+790,197,Marleen Veldhuis,0.0
+791,197,Ranomi Kromowidjojo,1.0
+792,198,$\it{Other}$,0.0
+793,198,Femke Heemskerk,0.0
+794,198,Marleen Veldhuis,0.0
+795,198,Ranomi Kromowidjojo,1.0
+796,199,$\it{Other}$,0.0
+797,199,Femke Heemskerk,0.0
+798,199,Marleen Veldhuis,0.0
+799,199,Ranomi Kromowidjojo,1.0
+800,200,$\it{Other}$,0.0
+801,200,Femke Heemskerk,0.0
+802,200,Marleen Veldhuis,0.0
+803,200,Ranomi Kromowidjojo,1.0
+804,201,$\it{Other}$,0.0
+805,201,Femke Heemskerk,0.0
+806,201,Marleen Veldhuis,0.0
+807,201,Ranomi Kromowidjojo,1.0
+808,202,$\it{Other}$,0.0
+809,202,Femke Heemskerk,0.0
+810,202,Marleen Veldhuis,0.0
+811,202,Ranomi Kromowidjojo,1.0
+812,203,$\it{Other}$,0.0
+813,203,Femke Heemskerk,0.0
+814,203,Marleen Veldhuis,0.0
+815,203,Ranomi Kromowidjojo,1.0
+816,204,$\it{Other}$,0.0
+817,204,Femke Heemskerk,0.0
+818,204,Marleen Veldhuis,0.0
+819,204,Ranomi Kromowidjojo,1.0
+820,205,$\it{Other}$,0.0
+821,205,Femke Heemskerk,0.0
+822,205,Marleen Veldhuis,0.0
+823,205,Ranomi Kromowidjojo,1.0
+824,206,$\it{Other}$,0.0
+825,206,Femke Heemskerk,0.0
+826,206,Marleen Veldhuis,0.0
+827,206,Ranomi Kromowidjojo,1.0
+828,207,$\it{Other}$,0.0
+829,207,Femke Heemskerk,0.0
+830,207,Marleen Veldhuis,0.0
+831,207,Ranomi Kromowidjojo,1.0
+832,208,$\it{Other}$,0.0
+833,208,Femke Heemskerk,0.0
+834,208,Marleen Veldhuis,0.0
+835,208,Ranomi Kromowidjojo,1.0
+836,209,$\it{Other}$,0.0
+837,209,Femke Heemskerk,0.0
+838,209,Marleen Veldhuis,0.0
+839,209,Ranomi Kromowidjojo,1.0
+840,210,$\it{Other}$,0.0
+841,210,Femke Heemskerk,0.0
+842,210,Marleen Veldhuis,0.0
+843,210,Ranomi Kromowidjojo,1.0
+844,211,$\it{Other}$,0.0
+845,211,Femke Heemskerk,0.0
+846,211,Marleen Veldhuis,0.0
+847,211,Ranomi Kromowidjojo,1.0
+848,212,$\it{Other}$,0.0
+849,212,Femke Heemskerk,0.0
+850,212,Marleen Veldhuis,0.0
+851,212,Ranomi Kromowidjojo,1.0
+852,213,$\it{Other}$,0.0
+853,213,Femke Heemskerk,0.0
+854,213,Marleen Veldhuis,0.0
+855,213,Ranomi Kromowidjojo,1.0
+856,214,$\it{Other}$,0.0
+857,214,Femke Heemskerk,0.0
+858,214,Marleen Veldhuis,0.0
+859,214,Ranomi Kromowidjojo,1.0
+860,215,$\it{Other}$,0.0
+861,215,Femke Heemskerk,0.0
+862,215,Marleen Veldhuis,0.0
+863,215,Ranomi Kromowidjojo,1.0
+864,216,$\it{Other}$,0.0
+865,216,Femke Heemskerk,0.0
+866,216,Marleen Veldhuis,0.0
+867,216,Ranomi Kromowidjojo,1.0
+868,217,$\it{Other}$,0.0
+869,217,Femke Heemskerk,0.0
+870,217,Marleen Veldhuis,0.0
+871,217,Ranomi Kromowidjojo,1.0
+872,218,$\it{Other}$,0.0
+873,218,Femke Heemskerk,0.0
+874,218,Marleen Veldhuis,0.0
+875,218,Ranomi Kromowidjojo,1.0
+876,219,$\it{Other}$,0.0
+877,219,Femke Heemskerk,0.0
+878,219,Marleen Veldhuis,0.0
+879,219,Ranomi Kromowidjojo,1.0
+880,220,$\it{Other}$,0.0
+881,220,Femke Heemskerk,0.0
+882,220,Marleen Veldhuis,0.0
+883,220,Ranomi Kromowidjojo,1.0
+884,221,$\it{Other}$,0.0
+885,221,Femke Heemskerk,0.0
+886,221,Marleen Veldhuis,0.0
+887,221,Ranomi Kromowidjojo,1.0
+888,222,$\it{Other}$,0.0
+889,222,Femke Heemskerk,0.0
+890,222,Marleen Veldhuis,0.0
+891,222,Ranomi Kromowidjojo,1.0

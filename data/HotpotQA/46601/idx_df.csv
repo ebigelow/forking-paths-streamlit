@@ -1,0 +1,1153 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.1930261742518788
+1,0,Both Chenghai District and Gaoping,0.24100559022902304
+2,0,Both Chenghai District and Gaoping are districts of Shantou,0.03606048206220211
+3,0,Both Chenghai District and Gaoping are districts of the city of Shantou,0.04179630528858178
+4,0,Chenghai District,0.3636068395818801
+5,0,Chenghai District and Gaoping,0.12450460858643408
+6,1,$\it{Other}$,0.2032191141945426
+7,1,Both Chenghai District and Gaoping,0.1602284382775815
+8,1,Both Chenghai District and Gaoping are districts of Shantou,0.03655244752787591
+9,1,Both Chenghai District and Gaoping are districts of the city of Shantou,0.006438228389085163
+10,1,Chenghai District,0.4333333333333333
+11,1,Chenghai District and Gaoping,0.1602284382775815
+12,2,$\it{Other}$,0.18724932177492878
+13,2,Both Chenghai District and Gaoping,0.10566683454660959
+14,2,Both Chenghai District and Gaoping are districts of Shantou,0.06769890536326725
+15,2,Both Chenghai District and Gaoping are districts of the city of Shantou,0.050444515978819354
+16,2,Chenghai District,0.4671586061407244
+17,2,Chenghai District and Gaoping,0.12178181619565065
+18,3,$\it{Other}$,0.21247150642637513
+19,3,Both Chenghai District and Gaoping,0.18585042947750827
+20,3,Both Chenghai District and Gaoping are districts of Shantou,0.08249430128527502
+21,3,Both Chenghai District and Gaoping are districts of the city of Shantou,0.04916096795194169
+22,3,Chenghai District,0.29664387180776675
+23,3,Chenghai District and Gaoping,0.17337892305113317
+24,4,$\it{Other}$,0.2
+25,4,Both Chenghai District and Gaoping,0.3333333333333333
+26,4,Both Chenghai District and Gaoping are districts of Shantou,0.0
+27,4,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+28,4,Chenghai District,0.43333333333333335
+29,4,Chenghai District and Gaoping,0.03333333333333333
+30,5,$\it{Other}$,0.1924571183303186
+31,5,Both Chenghai District and Gaoping,0.22459681146693455
+32,5,Both Chenghai District and Gaoping are districts of Shantou,0.045546560314637455
+33,5,Both Chenghai District and Gaoping are districts of the city of Shantou,0.01684631563693308
+34,5,Chenghai District,0.38898683311749693
+35,5,Chenghai District and Gaoping,0.13156636113367942
+36,6,$\it{Other}$,0.24929739586080843
+37,6,Both Chenghai District and Gaoping,0.1845727987184874
+38,6,Both Chenghai District and Gaoping are districts of Shantou,0.07324725087460882
+39,6,Both Chenghai District and Gaoping are districts of the city of Shantou,0.006580584207942149
+40,6,Chenghai District,0.3886744521561214
+41,6,Chenghai District and Gaoping,0.09762751818203178
+42,7,$\it{Other}$,0.19197599752184896
+43,7,Both Chenghai District and Gaoping,0.16666666666666666
+44,7,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+45,7,Both Chenghai District and Gaoping are districts of the city of Shantou,0.012036003717226542
+46,7,Chenghai District,0.4
+47,7,Chenghai District and Gaoping,0.1959879987609245
+48,8,$\it{Other}$,0.16666666666666666
+49,8,Both Chenghai District and Gaoping,0.3053104050345697
+50,8,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+51,8,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03067813081604848
+52,8,Chenghai District,0.30265520251728484
+53,8,Chenghai District and Gaoping,0.16135626163209693
+54,9,$\it{Other}$,0.16666666666666666
+55,9,Both Chenghai District and Gaoping,0.23333333333333334
+56,9,Both Chenghai District and Gaoping are districts of Shantou,0.0
+57,9,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+58,9,Chenghai District,0.36666666666666664
+59,9,Chenghai District and Gaoping,0.2
+60,10,$\it{Other}$,0.3
+61,10,Both Chenghai District and Gaoping,0.23333333333333334
+62,10,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+63,10,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+64,10,Chenghai District,0.26666666666666666
+65,10,Chenghai District and Gaoping,0.13333333333333333
+66,11,$\it{Other}$,0.23333333333333334
+67,11,Both Chenghai District and Gaoping,0.3
+68,11,Both Chenghai District and Gaoping are districts of Shantou,0.06666666666666667
+69,11,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+70,11,Chenghai District,0.2
+71,11,Chenghai District and Gaoping,0.16666666666666666
+72,12,$\it{Other}$,0.16666666666666666
+73,12,Both Chenghai District and Gaoping,0.3
+74,12,Both Chenghai District and Gaoping are districts of Shantou,0.1
+75,12,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+76,12,Chenghai District,0.3333333333333333
+77,12,Chenghai District and Gaoping,0.1
+78,13,$\it{Other}$,0.3333333333333333
+79,13,Both Chenghai District and Gaoping,0.26666666666666666
+80,13,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+81,13,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+82,13,Chenghai District,0.13333333333333333
+83,13,Chenghai District and Gaoping,0.2
+84,14,$\it{Other}$,0.16992830293586933
+85,14,Both Chenghai District and Gaoping,0.2836918186539866
+86,14,Both Chenghai District and Gaoping are districts of Shantou,0.036594969602536005
+87,14,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0032616362692026724
+88,14,Chenghai District,0.33985660587173866
+89,14,Chenghai District and Gaoping,0.16666666666666666
+90,15,$\it{Other}$,0.13419193378455133
+91,15,Both Chenghai District and Gaoping,0.2244456520589044
+92,15,Both Chenghai District and Gaoping are districts of Shantou,0.042400692649882665
+93,15,Both Chenghai District and Gaoping are districts of the city of Shantou,0.012651717529276421
+94,15,Chenghai District,0.4635103324568847
+95,15,Chenghai District and Gaoping,0.12279967152050045
+96,16,$\it{Other}$,0.25272555636309874
+97,16,Both Chenghai District and Gaoping,0.2409069454538734
+98,16,Both Chenghai District and Gaoping are districts of Shantou,0.03545583272767596
+99,16,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+100,16,Chenghai District,0.2687891660610093
+101,16,Chenghai District and Gaoping,0.20212249939434263
+102,17,$\it{Other}$,0.13792162362074387
+103,17,Both Chenghai District and Gaoping,0.27455694607371195
+104,17,Both Chenghai District and Gaoping are districts of Shantou,0.045818375097117475
+105,17,Both Chenghai District and Gaoping are districts of the city of Shantou,0.02662711560503798
+106,17,Chenghai District,0.35564411092951914
+107,17,Chenghai District and Gaoping,0.15943182867386962
+108,18,$\it{Other}$,0.23333333333333334
+109,18,Both Chenghai District and Gaoping,0.2
+110,18,Both Chenghai District and Gaoping are districts of Shantou,0.0
+111,18,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+112,18,Chenghai District,0.43333333333333335
+113,18,Chenghai District and Gaoping,0.1
+114,19,$\it{Other}$,0.26666666666666666
+115,19,Both Chenghai District and Gaoping,0.2
+116,19,Both Chenghai District and Gaoping are districts of Shantou,0.0
+117,19,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+118,19,Chenghai District,0.3
+119,19,Chenghai District and Gaoping,0.23333333333333334
+120,20,$\it{Other}$,0.13333333333333336
+121,20,Both Chenghai District and Gaoping,0.3198797103907724
+122,20,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333334
+123,20,Both Chenghai District and Gaoping are districts of the city of Shantou,0.10100393364204993
+124,20,Chenghai District,0.3228915113169222
+125,20,Chenghai District and Gaoping,0.08955817798358885
+126,21,$\it{Other}$,0.19104169775856683
+127,21,Both Chenghai District and Gaoping,0.3353126088216504
+128,21,Both Chenghai District and Gaoping are districts of Shantou,0.09552084887928342
+129,21,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+130,21,Chenghai District,0.16468739117834946
+131,21,Chenghai District and Gaoping,0.21343745336214978
+132,22,$\it{Other}$,0.1
+133,22,Both Chenghai District and Gaoping,0.3
+134,22,Both Chenghai District and Gaoping are districts of Shantou,0.0
+135,22,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+136,22,Chenghai District,0.3333333333333333
+137,22,Chenghai District and Gaoping,0.23333333333333334
+138,23,$\it{Other}$,0.24777995163539593
+139,23,Both Chenghai District and Gaoping,0.1879538131918856
+140,23,Both Chenghai District and Gaoping are districts of Shantou,0.12779118517122434
+141,23,Both Chenghai District and Gaoping are districts of the city of Shantou,0.022040570040200193
+142,23,Chenghai District,0.2981445250521179
+143,23,Chenghai District and Gaoping,0.11628995490917604
+144,24,$\it{Other}$,0.08568551137709207
+145,24,Both Chenghai District and Gaoping,0.23769545560940653
+146,24,Both Chenghai District and Gaoping are districts of Shantou,0.07941415504888218
+147,24,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03595733846299197
+148,24,Chenghai District,0.38289038934171127
+149,24,Chenghai District and Gaoping,0.178357150159916
+150,25,$\it{Other}$,0.26666666666666666
+151,25,Both Chenghai District and Gaoping,0.16666666666666666
+152,25,Both Chenghai District and Gaoping are districts of Shantou,0.06666666666666667
+153,25,Both Chenghai District and Gaoping are districts of the city of Shantou,0.06666666666666667
+154,25,Chenghai District,0.3
+155,25,Chenghai District and Gaoping,0.13333333333333333
+156,26,$\it{Other}$,0.1803051638661195
+157,26,Both Chenghai District and Gaoping,0.18761923950303525
+158,26,Both Chenghai District and Gaoping are districts of Shantou,0.04015258193305976
+159,26,Both Chenghai District and Gaoping are districts of the city of Shantou,0.05769553046956511
+160,26,Chenghai District,0.35680137957467806
+161,26,Chenghai District and Gaoping,0.17742610465354236
+162,27,$\it{Other}$,0.26666666666666666
+163,27,Both Chenghai District and Gaoping,0.43333333333333335
+164,27,Both Chenghai District and Gaoping are districts of Shantou,0.0
+165,27,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+166,27,Chenghai District,0.13333333333333333
+167,27,Chenghai District and Gaoping,0.16666666666666666
+168,28,$\it{Other}$,0.08256330399902877
+169,28,Both Chenghai District and Gaoping,0.23205354841434095
+170,28,Both Chenghai District and Gaoping are districts of Shantou,0.050100458386809
+171,28,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0471512577746734
+172,28,Chenghai District,0.4430649715620751
+173,28,Chenghai District and Gaoping,0.14506645986307276
+174,29,$\it{Other}$,0.1481679220866478
+175,29,Both Chenghai District and Gaoping,0.3965891873375366
+176,29,Both Chenghai District and Gaoping are districts of Shantou,0.01551926468150569
+177,29,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+178,29,Chenghai District,0.33219221483741873
+179,29,Chenghai District and Gaoping,0.10753141105689117
+180,30,$\it{Other}$,0.20661913483319894
+181,30,Both Chenghai District and Gaoping,0.2876256039901503
+182,30,Both Chenghai District and Gaoping are districts of Shantou,0.08479632385316717
+183,30,Both Chenghai District and Gaoping are districts of the city of Shantou,0.027146135328408483
+184,30,Chenghai District,0.3147717393185588
+185,30,Chenghai District and Gaoping,0.07904106267651638
+186,31,$\it{Other}$,0.13937993256606673
+187,31,Both Chenghai District and Gaoping,0.20604659923273339
+188,31,Both Chenghai District and Gaoping are districts of Shantou,0.006046599232733391
+189,31,Both Chenghai District and Gaoping are districts of the city of Shantou,0.05457346820119988
+190,31,Chenghai District,0.3727132658994
+191,31,Chenghai District and Gaoping,0.22124013486786653
+192,32,$\it{Other}$,0.12846066075123982
+193,32,Both Chenghai District and Gaoping,0.2574152175567911
+194,32,Both Chenghai District and Gaoping are districts of Shantou,0.1009643289750517
+195,32,Both Chenghai District and Gaoping are districts of the city of Shantou,0.027442479159123477
+196,32,Chenghai District,0.3459556964905455
+197,32,Chenghai District and Gaoping,0.1397616170672485
+198,33,$\it{Other}$,0.09817341141160597
+199,33,Both Chenghai District and Gaoping,0.23333333333333334
+200,33,Both Chenghai District and Gaoping are districts of Shantou,0.09452023423481791
+201,33,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16666666666666663
+202,33,Chenghai District,0.24063968768690946
+203,33,Chenghai District and Gaoping,0.16666666666666663
+204,34,$\it{Other}$,0.09688173512360705
+205,34,Both Chenghai District and Gaoping,0.2767431926514968
+206,34,Both Chenghai District and Gaoping are districts of Shantou,0.10209378408872051
+207,34,Both Chenghai District and Gaoping are districts of the city of Shantou,0.08714689231958722
+208,34,Chenghai District,0.2177565184489187
+209,34,Chenghai District and Gaoping,0.21937787736766973
+210,35,$\it{Other}$,0.2
+211,35,Both Chenghai District and Gaoping,0.16666666666666666
+212,35,Both Chenghai District and Gaoping are districts of Shantou,0.06666666666666667
+213,35,Both Chenghai District and Gaoping are districts of the city of Shantou,0.1
+214,35,Chenghai District,0.3333333333333333
+215,35,Chenghai District and Gaoping,0.13333333333333333
+216,36,$\it{Other}$,0.06666666666666667
+217,36,Both Chenghai District and Gaoping,0.23333333333333334
+218,36,Both Chenghai District and Gaoping are districts of Shantou,0.13333333333333333
+219,36,Both Chenghai District and Gaoping are districts of the city of Shantou,0.2
+220,36,Chenghai District,0.3333333333333333
+221,36,Chenghai District and Gaoping,0.03333333333333333
+222,37,$\it{Other}$,0.0
+223,37,Both Chenghai District and Gaoping,0.43333333333333335
+224,37,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+225,37,Both Chenghai District and Gaoping are districts of the city of Shantou,0.06666666666666667
+226,37,Chenghai District,0.3333333333333333
+227,37,Chenghai District and Gaoping,0.13333333333333333
+228,38,$\it{Other}$,0.03333333333333333
+229,38,Both Chenghai District and Gaoping,0.2
+230,38,Both Chenghai District and Gaoping are districts of Shantou,0.13333333333333333
+231,38,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+232,38,Chenghai District,0.36666666666666664
+233,38,Chenghai District and Gaoping,0.23333333333333334
+234,39,$\it{Other}$,0.03333333333333333
+235,39,Both Chenghai District and Gaoping,0.26666666666666666
+236,39,Both Chenghai District and Gaoping are districts of Shantou,0.13333333333333333
+237,39,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16666666666666666
+238,39,Chenghai District,0.3
+239,39,Chenghai District and Gaoping,0.1
+240,40,$\it{Other}$,0.03333333333333333
+241,40,Both Chenghai District and Gaoping,0.3333333333333333
+242,40,Both Chenghai District and Gaoping are districts of Shantou,0.13333333333333333
+243,40,Both Chenghai District and Gaoping are districts of the city of Shantou,0.13333333333333333
+244,40,Chenghai District,0.3
+245,40,Chenghai District and Gaoping,0.06666666666666667
+246,41,$\it{Other}$,0.10155283387031766
+247,41,Both Chenghai District and Gaoping,0.265113832796349
+248,41,Both Chenghai District and Gaoping are districts of Shantou,0.09922358306484116
+249,41,Both Chenghai District and Gaoping are districts of the city of Shantou,0.06589024973150784
+250,41,Chenghai District,0.4235162504474869
+251,41,Chenghai District and Gaoping,0.04470325008949739
+252,42,$\it{Other}$,0.03333333333333333
+253,42,Both Chenghai District and Gaoping,0.5333333333333333
+254,42,Both Chenghai District and Gaoping are districts of Shantou,0.1
+255,42,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16666666666666666
+256,42,Chenghai District,0.03333333333333333
+257,42,Chenghai District and Gaoping,0.13333333333333333
+258,43,$\it{Other}$,0.008348067184037208
+259,43,Both Chenghai District and Gaoping,0.358377534885445
+260,43,Both Chenghai District and Gaoping are districts of Shantou,0.12498526614929613
+261,43,Both Chenghai District and Gaoping are districts of the city of Shantou,0.15831859948262947
+262,43,Chenghai District,0.1916519328159628
+263,43,Chenghai District and Gaoping,0.15831859948262947
+264,44,$\it{Other}$,0.1
+265,44,Both Chenghai District and Gaoping,0.26666666666666666
+266,44,Both Chenghai District and Gaoping are districts of Shantou,0.1
+267,44,Both Chenghai District and Gaoping are districts of the city of Shantou,0.23333333333333334
+268,44,Chenghai District,0.16666666666666666
+269,44,Chenghai District and Gaoping,0.13333333333333333
+270,45,$\it{Other}$,0.1
+271,45,Both Chenghai District and Gaoping,0.26666666666666666
+272,45,Both Chenghai District and Gaoping are districts of Shantou,0.1
+273,45,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16666666666666666
+274,45,Chenghai District,0.26666666666666666
+275,45,Chenghai District and Gaoping,0.1
+276,46,$\it{Other}$,0.03333333333333333
+277,46,Both Chenghai District and Gaoping,0.4666666666666667
+278,46,Both Chenghai District and Gaoping are districts of Shantou,0.0
+279,46,Both Chenghai District and Gaoping are districts of the city of Shantou,0.13333333333333333
+280,46,Chenghai District,0.26666666666666666
+281,46,Chenghai District and Gaoping,0.1
+282,47,$\it{Other}$,0.03333333333333333
+283,47,Both Chenghai District and Gaoping,0.43333333333333335
+284,47,Both Chenghai District and Gaoping are districts of Shantou,0.2
+285,47,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16666666666666666
+286,47,Chenghai District,0.06666666666666667
+287,47,Chenghai District and Gaoping,0.1
+288,48,$\it{Other}$,0.13333333333333333
+289,48,Both Chenghai District and Gaoping,0.2
+290,48,Both Chenghai District and Gaoping are districts of Shantou,0.1
+291,48,Both Chenghai District and Gaoping are districts of the city of Shantou,0.3
+292,48,Chenghai District,0.2
+293,48,Chenghai District and Gaoping,0.06666666666666667
+294,49,$\it{Other}$,0.13333333333333333
+295,49,Both Chenghai District and Gaoping,0.3333333333333333
+296,49,Both Chenghai District and Gaoping are districts of Shantou,0.06666666666666667
+297,49,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+298,49,Chenghai District,0.23333333333333334
+299,49,Chenghai District and Gaoping,0.23333333333333334
+300,50,$\it{Other}$,0.06383921087951241
+301,50,Both Chenghai District and Gaoping,0.3732150089509382
+302,50,Both Chenghai District and Gaoping are districts of Shantou,0.021131208024888798
+303,50,Both Chenghai District and Gaoping are districts of the city of Shantou,0.2732138804008027
+304,50,Chenghai District,0.1906242019285742
+305,50,Chenghai District and Gaoping,0.07797648981528366
+306,51,$\it{Other}$,0.10836447436155827
+307,51,Both Chenghai District and Gaoping,0.3297286112965475
+308,51,Both Chenghai District and Gaoping are districts of Shantou,0.14853732604262773
+309,51,Both Chenghai District and Gaoping are districts of the city of Shantou,0.19533779503774001
+310,51,Chenghai District,0.11509248540034825
+311,51,Chenghai District and Gaoping,0.10293930786117816
+312,52,$\it{Other}$,0.14212484496714403
+313,52,Both Chenghai District and Gaoping,0.30516108816880466
+314,52,Both Chenghai District and Gaoping are districts of Shantou,0.02568280217020983
+315,52,Both Chenghai District and Gaoping are districts of the city of Shantou,0.15967045756717452
+316,52,Chenghai District,0.28655734310421666
+317,52,Chenghai District and Gaoping,0.08080346402245026
+318,53,$\it{Other}$,0.09592722941431432
+319,53,Both Chenghai District and Gaoping,0.18934964922417807
+320,53,Both Chenghai District and Gaoping are districts of Shantou,0.09499038079109887
+321,53,Both Chenghai District and Gaoping are districts of the city of Shantou,0.024111247421290248
+322,53,Chenghai District,0.4008167923333872
+323,53,Chenghai District and Gaoping,0.19480470081573126
+324,54,$\it{Other}$,0.10000000000000002
+325,54,Both Chenghai District and Gaoping,0.3527481304988729
+326,54,Both Chenghai District and Gaoping are districts of Shantou,0.03054962609977458
+327,54,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16109925219954915
+328,54,Chenghai District,0.19164887829932375
+329,54,Chenghai District and Gaoping,0.16395411290247963
+330,55,$\it{Other}$,0.13333333333333333
+331,55,Both Chenghai District and Gaoping,0.23333333333333334
+332,55,Both Chenghai District and Gaoping are districts of Shantou,0.16666666666666666
+333,55,Both Chenghai District and Gaoping are districts of the city of Shantou,0.06666666666666667
+334,55,Chenghai District,0.23333333333333334
+335,55,Chenghai District and Gaoping,0.16666666666666666
+336,56,$\it{Other}$,0.1
+337,56,Both Chenghai District and Gaoping,0.13333333333333333
+338,56,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+339,56,Both Chenghai District and Gaoping are districts of the city of Shantou,0.26666666666666666
+340,56,Chenghai District,0.3333333333333333
+341,56,Chenghai District and Gaoping,0.13333333333333333
+342,57,$\it{Other}$,0.10250051125615844
+343,57,Both Chenghai District and Gaoping,0.23815575102028913
+344,57,Both Chenghai District and Gaoping are districts of Shantou,0.08639260250417216
+345,57,Both Chenghai District and Gaoping are districts of the city of Shantou,0.21740402940670817
+346,57,Chenghai District,0.1773499624309789
+347,57,Chenghai District and Gaoping,0.17819714338169323
+348,58,$\it{Other}$,0.0
+349,58,Both Chenghai District and Gaoping,0.17659700007803675
+350,58,Both Chenghai District and Gaoping are districts of Shantou,0.056736333255296575
+351,58,Both Chenghai District and Gaoping are districts of the city of Shantou,0.23191049972687136
+352,58,Chenghai District,0.4269453330211863
+353,58,Chenghai District and Gaoping,0.10781083391860904
+354,59,$\it{Other}$,0.03333333333333333
+355,59,Both Chenghai District and Gaoping,0.23333333333333334
+356,59,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+357,59,Both Chenghai District and Gaoping are districts of the city of Shantou,0.16666666666666666
+358,59,Chenghai District,0.43333333333333335
+359,59,Chenghai District and Gaoping,0.1
+360,60,$\it{Other}$,0.04515370406755157
+361,60,Both Chenghai District and Gaoping,0.1848650897144938
+362,60,Both Chenghai District and Gaoping are districts of Shantou,0.09290777755946907
+363,60,Both Chenghai District and Gaoping are districts of the city of Shantou,0.08688681030932117
+364,60,Chenghai District,0.5326191632064112
+365,60,Chenghai District and Gaoping,0.0575674551427531
+366,61,$\it{Other}$,0.02199648897234869
+367,61,Both Chenghai District and Gaoping,0.12790300456686662
+368,61,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333334
+369,61,Both Chenghai District and Gaoping are districts of the city of Shantou,0.12267623487586968
+370,61,Chenghai District,0.6500979603068844
+371,61,Chenghai District and Gaoping,0.04399297794469738
+372,62,$\it{Other}$,0.01965185672954478
+373,62,Both Chenghai District and Gaoping,0.18143251703448932
+374,62,Both Chenghai District and Gaoping are districts of Shantou,0.0678881682570972
+375,62,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+376,62,Chenghai District,0.6804167071836533
+377,62,Chenghai District and Gaoping,0.017277417461881932
+378,63,$\it{Other}$,0.016459030743089
+379,63,Both Chenghai District and Gaoping,0.08312569740975567
+380,63,Both Chenghai District and Gaoping are districts of Shantou,0.03333333333333333
+381,63,Both Chenghai District and Gaoping are districts of the city of Shantou,0.049377092229267006
+382,63,Chenghai District,0.7674972103609774
+383,63,Chenghai District and Gaoping,0.050207635923577666
+384,64,$\it{Other}$,0.05944845344670838
+385,64,Both Chenghai District and Gaoping,0.1431534316792755
+386,64,Both Chenghai District and Gaoping are districts of Shantou,0.04333377191078215
+387,64,Both Chenghai District and Gaoping are districts of the city of Shantou,0.04333377191078215
+388,64,Chenghai District,0.6807292553201054
+389,64,Chenghai District and Gaoping,0.03000131573234646
+390,65,$\it{Other}$,0.03893462964823036
+391,65,Both Chenghai District and Gaoping,0.07957553340410345
+392,65,Both Chenghai District and Gaoping are districts of Shantou,0.03031577512946381
+393,65,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03336717320423212
+394,65,Chenghai District,0.7896868794001898
+395,65,Chenghai District and Gaoping,0.028120009213780515
+396,66,$\it{Other}$,0.0
+397,66,Both Chenghai District and Gaoping,0.0
+398,66,Both Chenghai District and Gaoping are districts of Shantou,0.02061935465840351
+399,66,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+400,66,Chenghai District,0.9460473120082631
+401,66,Chenghai District and Gaoping,0.0
+402,67,$\it{Other}$,0.0
+403,67,Both Chenghai District and Gaoping,0.0
+404,67,Both Chenghai District and Gaoping are districts of Shantou,0.008261967043695948
+405,67,Both Chenghai District and Gaoping are districts of the city of Shantou,0.020861507906568932
+406,67,Chenghai District,0.9708765250497351
+407,67,Chenghai District and Gaoping,0.0
+408,68,$\it{Other}$,0.0
+409,68,Both Chenghai District and Gaoping,0.0
+410,68,Both Chenghai District and Gaoping are districts of Shantou,0.0
+411,68,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+412,68,Chenghai District,0.9666666666666667
+413,68,Chenghai District and Gaoping,0.0
+414,69,$\it{Other}$,0.0
+415,69,Both Chenghai District and Gaoping,0.0
+416,69,Both Chenghai District and Gaoping are districts of Shantou,0.0
+417,69,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+418,69,Chenghai District,0.9666666666666667
+419,69,Chenghai District and Gaoping,0.0
+420,70,$\it{Other}$,0.0
+421,70,Both Chenghai District and Gaoping,0.0
+422,70,Both Chenghai District and Gaoping are districts of Shantou,0.0
+423,70,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+424,70,Chenghai District,0.9666666666666667
+425,70,Chenghai District and Gaoping,0.0
+426,71,$\it{Other}$,0.03333333333333333
+427,71,Both Chenghai District and Gaoping,0.0
+428,71,Both Chenghai District and Gaoping are districts of Shantou,0.0
+429,71,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+430,71,Chenghai District,0.9333333333333333
+431,71,Chenghai District and Gaoping,0.0
+432,72,$\it{Other}$,0.06666666666666667
+433,72,Both Chenghai District and Gaoping,0.0
+434,72,Both Chenghai District and Gaoping are districts of Shantou,0.0
+435,72,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+436,72,Chenghai District,0.9333333333333333
+437,72,Chenghai District and Gaoping,0.0
+438,73,$\it{Other}$,0.0
+439,73,Both Chenghai District and Gaoping,0.0
+440,73,Both Chenghai District and Gaoping are districts of Shantou,0.06666666666666667
+441,73,Both Chenghai District and Gaoping are districts of the city of Shantou,0.03333333333333333
+442,73,Chenghai District,0.9
+443,73,Chenghai District and Gaoping,0.0
+444,74,$\it{Other}$,0.003807671379469416
+445,74,Both Chenghai District and Gaoping,0.0
+446,74,Both Chenghai District and Gaoping are districts of Shantou,0.009633678367863741
+447,74,Both Chenghai District and Gaoping are districts of the city of Shantou,0.01978137705923959
+448,74,Chenghai District,0.9519568560648877
+449,74,Chenghai District and Gaoping,0.014820417128539482
+450,75,$\it{Other}$,0.0
+451,75,Both Chenghai District and Gaoping,0.0
+452,75,Both Chenghai District and Gaoping are districts of Shantou,0.0
+453,75,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+454,75,Chenghai District,1.0
+455,75,Chenghai District and Gaoping,0.0
+456,76,$\it{Other}$,0.026298267422325914
+457,76,Both Chenghai District and Gaoping,0.0
+458,76,Both Chenghai District and Gaoping are districts of Shantou,0.0
+459,76,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+460,76,Chenghai District,0.9474034651553482
+461,76,Chenghai District and Gaoping,0.026298267422325914
+462,77,$\it{Other}$,0.0
+463,77,Both Chenghai District and Gaoping,0.0
+464,77,Both Chenghai District and Gaoping are districts of Shantou,0.0
+465,77,Both Chenghai District and Gaoping are districts of the city of Shantou,0.028220363451560856
+466,77,Chenghai District,0.9717796365484392
+467,77,Chenghai District and Gaoping,0.0
+468,78,$\it{Other}$,0.005188622048746244
+469,78,Both Chenghai District and Gaoping,0.0
+470,78,Both Chenghai District and Gaoping are districts of Shantou,0.0
+471,78,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+472,78,Chenghai District,0.9948113779512539
+473,78,Chenghai District and Gaoping,0.0
+474,79,$\it{Other}$,0.0
+475,79,Both Chenghai District and Gaoping,0.0
+476,79,Both Chenghai District and Gaoping are districts of Shantou,0.0
+477,79,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+478,79,Chenghai District,1.0
+479,79,Chenghai District and Gaoping,0.0
+480,80,$\it{Other}$,0.021775333010170896
+481,80,Both Chenghai District and Gaoping,0.0
+482,80,Both Chenghai District and Gaoping are districts of Shantou,0.0
+483,80,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+484,80,Chenghai District,0.9564493339796583
+485,80,Chenghai District and Gaoping,0.021775333010170896
+486,81,$\it{Other}$,0.0
+487,81,Both Chenghai District and Gaoping,0.0
+488,81,Both Chenghai District and Gaoping are districts of Shantou,0.0
+489,81,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+490,81,Chenghai District,1.0
+491,81,Chenghai District and Gaoping,0.0
+492,82,$\it{Other}$,0.0
+493,82,Both Chenghai District and Gaoping,0.0
+494,82,Both Chenghai District and Gaoping are districts of Shantou,0.0
+495,82,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+496,82,Chenghai District,1.0
+497,82,Chenghai District and Gaoping,0.0
+498,83,$\it{Other}$,0.009036205603217216
+499,83,Both Chenghai District and Gaoping,0.0
+500,83,Both Chenghai District and Gaoping are districts of Shantou,0.0
+501,83,Both Chenghai District and Gaoping are districts of the city of Shantou,0.009028628484594112
+502,83,Chenghai District,0.9819351659121887
+503,83,Chenghai District and Gaoping,0.0
+504,84,$\it{Other}$,0.0
+505,84,Both Chenghai District and Gaoping,0.0
+506,84,Both Chenghai District and Gaoping are districts of Shantou,0.0
+507,84,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+508,84,Chenghai District,1.0
+509,84,Chenghai District and Gaoping,0.0
+510,85,$\it{Other}$,0.0
+511,85,Both Chenghai District and Gaoping,0.0
+512,85,Both Chenghai District and Gaoping are districts of Shantou,0.0
+513,85,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+514,85,Chenghai District,0.9666666666666667
+515,85,Chenghai District and Gaoping,0.03333333333333333
+516,86,$\it{Other}$,0.0
+517,86,Both Chenghai District and Gaoping,0.0
+518,86,Both Chenghai District and Gaoping are districts of Shantou,0.0
+519,86,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+520,86,Chenghai District,1.0
+521,86,Chenghai District and Gaoping,0.0
+522,87,$\it{Other}$,0.0
+523,87,Both Chenghai District and Gaoping,0.0
+524,87,Both Chenghai District and Gaoping are districts of Shantou,0.0
+525,87,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+526,87,Chenghai District,1.0
+527,87,Chenghai District and Gaoping,0.0
+528,88,$\it{Other}$,0.0
+529,88,Both Chenghai District and Gaoping,0.0
+530,88,Both Chenghai District and Gaoping are districts of Shantou,0.0
+531,88,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+532,88,Chenghai District,1.0
+533,88,Chenghai District and Gaoping,0.0
+534,89,$\it{Other}$,0.0
+535,89,Both Chenghai District and Gaoping,0.0
+536,89,Both Chenghai District and Gaoping are districts of Shantou,0.0024948976704071077
+537,89,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+538,89,Chenghai District,0.9975051023295929
+539,89,Chenghai District and Gaoping,0.0
+540,90,$\it{Other}$,0.0
+541,90,Both Chenghai District and Gaoping,0.0
+542,90,Both Chenghai District and Gaoping are districts of Shantou,0.0
+543,90,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+544,90,Chenghai District,1.0
+545,90,Chenghai District and Gaoping,0.0
+546,91,$\it{Other}$,0.0
+547,91,Both Chenghai District and Gaoping,0.0
+548,91,Both Chenghai District and Gaoping are districts of Shantou,0.0
+549,91,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+550,91,Chenghai District,0.9999999999999999
+551,91,Chenghai District and Gaoping,0.0
+552,92,$\it{Other}$,0.0
+553,92,Both Chenghai District and Gaoping,0.0
+554,92,Both Chenghai District and Gaoping are districts of Shantou,0.0
+555,92,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+556,92,Chenghai District,0.9999999999999999
+557,92,Chenghai District and Gaoping,0.0
+558,93,$\it{Other}$,0.0
+559,93,Both Chenghai District and Gaoping,0.0
+560,93,Both Chenghai District and Gaoping are districts of Shantou,0.0
+561,93,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+562,93,Chenghai District,1.0
+563,93,Chenghai District and Gaoping,0.0
+564,94,$\it{Other}$,0.0
+565,94,Both Chenghai District and Gaoping,0.0
+566,94,Both Chenghai District and Gaoping are districts of Shantou,0.0
+567,94,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+568,94,Chenghai District,1.0
+569,94,Chenghai District and Gaoping,0.0
+570,95,$\it{Other}$,0.0
+571,95,Both Chenghai District and Gaoping,0.0
+572,95,Both Chenghai District and Gaoping are districts of Shantou,0.0
+573,95,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+574,95,Chenghai District,1.0
+575,95,Chenghai District and Gaoping,0.0
+576,96,$\it{Other}$,0.0
+577,96,Both Chenghai District and Gaoping,0.0
+578,96,Both Chenghai District and Gaoping are districts of Shantou,0.0
+579,96,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+580,96,Chenghai District,1.0
+581,96,Chenghai District and Gaoping,0.0
+582,97,$\it{Other}$,0.0
+583,97,Both Chenghai District and Gaoping,0.0017841970675554135
+584,97,Both Chenghai District and Gaoping are districts of Shantou,0.0
+585,97,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+586,97,Chenghai District,0.9982158029324446
+587,97,Chenghai District and Gaoping,0.0
+588,98,$\it{Other}$,0.0
+589,98,Both Chenghai District and Gaoping,0.0
+590,98,Both Chenghai District and Gaoping are districts of Shantou,0.0
+591,98,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+592,98,Chenghai District,1.0
+593,98,Chenghai District and Gaoping,0.0
+594,99,$\it{Other}$,0.0
+595,99,Both Chenghai District and Gaoping,0.0
+596,99,Both Chenghai District and Gaoping are districts of Shantou,0.0
+597,99,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+598,99,Chenghai District,1.0
+599,99,Chenghai District and Gaoping,0.0
+600,100,$\it{Other}$,0.0
+601,100,Both Chenghai District and Gaoping,0.0
+602,100,Both Chenghai District and Gaoping are districts of Shantou,0.0
+603,100,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+604,100,Chenghai District,1.0
+605,100,Chenghai District and Gaoping,0.0
+606,101,$\it{Other}$,0.0
+607,101,Both Chenghai District and Gaoping,0.0
+608,101,Both Chenghai District and Gaoping are districts of Shantou,0.0
+609,101,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+610,101,Chenghai District,1.0
+611,101,Chenghai District and Gaoping,0.0
+612,102,$\it{Other}$,0.0
+613,102,Both Chenghai District and Gaoping,0.0
+614,102,Both Chenghai District and Gaoping are districts of Shantou,0.0
+615,102,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+616,102,Chenghai District,1.0
+617,102,Chenghai District and Gaoping,0.0
+618,103,$\it{Other}$,0.0
+619,103,Both Chenghai District and Gaoping,0.0
+620,103,Both Chenghai District and Gaoping are districts of Shantou,0.0
+621,103,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+622,103,Chenghai District,1.0
+623,103,Chenghai District and Gaoping,0.0
+624,104,$\it{Other}$,0.0
+625,104,Both Chenghai District and Gaoping,0.0
+626,104,Both Chenghai District and Gaoping are districts of Shantou,0.0
+627,104,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+628,104,Chenghai District,1.0
+629,104,Chenghai District and Gaoping,0.0
+630,105,$\it{Other}$,0.0
+631,105,Both Chenghai District and Gaoping,0.0
+632,105,Both Chenghai District and Gaoping are districts of Shantou,0.0
+633,105,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+634,105,Chenghai District,1.0
+635,105,Chenghai District and Gaoping,0.0
+636,106,$\it{Other}$,0.0
+637,106,Both Chenghai District and Gaoping,0.0
+638,106,Both Chenghai District and Gaoping are districts of Shantou,0.0
+639,106,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+640,106,Chenghai District,1.0
+641,106,Chenghai District and Gaoping,0.0
+642,107,$\it{Other}$,0.0
+643,107,Both Chenghai District and Gaoping,0.0
+644,107,Both Chenghai District and Gaoping are districts of Shantou,0.0
+645,107,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+646,107,Chenghai District,1.0
+647,107,Chenghai District and Gaoping,0.0
+648,108,$\it{Other}$,0.004421551563243718
+649,108,Both Chenghai District and Gaoping,0.0
+650,108,Both Chenghai District and Gaoping are districts of Shantou,0.0
+651,108,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+652,108,Chenghai District,0.9955784484367562
+653,108,Chenghai District and Gaoping,0.0
+654,109,$\it{Other}$,0.0
+655,109,Both Chenghai District and Gaoping,0.0
+656,109,Both Chenghai District and Gaoping are districts of Shantou,0.0
+657,109,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+658,109,Chenghai District,0.9834758181137693
+659,109,Chenghai District and Gaoping,0.016524181886230786
+660,110,$\it{Other}$,0.0
+661,110,Both Chenghai District and Gaoping,0.0
+662,110,Both Chenghai District and Gaoping are districts of Shantou,0.0
+663,110,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+664,110,Chenghai District,1.0
+665,110,Chenghai District and Gaoping,0.0
+666,111,$\it{Other}$,0.0
+667,111,Both Chenghai District and Gaoping,0.0
+668,111,Both Chenghai District and Gaoping are districts of Shantou,0.0
+669,111,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+670,111,Chenghai District,1.0
+671,111,Chenghai District and Gaoping,0.0
+672,112,$\it{Other}$,0.0
+673,112,Both Chenghai District and Gaoping,0.0
+674,112,Both Chenghai District and Gaoping are districts of Shantou,0.0
+675,112,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+676,112,Chenghai District,0.9999999999999999
+677,112,Chenghai District and Gaoping,0.0
+678,113,$\it{Other}$,0.0
+679,113,Both Chenghai District and Gaoping,0.0
+680,113,Both Chenghai District and Gaoping are districts of Shantou,0.0
+681,113,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+682,113,Chenghai District,1.0
+683,113,Chenghai District and Gaoping,0.0
+684,114,$\it{Other}$,0.0
+685,114,Both Chenghai District and Gaoping,0.0
+686,114,Both Chenghai District and Gaoping are districts of Shantou,0.0
+687,114,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+688,114,Chenghai District,1.0
+689,114,Chenghai District and Gaoping,0.0
+690,115,$\it{Other}$,0.0
+691,115,Both Chenghai District and Gaoping,0.0
+692,115,Both Chenghai District and Gaoping are districts of Shantou,0.0
+693,115,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+694,115,Chenghai District,1.0
+695,115,Chenghai District and Gaoping,0.0
+696,116,$\it{Other}$,0.0
+697,116,Both Chenghai District and Gaoping,0.0
+698,116,Both Chenghai District and Gaoping are districts of Shantou,0.0
+699,116,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+700,116,Chenghai District,1.0
+701,116,Chenghai District and Gaoping,0.0
+702,117,$\it{Other}$,0.0
+703,117,Both Chenghai District and Gaoping,0.0
+704,117,Both Chenghai District and Gaoping are districts of Shantou,0.0
+705,117,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+706,117,Chenghai District,1.0
+707,117,Chenghai District and Gaoping,0.0
+708,118,$\it{Other}$,0.0
+709,118,Both Chenghai District and Gaoping,0.0
+710,118,Both Chenghai District and Gaoping are districts of Shantou,0.0
+711,118,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+712,118,Chenghai District,1.0
+713,118,Chenghai District and Gaoping,0.0
+714,119,$\it{Other}$,0.0
+715,119,Both Chenghai District and Gaoping,0.0
+716,119,Both Chenghai District and Gaoping are districts of Shantou,0.0
+717,119,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+718,119,Chenghai District,1.0
+719,119,Chenghai District and Gaoping,0.0
+720,120,$\it{Other}$,0.0
+721,120,Both Chenghai District and Gaoping,0.0
+722,120,Both Chenghai District and Gaoping are districts of Shantou,0.0
+723,120,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+724,120,Chenghai District,1.0
+725,120,Chenghai District and Gaoping,0.0
+726,121,$\it{Other}$,0.0
+727,121,Both Chenghai District and Gaoping,0.0
+728,121,Both Chenghai District and Gaoping are districts of Shantou,0.0
+729,121,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+730,121,Chenghai District,1.0
+731,121,Chenghai District and Gaoping,0.0
+732,122,$\it{Other}$,0.0
+733,122,Both Chenghai District and Gaoping,0.0
+734,122,Both Chenghai District and Gaoping are districts of Shantou,0.0
+735,122,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+736,122,Chenghai District,1.0
+737,122,Chenghai District and Gaoping,0.0
+738,123,$\it{Other}$,0.0
+739,123,Both Chenghai District and Gaoping,0.0
+740,123,Both Chenghai District and Gaoping are districts of Shantou,0.0
+741,123,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+742,123,Chenghai District,1.0
+743,123,Chenghai District and Gaoping,0.0
+744,124,$\it{Other}$,0.0
+745,124,Both Chenghai District and Gaoping,0.0
+746,124,Both Chenghai District and Gaoping are districts of Shantou,0.0
+747,124,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+748,124,Chenghai District,1.0
+749,124,Chenghai District and Gaoping,0.0
+750,125,$\it{Other}$,0.0
+751,125,Both Chenghai District and Gaoping,0.0
+752,125,Both Chenghai District and Gaoping are districts of Shantou,0.0
+753,125,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+754,125,Chenghai District,1.0
+755,125,Chenghai District and Gaoping,0.0
+756,126,$\it{Other}$,0.0
+757,126,Both Chenghai District and Gaoping,0.0
+758,126,Both Chenghai District and Gaoping are districts of Shantou,0.0
+759,126,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+760,126,Chenghai District,1.0
+761,126,Chenghai District and Gaoping,0.0
+762,127,$\it{Other}$,0.0
+763,127,Both Chenghai District and Gaoping,0.0
+764,127,Both Chenghai District and Gaoping are districts of Shantou,0.0
+765,127,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+766,127,Chenghai District,1.0
+767,127,Chenghai District and Gaoping,0.0
+768,128,$\it{Other}$,0.0
+769,128,Both Chenghai District and Gaoping,0.0
+770,128,Both Chenghai District and Gaoping are districts of Shantou,0.0
+771,128,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+772,128,Chenghai District,1.0000000000000002
+773,128,Chenghai District and Gaoping,0.0
+774,129,$\it{Other}$,0.0
+775,129,Both Chenghai District and Gaoping,0.0
+776,129,Both Chenghai District and Gaoping are districts of Shantou,0.0
+777,129,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+778,129,Chenghai District,1.0
+779,129,Chenghai District and Gaoping,0.0
+780,130,$\it{Other}$,0.0
+781,130,Both Chenghai District and Gaoping,0.0
+782,130,Both Chenghai District and Gaoping are districts of Shantou,0.0
+783,130,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+784,130,Chenghai District,1.0
+785,130,Chenghai District and Gaoping,0.0
+786,131,$\it{Other}$,0.0
+787,131,Both Chenghai District and Gaoping,0.0
+788,131,Both Chenghai District and Gaoping are districts of Shantou,0.0
+789,131,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+790,131,Chenghai District,1.0
+791,131,Chenghai District and Gaoping,0.0
+792,132,$\it{Other}$,0.0
+793,132,Both Chenghai District and Gaoping,0.0
+794,132,Both Chenghai District and Gaoping are districts of Shantou,0.0
+795,132,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+796,132,Chenghai District,1.0
+797,132,Chenghai District and Gaoping,0.0
+798,133,$\it{Other}$,0.0
+799,133,Both Chenghai District and Gaoping,0.0
+800,133,Both Chenghai District and Gaoping are districts of Shantou,0.0
+801,133,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+802,133,Chenghai District,1.0
+803,133,Chenghai District and Gaoping,0.0
+804,134,$\it{Other}$,0.0
+805,134,Both Chenghai District and Gaoping,0.0
+806,134,Both Chenghai District and Gaoping are districts of Shantou,0.0
+807,134,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+808,134,Chenghai District,1.0
+809,134,Chenghai District and Gaoping,0.0
+810,135,$\it{Other}$,0.0
+811,135,Both Chenghai District and Gaoping,0.0
+812,135,Both Chenghai District and Gaoping are districts of Shantou,0.0
+813,135,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+814,135,Chenghai District,1.0
+815,135,Chenghai District and Gaoping,0.0
+816,136,$\it{Other}$,0.0
+817,136,Both Chenghai District and Gaoping,0.0
+818,136,Both Chenghai District and Gaoping are districts of Shantou,0.0
+819,136,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+820,136,Chenghai District,1.0
+821,136,Chenghai District and Gaoping,0.0
+822,137,$\it{Other}$,0.0
+823,137,Both Chenghai District and Gaoping,0.0
+824,137,Both Chenghai District and Gaoping are districts of Shantou,0.0
+825,137,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+826,137,Chenghai District,1.0
+827,137,Chenghai District and Gaoping,0.0
+828,138,$\it{Other}$,0.0
+829,138,Both Chenghai District and Gaoping,0.0
+830,138,Both Chenghai District and Gaoping are districts of Shantou,0.0
+831,138,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+832,138,Chenghai District,1.0
+833,138,Chenghai District and Gaoping,0.0
+834,139,$\it{Other}$,0.0
+835,139,Both Chenghai District and Gaoping,0.0
+836,139,Both Chenghai District and Gaoping are districts of Shantou,0.0
+837,139,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+838,139,Chenghai District,1.0
+839,139,Chenghai District and Gaoping,0.0
+840,140,$\it{Other}$,0.0
+841,140,Both Chenghai District and Gaoping,0.0
+842,140,Both Chenghai District and Gaoping are districts of Shantou,0.0
+843,140,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+844,140,Chenghai District,1.0
+845,140,Chenghai District and Gaoping,0.0
+846,141,$\it{Other}$,0.0
+847,141,Both Chenghai District and Gaoping,0.0
+848,141,Both Chenghai District and Gaoping are districts of Shantou,0.0
+849,141,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+850,141,Chenghai District,1.0
+851,141,Chenghai District and Gaoping,0.0
+852,142,$\it{Other}$,0.0
+853,142,Both Chenghai District and Gaoping,0.0
+854,142,Both Chenghai District and Gaoping are districts of Shantou,0.0
+855,142,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+856,142,Chenghai District,1.0
+857,142,Chenghai District and Gaoping,0.0
+858,143,$\it{Other}$,0.0
+859,143,Both Chenghai District and Gaoping,0.0
+860,143,Both Chenghai District and Gaoping are districts of Shantou,0.0
+861,143,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+862,143,Chenghai District,1.0
+863,143,Chenghai District and Gaoping,0.0
+864,144,$\it{Other}$,0.0
+865,144,Both Chenghai District and Gaoping,0.0
+866,144,Both Chenghai District and Gaoping are districts of Shantou,0.0
+867,144,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+868,144,Chenghai District,1.0
+869,144,Chenghai District and Gaoping,0.0
+870,145,$\it{Other}$,0.0
+871,145,Both Chenghai District and Gaoping,0.0
+872,145,Both Chenghai District and Gaoping are districts of Shantou,0.0
+873,145,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+874,145,Chenghai District,1.0
+875,145,Chenghai District and Gaoping,0.0
+876,146,$\it{Other}$,0.0
+877,146,Both Chenghai District and Gaoping,0.0
+878,146,Both Chenghai District and Gaoping are districts of Shantou,0.0
+879,146,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+880,146,Chenghai District,1.0
+881,146,Chenghai District and Gaoping,0.0
+882,147,$\it{Other}$,0.0
+883,147,Both Chenghai District and Gaoping,0.0
+884,147,Both Chenghai District and Gaoping are districts of Shantou,0.0
+885,147,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+886,147,Chenghai District,1.0
+887,147,Chenghai District and Gaoping,0.0
+888,148,$\it{Other}$,0.0
+889,148,Both Chenghai District and Gaoping,0.0
+890,148,Both Chenghai District and Gaoping are districts of Shantou,0.0
+891,148,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+892,148,Chenghai District,1.0
+893,148,Chenghai District and Gaoping,0.0
+894,149,$\it{Other}$,0.0028832572194575252
+895,149,Both Chenghai District and Gaoping,0.0
+896,149,Both Chenghai District and Gaoping are districts of Shantou,0.0
+897,149,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+898,149,Chenghai District,0.9971167427805425
+899,149,Chenghai District and Gaoping,0.0
+900,150,$\it{Other}$,0.0
+901,150,Both Chenghai District and Gaoping,0.0
+902,150,Both Chenghai District and Gaoping are districts of Shantou,0.0
+903,150,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+904,150,Chenghai District,1.0
+905,150,Chenghai District and Gaoping,0.0
+906,151,$\it{Other}$,0.0
+907,151,Both Chenghai District and Gaoping,0.0
+908,151,Both Chenghai District and Gaoping are districts of Shantou,0.0
+909,151,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+910,151,Chenghai District,1.0
+911,151,Chenghai District and Gaoping,0.0
+912,152,$\it{Other}$,0.0
+913,152,Both Chenghai District and Gaoping,0.0
+914,152,Both Chenghai District and Gaoping are districts of Shantou,0.0
+915,152,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+916,152,Chenghai District,1.0
+917,152,Chenghai District and Gaoping,0.0
+918,153,$\it{Other}$,0.0
+919,153,Both Chenghai District and Gaoping,0.0
+920,153,Both Chenghai District and Gaoping are districts of Shantou,0.0
+921,153,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+922,153,Chenghai District,1.0
+923,153,Chenghai District and Gaoping,0.0
+924,154,$\it{Other}$,0.0
+925,154,Both Chenghai District and Gaoping,0.0
+926,154,Both Chenghai District and Gaoping are districts of Shantou,0.0
+927,154,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+928,154,Chenghai District,1.0
+929,154,Chenghai District and Gaoping,0.0
+930,155,$\it{Other}$,0.0
+931,155,Both Chenghai District and Gaoping,0.0
+932,155,Both Chenghai District and Gaoping are districts of Shantou,0.0
+933,155,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+934,155,Chenghai District,1.0
+935,155,Chenghai District and Gaoping,0.0
+936,156,$\it{Other}$,0.0
+937,156,Both Chenghai District and Gaoping,0.0
+938,156,Both Chenghai District and Gaoping are districts of Shantou,0.0
+939,156,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+940,156,Chenghai District,1.0
+941,156,Chenghai District and Gaoping,0.0
+942,157,$\it{Other}$,0.0
+943,157,Both Chenghai District and Gaoping,0.0
+944,157,Both Chenghai District and Gaoping are districts of Shantou,0.0
+945,157,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+946,157,Chenghai District,1.0
+947,157,Chenghai District and Gaoping,0.0
+948,158,$\it{Other}$,0.0
+949,158,Both Chenghai District and Gaoping,0.0
+950,158,Both Chenghai District and Gaoping are districts of Shantou,0.0
+951,158,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+952,158,Chenghai District,1.0
+953,158,Chenghai District and Gaoping,0.0
+954,159,$\it{Other}$,0.0
+955,159,Both Chenghai District and Gaoping,0.0
+956,159,Both Chenghai District and Gaoping are districts of Shantou,0.0
+957,159,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+958,159,Chenghai District,1.0
+959,159,Chenghai District and Gaoping,0.0
+960,160,$\it{Other}$,0.0
+961,160,Both Chenghai District and Gaoping,0.0
+962,160,Both Chenghai District and Gaoping are districts of Shantou,0.0
+963,160,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+964,160,Chenghai District,1.0
+965,160,Chenghai District and Gaoping,0.0
+966,161,$\it{Other}$,0.0
+967,161,Both Chenghai District and Gaoping,0.0
+968,161,Both Chenghai District and Gaoping are districts of Shantou,0.0
+969,161,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+970,161,Chenghai District,1.0
+971,161,Chenghai District and Gaoping,0.0
+972,162,$\it{Other}$,0.0
+973,162,Both Chenghai District and Gaoping,0.0
+974,162,Both Chenghai District and Gaoping are districts of Shantou,0.0
+975,162,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+976,162,Chenghai District,1.0
+977,162,Chenghai District and Gaoping,0.0
+978,163,$\it{Other}$,0.0
+979,163,Both Chenghai District and Gaoping,0.0
+980,163,Both Chenghai District and Gaoping are districts of Shantou,0.0
+981,163,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+982,163,Chenghai District,1.0
+983,163,Chenghai District and Gaoping,0.0
+984,164,$\it{Other}$,0.0
+985,164,Both Chenghai District and Gaoping,0.0
+986,164,Both Chenghai District and Gaoping are districts of Shantou,0.0
+987,164,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+988,164,Chenghai District,1.0
+989,164,Chenghai District and Gaoping,0.0
+990,165,$\it{Other}$,0.0
+991,165,Both Chenghai District and Gaoping,0.0
+992,165,Both Chenghai District and Gaoping are districts of Shantou,0.0
+993,165,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+994,165,Chenghai District,1.0
+995,165,Chenghai District and Gaoping,0.0
+996,166,$\it{Other}$,0.0
+997,166,Both Chenghai District and Gaoping,0.0
+998,166,Both Chenghai District and Gaoping are districts of Shantou,0.0
+999,166,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1000,166,Chenghai District,1.0
+1001,166,Chenghai District and Gaoping,0.0
+1002,167,$\it{Other}$,0.0
+1003,167,Both Chenghai District and Gaoping,0.0
+1004,167,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1005,167,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1006,167,Chenghai District,1.0
+1007,167,Chenghai District and Gaoping,0.0
+1008,168,$\it{Other}$,0.0
+1009,168,Both Chenghai District and Gaoping,0.0
+1010,168,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1011,168,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1012,168,Chenghai District,1.0
+1013,168,Chenghai District and Gaoping,0.0
+1014,169,$\it{Other}$,0.0
+1015,169,Both Chenghai District and Gaoping,0.0
+1016,169,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1017,169,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1018,169,Chenghai District,1.0
+1019,169,Chenghai District and Gaoping,0.0
+1020,170,$\it{Other}$,0.0
+1021,170,Both Chenghai District and Gaoping,0.0
+1022,170,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1023,170,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1024,170,Chenghai District,1.0
+1025,170,Chenghai District and Gaoping,0.0
+1026,171,$\it{Other}$,0.0
+1027,171,Both Chenghai District and Gaoping,0.0
+1028,171,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1029,171,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1030,171,Chenghai District,1.0
+1031,171,Chenghai District and Gaoping,0.0
+1032,172,$\it{Other}$,0.0
+1033,172,Both Chenghai District and Gaoping,0.0
+1034,172,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1035,172,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1036,172,Chenghai District,1.0
+1037,172,Chenghai District and Gaoping,0.0
+1038,173,$\it{Other}$,0.0
+1039,173,Both Chenghai District and Gaoping,0.0
+1040,173,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1041,173,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1042,173,Chenghai District,0.9999999999999999
+1043,173,Chenghai District and Gaoping,0.0
+1044,174,$\it{Other}$,0.0
+1045,174,Both Chenghai District and Gaoping,0.0
+1046,174,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1047,174,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1048,174,Chenghai District,1.0
+1049,174,Chenghai District and Gaoping,0.0
+1050,175,$\it{Other}$,0.0
+1051,175,Both Chenghai District and Gaoping,0.0
+1052,175,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1053,175,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1054,175,Chenghai District,1.0
+1055,175,Chenghai District and Gaoping,0.0
+1056,176,$\it{Other}$,0.0
+1057,176,Both Chenghai District and Gaoping,0.0
+1058,176,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1059,176,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1060,176,Chenghai District,1.0
+1061,176,Chenghai District and Gaoping,0.0
+1062,177,$\it{Other}$,0.0
+1063,177,Both Chenghai District and Gaoping,0.0
+1064,177,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1065,177,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1066,177,Chenghai District,1.0
+1067,177,Chenghai District and Gaoping,0.0
+1068,178,$\it{Other}$,0.0
+1069,178,Both Chenghai District and Gaoping,0.0
+1070,178,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1071,178,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1072,178,Chenghai District,1.0
+1073,178,Chenghai District and Gaoping,0.0
+1074,179,$\it{Other}$,0.0
+1075,179,Both Chenghai District and Gaoping,0.0
+1076,179,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1077,179,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1078,179,Chenghai District,1.0
+1079,179,Chenghai District and Gaoping,0.0
+1080,180,$\it{Other}$,0.0
+1081,180,Both Chenghai District and Gaoping,0.0
+1082,180,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1083,180,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1084,180,Chenghai District,1.0
+1085,180,Chenghai District and Gaoping,0.0
+1086,181,$\it{Other}$,0.0
+1087,181,Both Chenghai District and Gaoping,0.0
+1088,181,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1089,181,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1090,181,Chenghai District,1.0
+1091,181,Chenghai District and Gaoping,0.0
+1092,182,$\it{Other}$,0.0
+1093,182,Both Chenghai District and Gaoping,0.0
+1094,182,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1095,182,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1096,182,Chenghai District,1.0
+1097,182,Chenghai District and Gaoping,0.0
+1098,183,$\it{Other}$,0.0
+1099,183,Both Chenghai District and Gaoping,0.0
+1100,183,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1101,183,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1102,183,Chenghai District,1.0
+1103,183,Chenghai District and Gaoping,0.0
+1104,184,$\it{Other}$,0.0
+1105,184,Both Chenghai District and Gaoping,0.0
+1106,184,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1107,184,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1108,184,Chenghai District,1.0
+1109,184,Chenghai District and Gaoping,0.0
+1110,185,$\it{Other}$,0.0
+1111,185,Both Chenghai District and Gaoping,0.0
+1112,185,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1113,185,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1114,185,Chenghai District,1.0
+1115,185,Chenghai District and Gaoping,0.0
+1116,186,$\it{Other}$,0.0
+1117,186,Both Chenghai District and Gaoping,0.0
+1118,186,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1119,186,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1120,186,Chenghai District,1.0
+1121,186,Chenghai District and Gaoping,0.0
+1122,187,$\it{Other}$,0.0
+1123,187,Both Chenghai District and Gaoping,0.0
+1124,187,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1125,187,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1126,187,Chenghai District,1.0
+1127,187,Chenghai District and Gaoping,0.0
+1128,188,$\it{Other}$,0.0
+1129,188,Both Chenghai District and Gaoping,0.0
+1130,188,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1131,188,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1132,188,Chenghai District,1.0
+1133,188,Chenghai District and Gaoping,0.0
+1134,189,$\it{Other}$,0.0
+1135,189,Both Chenghai District and Gaoping,0.0
+1136,189,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1137,189,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1138,189,Chenghai District,1.0
+1139,189,Chenghai District and Gaoping,0.0
+1140,190,$\it{Other}$,0.0
+1141,190,Both Chenghai District and Gaoping,0.0
+1142,190,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1143,190,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1144,190,Chenghai District,1.0
+1145,190,Chenghai District and Gaoping,0.0
+1146,191,$\it{Other}$,0.0
+1147,191,Both Chenghai District and Gaoping,0.0
+1148,191,Both Chenghai District and Gaoping are districts of Shantou,0.0
+1149,191,Both Chenghai District and Gaoping are districts of the city of Shantou,0.0
+1150,191,Chenghai District,1.0
+1151,191,Chenghai District and Gaoping,0.0

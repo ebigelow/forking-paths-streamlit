@@ -1,0 +1,1369 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.8874980147075237
+1,0,Bloods,0.014638648976582697
+2,0,Finish: content_filter,0.029508329966432344
+3,0,The Firm,0.049843710207354175
+4,0,Vice Lords,0.01851129614210718
+5,0,Young Gunners,0.0
+6,1,$\it{Other}$,0.8333333333333334
+7,1,Bloods,0.03409686997492152
+8,1,Finish: content_filter,0.09160949277364447
+9,1,The Firm,0.03333333333333333
+10,1,Vice Lords,0.007626970584767349
+11,1,Young Gunners,0.0
+12,2,$\it{Other}$,0.9
+13,2,Bloods,0.03333333333333333
+14,2,Finish: content_filter,0.0
+15,2,The Firm,0.06666666666666667
+16,2,Vice Lords,0.0
+17,2,Young Gunners,0.0
+18,3,$\it{Other}$,0.7561656390064896
+19,3,Bloods,0.0
+20,3,Finish: content_filter,0.14432473633756737
+21,3,The Firm,0.08168165505210467
+22,3,Vice Lords,0.01782796960383835
+23,3,Young Gunners,0.0
+24,4,$\it{Other}$,0.8633636182319223
+25,4,Bloods,0.028186811993608143
+26,4,Finish: content_filter,0.049181108976389186
+27,4,The Firm,0.04702460626842283
+28,4,Vice Lords,0.012243854529657485
+29,4,Young Gunners,0.0
+30,5,$\it{Other}$,0.8333333333333334
+31,5,Bloods,0.0
+32,5,Finish: content_filter,0.06666666666666667
+33,5,The Firm,0.06666666666666667
+34,5,Vice Lords,0.03333333333333333
+35,5,Young Gunners,0.0
+36,6,$\it{Other}$,0.9333333333333333
+37,6,Bloods,0.0
+38,6,Finish: content_filter,0.0
+39,6,The Firm,0.06666666666666667
+40,6,Vice Lords,0.0
+41,6,Young Gunners,0.0
+42,7,$\it{Other}$,0.8666666666666667
+43,7,Bloods,0.03333333333333333
+44,7,Finish: content_filter,0.0
+45,7,The Firm,0.06666666666666667
+46,7,Vice Lords,0.03333333333333333
+47,7,Young Gunners,0.0
+48,8,$\it{Other}$,0.7666666666666667
+49,8,Bloods,0.03333333333333333
+50,8,Finish: content_filter,0.0
+51,8,The Firm,0.2
+52,8,Vice Lords,0.0
+53,8,Young Gunners,0.0
+54,9,$\it{Other}$,0.8090125324792917
+55,9,Bloods,0.0
+56,9,Finish: content_filter,0.07296240256212494
+57,9,The Firm,0.1
+58,9,Vice Lords,0.018025064958583373
+59,9,Young Gunners,0.0
+60,10,$\it{Other}$,0.7801654832480671
+61,10,Bloods,0.0042924331311983985
+62,10,Finish: content_filter,0.04621063272692853
+63,10,The Firm,0.14029055069167104
+64,10,Vice Lords,0.029040900202134935
+65,10,Young Gunners,0.0
+66,11,$\it{Other}$,0.8000000000000002
+67,11,Bloods,0.005144125009618057
+68,11,Finish: content_filter,0.03076127082852431
+69,11,The Firm,0.16152254165704863
+70,11,Vice Lords,0.0025720625048090283
+71,11,Young Gunners,0.0
+72,12,$\it{Other}$,0.8
+73,12,Bloods,0.0
+74,12,Finish: content_filter,0.0
+75,12,The Firm,0.16666666666666666
+76,12,Vice Lords,0.03333333333333333
+77,12,Young Gunners,0.0
+78,13,$\it{Other}$,0.6333333333333333
+79,13,Bloods,0.0
+80,13,Finish: content_filter,0.03333333333333333
+81,13,The Firm,0.3333333333333333
+82,13,Vice Lords,0.0
+83,13,Young Gunners,0.0
+84,14,$\it{Other}$,0.7925994208740292
+85,14,Bloods,0.004331695857209222
+86,14,Finish: content_filter,0.029356722575118156
+87,14,The Firm,0.16938046483643404
+88,14,Vice Lords,0.004331695857209222
+89,14,Young Gunners,0.0
+90,15,$\it{Other}$,0.836942620118232
+91,15,Bloods,0.0072185735697973055
+92,15,Finish: content_filter,0.0036092867848986528
+93,15,The Firm,0.15222951952707206
+94,15,Vice Lords,0.0
+95,15,Young Gunners,0.0
+96,16,$\it{Other}$,0.8333333333333334
+97,16,Bloods,0.03333333333333333
+98,16,Finish: content_filter,0.0
+99,16,The Firm,0.13333333333333333
+100,16,Vice Lords,0.0
+101,16,Young Gunners,0.0
+102,17,$\it{Other}$,0.7107308443658442
+103,17,Bloods,0.03194914702121747
+104,17,Finish: content_filter,0.021225070607022403
+105,17,The Firm,0.2006454595870892
+106,17,Vice Lords,0.035449478418826584
+107,17,Young Gunners,0.0
+108,18,$\it{Other}$,0.9
+109,18,Bloods,0.06666666666666667
+110,18,Finish: content_filter,0.0
+111,18,The Firm,0.0
+112,18,Vice Lords,0.03333333333333333
+113,18,Young Gunners,0.0
+114,19,$\it{Other}$,0.8
+115,19,Bloods,0.06666666666666667
+116,19,Finish: content_filter,0.13333333333333333
+117,19,The Firm,0.0
+118,19,Vice Lords,0.0
+119,19,Young Gunners,0.0
+120,20,$\it{Other}$,0.8
+121,20,Bloods,0.06666666666666667
+122,20,Finish: content_filter,0.03333333333333333
+123,20,The Firm,0.0
+124,20,Vice Lords,0.1
+125,20,Young Gunners,0.0
+126,21,$\it{Other}$,0.6333333333333333
+127,21,Bloods,0.2
+128,21,Finish: content_filter,0.06666666666666667
+129,21,The Firm,0.0
+130,21,Vice Lords,0.1
+131,21,Young Gunners,0.0
+132,22,$\it{Other}$,0.7666666666666667
+133,22,Bloods,0.1
+134,22,Finish: content_filter,0.03333333333333333
+135,22,The Firm,0.0
+136,22,Vice Lords,0.1
+137,22,Young Gunners,0.0
+138,23,$\it{Other}$,0.8666666666666667
+139,23,Bloods,0.1
+140,23,Finish: content_filter,0.03333333333333333
+141,23,The Firm,0.0
+142,23,Vice Lords,0.0
+143,23,Young Gunners,0.0
+144,24,$\it{Other}$,0.7666666666666667
+145,24,Bloods,0.1
+146,24,Finish: content_filter,0.06666666666666667
+147,24,The Firm,0.0
+148,24,Vice Lords,0.06666666666666667
+149,24,Young Gunners,0.0
+150,25,$\it{Other}$,0.7922300365699106
+151,25,Bloods,0.06242667136216222
+152,25,Finish: content_filter,0.10293763112381438
+153,25,The Firm,0.0
+154,25,Vice Lords,0.04240566094411274
+155,25,Young Gunners,0.0
+156,26,$\it{Other}$,0.8
+157,26,Bloods,0.03333333333333333
+158,26,Finish: content_filter,0.13333333333333333
+159,26,The Firm,0.0
+160,26,Vice Lords,0.03333333333333333
+161,26,Young Gunners,0.0
+162,27,$\it{Other}$,0.7335334910681237
+163,27,Bloods,0.1083833727670309
+164,27,Finish: content_filter,0.08323325446593821
+165,27,The Firm,0.0
+166,27,Vice Lords,0.07484988169890731
+167,27,Young Gunners,0.0
+168,28,$\it{Other}$,0.8
+169,28,Bloods,0.06666666666666667
+170,28,Finish: content_filter,0.0
+171,28,The Firm,0.0
+172,28,Vice Lords,0.13333333333333333
+173,28,Young Gunners,0.0
+174,29,$\it{Other}$,0.8666666666666667
+175,29,Bloods,0.0
+176,29,Finish: content_filter,0.06666666666666667
+177,29,The Firm,0.0
+178,29,Vice Lords,0.06666666666666667
+179,29,Young Gunners,0.0
+180,30,$\it{Other}$,0.8246872149554576
+181,30,Bloods,0.0522732630861276
+182,30,Finish: content_filter,0.048952686518161204
+183,30,The Firm,0.0
+184,30,Vice Lords,0.07408683544025355
+185,30,Young Gunners,0.0
+186,31,$\it{Other}$,0.7
+187,31,Bloods,0.06666666666666667
+188,31,Finish: content_filter,0.06666666666666667
+189,31,The Firm,0.0
+190,31,Vice Lords,0.16666666666666666
+191,31,Young Gunners,0.0
+192,32,$\it{Other}$,0.8
+193,32,Bloods,0.06666666666666667
+194,32,Finish: content_filter,0.1
+195,32,The Firm,0.0
+196,32,Vice Lords,0.03333333333333333
+197,32,Young Gunners,0.0
+198,33,$\it{Other}$,0.7986626766421806
+199,33,Bloods,0.04646170354661177
+200,33,Finish: content_filter,0.06683826320268388
+201,33,The Firm,0.0
+202,33,Vice Lords,0.08803735660852373
+203,33,Young Gunners,0.0
+204,34,$\it{Other}$,0.8333333333333333
+205,34,Bloods,0.06666666666666667
+206,34,Finish: content_filter,0.04012305862299016
+207,34,The Firm,0.0
+208,34,Vice Lords,0.059876941377009836
+209,34,Young Gunners,0.0
+210,35,$\it{Other}$,0.8744721246824076
+211,35,Bloods,0.02552787531759234
+212,35,Finish: content_filter,0.02056939567453716
+213,35,The Firm,0.0
+214,35,Vice Lords,0.07943060432546284
+215,35,Young Gunners,0.0
+216,36,$\it{Other}$,0.7666666666666667
+217,36,Bloods,0.03333333333333333
+218,36,Finish: content_filter,0.2
+219,36,The Firm,0.0
+220,36,Vice Lords,0.0
+221,36,Young Gunners,0.0
+222,37,$\it{Other}$,0.9062019992221301
+223,37,Bloods,0.0031009996110649787
+224,37,Finish: content_filter,0.06046466744453671
+225,37,The Firm,0.0
+226,37,Vice Lords,0.030232333722268356
+227,37,Young Gunners,0.0
+228,38,$\it{Other}$,0.8984097541625499
+229,38,Bloods,0.02072606126398719
+230,38,Finish: content_filter,0.056217938266526775
+231,38,The Firm,0.0
+232,38,Vice Lords,0.020945988413651626
+233,38,Young Gunners,0.0037002578932845503
+234,39,$\it{Other}$,0.9333333333333333
+235,39,Bloods,0.0
+236,39,Finish: content_filter,0.03333333333333333
+237,39,The Firm,0.0
+238,39,Vice Lords,0.03333333333333333
+239,39,Young Gunners,0.0
+240,40,$\it{Other}$,0.8666666666666667
+241,40,Bloods,0.0
+242,40,Finish: content_filter,0.13333333333333333
+243,40,The Firm,0.0
+244,40,Vice Lords,0.0
+245,40,Young Gunners,0.0
+246,41,$\it{Other}$,0.9333333333333333
+247,41,Bloods,0.0
+248,41,Finish: content_filter,0.03333333333333333
+249,41,The Firm,0.0
+250,41,Vice Lords,0.03333333333333333
+251,41,Young Gunners,0.0
+252,42,$\it{Other}$,0.7949065444721227
+253,42,Bloods,0.07184806603035013
+254,42,Finish: content_filter,0.0965219928187185
+255,42,The Firm,0.0
+256,42,Vice Lords,0.03672339667880871
+257,42,Young Gunners,0.0
+258,43,$\it{Other}$,0.7666666666666667
+259,43,Bloods,0.0
+260,43,Finish: content_filter,0.16666666666666666
+261,43,The Firm,0.0
+262,43,Vice Lords,0.03333333333333333
+263,43,Young Gunners,0.03333333333333333
+264,44,$\it{Other}$,0.9
+265,44,Bloods,0.03333333333333333
+266,44,Finish: content_filter,0.03333333333333333
+267,44,The Firm,0.0
+268,44,Vice Lords,0.03333333333333333
+269,44,Young Gunners,0.0
+270,45,$\it{Other}$,0.82950737363398
+271,45,Bloods,0.037159293032686745
+272,45,Finish: content_filter,0.09808702015032329
+273,45,The Firm,0.0
+274,45,Vice Lords,0.03524631318301004
+275,45,Young Gunners,0.0
+276,46,$\it{Other}$,0.8333333333333334
+277,46,Bloods,0.0
+278,46,Finish: content_filter,0.16666666666666666
+279,46,The Firm,0.0
+280,46,Vice Lords,0.0
+281,46,Young Gunners,0.0
+282,47,$\it{Other}$,0.8333333333333334
+283,47,Bloods,0.0
+284,47,Finish: content_filter,0.13333333333333333
+285,47,The Firm,0.0
+286,47,Vice Lords,0.03333333333333333
+287,47,Young Gunners,0.0
+288,48,$\it{Other}$,0.7690358899204706
+289,48,Bloods,0.09526155349239226
+290,48,Finish: content_filter,0.13096411007952946
+291,48,The Firm,0.0
+292,48,Vice Lords,0.004738446507607743
+293,48,Young Gunners,0.0
+294,49,$\it{Other}$,0.8666666666666667
+295,49,Bloods,0.03333333333333333
+296,49,Finish: content_filter,0.1
+297,49,The Firm,0.0
+298,49,Vice Lords,0.0
+299,49,Young Gunners,0.0
+300,50,$\it{Other}$,0.8
+301,50,Bloods,0.0
+302,50,Finish: content_filter,0.16666666666666666
+303,50,The Firm,0.0
+304,50,Vice Lords,0.03333333333333333
+305,50,Young Gunners,0.0
+306,51,$\it{Other}$,0.8
+307,51,Bloods,0.03333333333333333
+308,51,Finish: content_filter,0.1
+309,51,The Firm,0.0
+310,51,Vice Lords,0.03333333333333333
+311,51,Young Gunners,0.03333333333333333
+312,52,$\it{Other}$,0.7666666666666667
+313,52,Bloods,0.0
+314,52,Finish: content_filter,0.2
+315,52,The Firm,0.0
+316,52,Vice Lords,0.0
+317,52,Young Gunners,0.03333333333333333
+318,53,$\it{Other}$,0.8333333333333334
+319,53,Bloods,0.1
+320,53,Finish: content_filter,0.0
+321,53,The Firm,0.0
+322,53,Vice Lords,0.03333333333333333
+323,53,Young Gunners,0.03333333333333333
+324,54,$\it{Other}$,0.9
+325,54,Bloods,0.0
+326,54,Finish: content_filter,0.1
+327,54,The Firm,0.0
+328,54,Vice Lords,0.0
+329,54,Young Gunners,0.0
+330,55,$\it{Other}$,0.7666666666666667
+331,55,Bloods,0.03333333333333333
+332,55,Finish: content_filter,0.16666666666666666
+333,55,The Firm,0.0
+334,55,Vice Lords,0.03333333333333333
+335,55,Young Gunners,0.0
+336,56,$\it{Other}$,0.8266856300452115
+337,56,Bloods,0.0210081376284487
+338,56,Finish: content_filter,0.11459415611900689
+339,56,The Firm,0.0
+340,56,Vice Lords,0.026020914218174793
+341,56,Young Gunners,0.011691161989158278
+342,57,$\it{Other}$,0.7545175841896656
+343,57,Bloods,0.026271916381222536
+344,57,Finish: content_filter,0.19293858304788924
+345,57,The Firm,0.0
+346,57,Vice Lords,0.0
+347,57,Young Gunners,0.026271916381222536
+348,58,$\it{Other}$,0.8333333333333334
+349,58,Bloods,0.06666666666666667
+350,58,Finish: content_filter,0.1
+351,58,The Firm,0.0
+352,58,Vice Lords,0.0
+353,58,Young Gunners,0.0
+354,59,$\it{Other}$,0.7830945400132372
+355,59,Bloods,0.06103151333774571
+356,59,Finish: content_filter,0.1281757666446048
+357,59,The Firm,0.0
+358,59,Vice Lords,0.027698180004412376
+359,59,Young Gunners,0.0
+360,60,$\it{Other}$,0.7624208232308078
+361,60,Bloods,0.05328511664733405
+362,60,Finish: content_filter,0.14839068845252576
+363,60,The Firm,0.0
+364,60,Vice Lords,0.03590337166933235
+365,60,Young Gunners,0.0
+366,61,$\it{Other}$,0.8912875212883913
+367,61,Bloods,0.0
+368,61,Finish: content_filter,0.06666666666666667
+369,61,The Firm,0.0
+370,61,Vice Lords,0.03333333333333333
+371,61,Young Gunners,0.008712478711608747
+372,62,$\it{Other}$,0.8935417934069235
+373,62,Bloods,0.006458206593076434
+374,62,Finish: content_filter,0.048380063685463874
+375,62,The Firm,0.0
+376,62,Vice Lords,0.026875126740256897
+377,62,Young Gunners,0.024744809574279224
+378,63,$\it{Other}$,0.776710223633732
+379,63,Bloods,0.03981368886340097
+380,63,Finish: content_filter,0.07987420177165605
+381,63,The Firm,0.0
+382,63,Vice Lords,0.07853050864644416
+383,63,Young Gunners,0.025071377084766873
+384,64,$\it{Other}$,0.8952690377847331
+385,64,Bloods,0.03830628851255811
+386,64,Finish: content_filter,0.061935704451399835
+387,64,The Firm,0.0
+388,64,Vice Lords,0.004488969251308878
+389,64,Young Gunners,0.0
+390,65,$\it{Other}$,0.8333333333333334
+391,65,Bloods,0.03333333333333333
+392,65,Finish: content_filter,0.1
+393,65,The Firm,0.0
+394,65,Vice Lords,0.03333333333333333
+395,65,Young Gunners,0.0
+396,66,$\it{Other}$,0.7928236830746749
+397,66,Bloods,0.05231403281601611
+398,66,Finish: content_filter,0.12152895077597586
+399,66,The Firm,0.0
+400,66,Vice Lords,0.03333333333333333
+401,66,Young Gunners,0.0
+402,67,$\it{Other}$,0.9
+403,67,Bloods,0.03333333333333333
+404,67,Finish: content_filter,0.0
+405,67,The Firm,0.0
+406,67,Vice Lords,0.06666666666666667
+407,67,Young Gunners,0.0
+408,68,$\it{Other}$,0.9394202203152142
+409,68,Bloods,0.04241548211715079
+410,68,Finish: content_filter,0.013623223175726187
+411,68,The Firm,0.0
+412,68,Vice Lords,0.0
+413,68,Young Gunners,0.004541074391908729
+414,69,$\it{Other}$,0.8105329584248041
+415,69,Bloods,0.0
+416,69,Finish: content_filter,0.09473352078759796
+417,69,The Firm,0.0
+418,69,Vice Lords,0.09210028118139695
+419,69,Young Gunners,0.00263323960620102
+420,70,$\it{Other}$,0.8666666666666667
+421,70,Bloods,0.03333333333333333
+422,70,Finish: content_filter,0.1
+423,70,The Firm,0.0
+424,70,Vice Lords,0.0
+425,70,Young Gunners,0.0
+426,71,$\it{Other}$,0.836190140826407
+427,71,Bloods,0.0
+428,71,Finish: content_filter,0.11640526855250966
+429,71,The Firm,0.0
+430,71,Vice Lords,0.04740459062108335
+431,71,Young Gunners,0.0
+432,72,$\it{Other}$,0.8
+433,72,Bloods,0.0
+434,72,Finish: content_filter,0.16666666666666666
+435,72,The Firm,0.0
+436,72,Vice Lords,0.03333333333333333
+437,72,Young Gunners,0.0
+438,73,$\it{Other}$,0.8922232837767591
+439,73,Bloods,0.05111323422018482
+440,73,Finish: content_filter,0.041110049556574255
+441,73,The Firm,0.0
+442,73,Vice Lords,0.01555343244648184
+443,73,Young Gunners,0.0
+444,74,$\it{Other}$,0.7089153856911627
+445,74,Bloods,0.06443782024387598
+446,74,Finish: content_filter,0.22664679406496127
+447,74,The Firm,0.0
+448,74,Vice Lords,0.0
+449,74,Young Gunners,0.0
+450,75,$\it{Other}$,0.8666666666666667
+451,75,Bloods,0.03333333333333333
+452,75,Finish: content_filter,0.1
+453,75,The Firm,0.0
+454,75,Vice Lords,0.0
+455,75,Young Gunners,0.0
+456,76,$\it{Other}$,0.8
+457,76,Bloods,0.1
+458,76,Finish: content_filter,0.1
+459,76,The Firm,0.0
+460,76,Vice Lords,0.0
+461,76,Young Gunners,0.0
+462,77,$\it{Other}$,0.8888632058553652
+463,77,Bloods,0.0
+464,77,Finish: content_filter,0.08886320585536522
+465,77,The Firm,0.0
+466,77,Vice Lords,0.0
+467,77,Young Gunners,0.022273588289269525
+468,78,$\it{Other}$,0.8
+469,78,Bloods,0.0
+470,78,Finish: content_filter,0.16666666666666666
+471,78,The Firm,0.0
+472,78,Vice Lords,0.03333333333333333
+473,78,Young Gunners,0.0
+474,79,$\it{Other}$,0.8666666666666667
+475,79,Bloods,0.06666666666666667
+476,79,Finish: content_filter,0.03333333333333333
+477,79,The Firm,0.0
+478,79,Vice Lords,0.03333333333333333
+479,79,Young Gunners,0.0
+480,80,$\it{Other}$,0.7666666666666667
+481,80,Bloods,0.1
+482,80,Finish: content_filter,0.1
+483,80,The Firm,0.0
+484,80,Vice Lords,0.0
+485,80,Young Gunners,0.03333333333333333
+486,81,$\it{Other}$,0.8
+487,81,Bloods,0.13333333333333333
+488,81,Finish: content_filter,0.06666666666666667
+489,81,The Firm,0.0
+490,81,Vice Lords,0.0
+491,81,Young Gunners,0.0
+492,82,$\it{Other}$,0.9
+493,82,Bloods,0.06666666666666667
+494,82,Finish: content_filter,0.0
+495,82,The Firm,0.0
+496,82,Vice Lords,0.03333333333333333
+497,82,Young Gunners,0.0
+498,83,$\it{Other}$,0.7688618913985596
+499,83,Bloods,0.06058691204573258
+500,83,Finish: content_filter,0.15659828298247275
+501,83,The Firm,0.0
+502,83,Vice Lords,0.013952913573235016
+503,83,Young Gunners,0.0
+504,84,$\it{Other}$,0.9333333333333333
+505,84,Bloods,0.0
+506,84,Finish: content_filter,0.06666666666666667
+507,84,The Firm,0.0
+508,84,Vice Lords,0.0
+509,84,Young Gunners,0.0
+510,85,$\it{Other}$,0.9085473565233285
+511,85,Bloods,0.02097643987100064
+512,85,Finish: content_filter,0.06514314139379881
+513,85,The Firm,0.0
+514,85,Vice Lords,0.0
+515,85,Young Gunners,0.005333062211872162
+516,86,$\it{Other}$,0.964867682554946
+517,86,Bloods,0.03153434922161272
+518,86,Finish: content_filter,0.0035979682234412343
+519,86,The Firm,0.0
+520,86,Vice Lords,0.0
+521,86,Young Gunners,0.0
+522,87,$\it{Other}$,0.8206093537271975
+523,87,Bloods,0.004930218014661717
+524,87,Finish: content_filter,0.17177319883367234
+525,87,The Firm,0.0
+526,87,Vice Lords,0.002687229424468502
+527,87,Young Gunners,0.0
+528,88,$\it{Other}$,0.8147582775191379
+529,88,Bloods,0.0026236250555249866
+530,88,Finish: content_filter,0.17066995993029732
+531,88,The Firm,0.0
+532,88,Vice Lords,0.006663902851572694
+533,88,Young Gunners,0.0052842346434669885
+534,89,$\it{Other}$,0.834147063461824
+535,89,Bloods,0.0
+536,89,Finish: content_filter,0.13395174748143868
+537,89,The Firm,0.0
+538,89,Vice Lords,0.0
+539,89,Young Gunners,0.03190118905673738
+540,90,$\it{Other}$,0.8062497805853717
+541,90,Bloods,0.0
+542,90,Finish: content_filter,0.19375021941462825
+543,90,The Firm,0.0
+544,90,Vice Lords,0.0
+545,90,Young Gunners,0.0
+546,91,$\it{Other}$,0.8333333333333334
+547,91,Bloods,0.0
+548,91,Finish: content_filter,0.16666666666666666
+549,91,The Firm,0.0
+550,91,Vice Lords,0.0
+551,91,Young Gunners,0.0
+552,92,$\it{Other}$,0.8333333333333334
+553,92,Bloods,0.0
+554,92,Finish: content_filter,0.16666666666666666
+555,92,The Firm,0.0
+556,92,Vice Lords,0.0
+557,92,Young Gunners,0.0
+558,93,$\it{Other}$,0.9
+559,93,Bloods,0.0
+560,93,Finish: content_filter,0.1
+561,93,The Firm,0.0
+562,93,Vice Lords,0.0
+563,93,Young Gunners,0.0
+564,94,$\it{Other}$,0.9244484698677456
+565,94,Bloods,0.0
+566,94,Finish: content_filter,0.0544424317327939
+567,94,The Firm,0.0
+568,94,Vice Lords,0.0
+569,94,Young Gunners,0.02110909839946057
+570,95,$\it{Other}$,0.8666666666666667
+571,95,Bloods,0.0
+572,95,Finish: content_filter,0.13333333333333333
+573,95,The Firm,0.0
+574,95,Vice Lords,0.0
+575,95,Young Gunners,0.0
+576,96,$\it{Other}$,0.7666666666666667
+577,96,Bloods,0.0
+578,96,Finish: content_filter,0.2
+579,96,The Firm,0.0
+580,96,Vice Lords,0.03333333333333333
+581,96,Young Gunners,0.0
+582,97,$\it{Other}$,0.9
+583,97,Bloods,0.0
+584,97,Finish: content_filter,0.1
+585,97,The Firm,0.0
+586,97,Vice Lords,0.0
+587,97,Young Gunners,0.0
+588,98,$\it{Other}$,0.7333333333333333
+589,98,Bloods,0.0
+590,98,Finish: content_filter,0.26666666666666666
+591,98,The Firm,0.0
+592,98,Vice Lords,0.0
+593,98,Young Gunners,0.0
+594,99,$\it{Other}$,0.7666666666666667
+595,99,Bloods,0.0
+596,99,Finish: content_filter,0.23333333333333334
+597,99,The Firm,0.0
+598,99,Vice Lords,0.0
+599,99,Young Gunners,0.0
+600,100,$\it{Other}$,0.801279575471544
+601,100,Bloods,0.0
+602,100,Finish: content_filter,0.1833866496962122
+603,100,The Firm,0.0
+604,100,Vice Lords,0.0
+605,100,Young Gunners,0.015333774832243848
+606,101,$\it{Other}$,0.8742474167147426
+607,101,Bloods,0.0
+608,101,Finish: content_filter,0.1257525832852574
+609,101,The Firm,0.0
+610,101,Vice Lords,0.0
+611,101,Young Gunners,0.0
+612,102,$\it{Other}$,0.8
+613,102,Bloods,0.0
+614,102,Finish: content_filter,0.2
+615,102,The Firm,0.0
+616,102,Vice Lords,0.0
+617,102,Young Gunners,0.0
+618,103,$\it{Other}$,0.7890189117580908
+619,103,Bloods,0.0
+620,103,Finish: content_filter,0.17764775490857598
+621,103,The Firm,0.011176122545712024
+622,103,Vice Lords,0.02215721078762131
+623,103,Young Gunners,0.0
+624,104,$\it{Other}$,0.8687915837946697
+625,104,Bloods,0.0
+626,104,Finish: content_filter,0.12423992142959654
+627,104,The Firm,0.0
+628,104,Vice Lords,0.0
+629,104,Young Gunners,0.0069684947757337225
+630,105,$\it{Other}$,0.8666666666666667
+631,105,Bloods,0.0
+632,105,Finish: content_filter,0.13333333333333333
+633,105,The Firm,0.0
+634,105,Vice Lords,0.0
+635,105,Young Gunners,0.0
+636,106,$\it{Other}$,0.8357190912248627
+637,106,Bloods,0.0
+638,106,Finish: content_filter,0.15889098022070097
+639,106,The Firm,0.0
+640,106,Vice Lords,0.005389928554436305
+641,106,Young Gunners,0.0
+642,107,$\it{Other}$,0.8333333333333334
+643,107,Bloods,0.0
+644,107,Finish: content_filter,0.16666666666666666
+645,107,The Firm,0.0
+646,107,Vice Lords,0.0
+647,107,Young Gunners,0.0
+648,108,$\it{Other}$,0.903878033060445
+649,108,Bloods,0.0
+650,108,Finish: content_filter,0.09612196693955502
+651,108,The Firm,0.0
+652,108,Vice Lords,0.0
+653,108,Young Gunners,0.0
+654,109,$\it{Other}$,0.9564153784420502
+655,109,Bloods,0.0
+656,109,Finish: content_filter,0.04358462155794994
+657,109,The Firm,0.0
+658,109,Vice Lords,0.0
+659,109,Young Gunners,0.0
+660,110,$\it{Other}$,0.9136937944333734
+661,110,Bloods,0.0
+662,110,Finish: content_filter,0.08630620556662666
+663,110,The Firm,0.0
+664,110,Vice Lords,0.0
+665,110,Young Gunners,0.0
+666,111,$\it{Other}$,0.7
+667,111,Bloods,0.0
+668,111,Finish: content_filter,0.2
+669,111,The Firm,0.0
+670,111,Vice Lords,0.03333333333333333
+671,111,Young Gunners,0.06666666666666667
+672,112,$\it{Other}$,0.8498347176143152
+673,112,Bloods,0.0
+674,112,Finish: content_filter,0.15016528238568486
+675,112,The Firm,0.0
+676,112,Vice Lords,0.0
+677,112,Young Gunners,0.0
+678,113,$\it{Other}$,0.7666666666666667
+679,113,Bloods,0.0
+680,113,Finish: content_filter,0.2
+681,113,The Firm,0.0
+682,113,Vice Lords,0.0
+683,113,Young Gunners,0.03333333333333333
+684,114,$\it{Other}$,0.7539416564068268
+685,114,Bloods,0.0
+686,114,Finish: content_filter,0.15378646474573324
+687,114,The Firm,0.0
+688,114,Vice Lords,0.0
+689,114,Young Gunners,0.09227187884743995
+690,115,$\it{Other}$,0.8380931127731601
+691,115,Bloods,0.0
+692,115,Finish: content_filter,0.16190688722683988
+693,115,The Firm,0.0
+694,115,Vice Lords,0.0
+695,115,Young Gunners,0.0
+696,116,$\it{Other}$,0.847488449607417
+697,116,Bloods,0.0
+698,116,Finish: content_filter,0.12625577519629153
+699,116,The Firm,0.0
+700,116,Vice Lords,0.0
+701,116,Young Gunners,0.026255775196291527
+702,117,$\it{Other}$,0.7666666666666667
+703,117,Bloods,0.0
+704,117,Finish: content_filter,0.2
+705,117,The Firm,0.0
+706,117,Vice Lords,0.03333333333333333
+707,117,Young Gunners,0.0
+708,118,$\it{Other}$,0.4666666666666667
+709,118,Bloods,0.0
+710,118,Finish: content_filter,0.43333333333333335
+711,118,The Firm,0.0
+712,118,Vice Lords,0.0
+713,118,Young Gunners,0.1
+714,119,$\it{Other}$,0.17676689516417574
+715,119,Bloods,0.0
+716,119,Finish: content_filter,0.6198886460523739
+717,119,The Firm,0.0
+718,119,Vice Lords,0.0
+719,119,Young Gunners,0.20334445878345034
+720,120,$\it{Other}$,0.11962820745401193
+721,120,Bloods,0.0
+722,120,Finish: content_filter,0.4431122334117325
+723,120,The Firm,0.0
+724,120,Vice Lords,0.0
+725,120,Young Gunners,0.4372595591342555
+726,121,$\it{Other}$,0.11577322858677784
+727,121,Bloods,0.0
+728,121,Finish: content_filter,0.16655413464660776
+729,121,The Firm,0.0
+730,121,Vice Lords,0.0
+731,121,Young Gunners,0.7176726367666144
+732,122,$\it{Other}$,0.03333333333333333
+733,122,Bloods,0.0
+734,122,Finish: content_filter,0.06666666666666667
+735,122,The Firm,0.0
+736,122,Vice Lords,0.0
+737,122,Young Gunners,0.9
+738,123,$\it{Other}$,0.06666666666666667
+739,123,Bloods,0.0
+740,123,Finish: content_filter,0.16666666666666666
+741,123,The Firm,0.0
+742,123,Vice Lords,0.0
+743,123,Young Gunners,0.7666666666666667
+744,124,$\it{Other}$,0.06945012133277159
+745,124,Bloods,0.0
+746,124,Finish: content_filter,0.10351134385147603
+747,124,The Firm,0.0
+748,124,Vice Lords,0.0
+749,124,Young Gunners,0.8270385348157523
+750,125,$\it{Other}$,0.01672854363383005
+751,125,Bloods,0.0
+752,125,Finish: content_filter,0.2209957541216385
+753,125,The Firm,0.0
+754,125,Vice Lords,0.0
+755,125,Young Gunners,0.7622757022445315
+756,126,$\it{Other}$,0.0
+757,126,Bloods,0.0
+758,126,Finish: content_filter,0.16666666666666666
+759,126,The Firm,0.0
+760,126,Vice Lords,0.0
+761,126,Young Gunners,0.8333333333333334
+762,127,$\it{Other}$,0.016119977540752457
+763,127,Bloods,0.0
+764,127,Finish: content_filter,0.19989054536426926
+765,127,The Firm,0.0
+766,127,Vice Lords,0.0
+767,127,Young Gunners,0.7839894770949785
+768,128,$\it{Other}$,0.05243070180194648
+769,128,Bloods,0.0
+770,128,Finish: content_filter,0.173853019887923
+771,128,The Firm,0.0
+772,128,Vice Lords,0.0
+773,128,Young Gunners,0.7737162783101306
+774,129,$\it{Other}$,0.002769996538730721
+775,129,Bloods,0.0
+776,129,Finish: content_filter,0.19169001038380787
+777,129,The Firm,0.0
+778,129,Vice Lords,0.0
+779,129,Young Gunners,0.8055399930774615
+780,130,$\it{Other}$,0.02191384393720188
+781,130,Bloods,0.0
+782,130,Finish: content_filter,0.05894022139604757
+783,130,The Firm,0.0
+784,130,Vice Lords,0.0
+785,130,Young Gunners,0.9191459346667507
+786,131,$\it{Other}$,0.051321713275556013
+787,131,Bloods,0.0
+788,131,Finish: content_filter,0.1280464802311093
+789,131,The Firm,0.0
+790,131,Vice Lords,0.0
+791,131,Young Gunners,0.8206318064933347
+792,132,$\it{Other}$,0.027032957796023743
+793,132,Bloods,0.0
+794,132,Finish: content_filter,0.12073258225871415
+795,132,The Firm,0.0
+796,132,Vice Lords,0.0
+797,132,Young Gunners,0.8522344599452621
+798,133,$\it{Other}$,0.002060271891308302
+799,133,Bloods,0.0
+800,133,Finish: content_filter,0.09587945621738342
+801,133,The Firm,0.0
+802,133,Vice Lords,0.0
+803,133,Young Gunners,0.9020602718913084
+804,134,$\it{Other}$,0.03333333333333333
+805,134,Bloods,0.0
+806,134,Finish: content_filter,0.1
+807,134,The Firm,0.0
+808,134,Vice Lords,0.0
+809,134,Young Gunners,0.8666666666666667
+810,135,$\it{Other}$,0.07582519435888992
+811,135,Bloods,0.0
+812,135,Finish: content_filter,0.24052146205420522
+813,135,The Firm,0.0
+814,135,Vice Lords,0.0
+815,135,Young Gunners,0.683653343586905
+816,136,$\it{Other}$,0.015441681285405006
+817,136,Bloods,0.0
+818,136,Finish: content_filter,0.31589657811266725
+819,136,The Firm,0.0
+820,136,Vice Lords,0.0
+821,136,Young Gunners,0.6686617406019277
+822,137,$\it{Other}$,0.0632402140329759
+823,137,Bloods,0.0
+824,137,Finish: content_filter,0.21936394951905563
+825,137,The Firm,0.0
+826,137,Vice Lords,0.0
+827,137,Young Gunners,0.7173958364479683
+828,138,$\it{Other}$,0.03333333333333333
+829,138,Bloods,0.0
+830,138,Finish: content_filter,0.16666666666666666
+831,138,The Firm,0.0
+832,138,Vice Lords,0.0
+833,138,Young Gunners,0.8
+834,139,$\it{Other}$,0.09498517001422967
+835,139,Bloods,0.0
+836,139,Finish: content_filter,0.17440515347398972
+837,139,The Firm,0.0
+838,139,Vice Lords,0.0
+839,139,Young Gunners,0.7306096765117807
+840,140,$\it{Other}$,0.1
+841,140,Bloods,0.0
+842,140,Finish: content_filter,0.16666666666666666
+843,140,The Firm,0.0
+844,140,Vice Lords,0.0
+845,140,Young Gunners,0.7333333333333333
+846,141,$\it{Other}$,0.034482758620689655
+847,141,Bloods,0.0
+848,141,Finish: content_filter,0.3103448275862069
+849,141,The Firm,0.0
+850,141,Vice Lords,0.0
+851,141,Young Gunners,0.6551724137931034
+852,142,$\it{Other}$,0.0
+853,142,Bloods,0.0
+854,142,Finish: content_filter,0.3448275862068966
+855,142,The Firm,0.0
+856,142,Vice Lords,0.0
+857,142,Young Gunners,0.6551724137931034
+858,143,$\it{Other}$,0.034482758620689655
+859,143,Bloods,0.0
+860,143,Finish: content_filter,0.20689655172413793
+861,143,The Firm,0.0
+862,143,Vice Lords,0.0
+863,143,Young Gunners,0.7586206896551724
+864,144,$\it{Other}$,0.03333333333333333
+865,144,Bloods,0.0
+866,144,Finish: content_filter,0.2
+867,144,The Firm,0.0
+868,144,Vice Lords,0.0
+869,144,Young Gunners,0.7666666666666667
+870,145,$\it{Other}$,0.0
+871,145,Bloods,0.0
+872,145,Finish: content_filter,0.3
+873,145,The Firm,0.0
+874,145,Vice Lords,0.0
+875,145,Young Gunners,0.7
+876,146,$\it{Other}$,0.041976222593443274
+877,146,Bloods,0.0
+878,146,Finish: content_filter,0.25890142832106006
+879,146,The Firm,0.0
+880,146,Vice Lords,0.0
+881,146,Young Gunners,0.6991223490854965
+882,147,$\it{Other}$,0.06666666666666667
+883,147,Bloods,0.0
+884,147,Finish: content_filter,0.3
+885,147,The Firm,0.0
+886,147,Vice Lords,0.0
+887,147,Young Gunners,0.6333333333333333
+888,148,$\it{Other}$,0.03333333333333333
+889,148,Bloods,0.0
+890,148,Finish: content_filter,0.2329918684041445
+891,148,The Firm,0.0
+892,148,Vice Lords,0.0
+893,148,Young Gunners,0.733674798262522
+894,149,$\it{Other}$,0.0
+895,149,Bloods,0.0
+896,149,Finish: content_filter,0.16666666666666666
+897,149,The Firm,0.0
+898,149,Vice Lords,0.0
+899,149,Young Gunners,0.8333333333333334
+900,150,$\it{Other}$,0.0
+901,150,Bloods,0.0
+902,150,Finish: content_filter,0.3333333333333333
+903,150,The Firm,0.0
+904,150,Vice Lords,0.0
+905,150,Young Gunners,0.6666666666666666
+906,151,$\it{Other}$,0.0
+907,151,Bloods,0.0
+908,151,Finish: content_filter,0.24693402085021168
+909,151,The Firm,0.0
+910,151,Vice Lords,0.0
+911,151,Young Gunners,0.7530659791497883
+912,152,$\it{Other}$,0.0
+913,152,Bloods,0.0
+914,152,Finish: content_filter,0.10714285714285714
+915,152,The Firm,0.0
+916,152,Vice Lords,0.0
+917,152,Young Gunners,0.8928571428571429
+918,153,$\it{Other}$,0.0
+919,153,Bloods,0.0
+920,153,Finish: content_filter,0.3333333333333333
+921,153,The Firm,0.0
+922,153,Vice Lords,0.0
+923,153,Young Gunners,0.6666666666666666
+924,154,$\it{Other}$,0.0
+925,154,Bloods,0.0
+926,154,Finish: content_filter,0.09795190517527669
+927,154,The Firm,0.0
+928,154,Vice Lords,0.0
+929,154,Young Gunners,0.9020480948247235
+930,155,$\it{Other}$,0.0
+931,155,Bloods,0.0
+932,155,Finish: content_filter,0.16666666666666666
+933,155,The Firm,0.0
+934,155,Vice Lords,0.0
+935,155,Young Gunners,0.8333333333333334
+936,156,$\it{Other}$,0.0
+937,156,Bloods,0.0
+938,156,Finish: content_filter,0.16666666666666666
+939,156,The Firm,0.0
+940,156,Vice Lords,0.0
+941,156,Young Gunners,0.8333333333333334
+942,157,$\it{Other}$,0.0
+943,157,Bloods,0.0
+944,157,Finish: content_filter,0.06896551724137931
+945,157,The Firm,0.0
+946,157,Vice Lords,0.0
+947,157,Young Gunners,0.9310344827586207
+948,158,$\it{Other}$,0.004597493848693645
+949,158,Bloods,0.0
+950,158,Finish: content_filter,0.11216118011122668
+951,158,The Firm,0.0
+952,158,Vice Lords,0.0
+953,158,Young Gunners,0.8832413260400797
+954,159,$\it{Other}$,0.034482758620689655
+955,159,Bloods,0.0
+956,159,Finish: content_filter,0.10344827586206896
+957,159,The Firm,0.0
+958,159,Vice Lords,0.0
+959,159,Young Gunners,0.8620689655172413
+960,160,$\it{Other}$,0.0
+961,160,Bloods,0.0
+962,160,Finish: content_filter,0.06896551724137931
+963,160,The Firm,0.0
+964,160,Vice Lords,0.0
+965,160,Young Gunners,0.9310344827586207
+966,161,$\it{Other}$,0.06896551724137931
+967,161,Bloods,0.0
+968,161,Finish: content_filter,0.1724137931034483
+969,161,The Firm,0.0
+970,161,Vice Lords,0.0
+971,161,Young Gunners,0.7586206896551724
+972,162,$\it{Other}$,0.0
+973,162,Bloods,0.0
+974,162,Finish: content_filter,0.04303515315495942
+975,162,The Firm,0.0
+976,162,Vice Lords,0.0
+977,162,Young Gunners,0.9569648468450406
+978,163,$\it{Other}$,0.06896551724137931
+979,163,Bloods,0.0
+980,163,Finish: content_filter,0.1724137931034483
+981,163,The Firm,0.0
+982,163,Vice Lords,0.0
+983,163,Young Gunners,0.7586206896551724
+984,164,$\it{Other}$,0.0
+985,164,Bloods,0.0
+986,164,Finish: content_filter,0.08333333333333333
+987,164,The Firm,0.0
+988,164,Vice Lords,0.0
+989,164,Young Gunners,0.9166666666666666
+990,165,$\it{Other}$,0.047817870072641766
+991,165,Bloods,0.0
+992,165,Finish: content_filter,0.17194082832332525
+993,165,The Firm,0.0
+994,165,Vice Lords,0.0
+995,165,Young Gunners,0.780241301604033
+996,166,$\it{Other}$,0.0
+997,166,Bloods,0.0
+998,166,Finish: content_filter,0.34542441764850057
+999,166,The Firm,0.0
+1000,166,Vice Lords,0.0
+1001,166,Young Gunners,0.6545755823514994
+1002,167,$\it{Other}$,0.0
+1003,167,Bloods,0.0
+1004,167,Finish: content_filter,0.43333333333333335
+1005,167,The Firm,0.0
+1006,167,Vice Lords,0.0
+1007,167,Young Gunners,0.5666666666666667
+1008,168,$\it{Other}$,0.018223066857455828
+1009,168,Bloods,0.0
+1010,168,Finish: content_filter,0.5372292742818037
+1011,168,The Firm,0.0
+1012,168,Vice Lords,0.0
+1013,168,Young Gunners,0.44454765886074066
+1014,169,$\it{Other}$,0.0
+1015,169,Bloods,0.0
+1016,169,Finish: content_filter,0.5666666666666667
+1017,169,The Firm,0.0
+1018,169,Vice Lords,0.0
+1019,169,Young Gunners,0.43333333333333335
+1020,170,$\it{Other}$,0.03467841937131064
+1021,170,Bloods,0.0
+1022,170,Finish: content_filter,0.6464939718272864
+1023,170,The Firm,0.0
+1024,170,Vice Lords,0.0
+1025,170,Young Gunners,0.3188276088014028
+1026,171,$\it{Other}$,0.028751165210083886
+1027,171,Bloods,0.0
+1028,171,Finish: content_filter,0.7575023304201678
+1029,171,The Firm,0.0
+1030,171,Vice Lords,0.0
+1031,171,Young Gunners,0.21374650436974835
+1032,172,$\it{Other}$,0.0
+1033,172,Bloods,0.0
+1034,172,Finish: content_filter,0.6228961709919221
+1035,172,The Firm,0.0
+1036,172,Vice Lords,0.0
+1037,172,Young Gunners,0.37710382900807793
+1038,173,$\it{Other}$,0.026126637290813978
+1039,173,Bloods,0.0
+1040,173,Finish: content_filter,0.5216200881275581
+1041,173,The Firm,0.0
+1042,173,Vice Lords,0.0
+1043,173,Young Gunners,0.45225327458162795
+1044,174,$\it{Other}$,0.0
+1045,174,Bloods,0.0
+1046,174,Finish: content_filter,0.5666666666666667
+1047,174,The Firm,0.0
+1048,174,Vice Lords,0.0
+1049,174,Young Gunners,0.43333333333333335
+1050,175,$\it{Other}$,0.0
+1051,175,Bloods,0.0
+1052,175,Finish: content_filter,0.5333333333333333
+1053,175,The Firm,0.0
+1054,175,Vice Lords,0.0
+1055,175,Young Gunners,0.4666666666666667
+1056,176,$\it{Other}$,0.02241582618060388
+1057,176,Bloods,0.0
+1058,176,Finish: content_filter,0.49999999999999994
+1059,176,The Firm,0.0
+1060,176,Vice Lords,0.0
+1061,176,Young Gunners,0.4775841738193961
+1062,177,$\it{Other}$,0.03333333333333333
+1063,177,Bloods,0.0
+1064,177,Finish: content_filter,0.6666666666666666
+1065,177,The Firm,0.0
+1066,177,Vice Lords,0.0
+1067,177,Young Gunners,0.3
+1068,178,$\it{Other}$,0.03333333333333333
+1069,178,Bloods,0.0
+1070,178,Finish: content_filter,0.5666666666666667
+1071,178,The Firm,0.0
+1072,178,Vice Lords,0.0
+1073,178,Young Gunners,0.4
+1074,179,$\it{Other}$,0.024242833525017837
+1075,179,Bloods,0.0
+1076,179,Finish: content_filter,0.667816884649947
+1077,179,The Firm,0.0
+1078,179,Vice Lords,0.0
+1079,179,Young Gunners,0.3079402818250351
+1080,180,$\it{Other}$,0.0
+1081,180,Bloods,0.0
+1082,180,Finish: content_filter,0.5333333333333333
+1083,180,The Firm,0.0
+1084,180,Vice Lords,0.0
+1085,180,Young Gunners,0.4666666666666667
+1086,181,$\it{Other}$,0.0
+1087,181,Bloods,0.0
+1088,181,Finish: content_filter,0.47113941201383636
+1089,181,The Firm,0.0
+1090,181,Vice Lords,0.0
+1091,181,Young Gunners,0.5288605879861636
+1092,182,$\it{Other}$,0.01519627074184006
+1093,182,Bloods,0.0
+1094,182,Finish: content_filter,0.584989447634177
+1095,182,The Firm,0.0
+1096,182,Vice Lords,0.0
+1097,182,Young Gunners,0.3998142816239828
+1098,183,$\it{Other}$,0.0
+1099,183,Bloods,0.0
+1100,183,Finish: content_filter,0.43333333333333335
+1101,183,The Firm,0.0
+1102,183,Vice Lords,0.0
+1103,183,Young Gunners,0.5666666666666667
+1104,184,$\it{Other}$,0.0
+1105,184,Bloods,0.0
+1106,184,Finish: content_filter,0.36666666666666664
+1107,184,The Firm,0.0
+1108,184,Vice Lords,0.0
+1109,184,Young Gunners,0.6333333333333333
+1110,185,$\it{Other}$,0.0
+1111,185,Bloods,0.0
+1112,185,Finish: content_filter,0.36666666666666664
+1113,185,The Firm,0.0
+1114,185,Vice Lords,0.0
+1115,185,Young Gunners,0.6333333333333333
+1116,186,$\it{Other}$,0.0
+1117,186,Bloods,0.0
+1118,186,Finish: content_filter,0.5231032878034957
+1119,186,The Firm,0.0
+1120,186,Vice Lords,0.0
+1121,186,Young Gunners,0.4768967121965043
+1122,187,$\it{Other}$,0.0
+1123,187,Bloods,0.0
+1124,187,Finish: content_filter,0.5333333333333333
+1125,187,The Firm,0.0
+1126,187,Vice Lords,0.0
+1127,187,Young Gunners,0.4666666666666667
+1128,188,$\it{Other}$,0.0
+1129,188,Bloods,0.0
+1130,188,Finish: content_filter,0.5
+1131,188,The Firm,0.0
+1132,188,Vice Lords,0.0
+1133,188,Young Gunners,0.5
+1134,189,$\it{Other}$,0.0
+1135,189,Bloods,0.0
+1136,189,Finish: content_filter,0.5666666666666667
+1137,189,The Firm,0.0
+1138,189,Vice Lords,0.0
+1139,189,Young Gunners,0.43333333333333335
+1140,190,$\it{Other}$,0.03333333333333333
+1141,190,Bloods,0.0
+1142,190,Finish: content_filter,0.5666666666666667
+1143,190,The Firm,0.0
+1144,190,Vice Lords,0.0
+1145,190,Young Gunners,0.4
+1146,191,$\it{Other}$,0.0
+1147,191,Bloods,0.0
+1148,191,Finish: content_filter,0.43923732293910533
+1149,191,The Firm,0.0
+1150,191,Vice Lords,0.0
+1151,191,Young Gunners,0.5607626770608947
+1152,192,$\it{Other}$,0.0
+1153,192,Bloods,0.0
+1154,192,Finish: content_filter,0.4
+1155,192,The Firm,0.0
+1156,192,Vice Lords,0.0
+1157,192,Young Gunners,0.6
+1158,193,$\it{Other}$,0.004087389014381283
+1159,193,Bloods,0.0
+1160,193,Finish: content_filter,0.5703808132755863
+1161,193,The Firm,0.0
+1162,193,Vice Lords,0.0
+1163,193,Young Gunners,0.42553179771003236
+1164,194,$\it{Other}$,0.0
+1165,194,Bloods,0.0
+1166,194,Finish: content_filter,0.5333333333333333
+1167,194,The Firm,0.0
+1168,194,Vice Lords,0.0
+1169,194,Young Gunners,0.4666666666666667
+1170,195,$\it{Other}$,0.0
+1171,195,Bloods,0.0
+1172,195,Finish: content_filter,0.41379310344827586
+1173,195,The Firm,0.0
+1174,195,Vice Lords,0.0
+1175,195,Young Gunners,0.5862068965517241
+1176,196,$\it{Other}$,0.031067390758014127
+1177,196,Bloods,0.0
+1178,196,Finish: content_filter,0.41123119363419086
+1179,196,The Firm,0.0
+1180,196,Vice Lords,0.0
+1181,196,Young Gunners,0.557701415607795
+1182,197,$\it{Other}$,0.0
+1183,197,Bloods,0.0
+1184,197,Finish: content_filter,0.5666666666666667
+1185,197,The Firm,0.0
+1186,197,Vice Lords,0.0
+1187,197,Young Gunners,0.43333333333333335
+1188,198,$\it{Other}$,0.0
+1189,198,Bloods,0.0
+1190,198,Finish: content_filter,0.4423275323364887
+1191,198,The Firm,0.0
+1192,198,Vice Lords,0.0
+1193,198,Young Gunners,0.5576724676635113
+1194,199,$\it{Other}$,0.0
+1195,199,Bloods,0.0
+1196,199,Finish: content_filter,0.4339352414240164
+1197,199,The Firm,0.0
+1198,199,Vice Lords,0.0
+1199,199,Young Gunners,0.5660647585759836
+1200,200,$\it{Other}$,0.014222719099239828
+1201,200,Bloods,0.0
+1202,200,Finish: content_filter,0.4690400840310617
+1203,200,The Firm,0.0
+1204,200,Vice Lords,0.0
+1205,200,Young Gunners,0.5167371968696987
+1206,201,$\it{Other}$,0.0
+1207,201,Bloods,0.0
+1208,201,Finish: content_filter,0.21739130434782608
+1209,201,The Firm,0.0
+1210,201,Vice Lords,0.0
+1211,201,Young Gunners,0.782608695652174
+1212,202,$\it{Other}$,0.0
+1213,202,Bloods,0.0
+1214,202,Finish: content_filter,0.35714285714285715
+1215,202,The Firm,0.0
+1216,202,Vice Lords,0.0
+1217,202,Young Gunners,0.6428571428571429
+1218,203,$\it{Other}$,0.0
+1219,203,Bloods,0.0
+1220,203,Finish: content_filter,0.25
+1221,203,The Firm,0.0
+1222,203,Vice Lords,0.0
+1223,203,Young Gunners,0.75
+1224,204,$\it{Other}$,0.01078373014265328
+1225,204,Bloods,0.0
+1226,204,Finish: content_filter,0.3271414406715879
+1227,204,The Firm,0.0
+1228,204,Vice Lords,0.0
+1229,204,Young Gunners,0.6620748291857589
+1230,205,$\it{Other}$,0.0
+1231,205,Bloods,0.0
+1232,205,Finish: content_filter,0.125
+1233,205,The Firm,0.0
+1234,205,Vice Lords,0.0
+1235,205,Young Gunners,0.875
+1236,206,$\it{Other}$,0.0
+1237,206,Bloods,0.0
+1238,206,Finish: content_filter,0.3181924193214349
+1239,206,The Firm,0.0
+1240,206,Vice Lords,0.0
+1241,206,Young Gunners,0.6818075806785651
+1242,207,$\it{Other}$,0.007233304533443861
+1243,207,Bloods,0.0
+1244,207,Finish: content_filter,0.1907776817781462
+1245,207,The Firm,0.0
+1246,207,Vice Lords,0.0
+1247,207,Young Gunners,0.80198901368841
+1248,208,$\it{Other}$,0.0
+1249,208,Bloods,0.0
+1250,208,Finish: content_filter,0.2857142857142857
+1251,208,The Firm,0.0
+1252,208,Vice Lords,0.0
+1253,208,Young Gunners,0.7142857142857143
+1254,209,$\it{Other}$,0.0
+1255,209,Bloods,0.0
+1256,209,Finish: content_filter,0.1111111111111111
+1257,209,The Firm,0.0
+1258,209,Vice Lords,0.0
+1259,209,Young Gunners,0.8888888888888888
+1260,210,$\it{Other}$,0.0
+1261,210,Bloods,0.0
+1262,210,Finish: content_filter,0.25
+1263,210,The Firm,0.0
+1264,210,Vice Lords,0.0
+1265,210,Young Gunners,0.75
+1266,211,$\it{Other}$,0.0
+1267,211,Bloods,0.0
+1268,211,Finish: content_filter,0.19910337632952624
+1269,211,The Firm,0.0
+1270,211,Vice Lords,0.0
+1271,211,Young Gunners,0.8008966236704739
+1272,212,$\it{Other}$,0.0
+1273,212,Bloods,0.0
+1274,212,Finish: content_filter,0.25
+1275,212,The Firm,0.0
+1276,212,Vice Lords,0.0
+1277,212,Young Gunners,0.75
+1278,213,$\it{Other}$,0.0
+1279,213,Bloods,0.0
+1280,213,Finish: content_filter,0.2222222222222222
+1281,213,The Firm,0.0
+1282,213,Vice Lords,0.0
+1283,213,Young Gunners,0.7777777777777778
+1284,214,$\it{Other}$,0.0
+1285,214,Bloods,0.0
+1286,214,Finish: content_filter,0.11162654317575024
+1287,214,The Firm,0.0
+1288,214,Vice Lords,0.0
+1289,214,Young Gunners,0.8883734568242498
+1290,215,$\it{Other}$,0.0
+1291,215,Bloods,0.0
+1292,215,Finish: content_filter,0.0
+1293,215,The Firm,0.0
+1294,215,Vice Lords,0.0
+1295,215,Young Gunners,1.0
+1296,216,$\it{Other}$,0.0
+1297,216,Bloods,0.0
+1298,216,Finish: content_filter,0.0
+1299,216,The Firm,0.0
+1300,216,Vice Lords,0.0
+1301,216,Young Gunners,1.0
+1302,217,$\it{Other}$,0.0
+1303,217,Bloods,0.0
+1304,217,Finish: content_filter,0.0
+1305,217,The Firm,0.0
+1306,217,Vice Lords,0.0
+1307,217,Young Gunners,1.0
+1308,218,$\it{Other}$,0.0
+1309,218,Bloods,0.0
+1310,218,Finish: content_filter,0.0
+1311,218,The Firm,0.0
+1312,218,Vice Lords,0.0
+1313,218,Young Gunners,1.0
+1314,219,$\it{Other}$,0.0
+1315,219,Bloods,0.0
+1316,219,Finish: content_filter,0.0
+1317,219,The Firm,0.0
+1318,219,Vice Lords,0.0
+1319,219,Young Gunners,1.0
+1320,220,$\it{Other}$,0.0
+1321,220,Bloods,0.0
+1322,220,Finish: content_filter,0.0
+1323,220,The Firm,0.0
+1324,220,Vice Lords,0.0
+1325,220,Young Gunners,1.0
+1326,221,$\it{Other}$,0.0
+1327,221,Bloods,0.0
+1328,221,Finish: content_filter,0.0
+1329,221,The Firm,0.0
+1330,221,Vice Lords,0.0
+1331,221,Young Gunners,1.0
+1332,222,$\it{Other}$,0.0
+1333,222,Bloods,0.0
+1334,222,Finish: content_filter,0.0
+1335,222,The Firm,0.0
+1336,222,Vice Lords,0.0
+1337,222,Young Gunners,1.0
+1338,223,$\it{Other}$,0.0
+1339,223,Bloods,0.0
+1340,223,Finish: content_filter,0.0
+1341,223,The Firm,0.0
+1342,223,Vice Lords,0.0
+1343,223,Young Gunners,1.0
+1344,224,$\it{Other}$,0.0
+1345,224,Bloods,0.0
+1346,224,Finish: content_filter,0.0
+1347,224,The Firm,0.0
+1348,224,Vice Lords,0.0
+1349,224,Young Gunners,1.0
+1350,225,$\it{Other}$,0.0
+1351,225,Bloods,0.0
+1352,225,Finish: content_filter,0.0
+1353,225,The Firm,0.0
+1354,225,Vice Lords,0.0
+1355,225,Young Gunners,1.0
+1356,226,$\it{Other}$,0.0
+1357,226,Bloods,0.0
+1358,226,Finish: content_filter,0.0
+1359,226,The Firm,0.0
+1360,226,Vice Lords,0.0
+1361,226,Young Gunners,1.0
+1362,227,$\it{Other}$,0.0
+1363,227,Bloods,0.0
+1364,227,Finish: content_filter,0.0
+1365,227,The Firm,0.0
+1366,227,Vice Lords,0.0
+1367,227,Young Gunners,1.0

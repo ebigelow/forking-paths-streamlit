@@ -1,0 +1,985 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.7620101251814259
+1,0,Geto Boys,0.05122292548828715
+2,0,Speedknot Mobstaz,0.12813363145891987
+3,0,The answer cannot be determined from the provided information,0.03901752179173345
+4,0,The answer cannot be determined from the provided text,0.003024611700726804
+5,0,not provided in the context,0.01659118437890681
+6,1,$\it{Other}$,0.8531096088691723
+7,1,Geto Boys,0.02665508510802546
+8,1,Speedknot Mobstaz,0.09262242588280192
+9,1,The answer cannot be determined from the provided information,0.023446416899366267
+10,1,The answer cannot be determined from the provided text,0.0
+11,1,not provided in the context,0.004166463240634036
+12,2,$\it{Other}$,0.7637533989340739
+13,2,Geto Boys,0.0304200656007405
+14,2,Speedknot Mobstaz,0.16666666666666669
+15,2,The answer cannot be determined from the provided information,0.03333333333333333
+16,2,The answer cannot be determined from the provided text,0.0
+17,2,not provided in the context,0.005826535465185673
+18,3,$\it{Other}$,0.8666666666666667
+19,3,Geto Boys,0.0
+20,3,Speedknot Mobstaz,0.1
+21,3,The answer cannot be determined from the provided information,0.0
+22,3,The answer cannot be determined from the provided text,0.0
+23,3,not provided in the context,0.03333333333333333
+24,4,$\it{Other}$,0.9
+25,4,Geto Boys,0.0
+26,4,Speedknot Mobstaz,0.1
+27,4,The answer cannot be determined from the provided information,0.0
+28,4,The answer cannot be determined from the provided text,0.0
+29,4,not provided in the context,0.0
+30,5,$\it{Other}$,0.8
+31,5,Geto Boys,0.03333333333333333
+32,5,Speedknot Mobstaz,0.06666666666666667
+33,5,The answer cannot be determined from the provided information,0.06666666666666667
+34,5,The answer cannot be determined from the provided text,0.0
+35,5,not provided in the context,0.03333333333333333
+36,6,$\it{Other}$,0.8666666666666667
+37,6,Geto Boys,0.0
+38,6,Speedknot Mobstaz,0.06666666666666667
+39,6,The answer cannot be determined from the provided information,0.03333333333333333
+40,6,The answer cannot be determined from the provided text,0.0
+41,6,not provided in the context,0.03333333333333333
+42,7,$\it{Other}$,0.8
+43,7,Geto Boys,0.0
+44,7,Speedknot Mobstaz,0.1
+45,7,The answer cannot be determined from the provided information,0.06666666666666667
+46,7,The answer cannot be determined from the provided text,0.0
+47,7,not provided in the context,0.03333333333333333
+48,8,$\it{Other}$,0.8335497217203603
+49,8,Geto Boys,0.02947426801115367
+50,8,Speedknot Mobstaz,0.09942524112137274
+51,8,The answer cannot be determined from the provided information,0.018812601658588585
+52,8,The answer cannot be determined from the provided text,0.0
+53,8,not provided in the context,0.018738167488524658
+54,9,$\it{Other}$,0.7333333333333332
+55,9,Geto Boys,0.033333333333333326
+56,9,Speedknot Mobstaz,0.13866921411339223
+57,9,The answer cannot be determined from the provided information,0.033333333333333326
+58,9,The answer cannot be determined from the provided text,0.0
+59,9,not provided in the context,0.06133078588660775
+60,10,$\it{Other}$,0.8252677054379833
+61,10,Geto Boys,0.0626338527189916
+62,10,Speedknot Mobstaz,0.0747322945620168
+63,10,The answer cannot be determined from the provided information,0.03333333333333333
+64,10,The answer cannot be determined from the provided text,0.0
+65,10,not provided in the context,0.004032813947675061
+66,11,$\it{Other}$,0.7517278312389569
+67,11,Geto Boys,0.029654433752208623
+68,11,Speedknot Mobstaz,0.15195106834216782
+69,11,The answer cannot be determined from the provided information,0.00367889958112471
+70,11,The answer cannot be determined from the provided text,0.0
+71,11,not provided in the context,0.06298776708554196
+72,12,$\it{Other}$,0.9333333333333333
+73,12,Geto Boys,0.0
+74,12,Speedknot Mobstaz,0.03333333333333333
+75,12,The answer cannot be determined from the provided information,0.03333333333333333
+76,12,The answer cannot be determined from the provided text,0.0
+77,12,not provided in the context,0.0
+78,13,$\it{Other}$,0.7
+79,13,Geto Boys,0.0
+80,13,Speedknot Mobstaz,0.23333333333333334
+81,13,The answer cannot be determined from the provided information,0.03333333333333333
+82,13,The answer cannot be determined from the provided text,0.0
+83,13,not provided in the context,0.03333333333333333
+84,14,$\it{Other}$,0.6896551724137931
+85,14,Geto Boys,0.0
+86,14,Speedknot Mobstaz,0.10344827586206896
+87,14,The answer cannot be determined from the provided information,0.1724137931034483
+88,14,The answer cannot be determined from the provided text,0.0
+89,14,not provided in the context,0.034482758620689655
+90,15,$\it{Other}$,0.8666666666666667
+91,15,Geto Boys,0.0
+92,15,Speedknot Mobstaz,0.06666666666666667
+93,15,The answer cannot be determined from the provided information,0.03333333333333333
+94,15,The answer cannot be determined from the provided text,0.0
+95,15,not provided in the context,0.03333333333333333
+96,16,$\it{Other}$,0.8009661416402551
+97,16,Geto Boys,0.013526561661384367
+98,16,Speedknot Mobstaz,0.09903385835974482
+99,16,The answer cannot be determined from the provided information,0.053140105005282295
+100,16,The answer cannot be determined from the provided text,0.0
+101,16,not provided in the context,0.033333333333333326
+102,17,$\it{Other}$,0.7664954779288251
+103,17,Geto Boys,0.06548226282328962
+104,17,Speedknot Mobstaz,0.11673408536828632
+105,17,The answer cannot be determined from the provided information,0.011612926293586828
+106,17,The answer cannot be determined from the provided text,0.0
+107,17,not provided in the context,0.03967524758601207
+108,18,$\it{Other}$,0.8938480827157532
+109,18,Geto Boys,0.039485250617580084
+110,18,Speedknot Mobstaz,0.006151917284246753
+111,18,The answer cannot be determined from the provided information,0.0
+112,18,The answer cannot be determined from the provided text,0.0
+113,18,not provided in the context,0.06051474938241991
+114,19,$\it{Other}$,0.7667455366901349
+115,19,Geto Boys,0.0027203747075992273
+116,19,Speedknot Mobstaz,0.14566700746705558
+117,19,The answer cannot be determined from the provided information,0.05282056223214514
+118,19,The answer cannot be determined from the provided text,0.0
+119,19,not provided in the context,0.03204651890306525
+120,20,$\it{Other}$,0.6497805547356883
+121,20,Geto Boys,0.026478505595603392
+122,20,Speedknot Mobstaz,0.15248902392707323
+123,20,The answer cannot be determined from the provided information,0.10458524907496836
+124,20,The answer cannot be determined from the provided text,0.0022695786627615782
+125,20,not provided in the context,0.06439708800390509
+126,21,$\it{Other}$,0.8333333333333334
+127,21,Geto Boys,0.0
+128,21,Speedknot Mobstaz,0.06666666666666667
+129,21,The answer cannot be determined from the provided information,0.0
+130,21,The answer cannot be determined from the provided text,0.0
+131,21,not provided in the context,0.1
+132,22,$\it{Other}$,0.817150640719212
+133,22,Geto Boys,0.01046656509935306
+134,22,Speedknot Mobstaz,0.09524956241541531
+135,22,The answer cannot be determined from the provided information,0.06666666666666667
+136,22,The answer cannot be determined from the provided text,0.0
+137,22,not provided in the context,0.01046656509935306
+138,23,$\it{Other}$,0.7333333333333333
+139,23,Geto Boys,0.03333333333333333
+140,23,Speedknot Mobstaz,0.1
+141,23,The answer cannot be determined from the provided information,0.06666666666666667
+142,23,The answer cannot be determined from the provided text,0.03333333333333333
+143,23,not provided in the context,0.03333333333333333
+144,24,$\it{Other}$,0.8
+145,24,Geto Boys,0.03333333333333333
+146,24,Speedknot Mobstaz,0.03333333333333333
+147,24,The answer cannot be determined from the provided information,0.06666666666666667
+148,24,The answer cannot be determined from the provided text,0.0
+149,24,not provided in the context,0.06666666666666667
+150,25,$\it{Other}$,0.7378497387168752
+151,25,Geto Boys,0.031450378497263363
+152,25,Speedknot Mobstaz,0.07212790724702609
+153,25,The answer cannot be determined from the provided information,0.06647904273881616
+154,25,The answer cannot be determined from the provided text,0.0
+155,25,not provided in the context,0.09209293280001914
+156,26,$\it{Other}$,0.6240238215811736
+157,26,Geto Boys,0.12303740979854456
+158,26,Speedknot Mobstaz,0.186272101953615
+159,26,The answer cannot be determined from the provided information,0.03333333333333333
+160,26,The answer cannot be determined from the provided text,0.0034319745115962536
+161,26,not provided in the context,0.029901358821737077
+162,27,$\it{Other}$,0.7
+163,27,Geto Boys,0.050742500116787104
+164,27,Speedknot Mobstaz,0.0492574998832129
+165,27,The answer cannot be determined from the provided information,0.16666666666666666
+166,27,The answer cannot be determined from the provided text,0.0
+167,27,not provided in the context,0.03333333333333333
+168,28,$\it{Other}$,0.8333333333333334
+169,28,Geto Boys,0.0
+170,28,Speedknot Mobstaz,0.06666666666666667
+171,28,The answer cannot be determined from the provided information,0.1
+172,28,The answer cannot be determined from the provided text,0.0
+173,28,not provided in the context,0.0
+174,29,$\it{Other}$,0.7
+175,29,Geto Boys,0.03333333333333333
+176,29,Speedknot Mobstaz,0.13333333333333333
+177,29,The answer cannot be determined from the provided information,0.06666666666666667
+178,29,The answer cannot be determined from the provided text,0.0
+179,29,not provided in the context,0.06666666666666667
+180,30,$\it{Other}$,0.7435412118016425
+181,30,Geto Boys,0.03163202025528179
+182,30,Speedknot Mobstaz,0.1598614143544605
+183,30,The answer cannot be determined from the provided information,0.03333333333333333
+184,30,The answer cannot be determined from the provided text,0.03163202025528179
+185,30,not provided in the context,0.0
+186,31,$\it{Other}$,0.7931034482758621
+187,31,Geto Boys,0.06896551724137931
+188,31,Speedknot Mobstaz,0.13793103448275862
+189,31,The answer cannot be determined from the provided information,0.0
+190,31,The answer cannot be determined from the provided text,0.0
+191,31,not provided in the context,0.0
+192,32,$\it{Other}$,0.8666666666666667
+193,32,Geto Boys,0.03333333333333333
+194,32,Speedknot Mobstaz,0.06666666666666667
+195,32,The answer cannot be determined from the provided information,0.0
+196,32,The answer cannot be determined from the provided text,0.0
+197,32,not provided in the context,0.03333333333333333
+198,33,$\it{Other}$,0.8067725722286484
+199,33,Geto Boys,0.0
+200,33,Speedknot Mobstaz,0.006772572228648389
+201,33,The answer cannot be determined from the provided information,0.06328038055234247
+202,33,The answer cannot be determined from the provided text,0.029947047219009138
+203,33,not provided in the context,0.09322742777135161
+204,34,$\it{Other}$,0.760003640732648
+205,34,Geto Boys,0.045802942552108705
+206,34,Speedknot Mobstaz,0.09563666847107208
+207,34,The answer cannot be determined from the provided information,0.06316085097772091
+208,34,The answer cannot be determined from the provided text,0.01530383383812402
+209,34,not provided in the context,0.020092063428326187
+210,35,$\it{Other}$,0.7405060232206567
+211,35,Geto Boys,0.06487349419483579
+212,35,Speedknot Mobstaz,0.06666666666666667
+213,35,The answer cannot be determined from the provided information,0.09641365505633827
+214,35,The answer cannot be determined from the provided text,0.0
+215,35,not provided in the context,0.031540160861502464
+216,36,$\it{Other}$,0.7686576486196518
+217,36,Geto Boys,0.0
+218,36,Speedknot Mobstaz,0.11692333929143277
+219,36,The answer cannot be determined from the provided information,0.04974332737523389
+220,36,The answer cannot be determined from the provided text,0.04311712314245432
+221,36,not provided in the context,0.02155856157122716
+222,37,$\it{Other}$,0.6529305449335833
+223,37,Geto Boys,0.06410918933420262
+224,37,Speedknot Mobstaz,0.16218137534675253
+225,37,The answer cannot be determined from the provided information,0.10570579405753401
+226,37,The answer cannot be determined from the provided text,0.0
+227,37,not provided in the context,0.015073096327927643
+228,38,$\it{Other}$,0.7899636975544637
+229,38,Geto Boys,0.012729859762654708
+230,38,Speedknot Mobstaz,0.07450970072975292
+231,38,The answer cannot be determined from the provided information,0.07191732775611315
+232,38,The answer cannot be determined from the provided text,0.03618879591858914
+233,38,not provided in the context,0.014690618278426272
+234,39,$\it{Other}$,0.8333333333333334
+235,39,Geto Boys,0.0
+236,39,Speedknot Mobstaz,0.1
+237,39,The answer cannot be determined from the provided information,0.03333333333333333
+238,39,The answer cannot be determined from the provided text,0.0
+239,39,not provided in the context,0.03333333333333333
+240,40,$\it{Other}$,0.7306354534306319
+241,40,Geto Boys,0.015317726715315923
+242,40,Speedknot Mobstaz,0.15134893995135074
+243,40,The answer cannot be determined from the provided information,0.04865106004864926
+244,40,The answer cannot be determined from the provided text,0.01801560661801741
+245,40,not provided in the context,0.03603121323603482
+246,41,$\it{Other}$,0.6999999999999998
+247,41,Geto Boys,0.0
+248,41,Speedknot Mobstaz,0.13084857057710078
+249,41,The answer cannot be determined from the provided information,0.1049695255124651
+250,41,The answer cannot be determined from the provided text,0.0
+251,41,not provided in the context,0.06418190391043412
+252,42,$\it{Other}$,0.8315697188169374
+253,42,Geto Boys,0.010394790881493438
+254,42,Speedknot Mobstaz,0.06926536438704002
+255,42,The answer cannot be determined from the provided information,0.06666666666666667
+256,42,The answer cannot be determined from the provided text,0.0
+257,42,not provided in the context,0.022103459247862504
+258,43,$\it{Other}$,0.7900737187619282
+259,43,Geto Boys,0.015977030804254243
+260,43,Speedknot Mobstaz,0.07614797174818513
+261,43,The answer cannot be determined from the provided information,0.07173877740941273
+262,43,The answer cannot be determined from the provided text,0.0
+263,43,not provided in the context,0.04606250127621969
+264,44,$\it{Other}$,0.6446451849880832
+265,44,Geto Boys,0.052202148167858335
+266,44,Speedknot Mobstaz,0.13208170384167503
+267,44,The answer cannot be determined from the provided information,0.1
+268,44,The answer cannot be determined from the provided text,0.018868814834525006
+269,44,not provided in the context,0.052202148167858335
+270,45,$\it{Other}$,0.7772235730111571
+271,45,Geto Boys,0.042856756751276745
+272,45,Speedknot Mobstaz,0.10724854893445289
+273,45,The answer cannot be determined from the provided information,0.042856756751276745
+274,45,The answer cannot be determined from the provided text,0.0
+275,45,not provided in the context,0.02981436455183652
+276,46,$\it{Other}$,0.7567707390826603
+277,46,Geto Boys,0.03875971289482493
+278,46,Speedknot Mobstaz,0.10165169369845925
+279,46,The answer cannot be determined from the provided information,0.04950709329707876
+280,46,The answer cannot be determined from the provided text,0.010319009827714387
+281,46,not provided in the context,0.04299175119926232
+282,47,$\it{Other}$,0.7351315294212534
+283,47,Geto Boys,0.01022770402467387
+284,47,Speedknot Mobstaz,0.14176284127008723
+285,47,The answer cannot be determined from the provided information,0.09422071332255787
+286,47,The answer cannot be determined from the provided text,0.004214753968376934
+287,47,not provided in the context,0.014442457993050804
+288,48,$\it{Other}$,0.7470891464601321
+289,48,Geto Boys,0.022445525280441275
+290,48,Speedknot Mobstaz,0.12251700817011367
+291,48,The answer cannot be determined from the provided information,0.07421932890318766
+292,48,The answer cannot be determined from the provided text,0.0
+293,48,not provided in the context,0.03372899118612526
+294,49,$\it{Other}$,0.7295659636763034
+295,49,Geto Boys,0.04759894534172422
+296,49,Speedknot Mobstaz,0.08464511027109985
+297,49,The answer cannot be determined from the provided information,0.08726008747100647
+298,49,The answer cannot be determined from the provided text,0.005052884276609817
+299,49,not provided in the context,0.045877008963256166
+300,50,$\it{Other}$,0.7530175153966625
+301,50,Geto Boys,0.028209552722523713
+302,50,Speedknot Mobstaz,0.045165290015664904
+303,50,The answer cannot be determined from the provided information,0.11964407642510436
+304,50,The answer cannot be determined from the provided text,0.0
+305,50,not provided in the context,0.05396356544004466
+306,51,$\it{Other}$,0.7737647102506883
+307,51,Geto Boys,0.0017745108960054116
+308,51,Speedknot Mobstaz,0.03155882243732792
+309,51,The answer cannot be determined from the provided information,0.09645097820798917
+310,51,The answer cannot be determined from the provided text,0.06311764487465583
+311,51,not provided in the context,0.033333333333333326
+312,52,$\it{Other}$,0.6333333333333333
+313,52,Geto Boys,0.03333333333333333
+314,52,Speedknot Mobstaz,0.1
+315,52,The answer cannot be determined from the provided information,0.1
+316,52,The answer cannot be determined from the provided text,0.03333333333333333
+317,52,not provided in the context,0.1
+318,53,$\it{Other}$,0.7219600865210016
+319,53,Geto Boys,0.0219600865210017
+320,53,Speedknot Mobstaz,0.1
+321,53,The answer cannot be determined from the provided information,0.10078640710366155
+322,53,The answer cannot be determined from the provided text,0.0439201730420034
+323,53,not provided in the context,0.01137324681233163
+324,54,$\it{Other}$,0.7115922949807193
+325,54,Geto Boys,0.02607833484274247
+326,54,Speedknot Mobstaz,0.04322251691494324
+327,54,The answer cannot be determined from the provided information,0.1658119567233574
+328,54,The answer cannot be determined from the provided text,0.03333333333333333
+329,54,not provided in the context,0.019961563204904262
+330,55,$\it{Other}$,0.6307466974189941
+331,55,Geto Boys,0.03074669741899423
+332,55,Speedknot Mobstaz,0.048738498445980424
+333,55,The answer cannot be determined from the provided information,0.23709232921184822
+334,55,The answer cannot be determined from the provided text,0.033333333333333326
+335,55,not provided in the context,0.019342444170849477
+336,56,$\it{Other}$,0.7256263530536
+337,56,Geto Boys,0.0
+338,56,Speedknot Mobstaz,0.03136665063261729
+339,56,The answer cannot be determined from the provided information,0.12348505034368026
+340,56,The answer cannot be determined from the provided text,0.027418415745112352
+341,56,not provided in the context,0.09210353022499013
+342,57,$\it{Other}$,0.6770349167217553
+343,57,Geto Boys,0.015171767330820827
+344,57,Speedknot Mobstaz,0.04850510066415416
+345,57,The answer cannot be determined from the provided information,0.19262154861660308
+346,57,The answer cannot be determined from the provided text,0.0
+347,57,not provided in the context,0.06666666666666667
+348,58,$\it{Other}$,0.7708771415325983
+349,58,Geto Boys,0.012514602733088338
+350,58,Speedknot Mobstaz,0.062456191800734986
+351,58,The answer cannot be determined from the provided information,0.14163746120048998
+352,58,The answer cannot be determined from the provided text,0.012514602733088338
+353,58,not provided in the context,0.0
+354,59,$\it{Other}$,0.6666666666666666
+355,59,Geto Boys,0.0
+356,59,Speedknot Mobstaz,0.1
+357,59,The answer cannot be determined from the provided information,0.2
+358,59,The answer cannot be determined from the provided text,0.03333333333333333
+359,59,not provided in the context,0.0
+360,60,$\it{Other}$,0.6939906900693058
+361,60,Geto Boys,0.00392180038394056
+362,60,Speedknot Mobstaz,0.0777771338689282
+363,60,The answer cannot be determined from the provided information,0.13242518067420653
+364,60,The answer cannot be determined from the provided text,0.0636530189418529
+365,60,not provided in the context,0.028232176061765965
+366,61,$\it{Other}$,0.6
+367,61,Geto Boys,0.03333333333333333
+368,61,Speedknot Mobstaz,0.23333333333333334
+369,61,The answer cannot be determined from the provided information,0.1
+370,61,The answer cannot be determined from the provided text,0.0
+371,61,not provided in the context,0.03333333333333333
+372,62,$\it{Other}$,0.6952948681466128
+373,62,Geto Boys,0.04158638773190206
+374,62,Speedknot Mobstaz,0.0659195569084112
+375,62,The answer cannot be determined from the provided information,0.1337233664270685
+376,62,The answer cannot be determined from the provided text,0.01661279250157177
+377,62,not provided in the context,0.046863028284433644
+378,63,$\it{Other}$,0.560936152413105
+379,63,Geto Boys,0.008595771380342523
+380,63,Speedknot Mobstaz,0.1752624380470092
+381,63,The answer cannot be determined from the provided information,0.12473756195299082
+382,63,The answer cannot be determined from the provided text,0.06666666666666667
+383,63,not provided in the context,0.06380140953988583
+384,64,$\it{Other}$,0.6666666666666666
+385,64,Geto Boys,0.0
+386,64,Speedknot Mobstaz,0.06666666666666667
+387,64,The answer cannot be determined from the provided information,0.13333333333333333
+388,64,The answer cannot be determined from the provided text,0.06666666666666667
+389,64,not provided in the context,0.06666666666666667
+390,65,$\it{Other}$,0.6339017827388146
+391,65,Geto Boys,0.09405517718437027
+392,65,Speedknot Mobstaz,0.13823373898379662
+393,65,The answer cannot be determined from the provided information,0.08454084923580264
+394,65,The answer cannot be determined from the provided text,0.0019709717152207686
+395,65,not provided in the context,0.047297480141995196
+396,66,$\it{Other}$,0.5585924697299062
+397,66,Geto Boys,0.08531897447781925
+398,66,Speedknot Mobstaz,0.17106877172068688
+399,66,The answer cannot be determined from the provided information,0.08611847483289765
+400,66,The answer cannot be determined from the provided text,0.053821687085856
+401,66,not provided in the context,0.045079622152833926
+402,67,$\it{Other}$,0.5333333333333333
+403,67,Geto Boys,0.03333333333333333
+404,67,Speedknot Mobstaz,0.03333333333333333
+405,67,The answer cannot be determined from the provided information,0.1
+406,67,The answer cannot be determined from the provided text,0.2
+407,67,not provided in the context,0.1
+408,68,$\it{Other}$,0.4659028681600843
+409,68,Geto Boys,0.012482715650888276
+410,68,Speedknot Mobstaz,0.2007637985065824
+411,68,The answer cannot be determined from the provided information,0.15985245996128578
+412,68,The answer cannot be determined from the provided text,0.12046871842915388
+413,68,not provided in the context,0.04052943929200545
+414,69,$\it{Other}$,0.43333333333333335
+415,69,Geto Boys,0.03333333333333333
+416,69,Speedknot Mobstaz,0.16666666666666666
+417,69,The answer cannot be determined from the provided information,0.16666666666666666
+418,69,The answer cannot be determined from the provided text,0.06666666666666667
+419,69,not provided in the context,0.13333333333333333
+420,70,$\it{Other}$,0.5356041062365957
+421,70,Geto Boys,0.005637678541330408
+422,70,Speedknot Mobstaz,0.16666666666666666
+423,70,The answer cannot be determined from the provided information,0.12057029679304798
+424,70,The answer cannot be determined from the provided text,0.08838369179043533
+425,70,not provided in the context,0.08313755997192387
+426,71,$\it{Other}$,0.43333333333333335
+427,71,Geto Boys,0.13333333333333333
+428,71,Speedknot Mobstaz,0.1
+429,71,The answer cannot be determined from the provided information,0.1
+430,71,The answer cannot be determined from the provided text,0.1
+431,71,not provided in the context,0.13333333333333333
+432,72,$\it{Other}$,0.5171768938204109
+433,72,Geto Boys,0.05966031607085043
+434,72,Speedknot Mobstaz,0.11584999110884736
+435,72,The answer cannot be determined from the provided information,0.1495749296905443
+436,72,The answer cannot be determined from the provided text,0.04556813558639479
+437,72,not provided in the context,0.11216973372295223
+438,73,$\it{Other}$,0.4666666666666667
+439,73,Geto Boys,0.1
+440,73,Speedknot Mobstaz,0.06666666666666667
+441,73,The answer cannot be determined from the provided information,0.16666666666666666
+442,73,The answer cannot be determined from the provided text,0.16666666666666666
+443,73,not provided in the context,0.03333333333333333
+444,74,$\it{Other}$,0.5333333333333333
+445,74,Geto Boys,0.1
+446,74,Speedknot Mobstaz,0.1
+447,74,The answer cannot be determined from the provided information,0.03333333333333333
+448,74,The answer cannot be determined from the provided text,0.13333333333333333
+449,74,not provided in the context,0.1
+450,75,$\it{Other}$,0.5
+451,75,Geto Boys,0.03333333333333333
+452,75,Speedknot Mobstaz,0.23333333333333334
+453,75,The answer cannot be determined from the provided information,0.1
+454,75,The answer cannot be determined from the provided text,0.03333333333333333
+455,75,not provided in the context,0.1
+456,76,$\it{Other}$,0.36666666666666664
+457,76,Geto Boys,0.03333333333333333
+458,76,Speedknot Mobstaz,0.1
+459,76,The answer cannot be determined from the provided information,0.16666666666666666
+460,76,The answer cannot be determined from the provided text,0.06666666666666667
+461,76,not provided in the context,0.26666666666666666
+462,77,$\it{Other}$,0.5
+463,77,Geto Boys,0.0
+464,77,Speedknot Mobstaz,0.13333333333333333
+465,77,The answer cannot be determined from the provided information,0.1
+466,77,The answer cannot be determined from the provided text,0.2
+467,77,not provided in the context,0.06666666666666667
+468,78,$\it{Other}$,0.6
+469,78,Geto Boys,0.007459669258230465
+470,78,Speedknot Mobstaz,0.07599125323945474
+471,78,The answer cannot be determined from the provided information,0.1592069974084362
+472,78,The answer cannot be determined from the provided text,0.09440524805632716
+473,78,not provided in the context,0.06293683203755143
+474,79,$\it{Other}$,0.41097122443085
+475,79,Geto Boys,0.06940947277437916
+476,79,Speedknot Mobstaz,0.07489508498980416
+477,79,The answer cannot be determined from the provided information,0.194514387784575
+478,79,The answer cannot be determined from the provided text,0.12784772111790832
+479,79,not provided in the context,0.12236210890248334
+480,80,$\it{Other}$,0.4160259521639489
+481,80,Geto Boys,0.027564206276871853
+482,80,Speedknot Mobstaz,0.1020861623439572
+483,80,The answer cannot be determined from the provided information,0.2546390525783335
+484,80,The answer cannot be determined from the provided text,0.11571057880083738
+485,80,not provided in the context,0.08397404783605111
+486,81,$\it{Other}$,0.5321675405037161
+487,81,Geto Boys,0.08053216195746016
+488,81,Speedknot Mobstaz,0.10391226093011718
+489,81,The answer cannot be determined from the provided information,0.10747935090610626
+490,81,The answer cannot be determined from the provided text,0.08057252437716675
+491,81,not provided in the context,0.0953361613254336
+492,82,$\it{Other}$,0.5291940446731523
+493,82,Geto Boys,0.05904408068637125
+494,82,Speedknot Mobstaz,0.1381716067724744
+495,82,The answer cannot be determined from the provided information,0.11176187464047638
+496,82,The answer cannot be determined from the provided text,0.07364894473899933
+497,82,not provided in the context,0.08817944848852628
+498,83,$\it{Other}$,0.6666666666666666
+499,83,Geto Boys,0.13333333333333333
+500,83,Speedknot Mobstaz,0.03333333333333333
+501,83,The answer cannot be determined from the provided information,0.0
+502,83,The answer cannot be determined from the provided text,0.06666666666666667
+503,83,not provided in the context,0.1
+504,84,$\it{Other}$,0.5333333333333333
+505,84,Geto Boys,0.06666666666666667
+506,84,Speedknot Mobstaz,0.16666666666666666
+507,84,The answer cannot be determined from the provided information,0.03333333333333333
+508,84,The answer cannot be determined from the provided text,0.13333333333333333
+509,84,not provided in the context,0.06666666666666667
+510,85,$\it{Other}$,0.5697000233777189
+511,85,Geto Boys,0.11384333488398063
+512,85,Speedknot Mobstaz,0.09567502891691351
+513,85,The answer cannot be determined from the provided information,0.08009985540359782
+514,85,The answer cannot be determined from the provided text,0.05166275028864135
+515,85,not provided in the context,0.0890190071291479
+516,86,$\it{Other}$,0.5764065066937293
+517,86,Geto Boys,0.02600320235189975
+518,86,Speedknot Mobstaz,0.13100299130572976
+519,86,The answer cannot be determined from the provided information,0.10252781586774412
+520,86,The answer cannot be determined from the provided text,0.05126390793387206
+521,86,not provided in the context,0.1127955758470251
+522,87,$\it{Other}$,0.8187461838451
+523,87,Geto Boys,0.04609708913553758
+524,87,Speedknot Mobstaz,0.13515672701936252
+525,87,The answer cannot be determined from the provided information,0.0
+526,87,The answer cannot be determined from the provided text,0.0
+527,87,not provided in the context,0.0
+528,88,$\it{Other}$,0.6
+529,88,Geto Boys,0.13333333333333333
+530,88,Speedknot Mobstaz,0.26666666666666666
+531,88,The answer cannot be determined from the provided information,0.0
+532,88,The answer cannot be determined from the provided text,0.0
+533,88,not provided in the context,0.0
+534,89,$\it{Other}$,0.7666666666666667
+535,89,Geto Boys,0.1
+536,89,Speedknot Mobstaz,0.13333333333333333
+537,89,The answer cannot be determined from the provided information,0.0
+538,89,The answer cannot be determined from the provided text,0.0
+539,89,not provided in the context,0.0
+540,90,$\it{Other}$,0.6616288326507973
+541,90,Geto Boys,0.05755675102380397
+542,90,Speedknot Mobstaz,0.28081441632539866
+543,90,The answer cannot be determined from the provided information,0.0
+544,90,The answer cannot be determined from the provided text,0.0
+545,90,not provided in the context,0.0
+546,91,$\it{Other}$,0.5709334350639068
+547,91,Geto Boys,0.1978666158013799
+548,91,Speedknot Mobstaz,0.23119994913471323
+549,91,The answer cannot be determined from the provided information,0.0
+550,91,The answer cannot be determined from the provided text,0.0
+551,91,not provided in the context,0.0
+552,92,$\it{Other}$,0.625028673011186
+553,92,Geto Boys,0.14163799365548063
+554,92,Speedknot Mobstaz,0.23333333333333334
+555,92,The answer cannot be determined from the provided information,0.0
+556,92,The answer cannot be determined from the provided text,0.0
+557,92,not provided in the context,0.0
+558,93,$\it{Other}$,0.7333333333333333
+559,93,Geto Boys,0.1
+560,93,Speedknot Mobstaz,0.16666666666666666
+561,93,The answer cannot be determined from the provided information,0.0
+562,93,The answer cannot be determined from the provided text,0.0
+563,93,not provided in the context,0.0
+564,94,$\it{Other}$,0.5133672340715901
+565,94,Geto Boys,0.1489001891349745
+566,94,Speedknot Mobstaz,0.3377325767934354
+567,94,The answer cannot be determined from the provided information,0.0
+568,94,The answer cannot be determined from the provided text,0.0
+569,94,not provided in the context,0.0
+570,95,$\it{Other}$,0.5666666666666667
+571,95,Geto Boys,0.16666666666666666
+572,95,Speedknot Mobstaz,0.26666666666666666
+573,95,The answer cannot be determined from the provided information,0.0
+574,95,The answer cannot be determined from the provided text,0.0
+575,95,not provided in the context,0.0
+576,96,$\it{Other}$,0.5929890434273125
+577,96,Geto Boys,0.11988523669799306
+578,96,Speedknot Mobstaz,0.2871257198746945
+579,96,The answer cannot be determined from the provided information,0.0
+580,96,The answer cannot be determined from the provided text,0.0
+581,96,not provided in the context,0.0
+582,97,$\it{Other}$,0.8666666666666667
+583,97,Geto Boys,0.0
+584,97,Speedknot Mobstaz,0.13333333333333333
+585,97,The answer cannot be determined from the provided information,0.0
+586,97,The answer cannot be determined from the provided text,0.0
+587,97,not provided in the context,0.0
+588,98,$\it{Other}$,0.6333333333333333
+589,98,Geto Boys,0.16666666666666666
+590,98,Speedknot Mobstaz,0.2
+591,98,The answer cannot be determined from the provided information,0.0
+592,98,The answer cannot be determined from the provided text,0.0
+593,98,not provided in the context,0.0
+594,99,$\it{Other}$,0.5048463202586977
+595,99,Geto Boys,0.19300215168437648
+596,99,Speedknot Mobstaz,0.29243839688244866
+597,99,The answer cannot be determined from the provided information,0.009713131174477266
+598,99,The answer cannot be determined from the provided text,0.0
+599,99,not provided in the context,0.0
+600,100,$\it{Other}$,0.447752781033886
+601,100,Geto Boys,0.358014998046335
+602,100,Speedknot Mobstaz,0.19423222091977893
+603,100,The answer cannot be determined from the provided information,0.0
+604,100,The answer cannot be determined from the provided text,0.0
+605,100,not provided in the context,0.0
+606,101,$\it{Other}$,0.5602655230213234
+607,101,Geto Boys,0.28532902294251494
+608,101,Speedknot Mobstaz,0.15440545403616157
+609,101,The answer cannot be determined from the provided information,0.0
+610,101,The answer cannot be determined from the provided text,0.0
+611,101,not provided in the context,0.0
+612,102,$\it{Other}$,0.6616184425983795
+613,102,Geto Boys,0.13333333333333333
+614,102,Speedknot Mobstaz,0.20504822406828715
+615,102,The answer cannot be determined from the provided information,0.0
+616,102,The answer cannot be determined from the provided text,0.0
+617,102,not provided in the context,0.0
+618,103,$\it{Other}$,0.5427973474695571
+619,103,Geto Boys,0.02748337637530204
+620,103,Speedknot Mobstaz,0.4297192761551407
+621,103,The answer cannot be determined from the provided information,0.0
+622,103,The answer cannot be determined from the provided text,0.0
+623,103,not provided in the context,0.0
+624,104,$\it{Other}$,0.5064384580220487
+625,104,Geto Boys,0.16841077556031245
+626,104,Speedknot Mobstaz,0.32515076641763896
+627,104,The answer cannot be determined from the provided information,0.0
+628,104,The answer cannot be determined from the provided text,0.0
+629,104,not provided in the context,0.0
+630,105,$\it{Other}$,0.26666666666666666
+631,105,Geto Boys,0.0
+632,105,Speedknot Mobstaz,0.7333333333333333
+633,105,The answer cannot be determined from the provided information,0.0
+634,105,The answer cannot be determined from the provided text,0.0
+635,105,not provided in the context,0.0
+636,106,$\it{Other}$,0.36666666666666664
+637,106,Geto Boys,0.0
+638,106,Speedknot Mobstaz,0.6333333333333333
+639,106,The answer cannot be determined from the provided information,0.0
+640,106,The answer cannot be determined from the provided text,0.0
+641,106,not provided in the context,0.0
+642,107,$\it{Other}$,0.35522496035820755
+643,107,Geto Boys,0.0
+644,107,Speedknot Mobstaz,0.6447750396417925
+645,107,The answer cannot be determined from the provided information,0.0
+646,107,The answer cannot be determined from the provided text,0.0
+647,107,not provided in the context,0.0
+648,108,$\it{Other}$,0.3462017815498785
+649,108,Geto Boys,0.0
+650,108,Speedknot Mobstaz,0.6537982184501214
+651,108,The answer cannot be determined from the provided information,0.0
+652,108,The answer cannot be determined from the provided text,0.0
+653,108,not provided in the context,0.0
+654,109,$\it{Other}$,0.3333333333333333
+655,109,Geto Boys,0.0
+656,109,Speedknot Mobstaz,0.6666666666666666
+657,109,The answer cannot be determined from the provided information,0.0
+658,109,The answer cannot be determined from the provided text,0.0
+659,109,not provided in the context,0.0
+660,110,$\it{Other}$,0.4148387664626946
+661,110,Geto Boys,0.0
+662,110,Speedknot Mobstaz,0.5851612335373054
+663,110,The answer cannot be determined from the provided information,0.0
+664,110,The answer cannot be determined from the provided text,0.0
+665,110,not provided in the context,0.0
+666,111,$\it{Other}$,0.43333333333333335
+667,111,Geto Boys,0.0
+668,111,Speedknot Mobstaz,0.5666666666666667
+669,111,The answer cannot be determined from the provided information,0.0
+670,111,The answer cannot be determined from the provided text,0.0
+671,111,not provided in the context,0.0
+672,112,$\it{Other}$,0.4
+673,112,Geto Boys,0.0
+674,112,Speedknot Mobstaz,0.6
+675,112,The answer cannot be determined from the provided information,0.0
+676,112,The answer cannot be determined from the provided text,0.0
+677,112,not provided in the context,0.0
+678,113,$\it{Other}$,0.4666666666666667
+679,113,Geto Boys,0.0
+680,113,Speedknot Mobstaz,0.5333333333333333
+681,113,The answer cannot be determined from the provided information,0.0
+682,113,The answer cannot be determined from the provided text,0.0
+683,113,not provided in the context,0.0
+684,114,$\it{Other}$,0.24038461362675625
+685,114,Geto Boys,0.0
+686,114,Speedknot Mobstaz,0.7596153863732437
+687,114,The answer cannot be determined from the provided information,0.0
+688,114,The answer cannot be determined from the provided text,0.0
+689,114,not provided in the context,0.0
+690,115,$\it{Other}$,0.3333333333333333
+691,115,Geto Boys,0.0
+692,115,Speedknot Mobstaz,0.6666666666666666
+693,115,The answer cannot be determined from the provided information,0.0
+694,115,The answer cannot be determined from the provided text,0.0
+695,115,not provided in the context,0.0
+696,116,$\it{Other}$,0.3394908902959326
+697,116,Geto Boys,0.0
+698,116,Speedknot Mobstaz,0.6605091097040673
+699,116,The answer cannot be determined from the provided information,0.0
+700,116,The answer cannot be determined from the provided text,0.0
+701,116,not provided in the context,0.0
+702,117,$\it{Other}$,0.13333333333333333
+703,117,Geto Boys,0.0
+704,117,Speedknot Mobstaz,0.8666666666666667
+705,117,The answer cannot be determined from the provided information,0.0
+706,117,The answer cannot be determined from the provided text,0.0
+707,117,not provided in the context,0.0
+708,118,$\it{Other}$,0.28145392897197197
+709,118,Geto Boys,0.0
+710,118,Speedknot Mobstaz,0.718546071028028
+711,118,The answer cannot be determined from the provided information,0.0
+712,118,The answer cannot be determined from the provided text,0.0
+713,118,not provided in the context,0.0
+714,119,$\it{Other}$,0.36666666666666664
+715,119,Geto Boys,0.0
+716,119,Speedknot Mobstaz,0.6333333333333333
+717,119,The answer cannot be determined from the provided information,0.0
+718,119,The answer cannot be determined from the provided text,0.0
+719,119,not provided in the context,0.0
+720,120,$\it{Other}$,0.23333333333333334
+721,120,Geto Boys,0.0
+722,120,Speedknot Mobstaz,0.7666666666666667
+723,120,The answer cannot be determined from the provided information,0.0
+724,120,The answer cannot be determined from the provided text,0.0
+725,120,not provided in the context,0.0
+726,121,$\it{Other}$,0.26666666666666666
+727,121,Geto Boys,0.0
+728,121,Speedknot Mobstaz,0.7333333333333333
+729,121,The answer cannot be determined from the provided information,0.0
+730,121,The answer cannot be determined from the provided text,0.0
+731,121,not provided in the context,0.0
+732,122,$\it{Other}$,0.27434558303181517
+733,122,Geto Boys,0.0
+734,122,Speedknot Mobstaz,0.7256544169681847
+735,122,The answer cannot be determined from the provided information,0.0
+736,122,The answer cannot be determined from the provided text,0.0
+737,122,not provided in the context,0.0
+738,123,$\it{Other}$,0.12499421594445997
+739,123,Geto Boys,0.0
+740,123,Speedknot Mobstaz,0.87500578405554
+741,123,The answer cannot be determined from the provided information,0.0
+742,123,The answer cannot be determined from the provided text,0.0
+743,123,not provided in the context,0.0
+744,124,$\it{Other}$,0.14119046322912537
+745,124,Geto Boys,0.0
+746,124,Speedknot Mobstaz,0.8588095367708747
+747,124,The answer cannot be determined from the provided information,0.0
+748,124,The answer cannot be determined from the provided text,0.0
+749,124,not provided in the context,0.0
+750,125,$\it{Other}$,0.2
+751,125,Geto Boys,0.0
+752,125,Speedknot Mobstaz,0.8
+753,125,The answer cannot be determined from the provided information,0.0
+754,125,The answer cannot be determined from the provided text,0.0
+755,125,not provided in the context,0.0
+756,126,$\it{Other}$,0.16666666666666666
+757,126,Geto Boys,0.0
+758,126,Speedknot Mobstaz,0.8333333333333334
+759,126,The answer cannot be determined from the provided information,0.0
+760,126,The answer cannot be determined from the provided text,0.0
+761,126,not provided in the context,0.0
+762,127,$\it{Other}$,0.23333333333333334
+763,127,Geto Boys,0.0
+764,127,Speedknot Mobstaz,0.7666666666666667
+765,127,The answer cannot be determined from the provided information,0.0
+766,127,The answer cannot be determined from the provided text,0.0
+767,127,not provided in the context,0.0
+768,128,$\it{Other}$,0.13333333333333333
+769,128,Geto Boys,0.0
+770,128,Speedknot Mobstaz,0.8666666666666667
+771,128,The answer cannot be determined from the provided information,0.0
+772,128,The answer cannot be determined from the provided text,0.0
+773,128,not provided in the context,0.0
+774,129,$\it{Other}$,0.17250586418111943
+775,129,Geto Boys,0.0
+776,129,Speedknot Mobstaz,0.8274941358188806
+777,129,The answer cannot be determined from the provided information,0.0
+778,129,The answer cannot be determined from the provided text,0.0
+779,129,not provided in the context,0.0
+780,130,$\it{Other}$,0.13793103448275862
+781,130,Geto Boys,0.0
+782,130,Speedknot Mobstaz,0.8620689655172413
+783,130,The answer cannot be determined from the provided information,0.0
+784,130,The answer cannot be determined from the provided text,0.0
+785,130,not provided in the context,0.0
+786,131,$\it{Other}$,0.2413793103448276
+787,131,Geto Boys,0.0
+788,131,Speedknot Mobstaz,0.7586206896551724
+789,131,The answer cannot be determined from the provided information,0.0
+790,131,The answer cannot be determined from the provided text,0.0
+791,131,not provided in the context,0.0
+792,132,$\it{Other}$,0.2
+793,132,Geto Boys,0.0
+794,132,Speedknot Mobstaz,0.8
+795,132,The answer cannot be determined from the provided information,0.0
+796,132,The answer cannot be determined from the provided text,0.0
+797,132,not provided in the context,0.0
+798,133,$\it{Other}$,0.2
+799,133,Geto Boys,0.0
+800,133,Speedknot Mobstaz,0.8
+801,133,The answer cannot be determined from the provided information,0.0
+802,133,The answer cannot be determined from the provided text,0.0
+803,133,not provided in the context,0.0
+804,134,$\it{Other}$,0.16666666666666666
+805,134,Geto Boys,0.0
+806,134,Speedknot Mobstaz,0.8333333333333334
+807,134,The answer cannot be determined from the provided information,0.0
+808,134,The answer cannot be determined from the provided text,0.0
+809,134,not provided in the context,0.0
+810,135,$\it{Other}$,0.2374975102900656
+811,135,Geto Boys,0.0
+812,135,Speedknot Mobstaz,0.7625024897099344
+813,135,The answer cannot be determined from the provided information,0.0
+814,135,The answer cannot be determined from the provided text,0.0
+815,135,not provided in the context,0.0
+816,136,$\it{Other}$,0.06666666666666667
+817,136,Geto Boys,0.0
+818,136,Speedknot Mobstaz,0.9333333333333333
+819,136,The answer cannot be determined from the provided information,0.0
+820,136,The answer cannot be determined from the provided text,0.0
+821,136,not provided in the context,0.0
+822,137,$\it{Other}$,0.1
+823,137,Geto Boys,0.0
+824,137,Speedknot Mobstaz,0.9
+825,137,The answer cannot be determined from the provided information,0.0
+826,137,The answer cannot be determined from the provided text,0.0
+827,137,not provided in the context,0.0
+828,138,$\it{Other}$,0.04322814345519195
+829,138,Geto Boys,0.0
+830,138,Speedknot Mobstaz,0.956771856544808
+831,138,The answer cannot be determined from the provided information,0.0
+832,138,The answer cannot be determined from the provided text,0.0
+833,138,not provided in the context,0.0
+834,139,$\it{Other}$,0.13660517660436242
+835,139,Geto Boys,0.0
+836,139,Speedknot Mobstaz,0.8633948233956377
+837,139,The answer cannot be determined from the provided information,0.0
+838,139,The answer cannot be determined from the provided text,0.0
+839,139,not provided in the context,0.0
+840,140,$\it{Other}$,0.03423586207016428
+841,140,Geto Boys,0.0
+842,140,Speedknot Mobstaz,0.9657641379298356
+843,140,The answer cannot be determined from the provided information,0.0
+844,140,The answer cannot be determined from the provided text,0.0
+845,140,not provided in the context,0.0
+846,141,$\it{Other}$,0.0
+847,141,Geto Boys,0.0
+848,141,Speedknot Mobstaz,1.0
+849,141,The answer cannot be determined from the provided information,0.0
+850,141,The answer cannot be determined from the provided text,0.0
+851,141,not provided in the context,0.0
+852,142,$\it{Other}$,0.0
+853,142,Geto Boys,0.0
+854,142,Speedknot Mobstaz,1.0
+855,142,The answer cannot be determined from the provided information,0.0
+856,142,The answer cannot be determined from the provided text,0.0
+857,142,not provided in the context,0.0
+858,143,$\it{Other}$,0.0
+859,143,Geto Boys,0.0
+860,143,Speedknot Mobstaz,1.0
+861,143,The answer cannot be determined from the provided information,0.0
+862,143,The answer cannot be determined from the provided text,0.0
+863,143,not provided in the context,0.0
+864,144,$\it{Other}$,0.0
+865,144,Geto Boys,0.0
+866,144,Speedknot Mobstaz,1.0
+867,144,The answer cannot be determined from the provided information,0.0
+868,144,The answer cannot be determined from the provided text,0.0
+869,144,not provided in the context,0.0
+870,145,$\it{Other}$,0.0
+871,145,Geto Boys,0.0
+872,145,Speedknot Mobstaz,1.0
+873,145,The answer cannot be determined from the provided information,0.0
+874,145,The answer cannot be determined from the provided text,0.0
+875,145,not provided in the context,0.0
+876,146,$\it{Other}$,0.0
+877,146,Geto Boys,0.0
+878,146,Speedknot Mobstaz,1.0
+879,146,The answer cannot be determined from the provided information,0.0
+880,146,The answer cannot be determined from the provided text,0.0
+881,146,not provided in the context,0.0
+882,147,$\it{Other}$,0.0
+883,147,Geto Boys,0.0
+884,147,Speedknot Mobstaz,0.9999999999999999
+885,147,The answer cannot be determined from the provided information,0.0
+886,147,The answer cannot be determined from the provided text,0.0
+887,147,not provided in the context,0.0
+888,148,$\it{Other}$,0.0
+889,148,Geto Boys,0.0
+890,148,Speedknot Mobstaz,1.0
+891,148,The answer cannot be determined from the provided information,0.0
+892,148,The answer cannot be determined from the provided text,0.0
+893,148,not provided in the context,0.0
+894,149,$\it{Other}$,0.05263157894736842
+895,149,Geto Boys,0.0
+896,149,Speedknot Mobstaz,0.9473684210526315
+897,149,The answer cannot be determined from the provided information,0.0
+898,149,The answer cannot be determined from the provided text,0.0
+899,149,not provided in the context,0.0
+900,150,$\it{Other}$,0.0
+901,150,Geto Boys,0.0
+902,150,Speedknot Mobstaz,1.0
+903,150,The answer cannot be determined from the provided information,0.0
+904,150,The answer cannot be determined from the provided text,0.0
+905,150,not provided in the context,0.0
+906,151,$\it{Other}$,0.0
+907,151,Geto Boys,0.0
+908,151,Speedknot Mobstaz,1.0
+909,151,The answer cannot be determined from the provided information,0.0
+910,151,The answer cannot be determined from the provided text,0.0
+911,151,not provided in the context,0.0
+912,152,$\it{Other}$,0.0
+913,152,Geto Boys,0.0
+914,152,Speedknot Mobstaz,1.0
+915,152,The answer cannot be determined from the provided information,0.0
+916,152,The answer cannot be determined from the provided text,0.0
+917,152,not provided in the context,0.0
+918,153,$\it{Other}$,0.0
+919,153,Geto Boys,0.0
+920,153,Speedknot Mobstaz,1.0
+921,153,The answer cannot be determined from the provided information,0.0
+922,153,The answer cannot be determined from the provided text,0.0
+923,153,not provided in the context,0.0
+924,154,$\it{Other}$,0.0
+925,154,Geto Boys,0.0
+926,154,Speedknot Mobstaz,1.0
+927,154,The answer cannot be determined from the provided information,0.0
+928,154,The answer cannot be determined from the provided text,0.0
+929,154,not provided in the context,0.0
+930,155,$\it{Other}$,0.0
+931,155,Geto Boys,0.0
+932,155,Speedknot Mobstaz,1.0
+933,155,The answer cannot be determined from the provided information,0.0
+934,155,The answer cannot be determined from the provided text,0.0
+935,155,not provided in the context,0.0
+936,156,$\it{Other}$,0.0
+937,156,Geto Boys,0.0
+938,156,Speedknot Mobstaz,1.0
+939,156,The answer cannot be determined from the provided information,0.0
+940,156,The answer cannot be determined from the provided text,0.0
+941,156,not provided in the context,0.0
+942,157,$\it{Other}$,0.0
+943,157,Geto Boys,0.0
+944,157,Speedknot Mobstaz,1.0
+945,157,The answer cannot be determined from the provided information,0.0
+946,157,The answer cannot be determined from the provided text,0.0
+947,157,not provided in the context,0.0
+948,158,$\it{Other}$,0.0
+949,158,Geto Boys,0.0
+950,158,Speedknot Mobstaz,1.0
+951,158,The answer cannot be determined from the provided information,0.0
+952,158,The answer cannot be determined from the provided text,0.0
+953,158,not provided in the context,0.0
+954,159,$\it{Other}$,0.0
+955,159,Geto Boys,0.0
+956,159,Speedknot Mobstaz,1.0
+957,159,The answer cannot be determined from the provided information,0.0
+958,159,The answer cannot be determined from the provided text,0.0
+959,159,not provided in the context,0.0
+960,160,$\it{Other}$,0.0
+961,160,Geto Boys,0.0
+962,160,Speedknot Mobstaz,1.0
+963,160,The answer cannot be determined from the provided information,0.0
+964,160,The answer cannot be determined from the provided text,0.0
+965,160,not provided in the context,0.0
+966,161,$\it{Other}$,0.0
+967,161,Geto Boys,0.0
+968,161,Speedknot Mobstaz,1.0
+969,161,The answer cannot be determined from the provided information,0.0
+970,161,The answer cannot be determined from the provided text,0.0
+971,161,not provided in the context,0.0
+972,162,$\it{Other}$,0.0
+973,162,Geto Boys,0.0
+974,162,Speedknot Mobstaz,1.0
+975,162,The answer cannot be determined from the provided information,0.0
+976,162,The answer cannot be determined from the provided text,0.0
+977,162,not provided in the context,0.0
+978,163,$\it{Other}$,0.0
+979,163,Geto Boys,0.0
+980,163,Speedknot Mobstaz,1.0
+981,163,The answer cannot be determined from the provided information,0.0
+982,163,The answer cannot be determined from the provided text,0.0
+983,163,not provided in the context,0.0

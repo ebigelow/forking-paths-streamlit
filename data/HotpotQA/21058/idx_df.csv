@@ -1,0 +1,391 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.0
+1,0,Cave of Forgotten Dreams,1.0
+2,1,$\it{Other}$,0.0
+3,1,Cave of Forgotten Dreams,1.0
+4,2,$\it{Other}$,0.0
+5,2,Cave of Forgotten Dreams,1.0
+6,3,$\it{Other}$,0.0
+7,3,Cave of Forgotten Dreams,1.0
+8,4,$\it{Other}$,0.0
+9,4,Cave of Forgotten Dreams,1.0
+10,5,$\it{Other}$,0.0
+11,5,Cave of Forgotten Dreams,0.9999999999999999
+12,6,$\it{Other}$,0.0027254352090552076
+13,6,Cave of Forgotten Dreams,0.9972745647909449
+14,7,$\it{Other}$,0.0
+15,7,Cave of Forgotten Dreams,1.0
+16,8,$\it{Other}$,0.0
+17,8,Cave of Forgotten Dreams,1.0
+18,9,$\it{Other}$,0.0
+19,9,Cave of Forgotten Dreams,1.0
+20,10,$\it{Other}$,0.0
+21,10,Cave of Forgotten Dreams,1.0
+22,11,$\it{Other}$,0.0
+23,11,Cave of Forgotten Dreams,1.0
+24,12,$\it{Other}$,0.0
+25,12,Cave of Forgotten Dreams,1.0
+26,13,$\it{Other}$,0.0
+27,13,Cave of Forgotten Dreams,1.0
+28,14,$\it{Other}$,0.0
+29,14,Cave of Forgotten Dreams,1.0
+30,15,$\it{Other}$,0.0
+31,15,Cave of Forgotten Dreams,1.0
+32,16,$\it{Other}$,0.03333333333333333
+33,16,Cave of Forgotten Dreams,0.9666666666666667
+34,17,$\it{Other}$,0.0
+35,17,Cave of Forgotten Dreams,1.0
+36,18,$\it{Other}$,0.0
+37,18,Cave of Forgotten Dreams,1.0
+38,19,$\it{Other}$,0.0
+39,19,Cave of Forgotten Dreams,0.9999999999999999
+40,20,$\it{Other}$,0.0
+41,20,Cave of Forgotten Dreams,1.0
+42,21,$\it{Other}$,0.0
+43,21,Cave of Forgotten Dreams,1.0
+44,22,$\it{Other}$,0.01800404457161134
+45,22,Cave of Forgotten Dreams,0.9819959554283887
+46,23,$\it{Other}$,0.0
+47,23,Cave of Forgotten Dreams,1.0
+48,24,$\it{Other}$,0.0
+49,24,Cave of Forgotten Dreams,1.0
+50,25,$\it{Other}$,0.0
+51,25,Cave of Forgotten Dreams,1.0
+52,26,$\it{Other}$,0.0
+53,26,Cave of Forgotten Dreams,1.0
+54,27,$\it{Other}$,0.0
+55,27,Cave of Forgotten Dreams,1.0
+56,28,$\it{Other}$,0.0
+57,28,Cave of Forgotten Dreams,1.0
+58,29,$\it{Other}$,0.0
+59,29,Cave of Forgotten Dreams,1.0
+60,30,$\it{Other}$,0.0
+61,30,Cave of Forgotten Dreams,1.0
+62,31,$\it{Other}$,0.0
+63,31,Cave of Forgotten Dreams,1.0
+64,32,$\it{Other}$,0.0
+65,32,Cave of Forgotten Dreams,1.0
+66,33,$\it{Other}$,0.0
+67,33,Cave of Forgotten Dreams,1.0
+68,34,$\it{Other}$,0.0
+69,34,Cave of Forgotten Dreams,1.0
+70,35,$\it{Other}$,0.0
+71,35,Cave of Forgotten Dreams,1.0
+72,36,$\it{Other}$,0.0
+73,36,Cave of Forgotten Dreams,1.0
+74,37,$\it{Other}$,0.0
+75,37,Cave of Forgotten Dreams,1.0
+76,38,$\it{Other}$,0.0
+77,38,Cave of Forgotten Dreams,1.0
+78,39,$\it{Other}$,0.0
+79,39,Cave of Forgotten Dreams,1.0
+80,40,$\it{Other}$,0.0
+81,40,Cave of Forgotten Dreams,1.0
+82,41,$\it{Other}$,0.0
+83,41,Cave of Forgotten Dreams,1.0
+84,42,$\it{Other}$,0.0
+85,42,Cave of Forgotten Dreams,1.0
+86,43,$\it{Other}$,0.0
+87,43,Cave of Forgotten Dreams,1.0
+88,44,$\it{Other}$,0.0
+89,44,Cave of Forgotten Dreams,1.0
+90,45,$\it{Other}$,0.0
+91,45,Cave of Forgotten Dreams,1.0
+92,46,$\it{Other}$,0.0
+93,46,Cave of Forgotten Dreams,1.0
+94,47,$\it{Other}$,0.0
+95,47,Cave of Forgotten Dreams,1.0
+96,48,$\it{Other}$,0.0
+97,48,Cave of Forgotten Dreams,1.0
+98,49,$\it{Other}$,0.0
+99,49,Cave of Forgotten Dreams,1.0
+100,50,$\it{Other}$,0.0
+101,50,Cave of Forgotten Dreams,1.0
+102,51,$\it{Other}$,0.0
+103,51,Cave of Forgotten Dreams,1.0
+104,52,$\it{Other}$,0.0
+105,52,Cave of Forgotten Dreams,1.0
+106,53,$\it{Other}$,0.0
+107,53,Cave of Forgotten Dreams,1.0
+108,54,$\it{Other}$,0.0
+109,54,Cave of Forgotten Dreams,1.0
+110,55,$\it{Other}$,0.0
+111,55,Cave of Forgotten Dreams,1.0
+112,56,$\it{Other}$,0.0
+113,56,Cave of Forgotten Dreams,1.0
+114,57,$\it{Other}$,0.0
+115,57,Cave of Forgotten Dreams,1.0
+116,58,$\it{Other}$,0.0
+117,58,Cave of Forgotten Dreams,1.0
+118,59,$\it{Other}$,0.0
+119,59,Cave of Forgotten Dreams,1.0
+120,60,$\it{Other}$,0.0
+121,60,Cave of Forgotten Dreams,1.0
+122,61,$\it{Other}$,0.0
+123,61,Cave of Forgotten Dreams,1.0
+124,62,$\it{Other}$,0.0
+125,62,Cave of Forgotten Dreams,1.0
+126,63,$\it{Other}$,0.0
+127,63,Cave of Forgotten Dreams,1.0
+128,64,$\it{Other}$,0.0
+129,64,Cave of Forgotten Dreams,1.0
+130,65,$\it{Other}$,0.0
+131,65,Cave of Forgotten Dreams,1.0
+132,66,$\it{Other}$,0.0
+133,66,Cave of Forgotten Dreams,0.9999999999999999
+134,67,$\it{Other}$,0.0
+135,67,Cave of Forgotten Dreams,1.0
+136,68,$\it{Other}$,0.0
+137,68,Cave of Forgotten Dreams,1.0
+138,69,$\it{Other}$,0.0
+139,69,Cave of Forgotten Dreams,1.0
+140,70,$\it{Other}$,0.0
+141,70,Cave of Forgotten Dreams,1.0
+142,71,$\it{Other}$,0.0
+143,71,Cave of Forgotten Dreams,1.0
+144,72,$\it{Other}$,0.0
+145,72,Cave of Forgotten Dreams,1.0
+146,73,$\it{Other}$,0.0
+147,73,Cave of Forgotten Dreams,1.0
+148,74,$\it{Other}$,0.0
+149,74,Cave of Forgotten Dreams,1.0
+150,75,$\it{Other}$,0.0
+151,75,Cave of Forgotten Dreams,1.0
+152,76,$\it{Other}$,0.0
+153,76,Cave of Forgotten Dreams,1.0
+154,77,$\it{Other}$,0.0
+155,77,Cave of Forgotten Dreams,0.9999999999999999
+156,78,$\it{Other}$,0.0
+157,78,Cave of Forgotten Dreams,1.0
+158,79,$\it{Other}$,0.0
+159,79,Cave of Forgotten Dreams,1.0
+160,80,$\it{Other}$,0.0
+161,80,Cave of Forgotten Dreams,1.0
+162,81,$\it{Other}$,0.0
+163,81,Cave of Forgotten Dreams,1.0
+164,82,$\it{Other}$,0.0
+165,82,Cave of Forgotten Dreams,1.0
+166,83,$\it{Other}$,0.0
+167,83,Cave of Forgotten Dreams,1.0
+168,84,$\it{Other}$,0.0
+169,84,Cave of Forgotten Dreams,1.0
+170,85,$\it{Other}$,0.0
+171,85,Cave of Forgotten Dreams,1.0
+172,86,$\it{Other}$,0.0
+173,86,Cave of Forgotten Dreams,1.0
+174,87,$\it{Other}$,0.0
+175,87,Cave of Forgotten Dreams,1.0
+176,88,$\it{Other}$,0.0
+177,88,Cave of Forgotten Dreams,1.0
+178,89,$\it{Other}$,0.0
+179,89,Cave of Forgotten Dreams,1.0
+180,90,$\it{Other}$,0.0
+181,90,Cave of Forgotten Dreams,1.0
+182,91,$\it{Other}$,0.0
+183,91,Cave of Forgotten Dreams,1.0
+184,92,$\it{Other}$,0.0
+185,92,Cave of Forgotten Dreams,1.0
+186,93,$\it{Other}$,0.0
+187,93,Cave of Forgotten Dreams,1.0
+188,94,$\it{Other}$,0.0
+189,94,Cave of Forgotten Dreams,1.0
+190,95,$\it{Other}$,0.0
+191,95,Cave of Forgotten Dreams,1.0
+192,96,$\it{Other}$,0.0
+193,96,Cave of Forgotten Dreams,1.0
+194,97,$\it{Other}$,0.0
+195,97,Cave of Forgotten Dreams,1.0
+196,98,$\it{Other}$,0.0
+197,98,Cave of Forgotten Dreams,1.0
+198,99,$\it{Other}$,0.0
+199,99,Cave of Forgotten Dreams,1.0
+200,100,$\it{Other}$,0.0
+201,100,Cave of Forgotten Dreams,1.0
+202,101,$\it{Other}$,0.0
+203,101,Cave of Forgotten Dreams,1.0
+204,102,$\it{Other}$,0.0
+205,102,Cave of Forgotten Dreams,1.0
+206,103,$\it{Other}$,0.0
+207,103,Cave of Forgotten Dreams,1.0
+208,104,$\it{Other}$,0.0
+209,104,Cave of Forgotten Dreams,1.0
+210,105,$\it{Other}$,0.0
+211,105,Cave of Forgotten Dreams,1.0
+212,106,$\it{Other}$,0.0
+213,106,Cave of Forgotten Dreams,1.0
+214,107,$\it{Other}$,0.0
+215,107,Cave of Forgotten Dreams,1.0
+216,108,$\it{Other}$,0.0
+217,108,Cave of Forgotten Dreams,1.0
+218,109,$\it{Other}$,0.0
+219,109,Cave of Forgotten Dreams,1.0
+220,110,$\it{Other}$,0.0
+221,110,Cave of Forgotten Dreams,1.0
+222,111,$\it{Other}$,0.0
+223,111,Cave of Forgotten Dreams,1.0
+224,112,$\it{Other}$,0.0
+225,112,Cave of Forgotten Dreams,1.0
+226,113,$\it{Other}$,0.0
+227,113,Cave of Forgotten Dreams,1.0
+228,114,$\it{Other}$,0.0
+229,114,Cave of Forgotten Dreams,1.0
+230,115,$\it{Other}$,0.0
+231,115,Cave of Forgotten Dreams,1.0
+232,116,$\it{Other}$,0.0
+233,116,Cave of Forgotten Dreams,1.0
+234,117,$\it{Other}$,0.0
+235,117,Cave of Forgotten Dreams,1.0
+236,118,$\it{Other}$,0.0
+237,118,Cave of Forgotten Dreams,1.0
+238,119,$\it{Other}$,0.0
+239,119,Cave of Forgotten Dreams,1.0
+240,120,$\it{Other}$,0.0
+241,120,Cave of Forgotten Dreams,1.0
+242,121,$\it{Other}$,0.0
+243,121,Cave of Forgotten Dreams,1.0
+244,122,$\it{Other}$,0.0
+245,122,Cave of Forgotten Dreams,1.0
+246,123,$\it{Other}$,0.0
+247,123,Cave of Forgotten Dreams,1.0
+248,124,$\it{Other}$,0.0
+249,124,Cave of Forgotten Dreams,1.0
+250,125,$\it{Other}$,0.0
+251,125,Cave of Forgotten Dreams,1.0
+252,126,$\it{Other}$,0.0
+253,126,Cave of Forgotten Dreams,1.0
+254,127,$\it{Other}$,0.0
+255,127,Cave of Forgotten Dreams,0.9999999999999999
+256,128,$\it{Other}$,0.0
+257,128,Cave of Forgotten Dreams,1.0
+258,129,$\it{Other}$,0.0
+259,129,Cave of Forgotten Dreams,1.0
+260,130,$\it{Other}$,0.0
+261,130,Cave of Forgotten Dreams,1.0
+262,131,$\it{Other}$,0.0
+263,131,Cave of Forgotten Dreams,1.0
+264,132,$\it{Other}$,0.0
+265,132,Cave of Forgotten Dreams,1.0
+266,133,$\it{Other}$,0.0
+267,133,Cave of Forgotten Dreams,1.0
+268,134,$\it{Other}$,0.0
+269,134,Cave of Forgotten Dreams,1.0
+270,135,$\it{Other}$,0.0
+271,135,Cave of Forgotten Dreams,1.0
+272,136,$\it{Other}$,0.0
+273,136,Cave of Forgotten Dreams,1.0000000000000002
+274,137,$\it{Other}$,0.0
+275,137,Cave of Forgotten Dreams,1.0
+276,138,$\it{Other}$,0.0
+277,138,Cave of Forgotten Dreams,1.0
+278,139,$\it{Other}$,0.0
+279,139,Cave of Forgotten Dreams,1.0
+280,140,$\it{Other}$,0.0
+281,140,Cave of Forgotten Dreams,1.0
+282,141,$\it{Other}$,0.0
+283,141,Cave of Forgotten Dreams,1.0
+284,142,$\it{Other}$,0.0
+285,142,Cave of Forgotten Dreams,1.0
+286,143,$\it{Other}$,0.0
+287,143,Cave of Forgotten Dreams,1.0
+288,144,$\it{Other}$,0.0
+289,144,Cave of Forgotten Dreams,1.0
+290,145,$\it{Other}$,0.0
+291,145,Cave of Forgotten Dreams,0.9999999999999999
+292,146,$\it{Other}$,0.0
+293,146,Cave of Forgotten Dreams,1.0
+294,147,$\it{Other}$,0.0
+295,147,Cave of Forgotten Dreams,1.0
+296,148,$\it{Other}$,0.0
+297,148,Cave of Forgotten Dreams,1.0
+298,149,$\it{Other}$,0.0
+299,149,Cave of Forgotten Dreams,1.0
+300,150,$\it{Other}$,0.0
+301,150,Cave of Forgotten Dreams,1.0
+302,151,$\it{Other}$,0.0
+303,151,Cave of Forgotten Dreams,1.0
+304,152,$\it{Other}$,0.0
+305,152,Cave of Forgotten Dreams,1.0
+306,153,$\it{Other}$,0.0
+307,153,Cave of Forgotten Dreams,1.0
+308,154,$\it{Other}$,0.0
+309,154,Cave of Forgotten Dreams,1.0
+310,155,$\it{Other}$,0.0
+311,155,Cave of Forgotten Dreams,1.0
+312,156,$\it{Other}$,0.0
+313,156,Cave of Forgotten Dreams,1.0
+314,157,$\it{Other}$,0.0
+315,157,Cave of Forgotten Dreams,1.0
+316,158,$\it{Other}$,0.0
+317,158,Cave of Forgotten Dreams,1.0
+318,159,$\it{Other}$,0.0
+319,159,Cave of Forgotten Dreams,1.0
+320,160,$\it{Other}$,0.0
+321,160,Cave of Forgotten Dreams,1.0
+322,161,$\it{Other}$,0.0
+323,161,Cave of Forgotten Dreams,1.0
+324,162,$\it{Other}$,0.0
+325,162,Cave of Forgotten Dreams,1.0
+326,163,$\it{Other}$,0.0
+327,163,Cave of Forgotten Dreams,1.0
+328,164,$\it{Other}$,0.0
+329,164,Cave of Forgotten Dreams,1.0
+330,165,$\it{Other}$,0.0
+331,165,Cave of Forgotten Dreams,1.0
+332,166,$\it{Other}$,0.0
+333,166,Cave of Forgotten Dreams,1.0
+334,167,$\it{Other}$,0.0
+335,167,Cave of Forgotten Dreams,1.0
+336,168,$\it{Other}$,0.0
+337,168,Cave of Forgotten Dreams,1.0
+338,169,$\it{Other}$,0.0
+339,169,Cave of Forgotten Dreams,1.0
+340,170,$\it{Other}$,0.0
+341,170,Cave of Forgotten Dreams,1.0
+342,171,$\it{Other}$,0.0
+343,171,Cave of Forgotten Dreams,1.0
+344,172,$\it{Other}$,0.0
+345,172,Cave of Forgotten Dreams,1.0
+346,173,$\it{Other}$,0.0
+347,173,Cave of Forgotten Dreams,1.0
+348,174,$\it{Other}$,0.0
+349,174,Cave of Forgotten Dreams,1.0
+350,175,$\it{Other}$,0.0
+351,175,Cave of Forgotten Dreams,1.0
+352,176,$\it{Other}$,0.0
+353,176,Cave of Forgotten Dreams,1.0
+354,177,$\it{Other}$,0.0
+355,177,Cave of Forgotten Dreams,1.0
+356,178,$\it{Other}$,0.0
+357,178,Cave of Forgotten Dreams,1.0
+358,179,$\it{Other}$,0.0
+359,179,Cave of Forgotten Dreams,0.9999999999999999
+360,180,$\it{Other}$,0.0
+361,180,Cave of Forgotten Dreams,1.0
+362,181,$\it{Other}$,0.0
+363,181,Cave of Forgotten Dreams,1.0
+364,182,$\it{Other}$,0.0
+365,182,Cave of Forgotten Dreams,1.0
+366,183,$\it{Other}$,0.0
+367,183,Cave of Forgotten Dreams,1.0
+368,184,$\it{Other}$,0.0
+369,184,Cave of Forgotten Dreams,1.0
+370,185,$\it{Other}$,0.0
+371,185,Cave of Forgotten Dreams,1.0
+372,186,$\it{Other}$,0.0
+373,186,Cave of Forgotten Dreams,1.0
+374,187,$\it{Other}$,0.0
+375,187,Cave of Forgotten Dreams,1.0
+376,188,$\it{Other}$,0.0
+377,188,Cave of Forgotten Dreams,1.0
+378,189,$\it{Other}$,0.0
+379,189,Cave of Forgotten Dreams,1.0
+380,190,$\it{Other}$,0.0
+381,190,Cave of Forgotten Dreams,1.0
+382,191,$\it{Other}$,0.0
+383,191,Cave of Forgotten Dreams,1.0
+384,192,$\it{Other}$,0.0
+385,192,Cave of Forgotten Dreams,1.0
+386,193,$\it{Other}$,0.0
+387,193,Cave of Forgotten Dreams,1.0
+388,194,$\it{Other}$,0.0
+389,194,Cave of Forgotten Dreams,1.0

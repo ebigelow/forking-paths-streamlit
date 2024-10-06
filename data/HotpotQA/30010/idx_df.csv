@@ -1,0 +1,1111 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.9228424465457098
+1,0,Natalia Lafourcade,0.06483712586379334
+2,0,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+3,0,Natalia y La Forquetina,0.01232042759049691
+4,0,Nati,0.0
+5,0,Nati Lafourcade or Natalia,0.0
+6,1,$\it{Other}$,0.9773915636814182
+7,1,Natalia Lafourcade,0.022608436318581674
+8,1,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+9,1,Natalia y La Forquetina,0.0
+10,1,Nati,0.0
+11,1,Nati Lafourcade or Natalia,0.0
+12,2,$\it{Other}$,0.9333333333333333
+13,2,Natalia Lafourcade,0.03333333333333333
+14,2,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+15,2,Natalia y La Forquetina,0.0
+16,2,Nati,0.03333333333333333
+17,2,Nati Lafourcade or Natalia,0.0
+18,3,$\it{Other}$,0.9253130897898043
+19,3,Natalia Lafourcade,0.04828684536597056
+20,3,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+21,3,Natalia y La Forquetina,0.0
+22,3,Nati,0.02640006484422512
+23,3,Nati Lafourcade or Natalia,0.0
+24,4,$\it{Other}$,0.9560536291703153
+25,4,Natalia Lafourcade,0.01657350266921724
+26,4,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.01368643408023375
+27,4,Natalia y La Forquetina,0.01368643408023375
+28,4,Nati,0.0
+29,4,Nati Lafourcade or Natalia,0.0
+30,5,$\it{Other}$,0.9554711932120443
+31,5,Natalia Lafourcade,0.03333333333333333
+32,5,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+33,5,Natalia y La Forquetina,0.011195473454622235
+34,5,Nati,0.0
+35,5,Nati Lafourcade or Natalia,0.0
+36,6,$\it{Other}$,0.9357695332993082
+37,6,Natalia Lafourcade,0.03333333333333333
+38,6,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+39,6,Natalia y La Forquetina,0.0
+40,6,Nati,0.030897133367358384
+41,6,Nati Lafourcade or Natalia,0.0
+42,7,$\it{Other}$,0.9666666666666667
+43,7,Natalia Lafourcade,0.03333333333333333
+44,7,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+45,7,Natalia y La Forquetina,0.0
+46,7,Nati,0.0
+47,7,Nati Lafourcade or Natalia,0.0
+48,8,$\it{Other}$,0.9671124653381495
+49,8,Natalia Lafourcade,0.023140819088432813
+50,8,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+51,8,Natalia y La Forquetina,0.003984841087802676
+52,8,Nati,0.005761874485614882
+53,8,Nati Lafourcade or Natalia,0.0
+54,9,$\it{Other}$,0.8775440578955886
+55,9,Natalia Lafourcade,0.043661426619766616
+56,9,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+57,9,Natalia y La Forquetina,0.05252967698976313
+58,9,Nati,0.026264838494881565
+59,9,Nati Lafourcade or Natalia,0.0
+60,10,$\it{Other}$,0.9661662649045444
+61,10,Natalia Lafourcade,0.014165407443834436
+62,10,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+63,10,Natalia y La Forquetina,0.01650285230470363
+64,10,Nati,0.003165475346917543
+65,10,Nati Lafourcade or Natalia,0.0
+66,11,$\it{Other}$,0.8748917984058986
+67,11,Natalia Lafourcade,0.08636139902028188
+68,11,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+69,11,Natalia y La Forquetina,0.013135014603759692
+70,11,Nati,0.0
+71,11,Nati Lafourcade or Natalia,0.0256117879700599
+72,12,$\it{Other}$,0.9
+73,12,Natalia Lafourcade,0.03333333333333333
+74,12,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+75,12,Natalia y La Forquetina,0.06666666666666667
+76,12,Nati,0.0
+77,12,Nati Lafourcade or Natalia,0.0
+78,13,$\it{Other}$,0.9
+79,13,Natalia Lafourcade,0.1
+80,13,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+81,13,Natalia y La Forquetina,0.0
+82,13,Nati,0.0
+83,13,Nati Lafourcade or Natalia,0.0
+84,14,$\it{Other}$,0.9333333333333333
+85,14,Natalia Lafourcade,0.03333333333333333
+86,14,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+87,14,Natalia y La Forquetina,0.03333333333333333
+88,14,Nati,0.0
+89,14,Nati Lafourcade or Natalia,0.0
+90,15,$\it{Other}$,1.0
+91,15,Natalia Lafourcade,0.0
+92,15,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+93,15,Natalia y La Forquetina,0.0
+94,15,Nati,0.0
+95,15,Nati Lafourcade or Natalia,0.0
+96,16,$\it{Other}$,0.9666666666666667
+97,16,Natalia Lafourcade,0.0
+98,16,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+99,16,Natalia y La Forquetina,0.03333333333333333
+100,16,Nati,0.0
+101,16,Nati Lafourcade or Natalia,0.0
+102,17,$\it{Other}$,0.9
+103,17,Natalia Lafourcade,0.06666666666666667
+104,17,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+105,17,Natalia y La Forquetina,0.0
+106,17,Nati,0.03333333333333333
+107,17,Nati Lafourcade or Natalia,0.0
+108,18,$\it{Other}$,0.9333333333333333
+109,18,Natalia Lafourcade,0.0
+110,18,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+111,18,Natalia y La Forquetina,0.06666666666666667
+112,18,Nati,0.0
+113,18,Nati Lafourcade or Natalia,0.0
+114,19,$\it{Other}$,0.863394456721159
+115,19,Natalia Lafourcade,0.04270376666725302
+116,19,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+117,19,Natalia y La Forquetina,0.06993887661217446
+118,19,Nati,0.023962899999413652
+119,19,Nati Lafourcade or Natalia,0.0
+120,20,$\it{Other}$,0.9397299395512304
+121,20,Natalia Lafourcade,0.02736600658147581
+122,20,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+123,20,Natalia y La Forquetina,0.0
+124,20,Nati,0.03290405386729373
+125,20,Nati Lafourcade or Natalia,0.0
+126,21,$\it{Other}$,0.8450618790796742
+127,21,Natalia Lafourcade,0.06080239379349623
+128,21,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+129,21,Natalia y La Forquetina,0.03333333333333333
+130,21,Nati,0.06080239379349623
+131,21,Nati Lafourcade or Natalia,0.0
+132,22,$\it{Other}$,0.915649074117924
+133,22,Natalia Lafourcade,0.042702166224591116
+134,22,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+135,22,Natalia y La Forquetina,0.029409963138637835
+136,22,Nati,0.012238796518847097
+137,22,Nati Lafourcade or Natalia,0.0
+138,23,$\it{Other}$,0.9171291412124362
+139,23,Natalia Lafourcade,0.03511894591827826
+140,23,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+141,23,Natalia y La Forquetina,0.04418068769939566
+142,23,Nati,0.003571225169889857
+143,23,Nati Lafourcade or Natalia,0.0
+144,24,$\it{Other}$,0.8703755153212788
+145,24,Natalia Lafourcade,0.06295781801205454
+146,24,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+147,24,Natalia y La Forquetina,0.04433573655829787
+148,24,Nati,0.0223309301083688
+149,24,Nati Lafourcade or Natalia,0.0
+150,25,$\it{Other}$,0.9666666666666667
+151,25,Natalia Lafourcade,0.03333333333333333
+152,25,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+153,25,Natalia y La Forquetina,0.0
+154,25,Nati,0.0
+155,25,Nati Lafourcade or Natalia,0.0
+156,26,$\it{Other}$,0.9065817137337621
+157,26,Natalia Lafourcade,0.05350323919914283
+158,26,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+159,26,Natalia y La Forquetina,0.01316342746752384
+160,26,Nati,0.026751619599571414
+161,26,Nati Lafourcade or Natalia,0.0
+162,27,$\it{Other}$,0.8666666666666667
+163,27,Natalia Lafourcade,0.06666666666666667
+164,27,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+165,27,Natalia y La Forquetina,0.03333333333333333
+166,27,Nati,0.03333333333333333
+167,27,Nati Lafourcade or Natalia,0.0
+168,28,$\it{Other}$,0.9333333333333333
+169,28,Natalia Lafourcade,0.06666666666666667
+170,28,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+171,28,Natalia y La Forquetina,0.0
+172,28,Nati,0.0
+173,28,Nati Lafourcade or Natalia,0.0
+174,29,$\it{Other}$,0.8896026821623206
+175,29,Natalia Lafourcade,0.03333333333333334
+176,29,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+177,29,Natalia y La Forquetina,0.030825593801738486
+178,29,Nati,0.04623839070260773
+179,29,Nati Lafourcade or Natalia,0.0
+180,30,$\it{Other}$,0.9588978868581803
+181,30,Natalia Lafourcade,0.0
+182,30,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+183,30,Natalia y La Forquetina,0.011653169712729484
+184,30,Nati,0.02944894342909017
+185,30,Nati Lafourcade or Natalia,0.0
+186,31,$\it{Other}$,1.0
+187,31,Natalia Lafourcade,0.0
+188,31,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+189,31,Natalia y La Forquetina,0.0
+190,31,Nati,0.0
+191,31,Nati Lafourcade or Natalia,0.0
+192,32,$\it{Other}$,1.0
+193,32,Natalia Lafourcade,0.0
+194,32,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+195,32,Natalia y La Forquetina,0.0
+196,32,Nati,0.0
+197,32,Nati Lafourcade or Natalia,0.0
+198,33,$\it{Other}$,0.9313787191611607
+199,33,Natalia Lafourcade,0.018203011847206556
+200,33,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+201,33,Natalia y La Forquetina,0.018203011847206556
+202,33,Nati,0.03221525714442618
+203,33,Nati Lafourcade or Natalia,0.0
+204,34,$\it{Other}$,0.9383147602249338
+205,34,Natalia Lafourcade,0.010686754137054695
+206,34,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+207,34,Natalia y La Forquetina,0.03206026241116409
+208,34,Nati,0.0189382232268476
+209,34,Nati Lafourcade or Natalia,0.0
+210,35,$\it{Other}$,0.797596317632761
+211,35,Natalia Lafourcade,0.07770791615167139
+212,35,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+213,35,Natalia y La Forquetina,0.05466786658584009
+214,35,Nati,0.046533974597779464
+215,35,Nati Lafourcade or Natalia,0.023493925031948158
+216,36,$\it{Other}$,0.8872109253652543
+217,36,Natalia Lafourcade,0.061426285480250246
+218,36,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+219,36,Natalia y La Forquetina,0.05136278915449551
+220,36,Nati,0.0
+221,36,Nati Lafourcade or Natalia,0.0
+222,37,$\it{Other}$,0.8
+223,37,Natalia Lafourcade,0.1
+224,37,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+225,37,Natalia y La Forquetina,0.1
+226,37,Nati,0.0
+227,37,Nati Lafourcade or Natalia,0.0
+228,38,$\it{Other}$,0.8560916110857886
+229,38,Natalia Lafourcade,0.08722870766449974
+230,38,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+231,38,Natalia y La Forquetina,0.04820801522990904
+232,38,Nati,0.0
+233,38,Nati Lafourcade or Natalia,0.008471666019802593
+234,39,$\it{Other}$,0.6666666666666666
+235,39,Natalia Lafourcade,0.16666666666666666
+236,39,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+237,39,Natalia y La Forquetina,0.13333333333333333
+238,39,Nati,0.03333333333333333
+239,39,Nati Lafourcade or Natalia,0.0
+240,40,$\it{Other}$,0.6
+241,40,Natalia Lafourcade,0.1
+242,40,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+243,40,Natalia y La Forquetina,0.16666666666666666
+244,40,Nati,0.1
+245,40,Nati Lafourcade or Natalia,0.0
+246,41,$\it{Other}$,0.6333333333333333
+247,41,Natalia Lafourcade,0.13333333333333333
+248,41,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+249,41,Natalia y La Forquetina,0.16666666666666666
+250,41,Nati,0.06666666666666667
+251,41,Nati Lafourcade or Natalia,0.0
+252,42,$\it{Other}$,0.6333333333333333
+253,42,Natalia Lafourcade,0.16666666666666666
+254,42,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+255,42,Natalia y La Forquetina,0.1
+256,42,Nati,0.1
+257,42,Nati Lafourcade or Natalia,0.0
+258,43,$\it{Other}$,0.5839215060620264
+259,43,Natalia Lafourcade,0.16549032120928048
+260,43,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+261,43,Natalia y La Forquetina,0.11607849393797356
+262,43,Nati,0.08509785151941263
+263,43,Nati Lafourcade or Natalia,0.0494118272713069
+264,44,$\it{Other}$,0.6333333333333333
+265,44,Natalia Lafourcade,0.2
+266,44,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+267,44,Natalia y La Forquetina,0.13333333333333333
+268,44,Nati,0.03333333333333333
+269,44,Nati Lafourcade or Natalia,0.0
+270,45,$\it{Other}$,0.5333333333333333
+271,45,Natalia Lafourcade,0.3
+272,45,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+273,45,Natalia y La Forquetina,0.13333333333333333
+274,45,Nati,0.03333333333333333
+275,45,Nati Lafourcade or Natalia,0.0
+276,46,$\it{Other}$,0.6198842036455061
+277,46,Natalia Lafourcade,0.15700222708208322
+278,46,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+279,46,Natalia y La Forquetina,0.18978023593907734
+280,46,Nati,0.03333333333333333
+281,46,Nati Lafourcade or Natalia,0.0
+282,47,$\it{Other}$,0.5071510102955213
+283,47,Natalia Lafourcade,0.1047673401970142
+284,47,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+285,47,Natalia y La Forquetina,0.2571319862726383
+286,47,Nati,0.10000000000000002
+287,47,Nati Lafourcade or Natalia,0.03094966323482624
+288,48,$\it{Other}$,0.670934520910555
+289,48,Natalia Lafourcade,0.11026488530083414
+290,48,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+291,48,Natalia y La Forquetina,0.06666666666666667
+292,48,Nati,0.15213392712194418
+293,48,Nati Lafourcade or Natalia,0.0
+294,49,$\it{Other}$,0.5
+295,49,Natalia Lafourcade,0.1
+296,49,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+297,49,Natalia y La Forquetina,0.3
+298,49,Nati,0.1
+299,49,Nati Lafourcade or Natalia,0.0
+300,50,$\it{Other}$,0.7333333333333333
+301,50,Natalia Lafourcade,0.03333333333333333
+302,50,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+303,50,Natalia y La Forquetina,0.13333333333333333
+304,50,Nati,0.1
+305,50,Nati Lafourcade or Natalia,0.0
+306,51,$\it{Other}$,0.551189105523985
+307,51,Natalia Lafourcade,0.06071474260311606
+308,51,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+309,51,Natalia y La Forquetina,0.1940480759364494
+310,51,Nati,0.1940480759364494
+311,51,Nati Lafourcade or Natalia,0.0
+312,52,$\it{Other}$,0.6333333333333333
+313,52,Natalia Lafourcade,0.16666666666666666
+314,52,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+315,52,Natalia y La Forquetina,0.13333333333333333
+316,52,Nati,0.06666666666666667
+317,52,Nati Lafourcade or Natalia,0.0
+318,53,$\it{Other}$,0.6194322953871663
+319,53,Natalia Lafourcade,0.10000000000000002
+320,53,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.023617185639750175
+321,53,Natalia y La Forquetina,0.11390103794616702
+322,53,Nati,0.1430494810269165
+323,53,Nati Lafourcade or Natalia,0.0
+324,54,$\it{Other}$,0.5237375226988998
+325,54,Natalia Lafourcade,0.13728958711648329
+326,54,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+327,54,Natalia y La Forquetina,0.2723062235179501
+328,54,Nati,0.06271041288351667
+329,54,Nati Lafourcade or Natalia,0.003956253783149985
+330,55,$\it{Other}$,0.6666666666666666
+331,55,Natalia Lafourcade,0.26666666666666666
+332,55,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+333,55,Natalia y La Forquetina,0.0
+334,55,Nati,0.06666666666666667
+335,55,Nati Lafourcade or Natalia,0.0
+336,56,$\it{Other}$,0.6
+337,56,Natalia Lafourcade,0.16666666666666666
+338,56,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+339,56,Natalia y La Forquetina,0.1
+340,56,Nati,0.13333333333333333
+341,56,Nati Lafourcade or Natalia,0.0
+342,57,$\it{Other}$,0.6
+343,57,Natalia Lafourcade,0.13333333333333333
+344,57,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+345,57,Natalia y La Forquetina,0.13333333333333333
+346,57,Nati,0.13333333333333333
+347,57,Nati Lafourcade or Natalia,0.0
+348,58,$\it{Other}$,0.5333333333333333
+349,58,Natalia Lafourcade,0.13333333333333333
+350,58,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+351,58,Natalia y La Forquetina,0.23333333333333334
+352,58,Nati,0.06666666666666667
+353,58,Nati Lafourcade or Natalia,0.03333333333333333
+354,59,$\it{Other}$,0.5442591399948934
+355,59,Natalia Lafourcade,0.25629677335375967
+356,59,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+357,59,Natalia y La Forquetina,0.1109258066615601
+358,59,Nati,0.08851827998978684
+359,59,Nati Lafourcade or Natalia,0.0
+360,60,$\it{Other}$,0.7
+361,60,Natalia Lafourcade,0.23333333333333334
+362,60,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+363,60,Natalia y La Forquetina,0.06666666666666667
+364,60,Nati,0.0
+365,60,Nati Lafourcade or Natalia,0.0
+366,61,$\it{Other}$,0.7
+367,61,Natalia Lafourcade,0.16666666666666666
+368,61,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+369,61,Natalia y La Forquetina,0.1
+370,61,Nati,0.0
+371,61,Nati Lafourcade or Natalia,0.03333333333333333
+372,62,$\it{Other}$,0.5655681346368513
+373,62,Natalia Lafourcade,0.21482303869379848
+374,62,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+375,62,Natalia y La Forquetina,0.11130968354913474
+376,62,Nati,0.1082991431202155
+377,62,Nati Lafourcade or Natalia,0.0
+378,63,$\it{Other}$,0.5666666666666667
+379,63,Natalia Lafourcade,0.1
+380,63,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+381,63,Natalia y La Forquetina,0.23333333333333334
+382,63,Nati,0.1
+383,63,Nati Lafourcade or Natalia,0.0
+384,64,$\it{Other}$,0.5725995838279443
+385,64,Natalia Lafourcade,0.25685993244275834
+386,64,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+387,64,Natalia y La Forquetina,0.13127423323468623
+388,64,Nati,0.03926625049461105
+389,64,Nati Lafourcade or Natalia,0.0
+390,65,$\it{Other}$,0.5502603008498309
+391,65,Natalia Lafourcade,0.223029330758764
+392,65,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+393,65,Natalia y La Forquetina,0.19111596242018342
+394,65,Nati,0.03559440597122171
+395,65,Nati Lafourcade or Natalia,0.0
+396,66,$\it{Other}$,0.5333333333333333
+397,66,Natalia Lafourcade,0.26666666666666666
+398,66,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+399,66,Natalia y La Forquetina,0.13333333333333333
+400,66,Nati,0.06666666666666667
+401,66,Nati Lafourcade or Natalia,0.0
+402,67,$\it{Other}$,0.5881512454892468
+403,67,Natalia Lafourcade,0.18889388622092151
+404,67,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+405,67,Natalia y La Forquetina,0.12740661976253626
+406,67,Nati,0.09554824852729542
+407,67,Nati Lafourcade or Natalia,0.0
+408,68,$\it{Other}$,0.5
+409,68,Natalia Lafourcade,0.21193132584488847
+410,68,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+411,68,Natalia y La Forquetina,0.2154363445660007
+412,68,Nati,0.03333333333333334
+413,68,Nati Lafourcade or Natalia,0.03929899625577756
+414,69,$\it{Other}$,0.5333333333333333
+415,69,Natalia Lafourcade,0.2
+416,69,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+417,69,Natalia y La Forquetina,0.1
+418,69,Nati,0.16666666666666666
+419,69,Nati Lafourcade or Natalia,0.0
+420,70,$\it{Other}$,0.5333333333333333
+421,70,Natalia Lafourcade,0.2
+422,70,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+423,70,Natalia y La Forquetina,0.16666666666666666
+424,70,Nati,0.06666666666666667
+425,70,Nati Lafourcade or Natalia,0.03333333333333333
+426,71,$\it{Other}$,0.6205086847228182
+427,71,Natalia Lafourcade,0.1769541843670958
+428,71,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+429,71,Natalia y La Forquetina,0.16388736498440692
+430,71,Nati,0.027126858109226933
+431,71,Nati Lafourcade or Natalia,0.011522907816452089
+432,72,$\it{Other}$,0.5978794855881588
+433,72,Natalia Lafourcade,0.10636154323552369
+434,72,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+435,72,Natalia y La Forquetina,0.16454615225482544
+436,72,Nati,0.1263144944289468
+437,72,Nati Lafourcade or Natalia,0.00489832449254532
+438,73,$\it{Other}$,0.650242224196312
+439,73,Natalia Lafourcade,0.12579916760406581
+440,73,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+441,73,Natalia y La Forquetina,0.1465735399613069
+442,73,Nati,0.07738506823831531
+443,73,Nati Lafourcade or Natalia,0.0
+444,74,$\it{Other}$,0.5333333333333333
+445,74,Natalia Lafourcade,0.1
+446,74,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+447,74,Natalia y La Forquetina,0.23333333333333334
+448,74,Nati,0.1
+449,74,Nati Lafourcade or Natalia,0.03333333333333333
+450,75,$\it{Other}$,0.7333333333333333
+451,75,Natalia Lafourcade,0.1
+452,75,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+453,75,Natalia y La Forquetina,0.13333333333333333
+454,75,Nati,0.03333333333333333
+455,75,Nati Lafourcade or Natalia,0.0
+456,76,$\it{Other}$,0.46251402082297977
+457,76,Natalia Lafourcade,0.13473067775388262
+458,76,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+459,76,Natalia y La Forquetina,0.2385665233697846
+460,76,Nati,0.13058447316404462
+461,76,Nati Lafourcade or Natalia,0.03360430488930838
+462,77,$\it{Other}$,0.6
+463,77,Natalia Lafourcade,0.13333333333333333
+464,77,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+465,77,Natalia y La Forquetina,0.16666666666666666
+466,77,Nati,0.1
+467,77,Nati Lafourcade or Natalia,0.0
+468,78,$\it{Other}$,0.5396043188855644
+469,78,Natalia Lafourcade,0.293729014447769
+470,78,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+471,78,Natalia y La Forquetina,0.1031354927761155
+472,78,Nati,0.06353117389055117
+473,78,Nati Lafourcade or Natalia,0.0
+474,79,$\it{Other}$,0.5472606205651259
+475,79,Natalia Lafourcade,0.22619853381874674
+476,79,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+477,79,Natalia y La Forquetina,0.12174830809840471
+478,79,Nati,0.09843822570921335
+479,79,Nati Lafourcade or Natalia,0.006354311808509335
+480,80,$\it{Other}$,0.5811504702999488
+481,80,Natalia Lafourcade,0.1760914315166922
+482,80,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+483,80,Natalia y La Forquetina,0.17862095090832053
+484,80,Nati,0.06413714727503833
+485,80,Nati Lafourcade or Natalia,0.0
+486,81,$\it{Other}$,0.551271562064392
+487,81,Natalia Lafourcade,0.18804118084596091
+488,81,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+489,81,Natalia y La Forquetina,0.09402059042298046
+490,81,Nati,0.13333333333333333
+491,81,Nati Lafourcade or Natalia,0.03333333333333333
+492,82,$\it{Other}$,0.4666666666666667
+493,82,Natalia Lafourcade,0.13333333333333333
+494,82,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+495,82,Natalia y La Forquetina,0.2
+496,82,Nati,0.2
+497,82,Nati Lafourcade or Natalia,0.0
+498,83,$\it{Other}$,0.5333333333333333
+499,83,Natalia Lafourcade,0.26666666666666666
+500,83,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+501,83,Natalia y La Forquetina,0.13333333333333333
+502,83,Nati,0.06666666666666667
+503,83,Nati Lafourcade or Natalia,0.0
+504,84,$\it{Other}$,0.6008556954568469
+505,84,Natalia Lafourcade,0.2
+506,84,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+507,84,Natalia y La Forquetina,0.17045063376360353
+508,84,Nati,0.028693670779549558
+509,84,Nati Lafourcade or Natalia,0.0
+510,85,$\it{Other}$,0.6521942538597202
+511,85,Natalia Lafourcade,0.18552758719305357
+512,85,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+513,85,Natalia y La Forquetina,0.09056953973680655
+514,85,Nati,0.07170861921041964
+515,85,Nati Lafourcade or Natalia,0.0
+516,86,$\it{Other}$,0.4512641719438412
+517,86,Natalia Lafourcade,0.16700302823756275
+518,86,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+519,86,Natalia y La Forquetina,0.13774660721956647
+520,86,Nati,0.15972504889275108
+521,86,Nati Lafourcade or Natalia,0.0842611437062785
+522,87,$\it{Other}$,0.3121755032876063
+523,87,Natalia Lafourcade,0.2425668174350692
+524,87,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.012893454282356857
+525,87,Natalia y La Forquetina,0.06233795892194033
+526,87,Nati,0.27977208609652937
+527,87,Nati Lafourcade or Natalia,0.090254179976498
+528,88,$\it{Other}$,0.5
+529,88,Natalia Lafourcade,0.26666666666666666
+530,88,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+531,88,Natalia y La Forquetina,0.06666666666666667
+532,88,Nati,0.0
+533,88,Nati Lafourcade or Natalia,0.16666666666666666
+534,89,$\it{Other}$,0.6333333333333333
+535,89,Natalia Lafourcade,0.16666666666666666
+536,89,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+537,89,Natalia y La Forquetina,0.03333333333333333
+538,89,Nati,0.0
+539,89,Nati Lafourcade or Natalia,0.16666666666666666
+540,90,$\it{Other}$,0.8149807138008875
+541,90,Natalia Lafourcade,0.06666666666666667
+542,90,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+543,90,Natalia y La Forquetina,0.03333333333333333
+544,90,Nati,0.0
+545,90,Nati Lafourcade or Natalia,0.08501928619911242
+546,91,$\it{Other}$,0.36666666666666664
+547,91,Natalia Lafourcade,0.3
+548,91,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+549,91,Natalia y La Forquetina,0.06666666666666667
+550,91,Nati,0.03333333333333333
+551,91,Nati Lafourcade or Natalia,0.23333333333333334
+552,92,$\it{Other}$,0.6493954531234278
+553,92,Natalia Lafourcade,0.18102324610193468
+554,92,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0066062663063302645
+555,92,Natalia y La Forquetina,0.06996979981983178
+556,92,Nati,0.0
+557,92,Nati Lafourcade or Natalia,0.09300523464847538
+558,93,$\it{Other}$,0.5666666666666667
+559,93,Natalia Lafourcade,0.16666666666666666
+560,93,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+561,93,Natalia y La Forquetina,0.03333333333333333
+562,93,Nati,0.0
+563,93,Nati Lafourcade or Natalia,0.23333333333333334
+564,94,$\it{Other}$,0.5
+565,94,Natalia Lafourcade,0.13333333333333333
+566,94,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+567,94,Natalia y La Forquetina,0.0
+568,94,Nati,0.0
+569,94,Nati Lafourcade or Natalia,0.3
+570,95,$\it{Other}$,0.43333333333333335
+571,95,Natalia Lafourcade,0.16666666666666666
+572,95,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+573,95,Natalia y La Forquetina,0.03333333333333333
+574,95,Nati,0.0
+575,95,Nati Lafourcade or Natalia,0.36666666666666664
+576,96,$\it{Other}$,0.4666666666666667
+577,96,Natalia Lafourcade,0.26666666666666666
+578,96,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+579,96,Natalia y La Forquetina,0.03333333333333333
+580,96,Nati,0.0
+581,96,Nati Lafourcade or Natalia,0.23333333333333334
+582,97,$\it{Other}$,0.6333333333333333
+583,97,Natalia Lafourcade,0.2
+584,97,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+585,97,Natalia y La Forquetina,0.0
+586,97,Nati,0.0
+587,97,Nati Lafourcade or Natalia,0.13333333333333333
+588,98,$\it{Other}$,0.5
+589,98,Natalia Lafourcade,0.13333333333333333
+590,98,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+591,98,Natalia y La Forquetina,0.03333333333333333
+592,98,Nati,0.0
+593,98,Nati Lafourcade or Natalia,0.26666666666666666
+594,99,$\it{Other}$,0.4666666666666667
+595,99,Natalia Lafourcade,0.16666666666666666
+596,99,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+597,99,Natalia y La Forquetina,0.03333333333333333
+598,99,Nati,0.0
+599,99,Nati Lafourcade or Natalia,0.26666666666666666
+600,100,$\it{Other}$,0.32621204453904756
+601,100,Natalia Lafourcade,0.25028413882976186
+602,100,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.033333333333333326
+603,100,Natalia y La Forquetina,0.0934469888652381
+604,100,Nati,0.0032765055673809503
+605,100,Nati Lafourcade or Natalia,0.29344698886523807
+606,101,$\it{Other}$,0.5
+607,101,Natalia Lafourcade,0.23333333333333334
+608,101,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+609,101,Natalia y La Forquetina,0.1
+610,101,Nati,0.0
+611,101,Nati Lafourcade or Natalia,0.16666666666666666
+612,102,$\it{Other}$,0.40663286552746275
+613,102,Natalia Lafourcade,0.25956581354098096
+614,102,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03823323700337955
+615,102,Natalia y La Forquetina,0.1333033161727892
+616,102,Nati,0.0
+617,102,Nati Lafourcade or Natalia,0.16226476775538762
+618,103,$\it{Other}$,0.36297675123247014
+619,103,Natalia Lafourcade,0.27958137068635436
+620,103,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+621,103,Natalia y La Forquetina,0.0314883756162351
+622,103,Nati,0.0
+623,103,Nati Lafourcade or Natalia,0.29262016913160704
+624,104,$\it{Other}$,0.38769065643353595
+625,104,Natalia Lafourcade,0.15441942697893665
+626,104,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.01930242837236708
+627,104,Natalia y La Forquetina,0.09850106839502273
+628,104,Nati,0.0
+629,104,Nati Lafourcade or Natalia,0.3400864198201375
+630,105,$\it{Other}$,0.17269273815182803
+631,105,Natalia Lafourcade,0.31311980160616487
+632,105,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.05354686506050177
+633,105,Natalia y La Forquetina,0.020213531727168436
+634,105,Nati,0.0
+635,105,Nati Lafourcade or Natalia,0.4404270634543369
+636,106,$\it{Other}$,0.13333333333333333
+637,106,Natalia Lafourcade,0.3
+638,106,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+639,106,Natalia y La Forquetina,0.0
+640,106,Nati,0.0
+641,106,Nati Lafourcade or Natalia,0.5
+642,107,$\it{Other}$,0.13910216375459938
+643,107,Natalia Lafourcade,0.3608978362454006
+644,107,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.04636738791819979
+645,107,Natalia y La Forquetina,0.0
+646,107,Nati,0.0
+647,107,Nati Lafourcade or Natalia,0.4536326120818002
+648,108,$\it{Other}$,0.1
+649,108,Natalia Lafourcade,0.3
+650,108,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.1
+651,108,Natalia y La Forquetina,0.0
+652,108,Nati,0.0
+653,108,Nati Lafourcade or Natalia,0.5
+654,109,$\it{Other}$,0.19621385107460418
+655,109,Natalia Lafourcade,0.2739277800801963
+656,109,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03870137228416511
+657,109,Natalia y La Forquetina,0.0026840194754158917
+658,109,Nati,0.0
+659,109,Nati Lafourcade or Natalia,0.48847297708561843
+660,110,$\it{Other}$,0.22749510030185058
+661,110,Natalia Lafourcade,0.41167646606296554
+662,110,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.01751469909444828
+663,110,Natalia y La Forquetina,0.0
+664,110,Nati,0.0
+665,110,Nati Lafourcade or Natalia,0.34331373454073566
+666,111,$\it{Other}$,0.13333333333333333
+667,111,Natalia Lafourcade,0.3
+668,111,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+669,111,Natalia y La Forquetina,0.0
+670,111,Nati,0.0
+671,111,Nati Lafourcade or Natalia,0.5333333333333333
+672,112,$\it{Other}$,0.278676037534898
+673,112,Natalia Lafourcade,0.2888480244917496
+674,112,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.02175266014509247
+675,112,Natalia y La Forquetina,0.0
+676,112,Nati,0.0
+677,112,Nati Lafourcade or Natalia,0.41072327782826
+678,113,$\it{Other}$,0.03333333333333333
+679,113,Natalia Lafourcade,0.36666666666666664
+680,113,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+681,113,Natalia y La Forquetina,0.0
+682,113,Nati,0.0
+683,113,Nati Lafourcade or Natalia,0.5333333333333333
+684,114,$\it{Other}$,0.1574279590489587
+685,114,Natalia Lafourcade,0.24622824138222577
+686,114,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.059087327734420575
+687,114,Natalia y La Forquetina,0.006467591446505327
+688,114,Nati,0.0
+689,114,Nati Lafourcade or Natalia,0.5307888803878896
+690,115,$\it{Other}$,0.07191940679533243
+691,115,Natalia Lafourcade,0.28084167722373415
+692,115,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.044993424938852174
+693,115,Natalia y La Forquetina,0.0
+694,115,Nati,0.0
+695,115,Nati Lafourcade or Natalia,0.6022454910420814
+696,116,$\it{Other}$,0.13333333333333333
+697,116,Natalia Lafourcade,0.3333333333333333
+698,116,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.13333333333333333
+699,116,Natalia y La Forquetina,0.0
+700,116,Nati,0.0
+701,116,Nati Lafourcade or Natalia,0.4
+702,117,$\it{Other}$,0.16925484637195243
+703,117,Natalia Lafourcade,0.3072147779309658
+704,117,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.09344694156710813
+705,117,Natalia y La Forquetina,0.0
+706,117,Nati,0.0
+707,117,Nati Lafourcade or Natalia,0.43008343412997363
+708,118,$\it{Other}$,0.05396652098301204
+709,118,Natalia Lafourcade,0.4666666666666667
+710,118,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+711,118,Natalia y La Forquetina,0.0
+712,118,Nati,0.0
+713,118,Nati Lafourcade or Natalia,0.41270014568365465
+714,119,$\it{Other}$,0.3
+715,119,Natalia Lafourcade,0.3333333333333333
+716,119,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+717,119,Natalia y La Forquetina,0.0
+718,119,Nati,0.0
+719,119,Nati Lafourcade or Natalia,0.3333333333333333
+720,120,$\it{Other}$,0.1
+721,120,Natalia Lafourcade,0.5
+722,120,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+723,120,Natalia y La Forquetina,0.0
+724,120,Nati,0.0
+725,120,Nati Lafourcade or Natalia,0.36666666666666664
+726,121,$\it{Other}$,0.2
+727,121,Natalia Lafourcade,0.4666666666666667
+728,121,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+729,121,Natalia y La Forquetina,0.0
+730,121,Nati,0.0
+731,121,Nati Lafourcade or Natalia,0.3
+732,122,$\it{Other}$,0.16666666666666666
+733,122,Natalia Lafourcade,0.4666666666666667
+734,122,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06666666666666667
+735,122,Natalia y La Forquetina,0.0
+736,122,Nati,0.0
+737,122,Nati Lafourcade or Natalia,0.3
+738,123,$\it{Other}$,0.06666666666666667
+739,123,Natalia Lafourcade,0.36666666666666664
+740,123,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.2
+741,123,Natalia y La Forquetina,0.0
+742,123,Nati,0.0
+743,123,Nati Lafourcade or Natalia,0.36666666666666664
+744,124,$\it{Other}$,0.16666666666666666
+745,124,Natalia Lafourcade,0.36666666666666664
+746,124,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+747,124,Natalia y La Forquetina,0.0
+748,124,Nati,0.0
+749,124,Nati Lafourcade or Natalia,0.43333333333333335
+750,125,$\it{Other}$,0.16666666666666666
+751,125,Natalia Lafourcade,0.3333333333333333
+752,125,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+753,125,Natalia y La Forquetina,0.0
+754,125,Nati,0.0
+755,125,Nati Lafourcade or Natalia,0.5
+756,126,$\it{Other}$,0.16666666666666666
+757,126,Natalia Lafourcade,0.36666666666666664
+758,126,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03333333333333333
+759,126,Natalia y La Forquetina,0.0
+760,126,Nati,0.0
+761,126,Nati Lafourcade or Natalia,0.43333333333333335
+762,127,$\it{Other}$,0.12136869418162141
+763,127,Natalia Lafourcade,0.3957171132136954
+764,127,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.035893917455135774
+765,127,Natalia y La Forquetina,0.0
+766,127,Nati,0.0
+767,127,Nati Lafourcade or Natalia,0.44702027514954745
+768,128,$\it{Other}$,0.13793103448275862
+769,128,Natalia Lafourcade,0.3793103448275862
+770,128,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.034482758620689655
+771,128,Natalia y La Forquetina,0.0
+772,128,Nati,0.0
+773,128,Nati Lafourcade or Natalia,0.4482758620689655
+774,129,$\it{Other}$,0.13333333333333333
+775,129,Natalia Lafourcade,0.23333333333333334
+776,129,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.1
+777,129,Natalia y La Forquetina,0.0
+778,129,Nati,0.0
+779,129,Nati Lafourcade or Natalia,0.5333333333333333
+780,130,$\it{Other}$,0.20547057631754656
+781,130,Natalia Lafourcade,0.43368860614497995
+782,130,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.046004921415349787
+783,130,Natalia y La Forquetina,0.0
+784,130,Nati,0.0
+785,130,Nati Lafourcade or Natalia,0.3148358961221237
+786,131,$\it{Other}$,0.13333333333333333
+787,131,Natalia Lafourcade,0.36666666666666664
+788,131,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.1
+789,131,Natalia y La Forquetina,0.0
+790,131,Nati,0.0
+791,131,Nati Lafourcade or Natalia,0.4
+792,132,$\it{Other}$,0.1862857772049767
+793,132,Natalia Lafourcade,0.2916709940569072
+794,132,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06215312818087059
+795,132,Natalia y La Forquetina,0.0
+796,132,Nati,0.0
+797,132,Nati Lafourcade or Natalia,0.45989010055724544
+798,133,$\it{Other}$,0.21428571428571427
+799,133,Natalia Lafourcade,0.03571428571428571
+800,133,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+801,133,Natalia y La Forquetina,0.0
+802,133,Nati,0.0
+803,133,Nati Lafourcade or Natalia,0.75
+804,134,$\it{Other}$,0.4197076969063558
+805,134,Natalia Lafourcade,0.1711194425782815
+806,134,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.037441274106785154
+807,134,Natalia y La Forquetina,0.0
+808,134,Nati,0.0
+809,134,Nati Lafourcade or Natalia,0.3717315864085775
+810,135,$\it{Other}$,0.17589253904954236
+811,135,Natalia Lafourcade,0.19434428381529376
+812,135,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.08616119142568644
+813,135,Natalia y La Forquetina,0.0
+814,135,Nati,0.0
+815,135,Nati Lafourcade or Natalia,0.5436019857094774
+816,136,$\it{Other}$,0.32
+817,136,Natalia Lafourcade,0.0
+818,136,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.04
+819,136,Natalia y La Forquetina,0.0
+820,136,Nati,0.0
+821,136,Nati Lafourcade or Natalia,0.64
+822,137,$\it{Other}$,0.17260597517142073
+823,137,Natalia Lafourcade,0.1480549722633785
+824,137,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.03463724460835786
+825,137,Natalia y La Forquetina,0.0
+826,137,Nati,0.0
+827,137,Nati Lafourcade or Natalia,0.6447018079568428
+828,138,$\it{Other}$,0.16760756676817273
+829,138,Natalia Lafourcade,0.16760756676817273
+830,138,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.05542417336724738
+831,138,Natalia y La Forquetina,0.0
+832,138,Nati,0.0
+833,138,Nati Lafourcade or Natalia,0.6093606930964072
+834,139,$\it{Other}$,0.24084772159164106
+835,139,Natalia Lafourcade,0.08166814997996313
+836,139,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.04458596903612716
+837,139,Natalia y La Forquetina,0.0
+838,139,Nati,0.0
+839,139,Nati Lafourcade or Natalia,0.6328981593922687
+840,140,$\it{Other}$,0.037037037037037035
+841,140,Natalia Lafourcade,0.07407407407407407
+842,140,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+843,140,Natalia y La Forquetina,0.0
+844,140,Nati,0.0
+845,140,Nati Lafourcade or Natalia,0.8888888888888888
+846,141,$\it{Other}$,0.10344827586206896
+847,141,Natalia Lafourcade,0.034482758620689655
+848,141,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+849,141,Natalia y La Forquetina,0.0
+850,141,Nati,0.0
+851,141,Nati Lafourcade or Natalia,0.8620689655172413
+852,142,$\it{Other}$,0.043478260869565216
+853,142,Natalia Lafourcade,0.043478260869565216
+854,142,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.043478260869565216
+855,142,Natalia y La Forquetina,0.0
+856,142,Nati,0.0
+857,142,Nati Lafourcade or Natalia,0.8695652173913043
+858,143,$\it{Other}$,0.07142857142857142
+859,143,Natalia Lafourcade,0.03571428571428571
+860,143,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.07142857142857142
+861,143,Natalia y La Forquetina,0.0
+862,143,Nati,0.0
+863,143,Nati Lafourcade or Natalia,0.8214285714285714
+864,144,$\it{Other}$,0.07789715284543663
+865,144,Natalia Lafourcade,0.05185146727606697
+866,144,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.06451445426674328
+867,144,Natalia y La Forquetina,0.0
+868,144,Nati,0.0
+869,144,Nati Lafourcade or Natalia,0.805736925611753
+870,145,$\it{Other}$,0.0
+871,145,Natalia Lafourcade,0.038461538461538464
+872,145,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+873,145,Natalia y La Forquetina,0.0
+874,145,Nati,0.0
+875,145,Nati Lafourcade or Natalia,0.9615384615384616
+876,146,$\it{Other}$,0.0
+877,146,Natalia Lafourcade,0.0
+878,146,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+879,146,Natalia y La Forquetina,0.0
+880,146,Nati,0.0
+881,146,Nati Lafourcade or Natalia,1.0
+882,147,$\it{Other}$,0.0
+883,147,Natalia Lafourcade,0.0
+884,147,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+885,147,Natalia y La Forquetina,0.0
+886,147,Nati,0.0
+887,147,Nati Lafourcade or Natalia,1.0
+888,148,$\it{Other}$,0.0
+889,148,Natalia Lafourcade,0.0
+890,148,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+891,148,Natalia y La Forquetina,0.0
+892,148,Nati,0.0
+893,148,Nati Lafourcade or Natalia,1.0
+894,149,$\it{Other}$,0.0
+895,149,Natalia Lafourcade,0.04
+896,149,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+897,149,Natalia y La Forquetina,0.0
+898,149,Nati,0.0
+899,149,Nati Lafourcade or Natalia,0.96
+900,150,$\it{Other}$,0.0
+901,150,Natalia Lafourcade,0.08333333333333333
+902,150,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+903,150,Natalia y La Forquetina,0.0
+904,150,Nati,0.0
+905,150,Nati Lafourcade or Natalia,0.9166666666666666
+906,151,$\it{Other}$,0.0
+907,151,Natalia Lafourcade,0.0
+908,151,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+909,151,Natalia y La Forquetina,0.0
+910,151,Nati,0.0
+911,151,Nati Lafourcade or Natalia,1.0
+912,152,$\it{Other}$,0.0
+913,152,Natalia Lafourcade,0.0
+914,152,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+915,152,Natalia y La Forquetina,0.0
+916,152,Nati,0.0
+917,152,Nati Lafourcade or Natalia,1.0
+918,153,$\it{Other}$,0.0
+919,153,Natalia Lafourcade,0.0
+920,153,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+921,153,Natalia y La Forquetina,0.0
+922,153,Nati,0.0
+923,153,Nati Lafourcade or Natalia,1.0
+924,154,$\it{Other}$,0.0
+925,154,Natalia Lafourcade,0.038461538461538464
+926,154,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+927,154,Natalia y La Forquetina,0.0
+928,154,Nati,0.0
+929,154,Nati Lafourcade or Natalia,0.9615384615384616
+930,155,$\it{Other}$,0.0
+931,155,Natalia Lafourcade,0.041666666666666664
+932,155,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+933,155,Natalia y La Forquetina,0.0
+934,155,Nati,0.0
+935,155,Nati Lafourcade or Natalia,0.9583333333333334
+936,156,$\it{Other}$,0.0
+937,156,Natalia Lafourcade,0.0
+938,156,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+939,156,Natalia y La Forquetina,0.0
+940,156,Nati,0.0
+941,156,Nati Lafourcade or Natalia,1.0
+942,157,$\it{Other}$,0.0
+943,157,Natalia Lafourcade,0.04
+944,157,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+945,157,Natalia y La Forquetina,0.0
+946,157,Nati,0.0
+947,157,Nati Lafourcade or Natalia,0.96
+948,158,$\it{Other}$,0.0
+949,158,Natalia Lafourcade,0.0
+950,158,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+951,158,Natalia y La Forquetina,0.0
+952,158,Nati,0.0
+953,158,Nati Lafourcade or Natalia,1.0
+954,159,$\it{Other}$,0.0
+955,159,Natalia Lafourcade,0.0
+956,159,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+957,159,Natalia y La Forquetina,0.0
+958,159,Nati,0.0
+959,159,Nati Lafourcade or Natalia,1.0
+960,160,$\it{Other}$,0.0
+961,160,Natalia Lafourcade,0.0
+962,160,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+963,160,Natalia y La Forquetina,0.0
+964,160,Nati,0.0
+965,160,Nati Lafourcade or Natalia,1.0
+966,161,$\it{Other}$,0.0
+967,161,Natalia Lafourcade,0.0
+968,161,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+969,161,Natalia y La Forquetina,0.0
+970,161,Nati,0.0
+971,161,Nati Lafourcade or Natalia,1.0
+972,162,$\it{Other}$,0.0
+973,162,Natalia Lafourcade,0.0
+974,162,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+975,162,Natalia y La Forquetina,0.0
+976,162,Nati,0.0
+977,162,Nati Lafourcade or Natalia,1.0
+978,163,$\it{Other}$,0.0
+979,163,Natalia Lafourcade,0.0
+980,163,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+981,163,Natalia y La Forquetina,0.0
+982,163,Nati,0.0
+983,163,Nati Lafourcade or Natalia,1.0
+984,164,$\it{Other}$,0.0
+985,164,Natalia Lafourcade,0.04
+986,164,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+987,164,Natalia y La Forquetina,0.0
+988,164,Nati,0.0
+989,164,Nati Lafourcade or Natalia,0.96
+990,165,$\it{Other}$,0.0
+991,165,Natalia Lafourcade,0.0
+992,165,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+993,165,Natalia y La Forquetina,0.0
+994,165,Nati,0.0
+995,165,Nati Lafourcade or Natalia,1.0
+996,166,$\it{Other}$,0.0
+997,166,Natalia Lafourcade,0.0
+998,166,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+999,166,Natalia y La Forquetina,0.0
+1000,166,Nati,0.0
+1001,166,Nati Lafourcade or Natalia,1.0
+1002,167,$\it{Other}$,0.0
+1003,167,Natalia Lafourcade,0.0
+1004,167,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1005,167,Natalia y La Forquetina,0.0
+1006,167,Nati,0.0
+1007,167,Nati Lafourcade or Natalia,1.0
+1008,168,$\it{Other}$,0.0
+1009,168,Natalia Lafourcade,0.0
+1010,168,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1011,168,Natalia y La Forquetina,0.0
+1012,168,Nati,0.0
+1013,168,Nati Lafourcade or Natalia,1.0
+1014,169,$\it{Other}$,0.0
+1015,169,Natalia Lafourcade,0.0
+1016,169,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1017,169,Natalia y La Forquetina,0.0
+1018,169,Nati,0.0
+1019,169,Nati Lafourcade or Natalia,1.0
+1020,170,$\it{Other}$,0.0
+1021,170,Natalia Lafourcade,0.0
+1022,170,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1023,170,Natalia y La Forquetina,0.0
+1024,170,Nati,0.0
+1025,170,Nati Lafourcade or Natalia,1.0
+1026,171,$\it{Other}$,0.0
+1027,171,Natalia Lafourcade,0.1111111111111111
+1028,171,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1029,171,Natalia y La Forquetina,0.0
+1030,171,Nati,0.0
+1031,171,Nati Lafourcade or Natalia,0.8888888888888888
+1032,172,$\it{Other}$,0.0
+1033,172,Natalia Lafourcade,0.004945805118010858
+1034,172,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1035,172,Natalia y La Forquetina,0.0
+1036,172,Nati,0.0
+1037,172,Nati Lafourcade or Natalia,0.9950541948819892
+1038,173,$\it{Other}$,0.0
+1039,173,Natalia Lafourcade,0.0
+1040,173,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1041,173,Natalia y La Forquetina,0.0
+1042,173,Nati,0.0
+1043,173,Nati Lafourcade or Natalia,1.0
+1044,174,$\it{Other}$,0.0
+1045,174,Natalia Lafourcade,0.0
+1046,174,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1047,174,Natalia y La Forquetina,0.0
+1048,174,Nati,0.0
+1049,174,Nati Lafourcade or Natalia,1.0
+1050,175,$\it{Other}$,0.0
+1051,175,Natalia Lafourcade,0.0
+1052,175,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1053,175,Natalia y La Forquetina,0.0
+1054,175,Nati,0.0
+1055,175,Nati Lafourcade or Natalia,1.0
+1056,176,$\it{Other}$,0.0
+1057,176,Natalia Lafourcade,0.0
+1058,176,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1059,176,Natalia y La Forquetina,0.0
+1060,176,Nati,0.0
+1061,176,Nati Lafourcade or Natalia,1.0
+1062,177,$\it{Other}$,0.0
+1063,177,Natalia Lafourcade,0.16666666666666666
+1064,177,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1065,177,Natalia y La Forquetina,0.0
+1066,177,Nati,0.0
+1067,177,Nati Lafourcade or Natalia,0.8333333333333334
+1068,178,$\it{Other}$,0.0
+1069,178,Natalia Lafourcade,0.0
+1070,178,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1071,178,Natalia y La Forquetina,0.0
+1072,178,Nati,0.0
+1073,178,Nati Lafourcade or Natalia,1.0
+1074,179,$\it{Other}$,0.0
+1075,179,Natalia Lafourcade,0.25
+1076,179,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1077,179,Natalia y La Forquetina,0.0
+1078,179,Nati,0.0
+1079,179,Nati Lafourcade or Natalia,0.75
+1080,180,$\it{Other}$,0.0
+1081,180,Natalia Lafourcade,0.2222222222222222
+1082,180,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1083,180,Natalia y La Forquetina,0.0
+1084,180,Nati,0.0
+1085,180,Nati Lafourcade or Natalia,0.7777777777777778
+1086,181,$\it{Other}$,0.0
+1087,181,Natalia Lafourcade,0.0
+1088,181,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1089,181,Natalia y La Forquetina,0.0
+1090,181,Nati,0.0
+1091,181,Nati Lafourcade or Natalia,1.0
+1092,182,$\it{Other}$,0.0
+1093,182,Natalia Lafourcade,0.0
+1094,182,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.16666666666666666
+1095,182,Natalia y La Forquetina,0.0
+1096,182,Nati,0.0
+1097,182,Nati Lafourcade or Natalia,0.8333333333333334
+1098,183,$\it{Other}$,0.0
+1099,183,Natalia Lafourcade,0.0
+1100,183,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1101,183,Natalia y La Forquetina,0.0
+1102,183,Nati,0.0
+1103,183,Nati Lafourcade or Natalia,1.0
+1104,184,$\it{Other}$,0.0
+1105,184,Natalia Lafourcade,0.2
+1106,184,"Natalia Lafourcade, Nati Lafourcade, or Natalia",0.0
+1107,184,Natalia y La Forquetina,0.0
+1108,184,Nati,0.0
+1109,184,Nati Lafourcade or Natalia,0.8

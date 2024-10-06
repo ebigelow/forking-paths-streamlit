@@ -1,1 +1,0 @@
-{"base_args": {"logprobs": 20, "max_tokens": 300}, "extend_args": {"temperature": 1, "n": 30, "max_tokens": 512}, "ans_args": {}, "tok_depth": 300, "p_thresh": 0.05, "row": {"targets_vec": [1, 0], "targets": "no", "inputs": " Q: A coin is heads up. shemsie does not flip the coin. aur\u00e9lienne flips the coin.  Is the coin still heads up? ", "index": 13072}}

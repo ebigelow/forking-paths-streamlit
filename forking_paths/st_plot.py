@@ -6,6 +6,7 @@ import seaborn as sns
 
 import plotly.graph_objs as go
 import plotly.offline as offline
+import streamlit as st
 
 from forking_paths.analysis_utils import get_survival_df
 from forking_paths.st_utils import semantic_drift
@@ -68,11 +69,10 @@ def plotly_stacked(idx_df, base_tokens, colors, outcomes_set, tick_text=True):
 
 
 
-def plotly_parallel_categories(idx_tok_df, base_tokens, colors, plot_idx=0, plot_n_idxs=4):
-    # base_tokens = base_res[0]['choice']['logprobs']['tokens']
+def plotly_parallel_categories(idx_tok_df, base_tokens, colors, plot_idx=0, plot_n_idxs=4, start_tok='<START>'):
+    assert base_tokens[0] == start_tok
 
     idx_tok_df_ = idx_tok_df.copy()
-
     trace_kws = []
     
     # Draw n sankey plots in a sequence
@@ -86,9 +86,8 @@ def plotly_parallel_categories(idx_tok_df, base_tokens, colors, plot_idx=0, plot
         next_tokens = dfi['tok'].tolist()        # 'next_token'
         next_probs  = dfi['weighted'].tolist()   # 'weighted'
         
-        prev_token = base_tokens[i-1] if i > 0 else '<START>'
-        # for i, (last_token, next_tokens, next_probs) in enumerate(zip(last_tokens, next_tokens_s, next_probs_s)):
-        
+        prev_token = base_tokens[i]  ##base_tokens[i-1] if i > 0 else '<START>'
+
         out_idxs = dfi['ans'].cat.codes.tolist()
         
         j = i - plot_idx
@@ -365,7 +364,7 @@ def rgb_1_to_255(rgb):
 
 
 
-
+@st.cache_data
 def survival_lines(idx_tok_df, base_tokens, dist_fn='d_l1', d_thresholds=[0, .1, .2, .3, .5, .7]):
 
     survive_df = get_survival_df(idx_tok_df, base_tokens, dist_fn=dist_fn, d_thresholds=d_thresholds)

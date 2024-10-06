@@ -1,0 +1,1456 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.2817520691899569
+1,0,Both,0.008351661950180425
+2,0,Igor Stravinsky,0.4807905715492377
+3,0,It is difficult to determine,0.20329524038860927
+4,0,It is difficult to say,0.025810456922015737
+5,1,$\it{Other}$,0.2795951096330802
+6,1,Both,0.0
+7,1,Igor Stravinsky,0.5434697090607855
+8,1,It is difficult to determine,0.1493580820409626
+9,1,It is difficult to say,0.027577099265171663
+10,2,$\it{Other}$,0.23333333333333334
+11,2,Both,0.03333333333333333
+12,2,Igor Stravinsky,0.36666666666666664
+13,2,It is difficult to determine,0.3333333333333333
+14,2,It is difficult to say,0.03333333333333333
+15,3,$\it{Other}$,0.2
+16,3,Both,0.0
+17,3,Igor Stravinsky,0.6
+18,3,It is difficult to determine,0.2
+19,3,It is difficult to say,0.0
+20,4,$\it{Other}$,0.13333333333333333
+21,4,Both,0.0
+22,4,Igor Stravinsky,0.5333333333333333
+23,4,It is difficult to determine,0.3
+24,4,It is difficult to say,0.03333333333333333
+25,5,$\it{Other}$,0.16666666666666666
+26,5,Both,0.03333333333333333
+27,5,Igor Stravinsky,0.6
+28,5,It is difficult to determine,0.16666666666666666
+29,5,It is difficult to say,0.03333333333333333
+30,6,$\it{Other}$,0.16666666666666666
+31,6,Both,0.0
+32,6,Igor Stravinsky,0.5
+33,6,It is difficult to determine,0.3
+34,6,It is difficult to say,0.03333333333333333
+35,7,$\it{Other}$,0.3038494914637336
+36,7,Both,0.051924745731866805
+37,7,Igor Stravinsky,0.4998696804032452
+38,7,It is difficult to determine,0.13326706180086573
+39,7,It is difficult to say,0.011089020600288583
+40,8,$\it{Other}$,0.13333333333333333
+41,8,Both,0.0
+42,8,Igor Stravinsky,0.6124524289424509
+43,8,It is difficult to determine,0.2542142377242157
+44,8,It is difficult to say,0.0
+45,9,$\it{Other}$,0.23333333333333334
+46,9,Both,0.0
+47,9,Igor Stravinsky,0.5
+48,9,It is difficult to determine,0.26666666666666666
+49,9,It is difficult to say,0.0
+50,10,$\it{Other}$,0.19356468642758784
+51,10,Both,0.03976864690574552
+52,10,Igor Stravinsky,0.5128706271448243
+53,10,It is difficult to determine,0.22689801976092117
+54,10,It is difficult to say,0.02689801976092115
+55,11,$\it{Other}$,0.16666666666666666
+56,11,Both,0.0
+57,11,Igor Stravinsky,0.6
+58,11,It is difficult to determine,0.16666666666666666
+59,11,It is difficult to say,0.06666666666666667
+60,12,$\it{Other}$,0.15927731531616973
+61,12,Both,0.028344164667852174
+62,12,Igor Stravinsky,0.5953474298874398
+63,12,It is difficult to determine,0.19390749555127768
+64,12,It is difficult to say,0.0231235945772605
+65,13,$\it{Other}$,0.23333333333333334
+66,13,Both,0.0
+67,13,Igor Stravinsky,0.6
+68,13,It is difficult to determine,0.16666666666666666
+69,13,It is difficult to say,0.0
+70,14,$\it{Other}$,0.12355487413079949
+71,14,Both,0.0
+72,14,Igor Stravinsky,0.5666666666666667
+73,14,It is difficult to determine,0.2678805609909426
+74,14,It is difficult to say,0.0418978982115912
+75,15,$\it{Other}$,0.16666666666666666
+76,15,Both,0.0
+77,15,Igor Stravinsky,0.5666666666666667
+78,15,It is difficult to determine,0.23333333333333334
+79,15,It is difficult to say,0.03333333333333333
+80,16,$\it{Other}$,0.20866650052081925
+81,16,Both,0.03333333333333334
+82,16,Igor Stravinsky,0.4768334579427189
+83,16,It is difficult to determine,0.2435001246093856
+84,16,It is difficult to say,0.03766658359374295
+85,17,$\it{Other}$,0.2
+86,17,Both,0.03333333333333333
+87,17,Igor Stravinsky,0.4
+88,17,It is difficult to determine,0.23333333333333334
+89,17,It is difficult to say,0.13333333333333333
+90,18,$\it{Other}$,0.3
+91,18,Both,0.03333333333333333
+92,18,Igor Stravinsky,0.4666666666666667
+93,18,It is difficult to determine,0.2
+94,18,It is difficult to say,0.0
+95,19,$\it{Other}$,0.16666666666666666
+96,19,Both,0.03333333333333333
+97,19,Igor Stravinsky,0.6333333333333333
+98,19,It is difficult to determine,0.13333333333333333
+99,19,It is difficult to say,0.03333333333333333
+100,20,$\it{Other}$,0.2
+101,20,Both,0.0
+102,20,Igor Stravinsky,0.4666666666666667
+103,20,It is difficult to determine,0.26666666666666666
+104,20,It is difficult to say,0.06666666666666667
+105,21,$\it{Other}$,0.19550444385495208
+106,21,Both,0.00449555614504796
+107,21,Igor Stravinsky,0.591008887709904
+108,21,It is difficult to determine,0.1756577789567626
+109,21,It is difficult to say,0.03333333333333333
+110,22,$\it{Other}$,0.22152350024033718
+111,22,Both,0.07742841678683526
+112,22,Igor Stravinsky,0.4677147496394942
+113,22,It is difficult to determine,0.2258094722622784
+114,22,It is difficult to say,0.007523861071054914
+115,23,$\it{Other}$,0.26734541949974566
+116,23,Both,0.030245755608067054
+117,23,Igor Stravinsky,0.4767378426651445
+118,23,It is difficult to determine,0.18218551409411488
+119,23,It is difficult to say,0.04348546813292797
+120,24,$\it{Other}$,0.26666666666666666
+121,24,Both,0.06666666666666667
+122,24,Igor Stravinsky,0.36666666666666664
+123,24,It is difficult to determine,0.23333333333333334
+124,24,It is difficult to say,0.06666666666666667
+125,25,$\it{Other}$,0.304203447352432
+126,25,Both,0.029129885980901292
+127,25,Igor Stravinsky,0.47087011401909873
+128,25,It is difficult to determine,0.16666666666666666
+129,25,It is difficult to say,0.029129885980901292
+130,26,$\it{Other}$,0.19893173281910334
+131,26,Both,0.027613740823785836
+132,26,Igor Stravinsky,0.5446644231339057
+133,26,It is difficult to determine,0.1889687323113345
+134,26,It is difficult to say,0.03982137091187053
+135,27,$\it{Other}$,0.2
+136,27,Both,0.0
+137,27,Igor Stravinsky,0.4666666666666667
+138,27,It is difficult to determine,0.26666666666666666
+139,27,It is difficult to say,0.06666666666666667
+140,28,$\it{Other}$,0.22936332740321586
+141,28,Both,0.001985002965058737
+142,28,Igor Stravinsky,0.5527716459112555
+143,28,It is difficult to determine,0.18254669038713656
+144,28,It is difficult to say,0.03333333333333333
+145,29,$\it{Other}$,0.20394585762903222
+146,29,Both,0.0
+147,29,Igor Stravinsky,0.6017664723010754
+148,29,It is difficult to determine,0.18639595481182783
+149,29,It is difficult to say,0.007891715258064468
+150,30,$\it{Other}$,0.13333333333333333
+151,30,Both,0.03333333333333333
+152,30,Igor Stravinsky,0.5
+153,30,It is difficult to determine,0.2
+154,30,It is difficult to say,0.13333333333333333
+155,31,$\it{Other}$,0.23333333333333334
+156,31,Both,0.03333333333333333
+157,31,Igor Stravinsky,0.3333333333333333
+158,31,It is difficult to determine,0.3
+159,31,It is difficult to say,0.1
+160,32,$\it{Other}$,0.23333333333333334
+161,32,Both,0.0
+162,32,Igor Stravinsky,0.5333333333333333
+163,32,It is difficult to determine,0.13333333333333333
+164,32,It is difficult to say,0.1
+165,33,$\it{Other}$,0.26666666666666666
+166,33,Both,0.03333333333333333
+167,33,Igor Stravinsky,0.4666666666666667
+168,33,It is difficult to determine,0.23333333333333334
+169,33,It is difficult to say,0.0
+170,34,$\it{Other}$,0.25452817236045827
+171,34,Both,0.0
+172,34,Igor Stravinsky,0.5091038707296562
+173,34,It is difficult to determine,0.20303462357655208
+174,34,It is difficult to say,0.03333333333333333
+175,35,$\it{Other}$,0.2612351059886392
+176,35,Both,0.060371860559764734
+177,35,Igor Stravinsky,0.42300102470677126
+178,35,It is difficult to determine,0.18543180882366658
+179,35,It is difficult to say,0.06996019992115818
+180,36,$\it{Other}$,0.19446480421063475
+181,36,Both,0.005748051107201115
+182,36,Igor Stravinsky,0.5074006404214122
+183,36,It is difficult to determine,0.25905317092741853
+184,36,It is difficult to say,0.03333333333333333
+185,37,$\it{Other}$,0.28581566552546295
+186,37,Both,0.008023196665317475
+187,37,Igor Stravinsky,0.4495903888561893
+188,37,It is difficult to determine,0.19510506641015823
+189,37,It is difficult to say,0.06146568254287212
+190,38,$\it{Other}$,0.2419226121113064
+191,38,Both,0.004294639388986524
+192,38,Igor Stravinsky,0.41283379862105263
+193,38,It is difficult to determine,0.338814160070638
+194,38,It is difficult to say,0.0021347898080165155
+195,39,$\it{Other}$,0.26666666666666666
+196,39,Both,0.1
+197,39,Igor Stravinsky,0.3333333333333333
+198,39,It is difficult to determine,0.3
+199,39,It is difficult to say,0.0
+200,40,$\it{Other}$,0.23333333333333334
+201,40,Both,0.0
+202,40,Igor Stravinsky,0.3333333333333333
+203,40,It is difficult to determine,0.36666666666666664
+204,40,It is difficult to say,0.06666666666666667
+205,41,$\it{Other}$,0.26069653312240326
+206,41,Both,0.023528546719879917
+207,41,Igor Stravinsky,0.4517882727505277
+208,41,It is difficult to determine,0.22896609671957138
+209,41,It is difficult to say,0.03502055068761782
+210,42,$\it{Other}$,0.2
+211,42,Both,0.03333333333333333
+212,42,Igor Stravinsky,0.5333333333333333
+213,42,It is difficult to determine,0.16666666666666666
+214,42,It is difficult to say,0.06666666666666667
+215,43,$\it{Other}$,0.26666666666666666
+216,43,Both,0.0
+217,43,Igor Stravinsky,0.36666666666666664
+218,43,It is difficult to determine,0.3333333333333333
+219,43,It is difficult to say,0.03333333333333333
+220,44,$\it{Other}$,0.2
+221,44,Both,0.03333333333333333
+222,44,Igor Stravinsky,0.6
+223,44,It is difficult to determine,0.16666666666666666
+224,44,It is difficult to say,0.0
+225,45,$\it{Other}$,0.23333333333333336
+226,45,Both,0.0019245377296436897
+227,45,Igor Stravinsky,0.4685912043963104
+228,45,It is difficult to determine,0.29230184908142526
+229,45,It is difficult to say,0.0038490754592873794
+230,46,$\it{Other}$,0.1
+231,46,Both,0.0
+232,46,Igor Stravinsky,0.6333333333333333
+233,46,It is difficult to determine,0.23333333333333334
+234,46,It is difficult to say,0.03333333333333333
+235,47,$\it{Other}$,0.21031379365365035
+236,47,Both,0.03182721016921287
+237,47,Igor Stravinsky,0.49336777454811315
+238,47,It is difficult to determine,0.2173908675916447
+239,47,It is difficult to say,0.04710035403737892
+240,48,$\it{Other}$,0.19312471521214838
+241,48,Both,0.014949591970531698
+242,48,Igor Stravinsky,0.44230092414266103
+243,48,It is difficult to determine,0.3161733610292591
+244,48,It is difficult to say,0.03345140764539974
+245,49,$\it{Other}$,0.26899977108930456
+246,49,Both,0.024394200952072075
+247,49,Igor Stravinsky,0.46699844697492254
+248,49,It is difficult to determine,0.2062742476503675
+249,49,It is difficult to say,0.03333333333333333
+250,50,$\it{Other}$,0.3
+251,50,Both,0.03333333333333333
+252,50,Igor Stravinsky,0.4
+253,50,It is difficult to determine,0.2
+254,50,It is difficult to say,0.06666666666666667
+255,51,$\it{Other}$,0.2
+256,51,Both,0.03333333333333333
+257,51,Igor Stravinsky,0.3
+258,51,It is difficult to determine,0.4
+259,51,It is difficult to say,0.06666666666666667
+260,52,$\it{Other}$,0.2925812595796616
+261,52,Both,0.012696584291739109
+262,52,Igor Stravinsky,0.3485831379074059
+263,52,It is difficult to determine,0.29664696720939765
+264,52,It is difficult to say,0.04949205101179581
+265,53,$\it{Other}$,0.26666666666666666
+266,53,Both,0.0
+267,53,Igor Stravinsky,0.3333333333333333
+268,53,It is difficult to determine,0.36666666666666664
+269,53,It is difficult to say,0.03333333333333333
+270,54,$\it{Other}$,0.205097865817195
+271,54,Both,0.012452255602963687
+272,54,Igor Stravinsky,0.4702284486986599
+273,54,It is difficult to determine,0.28731691867525405
+274,54,It is difficult to say,0.024904511205927373
+275,55,$\it{Other}$,0.26666666666666666
+276,55,Both,0.06666666666666667
+277,55,Igor Stravinsky,0.3
+278,55,It is difficult to determine,0.3333333333333333
+279,55,It is difficult to say,0.03333333333333333
+280,56,$\it{Other}$,0.25358729571539673
+281,56,Both,0.004359790317089973
+282,56,Igor Stravinsky,0.41307937095126995
+283,56,It is difficult to determine,0.26230687634957667
+284,56,It is difficult to say,0.06666666666666667
+285,57,$\it{Other}$,0.3
+286,57,Both,0.03333333333333333
+287,57,Igor Stravinsky,0.5
+288,57,It is difficult to determine,0.16666666666666666
+289,57,It is difficult to say,0.0
+290,58,$\it{Other}$,0.26666666666666666
+291,58,Both,0.03333333333333333
+292,58,Igor Stravinsky,0.43333333333333335
+293,58,It is difficult to determine,0.23333333333333334
+294,58,It is difficult to say,0.03333333333333333
+295,59,$\it{Other}$,0.14978161713195182
+296,59,Both,0.0034120416004350643
+297,59,Igor Stravinsky,0.458357127790047
+298,59,It is difficult to determine,0.3179337394743679
+299,59,It is difficult to say,0.07051547400319806
+300,60,$\it{Other}$,0.16666666666666666
+301,60,Both,0.0
+302,60,Igor Stravinsky,0.4666666666666667
+303,60,It is difficult to determine,0.3333333333333333
+304,60,It is difficult to say,0.03333333333333333
+305,61,$\it{Other}$,0.36666666666666664
+306,61,Both,0.0
+307,61,Igor Stravinsky,0.4
+308,61,It is difficult to determine,0.13333333333333333
+309,61,It is difficult to say,0.1
+310,62,$\it{Other}$,0.2437927019983041
+311,62,Both,0.02091873732994155
+312,62,Igor Stravinsky,0.35816252534011694
+313,62,It is difficult to determine,0.3104593686649708
+314,62,It is difficult to say,0.06666666666666667
+315,63,$\it{Other}$,0.29247655055832306
+316,63,Both,0.007523449441676947
+317,63,Igor Stravinsky,0.34085678277501025
+318,63,It is difficult to determine,0.2483802322166872
+319,63,It is difficult to say,0.11076298500830249
+320,64,$\it{Other}$,0.23333333333333334
+321,64,Both,0.0
+322,64,Igor Stravinsky,0.4666666666666667
+323,64,It is difficult to determine,0.16666666666666666
+324,64,It is difficult to say,0.13333333333333333
+325,65,$\it{Other}$,0.23333333333333334
+326,65,Both,0.03333333333333333
+327,65,Igor Stravinsky,0.4666666666666667
+328,65,It is difficult to determine,0.2
+329,65,It is difficult to say,0.06666666666666667
+330,66,$\it{Other}$,0.36666666666666664
+331,66,Both,0.0
+332,66,Igor Stravinsky,0.36666666666666664
+333,66,It is difficult to determine,0.26666666666666666
+334,66,It is difficult to say,0.0
+335,67,$\it{Other}$,0.1697152789053426
+336,67,Both,0.04511255794470782
+337,67,Igor Stravinsky,0.4508945868205123
+338,67,It is difficult to determine,0.3065771989468584
+339,67,It is difficult to say,0.027700377382578738
+340,68,$\it{Other}$,0.41223359352757666
+341,68,Both,0.029816710032373888
+342,68,Igor Stravinsky,0.32981671003237384
+343,68,It is difficult to determine,0.22461636310671612
+344,68,It is difficult to say,0.003516623300959445
+345,69,$\it{Other}$,0.3333333333333333
+346,69,Both,0.03333333333333333
+347,69,Igor Stravinsky,0.4
+348,69,It is difficult to determine,0.23333333333333334
+349,69,It is difficult to say,0.0
+350,70,$\it{Other}$,0.13333333333333333
+351,70,Both,0.0
+352,70,Igor Stravinsky,0.3333333333333333
+353,70,It is difficult to determine,0.43333333333333335
+354,70,It is difficult to say,0.1
+355,71,$\it{Other}$,0.3333333333333333
+356,71,Both,0.06666666666666667
+357,71,Igor Stravinsky,0.3
+358,71,It is difficult to determine,0.26666666666666666
+359,71,It is difficult to say,0.03333333333333333
+360,72,$\it{Other}$,0.4
+361,72,Both,0.0
+362,72,Igor Stravinsky,0.3
+363,72,It is difficult to determine,0.23333333333333334
+364,72,It is difficult to say,0.06666666666666667
+365,73,$\it{Other}$,0.26666666666666666
+366,73,Both,0.03333333333333333
+367,73,Igor Stravinsky,0.5666666666666667
+368,73,It is difficult to determine,0.1
+369,73,It is difficult to say,0.03333333333333333
+370,74,$\it{Other}$,0.16666666666666666
+371,74,Both,0.06666666666666667
+372,74,Igor Stravinsky,0.36666666666666664
+373,74,It is difficult to determine,0.26666666666666666
+374,74,It is difficult to say,0.13333333333333333
+375,75,$\it{Other}$,0.1
+376,75,Both,0.03333333333333333
+377,75,Igor Stravinsky,0.4666666666666667
+378,75,It is difficult to determine,0.26666666666666666
+379,75,It is difficult to say,0.13333333333333333
+380,76,$\it{Other}$,0.36666666666666664
+381,76,Both,0.03333333333333333
+382,76,Igor Stravinsky,0.3333333333333333
+383,76,It is difficult to determine,0.16666666666666666
+384,76,It is difficult to say,0.1
+385,77,$\it{Other}$,0.4666666666666667
+386,77,Both,0.0
+387,77,Igor Stravinsky,0.4
+388,77,It is difficult to determine,0.06666666666666667
+389,77,It is difficult to say,0.06666666666666667
+390,78,$\it{Other}$,0.23333333333333334
+391,78,Both,0.03333333333333333
+392,78,Igor Stravinsky,0.5333333333333333
+393,78,It is difficult to determine,0.16666666666666666
+394,78,It is difficult to say,0.03333333333333333
+395,79,$\it{Other}$,0.36666666666666664
+396,79,Both,0.0
+397,79,Igor Stravinsky,0.4
+398,79,It is difficult to determine,0.23333333333333334
+399,79,It is difficult to say,0.0
+400,80,$\it{Other}$,0.1791560997212738
+401,80,Both,0.0
+402,80,Igor Stravinsky,0.40832628870307147
+403,80,It is difficult to determine,0.28751056694539284
+404,80,It is difficult to say,0.1250070446302619
+405,81,$\it{Other}$,0.3
+406,81,Both,0.0
+407,81,Igor Stravinsky,0.4
+408,81,It is difficult to determine,0.2
+409,81,It is difficult to say,0.1
+410,82,$\it{Other}$,0.4
+411,82,Both,0.0
+412,82,Igor Stravinsky,0.3
+413,82,It is difficult to determine,0.3
+414,82,It is difficult to say,0.0
+415,83,$\it{Other}$,0.16666666666666666
+416,83,Both,0.03333333333333333
+417,83,Igor Stravinsky,0.3333333333333333
+418,83,It is difficult to determine,0.43333333333333335
+419,83,It is difficult to say,0.03333333333333333
+420,84,$\it{Other}$,0.3
+421,84,Both,0.03333333333333333
+422,84,Igor Stravinsky,0.4
+423,84,It is difficult to determine,0.23333333333333334
+424,84,It is difficult to say,0.03333333333333333
+425,85,$\it{Other}$,0.13333333333333333
+426,85,Both,0.0
+427,85,Igor Stravinsky,0.5
+428,85,It is difficult to determine,0.3333333333333333
+429,85,It is difficult to say,0.03333333333333333
+430,86,$\it{Other}$,0.4
+431,86,Both,0.0
+432,86,Igor Stravinsky,0.3333333333333333
+433,86,It is difficult to determine,0.2
+434,86,It is difficult to say,0.06666666666666667
+435,87,$\it{Other}$,0.3
+436,87,Both,0.03333333333333333
+437,87,Igor Stravinsky,0.3
+438,87,It is difficult to determine,0.3
+439,87,It is difficult to say,0.06666666666666667
+440,88,$\it{Other}$,0.3
+441,88,Both,0.06666666666666667
+442,88,Igor Stravinsky,0.3
+443,88,It is difficult to determine,0.23333333333333334
+444,88,It is difficult to say,0.1
+445,89,$\it{Other}$,0.3
+446,89,Both,0.0
+447,89,Igor Stravinsky,0.4
+448,89,It is difficult to determine,0.26666666666666666
+449,89,It is difficult to say,0.03333333333333333
+450,90,$\it{Other}$,0.3333333333333333
+451,90,Both,0.03333333333333333
+452,90,Igor Stravinsky,0.26666666666666666
+453,90,It is difficult to determine,0.36666666666666664
+454,90,It is difficult to say,0.0
+455,91,$\it{Other}$,0.3928615167342663
+456,91,Both,0.03095383891142207
+457,91,Igor Stravinsky,0.2761846443543117
+458,91,It is difficult to determine,0.26666666666666666
+459,91,It is difficult to say,0.03333333333333333
+460,92,$\it{Other}$,0.31127154191376827
+461,92,Both,0.03333333333333333
+462,92,Igor Stravinsky,0.48137452761304333
+463,92,It is difficult to determine,0.14068726380652166
+464,92,It is difficult to say,0.03333333333333333
+465,93,$\it{Other}$,0.3333333333333333
+466,93,Both,0.06666666666666667
+467,93,Igor Stravinsky,0.16666666666666666
+468,93,It is difficult to determine,0.4
+469,93,It is difficult to say,0.03333333333333333
+470,94,$\it{Other}$,0.23333333333333334
+471,94,Both,0.0
+472,94,Igor Stravinsky,0.4666666666666667
+473,94,It is difficult to determine,0.26666666666666666
+474,94,It is difficult to say,0.03333333333333333
+475,95,$\it{Other}$,0.23142771321069
+476,95,Both,0.002319812315258916
+477,95,Igor Stravinsky,0.4333333333333333
+478,95,It is difficult to determine,0.3021127162189511
+479,95,It is difficult to say,0.030806424921766613
+480,96,$\it{Other}$,0.2
+481,96,Both,0.1
+482,96,Igor Stravinsky,0.5333333333333333
+483,96,It is difficult to determine,0.13333333333333333
+484,96,It is difficult to say,0.03333333333333333
+485,97,$\it{Other}$,0.3545472523764641
+486,97,Both,0.03333333333333334
+487,97,Igor Stravinsky,0.2849250910168678
+488,97,It is difficult to determine,0.27851255685276727
+489,97,It is difficult to say,0.048681766420567596
+490,98,$\it{Other}$,0.30701807596044056
+491,98,Both,0.05837989110240135
+492,98,Igor Stravinsky,0.3883032067325991
+493,98,It is difficult to determine,0.17899780973597998
+494,98,It is difficult to say,0.06730101646857906
+495,99,$\it{Other}$,0.36666666666666664
+496,99,Both,0.0
+497,99,Igor Stravinsky,0.36666666666666664
+498,99,It is difficult to determine,0.23333333333333334
+499,99,It is difficult to say,0.03333333333333333
+500,100,$\it{Other}$,0.33358932699676697
+501,100,Both,0.0
+502,100,Igor Stravinsky,0.3932309358679599
+503,100,It is difficult to determine,0.2531285384025864
+504,100,It is difficult to say,0.020051198732686727
+505,101,$\it{Other}$,0.26028551665513844
+506,101,Both,0.0
+507,101,Igor Stravinsky,0.4354603833371761
+508,101,It is difficult to determine,0.24798952778418237
+509,101,It is difficult to say,0.05626457222350314
+510,102,$\it{Other}$,0.2408750549658682
+511,102,Both,0.0708642518275088
+512,102,Igor Stravinsky,0.35547775819456623
+513,102,It is difficult to determine,0.2994496016787234
+514,102,It is difficult to say,0.03333333333333333
+515,103,$\it{Other}$,0.36666666666666664
+516,103,Both,0.03333333333333333
+517,103,Igor Stravinsky,0.3333333333333333
+518,103,It is difficult to determine,0.26666666666666666
+519,103,It is difficult to say,0.0
+520,104,$\it{Other}$,0.33601070512987613
+521,104,Both,0.02656561960350172
+522,104,Igor Stravinsky,0.3167185158494773
+523,104,It is difficult to determine,0.30430174291899964
+524,104,It is difficult to say,0.016403416498145154
+525,105,$\it{Other}$,0.3
+526,105,Both,0.06666666666666667
+527,105,Igor Stravinsky,0.4
+528,105,It is difficult to determine,0.23333333333333334
+529,105,It is difficult to say,0.0
+530,106,$\it{Other}$,0.26492135920708654
+531,106,Both,0.03507864079291341
+532,106,Igor Stravinsky,0.3350786407929134
+533,106,It is difficult to determine,0.26841197412624673
+534,106,It is difficult to say,0.09650938508083985
+535,107,$\it{Other}$,0.4649251669150035
+536,107,Both,0.039179138847499406
+537,107,Igor Stravinsky,0.3017414997516631
+538,107,It is difficult to determine,0.13333333333333333
+539,107,It is difficult to say,0.060820861152500585
+540,108,$\it{Other}$,0.20347791570544504
+541,108,Both,0.03095291344106858
+542,108,Igor Stravinsky,0.3333333333333333
+543,108,It is difficult to determine,0.39688767320752716
+544,108,It is difficult to say,0.03534816431262584
+545,109,$\it{Other}$,0.3333333333333333
+546,109,Both,0.0
+547,109,Igor Stravinsky,0.3333333333333333
+548,109,It is difficult to determine,0.3
+549,109,It is difficult to say,0.03333333333333333
+550,110,$\it{Other}$,0.21822999460112869
+551,110,Both,0.03333333333333333
+552,110,Igor Stravinsky,0.4151033387322046
+553,110,It is difficult to determine,0.27578166396723097
+554,110,It is difficult to say,0.05755166936610233
+555,111,$\it{Other}$,0.3
+556,111,Both,0.06666666666666667
+557,111,Igor Stravinsky,0.4
+558,111,It is difficult to determine,0.2
+559,111,It is difficult to say,0.03333333333333333
+560,112,$\it{Other}$,0.3299134243595324
+561,112,Both,0.003419908973800901
+562,112,Igor Stravinsky,0.25727269614993964
+563,112,It is difficult to determine,0.309393970516727
+564,112,It is difficult to say,0.1
+565,113,$\it{Other}$,0.23333333333333334
+566,113,Both,0.03333333333333333
+567,113,Igor Stravinsky,0.36666666666666664
+568,113,It is difficult to determine,0.3
+569,113,It is difficult to say,0.06666666666666667
+570,114,$\it{Other}$,0.36666666666666664
+571,114,Both,0.0
+572,114,Igor Stravinsky,0.3
+573,114,It is difficult to determine,0.2
+574,114,It is difficult to say,0.13333333333333333
+575,115,$\it{Other}$,0.27182644529918715
+576,115,Both,0.023710055341869873
+577,115,Igor Stravinsky,0.4089269987178859
+578,115,It is difficult to determine,0.27182644529918715
+579,115,It is difficult to say,0.023710055341869873
+580,116,$\it{Other}$,0.28484490574526783
+581,116,Both,0.029180346454783724
+582,116,Igor Stravinsky,0.32796470583441495
+583,116,It is difficult to determine,0.302425374140477
+584,116,It is difficult to say,0.055584667825056416
+585,117,$\it{Other}$,0.23333333333333334
+586,117,Both,0.06666666666666667
+587,117,Igor Stravinsky,0.4
+588,117,It is difficult to determine,0.23333333333333334
+589,117,It is difficult to say,0.06666666666666667
+590,118,$\it{Other}$,0.23333333333333334
+591,118,Both,0.0
+592,118,Igor Stravinsky,0.26666666666666666
+593,118,It is difficult to determine,0.36666666666666664
+594,118,It is difficult to say,0.13333333333333333
+595,119,$\it{Other}$,0.3
+596,119,Both,0.06666666666666667
+597,119,Igor Stravinsky,0.4
+598,119,It is difficult to determine,0.2
+599,119,It is difficult to say,0.03333333333333333
+600,120,$\it{Other}$,0.2836974188491402
+601,120,Both,0.04917390243798731
+602,120,Igor Stravinsky,0.3080483400199854
+603,120,It is difficult to determine,0.2879100429041588
+604,120,It is difficult to say,0.07117029578872837
+605,121,$\it{Other}$,0.3
+606,121,Both,0.03333333333333333
+607,121,Igor Stravinsky,0.3
+608,121,It is difficult to determine,0.3
+609,121,It is difficult to say,0.06666666666666667
+610,122,$\it{Other}$,0.26666666666666666
+611,122,Both,0.03333333333333333
+612,122,Igor Stravinsky,0.36666666666666664
+613,122,It is difficult to determine,0.3
+614,122,It is difficult to say,0.03333333333333333
+615,123,$\it{Other}$,0.23333333333333334
+616,123,Both,0.13333333333333333
+617,123,Igor Stravinsky,0.4
+618,123,It is difficult to determine,0.23333333333333334
+619,123,It is difficult to say,0.0
+620,124,$\it{Other}$,0.2
+621,124,Both,0.03333333333333333
+622,124,Igor Stravinsky,0.4
+623,124,It is difficult to determine,0.3333333333333333
+624,124,It is difficult to say,0.03333333333333333
+625,125,$\it{Other}$,0.3062100050459332
+626,125,Both,0.1
+627,125,Igor Stravinsky,0.2847488855249334
+628,125,It is difficult to determine,0.2954794452854333
+629,125,It is difficult to say,0.013561664143700067
+630,126,$\it{Other}$,0.23333333333333334
+631,126,Both,0.03333333333333333
+632,126,Igor Stravinsky,0.26666666666666666
+633,126,It is difficult to determine,0.43333333333333335
+634,126,It is difficult to say,0.03333333333333333
+635,127,$\it{Other}$,0.4666666666666667
+636,127,Both,0.03333333333333333
+637,127,Igor Stravinsky,0.3
+638,127,It is difficult to determine,0.2
+639,127,It is difficult to say,0.0
+640,128,$\it{Other}$,0.2
+641,128,Both,0.0
+642,128,Igor Stravinsky,0.36666666666666664
+643,128,It is difficult to determine,0.43333333333333335
+644,128,It is difficult to say,0.0
+645,129,$\it{Other}$,0.26666666666666666
+646,129,Both,0.0
+647,129,Igor Stravinsky,0.4
+648,129,It is difficult to determine,0.3
+649,129,It is difficult to say,0.03333333333333333
+650,130,$\it{Other}$,0.4
+651,130,Both,0.0
+652,130,Igor Stravinsky,0.23333333333333334
+653,130,It is difficult to determine,0.3333333333333333
+654,130,It is difficult to say,0.03333333333333333
+655,131,$\it{Other}$,0.26666666666666666
+656,131,Both,0.0
+657,131,Igor Stravinsky,0.3
+658,131,It is difficult to determine,0.4
+659,131,It is difficult to say,0.03333333333333333
+660,132,$\it{Other}$,0.3333333333333333
+661,132,Both,0.0
+662,132,Igor Stravinsky,0.43333333333333335
+663,132,It is difficult to determine,0.2
+664,132,It is difficult to say,0.03333333333333333
+665,133,$\it{Other}$,0.3
+666,133,Both,0.0
+667,133,Igor Stravinsky,0.43333333333333335
+668,133,It is difficult to determine,0.2
+669,133,It is difficult to say,0.06666666666666667
+670,134,$\it{Other}$,0.16666666666666666
+671,134,Both,0.06666666666666667
+672,134,Igor Stravinsky,0.43333333333333335
+673,134,It is difficult to determine,0.3333333333333333
+674,134,It is difficult to say,0.0
+675,135,$\it{Other}$,0.3
+676,135,Both,0.03333333333333333
+677,135,Igor Stravinsky,0.2
+678,135,It is difficult to determine,0.43333333333333335
+679,135,It is difficult to say,0.03333333333333333
+680,136,$\it{Other}$,0.376238769468031
+681,136,Both,0.027228354020787018
+682,136,Igor Stravinsky,0.3760192072286256
+683,136,It is difficult to determine,0.20263785582372834
+684,136,It is difficult to say,0.017875813458828133
+685,137,$\it{Other}$,0.26666666666666666
+686,137,Both,0.0
+687,137,Igor Stravinsky,0.4666666666666667
+688,137,It is difficult to determine,0.2
+689,137,It is difficult to say,0.06666666666666667
+690,138,$\it{Other}$,0.28039037616796103
+691,138,Both,0.01372370950129438
+692,138,Igor Stravinsky,0.3509910763255671
+693,138,It is difficult to determine,0.3411711285038832
+694,138,It is difficult to say,0.01372370950129438
+695,139,$\it{Other}$,0.15885272452735905
+696,139,Both,0.03333333333333333
+697,139,Igor Stravinsky,0.4513550319502513
+698,139,It is difficult to determine,0.32822945509452817
+699,139,It is difficult to say,0.02822945509452819
+700,140,$\it{Other}$,0.26473642969616107
+701,140,Both,0.015701548181413897
+702,140,Igor Stravinsky,0.37438761454868874
+703,140,It is difficult to determine,0.3137713112109083
+704,140,It is difficult to say,0.031403096362827794
+705,141,$\it{Other}$,0.20774535229143537
+706,141,Both,0.007745352291435346
+707,141,Igor Stravinsky,0.451175962083796
+708,141,It is difficult to determine,0.2961273238542823
+709,141,It is difficult to say,0.037206009479051005
+710,142,$\it{Other}$,0.13333333333333333
+711,142,Both,0.0
+712,142,Igor Stravinsky,0.6666666666666666
+713,142,It is difficult to determine,0.16666666666666666
+714,142,It is difficult to say,0.03333333333333333
+715,143,$\it{Other}$,0.26666666666666666
+716,143,Both,0.0
+717,143,Igor Stravinsky,0.4666666666666667
+718,143,It is difficult to determine,0.2
+719,143,It is difficult to say,0.06666666666666667
+720,144,$\it{Other}$,0.23333333333333334
+721,144,Both,0.03333333333333333
+722,144,Igor Stravinsky,0.4666666666666667
+723,144,It is difficult to determine,0.26666666666666666
+724,144,It is difficult to say,0.0
+725,145,$\it{Other}$,0.2
+726,145,Both,0.03333333333333333
+727,145,Igor Stravinsky,0.4666666666666667
+728,145,It is difficult to determine,0.26666666666666666
+729,145,It is difficult to say,0.03333333333333333
+730,146,$\it{Other}$,0.1268939285335564
+731,146,Both,0.013446964266778215
+732,146,Igor Stravinsky,0.5784091669317717
+733,146,It is difficult to determine,0.26780297600111547
+734,146,It is difficult to say,0.013446964266778215
+735,147,$\it{Other}$,0.03333333333333333
+736,147,Both,0.0
+737,147,Igor Stravinsky,0.7
+738,147,It is difficult to determine,0.2
+739,147,It is difficult to say,0.06666666666666667
+740,148,$\it{Other}$,0.2363764140996977
+741,148,Both,0.0
+742,148,Igor Stravinsky,0.46365169691963726
+743,148,It is difficult to determine,0.26058050513393793
+744,148,It is difficult to say,0.03939138384672712
+745,149,$\it{Other}$,0.03333333333333333
+746,149,Both,0.0
+747,149,Igor Stravinsky,0.8666666666666667
+748,149,It is difficult to determine,0.1
+749,149,It is difficult to say,0.0
+750,150,$\it{Other}$,0.12605306146459128
+751,150,Both,0.00860356170550381
+752,150,Igor Stravinsky,0.7007820969172847
+753,150,It is difficult to determine,0.14735415650161265
+754,150,It is difficult to say,0.01720712341100762
+755,151,$\it{Other}$,0.0
+756,151,Both,0.0
+757,151,Igor Stravinsky,1.0
+758,151,It is difficult to determine,0.0
+759,151,It is difficult to say,0.0
+760,152,$\it{Other}$,0.0
+761,152,Both,0.0
+762,152,Igor Stravinsky,1.0
+763,152,It is difficult to determine,0.0
+764,152,It is difficult to say,0.0
+765,153,$\it{Other}$,0.06666666666666667
+766,153,Both,0.0
+767,153,Igor Stravinsky,0.9333333333333333
+768,153,It is difficult to determine,0.0
+769,153,It is difficult to say,0.0
+770,154,$\it{Other}$,0.022722791412293008
+771,154,Both,0.0
+772,154,Igor Stravinsky,0.9772772085877068
+773,154,It is difficult to determine,0.0
+774,154,It is difficult to say,0.0
+775,155,$\it{Other}$,0.0
+776,155,Both,0.0
+777,155,Igor Stravinsky,0.9666666666666667
+778,155,It is difficult to determine,0.03333333333333333
+779,155,It is difficult to say,0.0
+780,156,$\it{Other}$,0.0
+781,156,Both,0.0
+782,156,Igor Stravinsky,1.0
+783,156,It is difficult to determine,0.0
+784,156,It is difficult to say,0.0
+785,157,$\it{Other}$,0.03333333333333333
+786,157,Both,0.0
+787,157,Igor Stravinsky,0.9333333333333333
+788,157,It is difficult to determine,0.03333333333333333
+789,157,It is difficult to say,0.0
+790,158,$\it{Other}$,0.1
+791,158,Both,0.0
+792,158,Igor Stravinsky,0.9
+793,158,It is difficult to determine,0.0
+794,158,It is difficult to say,0.0
+795,159,$\it{Other}$,0.002538920208759245
+796,159,Both,0.0
+797,159,Igor Stravinsky,0.9974610797912408
+798,159,It is difficult to determine,0.0
+799,159,It is difficult to say,0.0
+800,160,$\it{Other}$,0.03333333333333333
+801,160,Both,0.0
+802,160,Igor Stravinsky,0.9666666666666667
+803,160,It is difficult to determine,0.0
+804,160,It is difficult to say,0.0
+805,161,$\it{Other}$,0.0
+806,161,Both,0.0
+807,161,Igor Stravinsky,1.0
+808,161,It is difficult to determine,0.0
+809,161,It is difficult to say,0.0
+810,162,$\it{Other}$,0.0
+811,162,Both,0.0
+812,162,Igor Stravinsky,1.0
+813,162,It is difficult to determine,0.0
+814,162,It is difficult to say,0.0
+815,163,$\it{Other}$,0.0
+816,163,Both,0.0
+817,163,Igor Stravinsky,1.0
+818,163,It is difficult to determine,0.0
+819,163,It is difficult to say,0.0
+820,164,$\it{Other}$,0.0
+821,164,Both,0.0
+822,164,Igor Stravinsky,1.0
+823,164,It is difficult to determine,0.0
+824,164,It is difficult to say,0.0
+825,165,$\it{Other}$,0.0
+826,165,Both,0.0
+827,165,Igor Stravinsky,1.0
+828,165,It is difficult to determine,0.0
+829,165,It is difficult to say,0.0
+830,166,$\it{Other}$,0.0
+831,166,Both,0.0
+832,166,Igor Stravinsky,1.0
+833,166,It is difficult to determine,0.0
+834,166,It is difficult to say,0.0
+835,167,$\it{Other}$,0.02409534814818591
+836,167,Both,0.0
+837,167,Igor Stravinsky,0.975904651851814
+838,167,It is difficult to determine,0.0
+839,167,It is difficult to say,0.0
+840,168,$\it{Other}$,0.0
+841,168,Both,0.0
+842,168,Igor Stravinsky,1.0
+843,168,It is difficult to determine,0.0
+844,168,It is difficult to say,0.0
+845,169,$\it{Other}$,0.0
+846,169,Both,0.0
+847,169,Igor Stravinsky,1.0
+848,169,It is difficult to determine,0.0
+849,169,It is difficult to say,0.0
+850,170,$\it{Other}$,0.030018821513705503
+851,170,Both,0.0
+852,170,Igor Stravinsky,0.9699811784862944
+853,170,It is difficult to determine,0.0
+854,170,It is difficult to say,0.0
+855,171,$\it{Other}$,0.0
+856,171,Both,0.0
+857,171,Igor Stravinsky,1.0
+858,171,It is difficult to determine,0.0
+859,171,It is difficult to say,0.0
+860,172,$\it{Other}$,0.0
+861,172,Both,0.0
+862,172,Igor Stravinsky,1.0
+863,172,It is difficult to determine,0.0
+864,172,It is difficult to say,0.0
+865,173,$\it{Other}$,0.0
+866,173,Both,0.0
+867,173,Igor Stravinsky,1.0
+868,173,It is difficult to determine,0.0
+869,173,It is difficult to say,0.0
+870,174,$\it{Other}$,0.0
+871,174,Both,0.0
+872,174,Igor Stravinsky,1.0
+873,174,It is difficult to determine,0.0
+874,174,It is difficult to say,0.0
+875,175,$\it{Other}$,0.0
+876,175,Both,0.0
+877,175,Igor Stravinsky,0.9999999999999999
+878,175,It is difficult to determine,0.0
+879,175,It is difficult to say,0.0
+880,176,$\it{Other}$,0.06666666666666667
+881,176,Both,0.0
+882,176,Igor Stravinsky,0.9333333333333333
+883,176,It is difficult to determine,0.0
+884,176,It is difficult to say,0.0
+885,177,$\it{Other}$,0.0
+886,177,Both,0.0
+887,177,Igor Stravinsky,0.9666666666666667
+888,177,It is difficult to determine,0.03333333333333333
+889,177,It is difficult to say,0.0
+890,178,$\it{Other}$,0.0
+891,178,Both,0.0
+892,178,Igor Stravinsky,1.0
+893,178,It is difficult to determine,0.0
+894,178,It is difficult to say,0.0
+895,179,$\it{Other}$,0.0
+896,179,Both,0.0
+897,179,Igor Stravinsky,0.9868175416601787
+898,179,It is difficult to determine,0.01318245833982128
+899,179,It is difficult to say,0.0
+900,180,$\it{Other}$,0.0
+901,180,Both,0.0
+902,180,Igor Stravinsky,1.0
+903,180,It is difficult to determine,0.0
+904,180,It is difficult to say,0.0
+905,181,$\it{Other}$,0.0
+906,181,Both,0.0
+907,181,Igor Stravinsky,1.0
+908,181,It is difficult to determine,0.0
+909,181,It is difficult to say,0.0
+910,182,$\it{Other}$,0.0
+911,182,Both,0.0
+912,182,Igor Stravinsky,1.0
+913,182,It is difficult to determine,0.0
+914,182,It is difficult to say,0.0
+915,183,$\it{Other}$,0.0
+916,183,Both,0.0
+917,183,Igor Stravinsky,1.0
+918,183,It is difficult to determine,0.0
+919,183,It is difficult to say,0.0
+920,184,$\it{Other}$,0.015207769669599176
+921,184,Both,0.0
+922,184,Igor Stravinsky,0.9847922303304009
+923,184,It is difficult to determine,0.0
+924,184,It is difficult to say,0.0
+925,185,$\it{Other}$,0.029974717194390668
+926,185,Both,0.0
+927,185,Igor Stravinsky,0.9700252828056093
+928,185,It is difficult to determine,0.0
+929,185,It is difficult to say,0.0
+930,186,$\it{Other}$,0.030095795398616735
+931,186,Both,0.0
+932,186,Igor Stravinsky,0.9666666666666668
+933,186,It is difficult to determine,0.003237537934716601
+934,186,It is difficult to say,0.0
+935,187,$\it{Other}$,0.0058689115579798525
+936,187,Both,0.0
+937,187,Igor Stravinsky,0.9941310884420201
+938,187,It is difficult to determine,0.0
+939,187,It is difficult to say,0.0
+940,188,$\it{Other}$,0.007986023513035605
+941,188,Both,0.0
+942,188,Igor Stravinsky,0.9920139764869643
+943,188,It is difficult to determine,0.0
+944,188,It is difficult to say,0.0
+945,189,$\it{Other}$,0.0
+946,189,Both,0.0
+947,189,Igor Stravinsky,1.0
+948,189,It is difficult to determine,0.0
+949,189,It is difficult to say,0.0
+950,190,$\it{Other}$,0.0
+951,190,Both,0.0
+952,190,Igor Stravinsky,1.0
+953,190,It is difficult to determine,0.0
+954,190,It is difficult to say,0.0
+955,191,$\it{Other}$,0.008261079131351398
+956,191,Both,0.0
+957,191,Igor Stravinsky,0.9666666666666667
+958,191,It is difficult to determine,0.025072254201981937
+959,191,It is difficult to say,0.0
+960,192,$\it{Other}$,0.0
+961,192,Both,0.0
+962,192,Igor Stravinsky,1.0
+963,192,It is difficult to determine,0.0
+964,192,It is difficult to say,0.0
+965,193,$\it{Other}$,0.0
+966,193,Both,0.0
+967,193,Igor Stravinsky,0.9666666666666667
+968,193,It is difficult to determine,0.03333333333333333
+969,193,It is difficult to say,0.0
+970,194,$\it{Other}$,0.06666666666666667
+971,194,Both,0.0
+972,194,Igor Stravinsky,0.9
+973,194,It is difficult to determine,0.03333333333333333
+974,194,It is difficult to say,0.0
+975,195,$\it{Other}$,0.03333333333333333
+976,195,Both,0.0
+977,195,Igor Stravinsky,0.9666666666666667
+978,195,It is difficult to determine,0.0
+979,195,It is difficult to say,0.0
+980,196,$\it{Other}$,0.03333333333333333
+981,196,Both,0.0
+982,196,Igor Stravinsky,0.9666666666666667
+983,196,It is difficult to determine,0.0
+984,196,It is difficult to say,0.0
+985,197,$\it{Other}$,0.0
+986,197,Both,0.0
+987,197,Igor Stravinsky,1.0
+988,197,It is difficult to determine,0.0
+989,197,It is difficult to say,0.0
+990,198,$\it{Other}$,0.0
+991,198,Both,0.0
+992,198,Igor Stravinsky,1.0
+993,198,It is difficult to determine,0.0
+994,198,It is difficult to say,0.0
+995,199,$\it{Other}$,0.005925913700840485
+996,199,Both,0.0
+997,199,Igor Stravinsky,0.9666666666666668
+998,199,It is difficult to determine,0.02740741963249285
+999,199,It is difficult to say,0.0
+1000,200,$\it{Other}$,0.003316387732059962
+1001,200,Both,0.001968477021199006
+1002,200,Igor Stravinsky,0.9913987475146812
+1003,200,It is difficult to determine,0.003316387732059962
+1004,200,It is difficult to say,0.0
+1005,201,$\it{Other}$,0.03333333333333333
+1006,201,Both,0.0
+1007,201,Igor Stravinsky,0.9666666666666667
+1008,201,It is difficult to determine,0.0
+1009,201,It is difficult to say,0.0
+1010,202,$\it{Other}$,0.0
+1011,202,Both,0.0
+1012,202,Igor Stravinsky,1.0
+1013,202,It is difficult to determine,0.0
+1014,202,It is difficult to say,0.0
+1015,203,$\it{Other}$,0.0
+1016,203,Both,0.0
+1017,203,Igor Stravinsky,1.0
+1018,203,It is difficult to determine,0.0
+1019,203,It is difficult to say,0.0
+1020,204,$\it{Other}$,0.0
+1021,204,Both,0.0
+1022,204,Igor Stravinsky,0.9666666666666667
+1023,204,It is difficult to determine,0.03333333333333333
+1024,204,It is difficult to say,0.0
+1025,205,$\it{Other}$,0.02994122943472688
+1026,205,Both,0.0
+1027,205,Igor Stravinsky,0.9666666666666667
+1028,205,It is difficult to determine,0.003392103898606453
+1029,205,It is difficult to say,0.0
+1030,206,$\it{Other}$,0.0
+1031,206,Both,0.0
+1032,206,Igor Stravinsky,1.0
+1033,206,It is difficult to determine,0.0
+1034,206,It is difficult to say,0.0
+1035,207,$\it{Other}$,0.03333333333333333
+1036,207,Both,0.0
+1037,207,Igor Stravinsky,0.9666666666666668
+1038,207,It is difficult to determine,0.0
+1039,207,It is difficult to say,0.0
+1040,208,$\it{Other}$,0.0
+1041,208,Both,0.0
+1042,208,Igor Stravinsky,1.0
+1043,208,It is difficult to determine,0.0
+1044,208,It is difficult to say,0.0
+1045,209,$\it{Other}$,0.025528159582748036
+1046,209,Both,0.0
+1047,209,Igor Stravinsky,0.974471840417252
+1048,209,It is difficult to determine,0.0
+1049,209,It is difficult to say,0.0
+1050,210,$\it{Other}$,0.007053892046164991
+1051,210,Both,0.0
+1052,210,Igor Stravinsky,0.9929461079538351
+1053,210,It is difficult to determine,0.0
+1054,210,It is difficult to say,0.0
+1055,211,$\it{Other}$,0.0
+1056,211,Both,0.0
+1057,211,Igor Stravinsky,1.0
+1058,211,It is difficult to determine,0.0
+1059,211,It is difficult to say,0.0
+1060,212,$\it{Other}$,0.0
+1061,212,Both,0.0
+1062,212,Igor Stravinsky,0.9738429197329026
+1063,212,It is difficult to determine,0.026157080267097538
+1064,212,It is difficult to say,0.0
+1065,213,$\it{Other}$,0.0
+1066,213,Both,0.0
+1067,213,Igor Stravinsky,1.0
+1068,213,It is difficult to determine,0.0
+1069,213,It is difficult to say,0.0
+1070,214,$\it{Other}$,0.025404248038950153
+1071,214,Both,0.0
+1072,214,Igor Stravinsky,0.954382562060762
+1073,214,It is difficult to determine,0.020213189900287743
+1074,214,It is difficult to say,0.0
+1075,215,$\it{Other}$,0.0
+1076,215,Both,0.0
+1077,215,Igor Stravinsky,1.0
+1078,215,It is difficult to determine,0.0
+1079,215,It is difficult to say,0.0
+1080,216,$\it{Other}$,0.0
+1081,216,Both,0.0
+1082,216,Igor Stravinsky,1.0
+1083,216,It is difficult to determine,0.0
+1084,216,It is difficult to say,0.0
+1085,217,$\it{Other}$,0.016868389928630323
+1086,217,Both,0.0
+1087,217,Igor Stravinsky,0.9831316100713697
+1088,217,It is difficult to determine,0.0
+1089,217,It is difficult to say,0.0
+1090,218,$\it{Other}$,0.0
+1091,218,Both,0.0
+1092,218,Igor Stravinsky,0.997808918894264
+1093,218,It is difficult to determine,0.0021910811057359917
+1094,218,It is difficult to say,0.0
+1095,219,$\it{Other}$,0.029984361408453127
+1096,219,Both,0.0
+1097,219,Igor Stravinsky,0.9700156385915468
+1098,219,It is difficult to determine,0.0
+1099,219,It is difficult to say,0.0
+1100,220,$\it{Other}$,0.023041832207095297
+1101,220,Both,0.0
+1102,220,Igor Stravinsky,0.9769581677929047
+1103,220,It is difficult to determine,0.0
+1104,220,It is difficult to say,0.0
+1105,221,$\it{Other}$,0.0
+1106,221,Both,0.0
+1107,221,Igor Stravinsky,1.0
+1108,221,It is difficult to determine,0.0
+1109,221,It is difficult to say,0.0
+1110,222,$\it{Other}$,0.0021586500589343537
+1111,222,Both,0.0
+1112,222,Igor Stravinsky,0.9978413499410657
+1113,222,It is difficult to determine,0.0
+1114,222,It is difficult to say,0.0
+1115,223,$\it{Other}$,0.011494227692155554
+1116,223,Both,0.0
+1117,223,Igor Stravinsky,0.9885057723078443
+1118,223,It is difficult to determine,0.0
+1119,223,It is difficult to say,0.0
+1120,224,$\it{Other}$,0.0
+1121,224,Both,0.0
+1122,224,Igor Stravinsky,1.0
+1123,224,It is difficult to determine,0.0
+1124,224,It is difficult to say,0.0
+1125,225,$\it{Other}$,0.0
+1126,225,Both,0.0
+1127,225,Igor Stravinsky,0.9666666666666667
+1128,225,It is difficult to determine,0.03333333333333333
+1129,225,It is difficult to say,0.0
+1130,226,$\it{Other}$,0.03333333333333333
+1131,226,Both,0.0
+1132,226,Igor Stravinsky,0.9666666666666667
+1133,226,It is difficult to determine,0.0
+1134,226,It is difficult to say,0.0
+1135,227,$\it{Other}$,0.06064301206578154
+1136,227,Both,0.0
+1137,227,Igor Stravinsky,0.9393569879342185
+1138,227,It is difficult to determine,0.0
+1139,227,It is difficult to say,0.0
+1140,228,$\it{Other}$,0.0
+1141,228,Both,0.0
+1142,228,Igor Stravinsky,0.9999999999999999
+1143,228,It is difficult to determine,0.0
+1144,228,It is difficult to say,0.0
+1145,229,$\it{Other}$,0.06666666666666667
+1146,229,Both,0.0
+1147,229,Igor Stravinsky,0.9
+1148,229,It is difficult to determine,0.03333333333333333
+1149,229,It is difficult to say,0.0
+1150,230,$\it{Other}$,0.1
+1151,230,Both,0.0
+1152,230,Igor Stravinsky,0.9
+1153,230,It is difficult to determine,0.0
+1154,230,It is difficult to say,0.0
+1155,231,$\it{Other}$,0.0
+1156,231,Both,0.0
+1157,231,Igor Stravinsky,1.0
+1158,231,It is difficult to determine,0.0
+1159,231,It is difficult to say,0.0
+1160,232,$\it{Other}$,0.036995780293777564
+1161,232,Both,0.0
+1162,232,Igor Stravinsky,0.9475519818637959
+1163,232,It is difficult to determine,0.015452237842426626
+1164,232,It is difficult to say,0.0
+1165,233,$\it{Other}$,0.0
+1166,233,Both,0.0
+1167,233,Igor Stravinsky,1.0
+1168,233,It is difficult to determine,0.0
+1169,233,It is difficult to say,0.0
+1170,234,$\it{Other}$,0.03333333333333333
+1171,234,Both,0.0
+1172,234,Igor Stravinsky,0.9666666666666667
+1173,234,It is difficult to determine,0.0
+1174,234,It is difficult to say,0.0
+1175,235,$\it{Other}$,0.1
+1176,235,Both,0.0
+1177,235,Igor Stravinsky,0.9
+1178,235,It is difficult to determine,0.0
+1179,235,It is difficult to say,0.0
+1180,236,$\it{Other}$,0.03333333333333333
+1181,236,Both,0.0
+1182,236,Igor Stravinsky,0.9666666666666667
+1183,236,It is difficult to determine,0.0
+1184,236,It is difficult to say,0.0
+1185,237,$\it{Other}$,0.0020354496281962246
+1186,237,Both,0.0
+1187,237,Igor Stravinsky,0.9979645503718038
+1188,237,It is difficult to determine,0.0
+1189,237,It is difficult to say,0.0
+1190,238,$\it{Other}$,0.0
+1191,238,Both,0.0
+1192,238,Igor Stravinsky,0.9666666666666667
+1193,238,It is difficult to determine,0.03333333333333333
+1194,238,It is difficult to say,0.0
+1195,239,$\it{Other}$,0.0
+1196,239,Both,0.0
+1197,239,Igor Stravinsky,1.0
+1198,239,It is difficult to determine,0.0
+1199,239,It is difficult to say,0.0
+1200,240,$\it{Other}$,0.03333333333333333
+1201,240,Both,0.0
+1202,240,Igor Stravinsky,0.9666666666666667
+1203,240,It is difficult to determine,0.0
+1204,240,It is difficult to say,0.0
+1205,241,$\it{Other}$,0.0
+1206,241,Both,0.0
+1207,241,Igor Stravinsky,1.0
+1208,241,It is difficult to determine,0.0
+1209,241,It is difficult to say,0.0
+1210,242,$\it{Other}$,0.0
+1211,242,Both,0.0
+1212,242,Igor Stravinsky,1.0
+1213,242,It is difficult to determine,0.0
+1214,242,It is difficult to say,0.0
+1215,243,$\it{Other}$,0.03333333333333333
+1216,243,Both,0.0
+1217,243,Igor Stravinsky,0.9666666666666667
+1218,243,It is difficult to determine,0.0
+1219,243,It is difficult to say,0.0
+1220,244,$\it{Other}$,0.002309371133126056
+1221,244,Both,0.0
+1222,244,Igor Stravinsky,0.9976906288668739
+1223,244,It is difficult to determine,0.0
+1224,244,It is difficult to say,0.0
+1225,245,$\it{Other}$,0.0
+1226,245,Both,0.0
+1227,245,Igor Stravinsky,1.0
+1228,245,It is difficult to determine,0.0
+1229,245,It is difficult to say,0.0
+1230,246,$\it{Other}$,0.03333333333333333
+1231,246,Both,0.0
+1232,246,Igor Stravinsky,0.9666666666666667
+1233,246,It is difficult to determine,0.0
+1234,246,It is difficult to say,0.0
+1235,247,$\it{Other}$,0.005521041344194023
+1236,247,Both,0.0
+1237,247,Igor Stravinsky,0.9944789586558059
+1238,247,It is difficult to determine,0.0
+1239,247,It is difficult to say,0.0
+1240,248,$\it{Other}$,0.030505941073373923
+1241,248,Both,0.0
+1242,248,Igor Stravinsky,0.9389881178532522
+1243,248,It is difficult to determine,0.030505941073373923
+1244,248,It is difficult to say,0.0
+1245,249,$\it{Other}$,0.0
+1246,249,Both,0.0
+1247,249,Igor Stravinsky,0.9666666666666667
+1248,249,It is difficult to determine,0.03333333333333333
+1249,249,It is difficult to say,0.0
+1250,250,$\it{Other}$,0.030714784235653745
+1251,250,Both,0.0
+1252,250,Igor Stravinsky,0.935951882431013
+1253,250,It is difficult to determine,0.03333333333333333
+1254,250,It is difficult to say,0.0
+1255,251,$\it{Other}$,0.0051267399443138476
+1256,251,Both,0.0
+1257,251,Igor Stravinsky,0.9948732600556862
+1258,251,It is difficult to determine,0.0
+1259,251,It is difficult to say,0.0
+1260,252,$\it{Other}$,0.017086925050970238
+1261,252,Both,0.0
+1262,252,Igor Stravinsky,0.9601708697348588
+1263,252,It is difficult to determine,0.02274220521417113
+1264,252,It is difficult to say,0.0
+1265,253,$\it{Other}$,0.01667709333197309
+1266,253,Both,0.0
+1267,253,Igor Stravinsky,0.983322906668027
+1268,253,It is difficult to determine,0.0
+1269,253,It is difficult to say,0.0
+1270,254,$\it{Other}$,0.05779147144492613
+1271,254,Both,0.0
+1272,254,Igor Stravinsky,0.9422085285550739
+1273,254,It is difficult to determine,0.0
+1274,254,It is difficult to say,0.0
+1275,255,$\it{Other}$,0.011269825313954469
+1276,255,Both,0.0
+1277,255,Igor Stravinsky,0.9771804169026694
+1278,255,It is difficult to determine,0.011549757783376264
+1279,255,It is difficult to say,0.0
+1280,256,$\it{Other}$,0.009373714295094461
+1281,256,Both,0.0
+1282,256,Igor Stravinsky,0.9906262857049055
+1283,256,It is difficult to determine,0.0
+1284,256,It is difficult to say,0.0
+1285,257,$\it{Other}$,0.009127974293551491
+1286,257,Both,0.0
+1287,257,Igor Stravinsky,0.9908720257064485
+1288,257,It is difficult to determine,0.0
+1289,257,It is difficult to say,0.0
+1290,258,$\it{Other}$,0.0
+1291,258,Both,0.0
+1292,258,Igor Stravinsky,1.0
+1293,258,It is difficult to determine,0.0
+1294,258,It is difficult to say,0.0
+1295,259,$\it{Other}$,0.0
+1296,259,Both,0.0
+1297,259,Igor Stravinsky,1.0
+1298,259,It is difficult to determine,0.0
+1299,259,It is difficult to say,0.0
+1300,260,$\it{Other}$,0.012656156083376375
+1301,260,Both,0.0
+1302,260,Igor Stravinsky,0.9873438439166236
+1303,260,It is difficult to determine,0.0
+1304,260,It is difficult to say,0.0
+1305,261,$\it{Other}$,0.0
+1306,261,Both,0.0
+1307,261,Igor Stravinsky,1.0
+1308,261,It is difficult to determine,0.0
+1309,261,It is difficult to say,0.0
+1310,262,$\it{Other}$,0.0
+1311,262,Both,0.0
+1312,262,Igor Stravinsky,1.0
+1313,262,It is difficult to determine,0.0
+1314,262,It is difficult to say,0.0
+1315,263,$\it{Other}$,0.031435683188320705
+1316,263,Both,0.0
+1317,263,Igor Stravinsky,0.9685643168116793
+1318,263,It is difficult to determine,0.0
+1319,263,It is difficult to say,0.0
+1320,264,$\it{Other}$,0.0
+1321,264,Both,0.0
+1322,264,Igor Stravinsky,1.0
+1323,264,It is difficult to determine,0.0
+1324,264,It is difficult to say,0.0
+1325,265,$\it{Other}$,0.0
+1326,265,Both,0.0
+1327,265,Igor Stravinsky,1.0
+1328,265,It is difficult to determine,0.0
+1329,265,It is difficult to say,0.0
+1330,266,$\it{Other}$,0.0
+1331,266,Both,0.0
+1332,266,Igor Stravinsky,1.0
+1333,266,It is difficult to determine,0.0
+1334,266,It is difficult to say,0.0
+1335,267,$\it{Other}$,0.0
+1336,267,Both,0.0
+1337,267,Igor Stravinsky,1.0
+1338,267,It is difficult to determine,0.0
+1339,267,It is difficult to say,0.0
+1340,268,$\it{Other}$,0.0
+1341,268,Both,0.0
+1342,268,Igor Stravinsky,1.0
+1343,268,It is difficult to determine,0.0
+1344,268,It is difficult to say,0.0
+1345,269,$\it{Other}$,0.0
+1346,269,Both,0.0
+1347,269,Igor Stravinsky,1.0
+1348,269,It is difficult to determine,0.0
+1349,269,It is difficult to say,0.0
+1350,270,$\it{Other}$,0.0
+1351,270,Both,0.0
+1352,270,Igor Stravinsky,0.9999999999999999
+1353,270,It is difficult to determine,0.0
+1354,270,It is difficult to say,0.0
+1355,271,$\it{Other}$,0.0
+1356,271,Both,0.0
+1357,271,Igor Stravinsky,1.0
+1358,271,It is difficult to determine,0.0
+1359,271,It is difficult to say,0.0
+1360,272,$\it{Other}$,0.0
+1361,272,Both,0.0
+1362,272,Igor Stravinsky,1.0
+1363,272,It is difficult to determine,0.0
+1364,272,It is difficult to say,0.0
+1365,273,$\it{Other}$,0.0
+1366,273,Both,0.0
+1367,273,Igor Stravinsky,1.0
+1368,273,It is difficult to determine,0.0
+1369,273,It is difficult to say,0.0
+1370,274,$\it{Other}$,0.0
+1371,274,Both,0.0
+1372,274,Igor Stravinsky,1.0
+1373,274,It is difficult to determine,0.0
+1374,274,It is difficult to say,0.0
+1375,275,$\it{Other}$,0.0
+1376,275,Both,0.0
+1377,275,Igor Stravinsky,1.0
+1378,275,It is difficult to determine,0.0
+1379,275,It is difficult to say,0.0
+1380,276,$\it{Other}$,0.0
+1381,276,Both,0.0
+1382,276,Igor Stravinsky,1.0
+1383,276,It is difficult to determine,0.0
+1384,276,It is difficult to say,0.0
+1385,277,$\it{Other}$,0.0
+1386,277,Both,0.0
+1387,277,Igor Stravinsky,1.0
+1388,277,It is difficult to determine,0.0
+1389,277,It is difficult to say,0.0
+1390,278,$\it{Other}$,0.0
+1391,278,Both,0.0
+1392,278,Igor Stravinsky,1.0
+1393,278,It is difficult to determine,0.0
+1394,278,It is difficult to say,0.0
+1395,279,$\it{Other}$,0.0
+1396,279,Both,0.0
+1397,279,Igor Stravinsky,1.0
+1398,279,It is difficult to determine,0.0
+1399,279,It is difficult to say,0.0
+1400,280,$\it{Other}$,0.029518823086491314
+1401,280,Both,0.0
+1402,280,Igor Stravinsky,0.9704811769135088
+1403,280,It is difficult to determine,0.0
+1404,280,It is difficult to say,0.0
+1405,281,$\it{Other}$,0.0
+1406,281,Both,0.0
+1407,281,Igor Stravinsky,1.0
+1408,281,It is difficult to determine,0.0
+1409,281,It is difficult to say,0.0
+1410,282,$\it{Other}$,0.0
+1411,282,Both,0.0
+1412,282,Igor Stravinsky,1.0
+1413,282,It is difficult to determine,0.0
+1414,282,It is difficult to say,0.0
+1415,283,$\it{Other}$,0.0
+1416,283,Both,0.0
+1417,283,Igor Stravinsky,1.0
+1418,283,It is difficult to determine,0.0
+1419,283,It is difficult to say,0.0
+1420,284,$\it{Other}$,0.0
+1421,284,Both,0.0
+1422,284,Igor Stravinsky,1.0
+1423,284,It is difficult to determine,0.0
+1424,284,It is difficult to say,0.0
+1425,285,$\it{Other}$,0.0
+1426,285,Both,0.0
+1427,285,Igor Stravinsky,1.0
+1428,285,It is difficult to determine,0.0
+1429,285,It is difficult to say,0.0
+1430,286,$\it{Other}$,0.0
+1431,286,Both,0.0
+1432,286,Igor Stravinsky,1.0
+1433,286,It is difficult to determine,0.0
+1434,286,It is difficult to say,0.0
+1435,287,$\it{Other}$,0.0
+1436,287,Both,0.0
+1437,287,Igor Stravinsky,1.0
+1438,287,It is difficult to determine,0.0
+1439,287,It is difficult to say,0.0
+1440,288,$\it{Other}$,0.0
+1441,288,Both,0.0
+1442,288,Igor Stravinsky,1.0
+1443,288,It is difficult to determine,0.0
+1444,288,It is difficult to say,0.0
+1445,289,$\it{Other}$,0.0
+1446,289,Both,0.0
+1447,289,Igor Stravinsky,1.0
+1448,289,It is difficult to determine,0.0
+1449,289,It is difficult to say,0.0
+1450,290,$\it{Other}$,0.0
+1451,290,Both,0.0
+1452,290,Igor Stravinsky,1.0
+1453,290,It is difficult to determine,0.0
+1454,290,It is difficult to say,0.0

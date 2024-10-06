@@ -1,0 +1,1 @@
+{"base_args": {"logprobs": 20, "max_tokens": 1200}, "extend_args": {"temperature": 1, "n": 30, "max_tokens": 512}, "ans_args": {}, "tok_depth": 1200, "p_thresh": 0.05, "row": {"targets_vec": [1, 0], "targets": "no", "inputs": " Q: A coin is heads up. chrishell does not flip the coin. cissell flips the coin.  Is the coin still heads up? ", "index": 4834}}

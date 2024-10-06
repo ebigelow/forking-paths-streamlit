@@ -1,0 +1,1 @@
+{"base_args": {"logprobs": 20, "max_tokens": 1200}, "extend_args": {"temperature": 1, "n": 30, "max_tokens": 512}, "ans_args": {}, "tok_depth": 1200, "p_thresh": 0.05, "row": {"question": "Take the last letters of each words in \"Ernest Yuri Camila Ashlee\" and concatenate them.", "answer": "tiae", "index": 321}}

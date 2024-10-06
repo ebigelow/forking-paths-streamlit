@@ -1,0 +1,1 @@
+{"base_args": {"logprobs": 20, "max_tokens": 1200}, "extend_args": {"temperature": 1, "n": 30, "max_tokens": 512}, "ans_args": {}, "tok_depth": 1200, "p_thresh": 0.05, "row": {"targets_vec": [0, 1], "targets": "yes", "inputs": " Q: A coin is heads up. mils flips the coin. harilla flips the coin.  Is the coin still heads up? ", "index": 19987}}

@@ -1,0 +1,595 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.6221913350039233
+1,0,Brian May,0.025258400918179803
+2,0,George Harrison,0.05841794768109724
+3,0,Jack White,0.12320438681502964
+4,0,Not enough information,0.09753630648376638
+5,0,Pete Townshend,0.0733916230980036
+6,1,$\it{Other}$,0.5
+7,1,Brian May,0.06666666666666667
+8,1,George Harrison,0.06666666666666667
+9,1,Jack White,0.13333333333333333
+10,1,Not enough information,0.23333333333333334
+11,1,Pete Townshend,0.0
+12,2,$\it{Other}$,0.5832865251958538
+13,2,Brian May,0.08148004088605021
+14,2,George Harrison,0.03333333333333333
+15,2,Jack White,0.11993901296503603
+16,2,Not enough information,0.16914143026006462
+17,2,Pete Townshend,0.012819657359661944
+18,3,$\it{Other}$,0.5385246380638204
+19,3,Brian May,0.05628405720569226
+20,3,George Harrison,0.02814202860284613
+21,3,Jack White,0.11775941914187173
+22,3,Not enough information,0.2540985522552821
+23,3,Pete Townshend,0.005191304730487202
+24,4,$\it{Other}$,0.4666666666666667
+25,4,Brian May,0.1
+26,4,George Harrison,0.1
+27,4,Jack White,0.13333333333333333
+28,4,Not enough information,0.2
+29,4,Pete Townshend,0.0
+30,5,$\it{Other}$,0.5076453586441853
+31,5,Brian May,0.052761426473936265
+32,5,George Harrison,0.016822985906700318
+33,5,Jack White,0.19229674796676785
+34,5,Not enough information,0.10535288989035
+35,5,Pete Townshend,0.1251205911180603
+36,6,$\it{Other}$,0.6666666666666666
+37,6,Brian May,0.1
+38,6,George Harrison,0.03333333333333333
+39,6,Jack White,0.0
+40,6,Not enough information,0.2
+41,6,Pete Townshend,0.0
+42,7,$\it{Other}$,0.6119978486526932
+43,7,Brian May,0.06211725415650855
+44,7,George Harrison,0.04739601818586239
+45,7,Jack White,0.11605134228301929
+46,7,Not enough information,0.13683868835570717
+47,7,Pete Townshend,0.025598848366209417
+48,8,$\it{Other}$,0.5666666666666667
+49,8,Brian May,0.13333333333333333
+50,8,George Harrison,0.1
+51,8,Jack White,0.1
+52,8,Not enough information,0.0
+53,8,Pete Townshend,0.1
+54,9,$\it{Other}$,0.5025078034232671
+55,9,Brian May,0.03584113675660043
+56,9,George Harrison,0.030825529910066235
+57,9,Jack White,0.13333333333333333
+58,9,Not enough information,0.2
+59,9,Pete Townshend,0.09749219657673291
+60,10,$\it{Other}$,0.5666666666666667
+61,10,Brian May,0.13333333333333333
+62,10,George Harrison,0.03333333333333333
+63,10,Jack White,0.1
+64,10,Not enough information,0.06666666666666667
+65,10,Pete Townshend,0.1
+66,11,$\it{Other}$,0.6
+67,11,Brian May,0.16666666666666666
+68,11,George Harrison,0.03333333333333333
+69,11,Jack White,0.1
+70,11,Not enough information,0.03333333333333333
+71,11,Pete Townshend,0.06666666666666667
+72,12,$\it{Other}$,0.6
+73,12,Brian May,0.16666666666666666
+74,12,George Harrison,0.06666666666666667
+75,12,Jack White,0.16666666666666666
+76,12,Not enough information,0.0
+77,12,Pete Townshend,0.0
+78,13,$\it{Other}$,0.6
+79,13,Brian May,0.1
+80,13,George Harrison,0.06666666666666667
+81,13,Jack White,0.03333333333333333
+82,13,Not enough information,0.16666666666666666
+83,13,Pete Townshend,0.03333333333333333
+84,14,$\it{Other}$,0.6217930667784756
+85,14,Brian May,0.04102684436990511
+86,14,George Harrison,0.1038467555182859
+87,14,Jack White,0.155126400111809
+88,14,Not enough information,0.01154026655485767
+89,14,Pete Townshend,0.06666666666666667
+90,15,$\it{Other}$,0.6451463972630831
+91,15,Brian May,0.021598063587644444
+92,15,George Harrison,0.0774656984604889
+93,15,Jack White,0.10629685675674734
+94,15,Not enough information,0.04142487180975309
+95,15,Pete Townshend,0.10806811212228312
+96,16,$\it{Other}$,0.4666666666666667
+97,16,Brian May,0.16666666666666666
+98,16,George Harrison,0.1
+99,16,Jack White,0.1
+100,16,Not enough information,0.03333333333333333
+101,16,Pete Townshend,0.13333333333333333
+102,17,$\it{Other}$,0.5
+103,17,Brian May,0.23333333333333334
+104,17,George Harrison,0.03333333333333333
+105,17,Jack White,0.03333333333333333
+106,17,Not enough information,0.03333333333333333
+107,17,Pete Townshend,0.16666666666666666
+108,18,$\it{Other}$,0.6333333333333333
+109,18,Brian May,0.03333333333333333
+110,18,George Harrison,0.1
+111,18,Jack White,0.13333333333333333
+112,18,Not enough information,0.1
+113,18,Pete Townshend,0.0
+114,19,$\it{Other}$,0.6315453380746857
+115,19,Brian May,0.09642400948270476
+116,19,George Harrison,0.09821200474135239
+117,19,Jack White,0.07203065244260956
+118,19,Not enough information,0.06666666666666668
+119,19,Pete Townshend,0.035121328591980965
+120,20,$\it{Other}$,0.6333333333333333
+121,20,Brian May,0.1
+122,20,George Harrison,0.06666666666666667
+123,20,Jack White,0.06666666666666667
+124,20,Not enough information,0.03333333333333333
+125,20,Pete Townshend,0.1
+126,21,$\it{Other}$,0.5584657038562953
+127,21,Brian May,0.14272950611815444
+128,21,George Harrison,0.11987837963411789
+129,21,Jack White,0.04772461112530395
+130,21,Not enough information,0.061288740734493516
+131,21,Pete Townshend,0.06991305853163483
+132,22,$\it{Other}$,0.4666666666666667
+133,22,Brian May,0.26666666666666666
+134,22,George Harrison,0.06666666666666667
+135,22,Jack White,0.13333333333333333
+136,22,Not enough information,0.0
+137,22,Pete Townshend,0.06666666666666667
+138,23,$\it{Other}$,0.4889218385951783
+139,23,Brian May,0.16868558598539574
+140,23,George Harrison,0.14349489337856752
+141,23,Jack White,0.1150131897279544
+142,23,Not enough information,0.011263878004375703
+143,23,Pete Townshend,0.07262061430852838
+144,24,$\it{Other}$,0.6624912070989275
+145,24,Brian May,0.07084212623440575
+146,24,George Harrison,0.1333333333333333
+147,24,Jack White,0.09164908086452181
+148,24,Not enough information,0.004175459567739097
+149,24,Pete Townshend,0.037508792901072424
+150,25,$\it{Other}$,0.6
+151,25,Brian May,0.1
+152,25,George Harrison,0.2
+153,25,Jack White,0.03333333333333333
+154,25,Not enough information,0.0
+155,25,Pete Townshend,0.06666666666666667
+156,26,$\it{Other}$,0.507474524481885
+157,26,Brian May,0.12225948239637363
+158,26,George Harrison,0.14750869132999309
+159,26,Jack White,0.10316686474989772
+160,26,Not enough information,0.02483200492695763
+161,26,Pete Townshend,0.09475843211489288
+162,27,$\it{Other}$,0.43333333333333335
+163,27,Brian May,0.23333333333333334
+164,27,George Harrison,0.1
+165,27,Jack White,0.1
+166,27,Not enough information,0.0
+167,27,Pete Townshend,0.13333333333333333
+168,28,$\it{Other}$,0.43333333333333335
+169,28,Brian May,0.16666666666666666
+170,28,George Harrison,0.1
+171,28,Jack White,0.23333333333333334
+172,28,Not enough information,0.0
+173,28,Pete Townshend,0.06666666666666667
+174,29,$\it{Other}$,0.5333333333333333
+175,29,Brian May,0.1
+176,29,George Harrison,0.03333333333333333
+177,29,Jack White,0.16666666666666666
+178,29,Not enough information,0.03333333333333333
+179,29,Pete Townshend,0.13333333333333333
+180,30,$\it{Other}$,0.5666666666666667
+181,30,Brian May,0.2
+182,30,George Harrison,0.1
+183,30,Jack White,0.06666666666666667
+184,30,Not enough information,0.0
+185,30,Pete Townshend,0.06666666666666667
+186,31,$\it{Other}$,0.4666666666666667
+187,31,Brian May,0.16666666666666666
+188,31,George Harrison,0.16666666666666666
+189,31,Jack White,0.06666666666666667
+190,31,Not enough information,0.03333333333333333
+191,31,Pete Townshend,0.1
+192,32,$\it{Other}$,0.48245045742299114
+193,32,Brian May,0.21081284377118062
+194,32,George Harrison,0.0824018372659471
+195,32,Jack White,0.10899847179345226
+196,32,Not enough information,0.0
+197,32,Pete Townshend,0.1153363897464288
+198,33,$\it{Other}$,0.5629312838106086
+199,33,Brian May,0.15201024761362336
+200,33,George Harrison,0.12959795047727532
+201,33,Jack White,0.059195900954550656
+202,33,Not enough information,0.0
+203,33,Pete Townshend,0.09626461714394201
+204,34,$\it{Other}$,0.5
+205,34,Brian May,0.16666666666666666
+206,34,George Harrison,0.13333333333333333
+207,34,Jack White,0.1
+208,34,Not enough information,0.0
+209,34,Pete Townshend,0.1
+210,35,$\it{Other}$,0.3
+211,35,Brian May,0.26666666666666666
+212,35,George Harrison,0.16666666666666666
+213,35,Jack White,0.16666666666666666
+214,35,Not enough information,0.0
+215,35,Pete Townshend,0.1
+216,36,$\it{Other}$,0.5183271904265573
+217,36,Brian May,0.1983189998841893
+218,36,George Harrison,0.13169328592936277
+219,36,Jack White,0.089995904728816
+220,36,Not enough information,0.0
+221,36,Pete Townshend,0.061664619031074654
+222,37,$\it{Other}$,0.39820923059761903
+223,37,Brian May,0.25060164914301913
+224,37,George Harrison,0.08926537227450254
+225,37,Jack White,0.1132065586614056
+226,37,Not enough information,0.0
+227,37,Pete Townshend,0.14871718932345376
+228,38,$\it{Other}$,0.3989022555677405
+229,38,Brian May,0.2209923959267242
+230,38,George Harrison,0.051407667900297604
+231,38,Jack White,0.22588234480464248
+232,38,Not enough information,0.0
+233,38,Pete Townshend,0.10281533580059521
+234,39,$\it{Other}$,0.24899688153691937
+235,39,Brian May,0.07320339553752452
+236,39,George Harrison,0.21566354820358605
+237,39,Jack White,0.27728170483318204
+238,39,Not enough information,0.0
+239,39,Pete Townshend,0.18485446988878806
+240,40,$\it{Other}$,0.25705392363966245
+241,40,Brian May,0.0
+242,40,George Harrison,0.1728114495970549
+243,40,Jack White,0.33171925753502407
+244,40,Not enough information,0.0
+245,40,Pete Townshend,0.23841536922825862
+246,41,$\it{Other}$,0.0
+247,41,Brian May,0.0
+248,41,George Harrison,0.0
+249,41,Jack White,1.0
+250,41,Not enough information,0.0
+251,41,Pete Townshend,0.0
+252,42,$\it{Other}$,0.0
+253,42,Brian May,0.0
+254,42,George Harrison,0.0
+255,42,Jack White,1.0
+256,42,Not enough information,0.0
+257,42,Pete Townshend,0.0
+258,43,$\it{Other}$,0.04636669537425122
+259,43,Brian May,0.0
+260,43,George Harrison,0.0
+261,43,Jack White,0.9536333046257489
+262,43,Not enough information,0.0
+263,43,Pete Townshend,0.0
+264,44,$\it{Other}$,0.024497810021564995
+265,44,Brian May,0.0
+266,44,George Harrison,0.0
+267,44,Jack White,0.9755021899784351
+268,44,Not enough information,0.0
+269,44,Pete Townshend,0.0
+270,45,$\it{Other}$,0.0
+271,45,Brian May,0.0
+272,45,George Harrison,0.0
+273,45,Jack White,1.0
+274,45,Not enough information,0.0
+275,45,Pete Townshend,0.0
+276,46,$\it{Other}$,0.0
+277,46,Brian May,0.0
+278,46,George Harrison,0.0
+279,46,Jack White,1.0
+280,46,Not enough information,0.0
+281,46,Pete Townshend,0.0
+282,47,$\it{Other}$,0.0
+283,47,Brian May,0.0
+284,47,George Harrison,0.0
+285,47,Jack White,1.0
+286,47,Not enough information,0.0
+287,47,Pete Townshend,0.0
+288,48,$\it{Other}$,0.0
+289,48,Brian May,0.0
+290,48,George Harrison,0.0
+291,48,Jack White,1.0
+292,48,Not enough information,0.0
+293,48,Pete Townshend,0.0
+294,49,$\it{Other}$,0.0
+295,49,Brian May,0.0
+296,49,George Harrison,0.0
+297,49,Jack White,1.0
+298,49,Not enough information,0.0
+299,49,Pete Townshend,0.0
+300,50,$\it{Other}$,0.0
+301,50,Brian May,0.0
+302,50,George Harrison,0.0
+303,50,Jack White,1.0
+304,50,Not enough information,0.0
+305,50,Pete Townshend,0.0
+306,51,$\it{Other}$,0.03333333333333333
+307,51,Brian May,0.0
+308,51,George Harrison,0.0
+309,51,Jack White,0.9666666666666667
+310,51,Not enough information,0.0
+311,51,Pete Townshend,0.0
+312,52,$\it{Other}$,0.0
+313,52,Brian May,0.0
+314,52,George Harrison,0.0
+315,52,Jack White,1.0
+316,52,Not enough information,0.0
+317,52,Pete Townshend,0.0
+318,53,$\it{Other}$,0.031073586292976133
+319,53,Brian May,0.0
+320,53,George Harrison,0.0
+321,53,Jack White,0.9689264137070239
+322,53,Not enough information,0.0
+323,53,Pete Townshend,0.0
+324,54,$\it{Other}$,0.06666666666666667
+325,54,Brian May,0.0
+326,54,George Harrison,0.0
+327,54,Jack White,0.9333333333333333
+328,54,Not enough information,0.0
+329,54,Pete Townshend,0.0
+330,55,$\it{Other}$,0.0
+331,55,Brian May,0.0
+332,55,George Harrison,0.0
+333,55,Jack White,1.0
+334,55,Not enough information,0.0
+335,55,Pete Townshend,0.0
+336,56,$\it{Other}$,0.03333333333333333
+337,56,Brian May,0.0
+338,56,George Harrison,0.0
+339,56,Jack White,0.9666666666666667
+340,56,Not enough information,0.0
+341,56,Pete Townshend,0.0
+342,57,$\it{Other}$,0.0
+343,57,Brian May,0.0
+344,57,George Harrison,0.0
+345,57,Jack White,1.0
+346,57,Not enough information,0.0
+347,57,Pete Townshend,0.0
+348,58,$\it{Other}$,0.0
+349,58,Brian May,0.0
+350,58,George Harrison,0.0
+351,58,Jack White,1.0
+352,58,Not enough information,0.0
+353,58,Pete Townshend,0.0
+354,59,$\it{Other}$,0.03333333333333333
+355,59,Brian May,0.0
+356,59,George Harrison,0.0
+357,59,Jack White,0.9666666666666667
+358,59,Not enough information,0.0
+359,59,Pete Townshend,0.0
+360,60,$\it{Other}$,0.0
+361,60,Brian May,0.0
+362,60,George Harrison,0.0
+363,60,Jack White,1.0
+364,60,Not enough information,0.0
+365,60,Pete Townshend,0.0
+366,61,$\it{Other}$,0.0
+367,61,Brian May,0.0
+368,61,George Harrison,0.0
+369,61,Jack White,1.0
+370,61,Not enough information,0.0
+371,61,Pete Townshend,0.0
+372,62,$\it{Other}$,0.0
+373,62,Brian May,0.0
+374,62,George Harrison,0.0
+375,62,Jack White,1.0
+376,62,Not enough information,0.0
+377,62,Pete Townshend,0.0
+378,63,$\it{Other}$,0.02679520243454581
+379,63,Brian May,0.0
+380,63,George Harrison,0.0
+381,63,Jack White,0.9732047975654543
+382,63,Not enough information,0.0
+383,63,Pete Townshend,0.0
+384,64,$\it{Other}$,0.1
+385,64,Brian May,0.0
+386,64,George Harrison,0.0
+387,64,Jack White,0.9
+388,64,Not enough information,0.0
+389,64,Pete Townshend,0.0
+390,65,$\it{Other}$,0.03333333333333333
+391,65,Brian May,0.0
+392,65,George Harrison,0.0
+393,65,Jack White,0.9666666666666667
+394,65,Not enough information,0.0
+395,65,Pete Townshend,0.0
+396,66,$\it{Other}$,0.018880914381328887
+397,66,Brian May,0.0
+398,66,George Harrison,0.0
+399,66,Jack White,0.9811190856186711
+400,66,Not enough information,0.0
+401,66,Pete Townshend,0.0
+402,67,$\it{Other}$,0.03333333333333333
+403,67,Brian May,0.0
+404,67,George Harrison,0.0
+405,67,Jack White,0.9666666666666667
+406,67,Not enough information,0.0
+407,67,Pete Townshend,0.0
+408,68,$\it{Other}$,0.0
+409,68,Brian May,0.0
+410,68,George Harrison,0.0
+411,68,Jack White,1.0
+412,68,Not enough information,0.0
+413,68,Pete Townshend,0.0
+414,69,$\it{Other}$,0.023952280326502158
+415,69,Brian May,0.0
+416,69,George Harrison,0.0
+417,69,Jack White,0.9760477196734978
+418,69,Not enough information,0.0
+419,69,Pete Townshend,0.0
+420,70,$\it{Other}$,0.0
+421,70,Brian May,0.0
+422,70,George Harrison,0.0
+423,70,Jack White,1.0
+424,70,Not enough information,0.0
+425,70,Pete Townshend,0.0
+426,71,$\it{Other}$,0.0
+427,71,Brian May,0.0
+428,71,George Harrison,0.0
+429,71,Jack White,0.9999999999999999
+430,71,Not enough information,0.0
+431,71,Pete Townshend,0.0
+432,72,$\it{Other}$,0.03333333333333333
+433,72,Brian May,0.0
+434,72,George Harrison,0.0
+435,72,Jack White,0.9666666666666667
+436,72,Not enough information,0.0
+437,72,Pete Townshend,0.0
+438,73,$\it{Other}$,0.03333333333333333
+439,73,Brian May,0.0
+440,73,George Harrison,0.0
+441,73,Jack White,0.9666666666666667
+442,73,Not enough information,0.0
+443,73,Pete Townshend,0.0
+444,74,$\it{Other}$,0.03333333333333333
+445,74,Brian May,0.0
+446,74,George Harrison,0.0
+447,74,Jack White,0.9666666666666667
+448,74,Not enough information,0.0
+449,74,Pete Townshend,0.0
+450,75,$\it{Other}$,0.006952474577726864
+451,75,Brian May,0.0
+452,75,George Harrison,0.0
+453,75,Jack White,0.993047525422273
+454,75,Not enough information,0.0
+455,75,Pete Townshend,0.0
+456,76,$\it{Other}$,0.034246803809029086
+457,76,Brian May,0.0
+458,76,George Harrison,0.0
+459,76,Jack White,0.9657531961909709
+460,76,Not enough information,0.0
+461,76,Pete Townshend,0.0
+462,77,$\it{Other}$,0.023316420800391813
+463,77,Brian May,0.0
+464,77,George Harrison,0.0
+465,77,Jack White,0.9766835791996082
+466,77,Not enough information,0.0
+467,77,Pete Townshend,0.0
+468,78,$\it{Other}$,0.028703678220931093
+469,78,Brian May,0.0
+470,78,George Harrison,0.0
+471,78,Jack White,0.9712963217790689
+472,78,Not enough information,0.0
+473,78,Pete Townshend,0.0
+474,79,$\it{Other}$,0.027947953349523567
+475,79,Brian May,0.0
+476,79,George Harrison,0.0
+477,79,Jack White,0.9720520466504765
+478,79,Not enough information,0.0
+479,79,Pete Townshend,0.0
+480,80,$\it{Other}$,0.03333333333333333
+481,80,Brian May,0.0
+482,80,George Harrison,0.0
+483,80,Jack White,0.9666666666666667
+484,80,Not enough information,0.0
+485,80,Pete Townshend,0.0
+486,81,$\it{Other}$,0.03333333333333333
+487,81,Brian May,0.0
+488,81,George Harrison,0.0
+489,81,Jack White,0.9666666666666667
+490,81,Not enough information,0.0
+491,81,Pete Townshend,0.0
+492,82,$\it{Other}$,0.0
+493,82,Brian May,0.0
+494,82,George Harrison,0.0
+495,82,Jack White,1.0
+496,82,Not enough information,0.0
+497,82,Pete Townshend,0.0
+498,83,$\it{Other}$,0.0
+499,83,Brian May,0.0
+500,83,George Harrison,0.0
+501,83,Jack White,1.0
+502,83,Not enough information,0.0
+503,83,Pete Townshend,0.0
+504,84,$\it{Other}$,0.0
+505,84,Brian May,0.0
+506,84,George Harrison,0.0
+507,84,Jack White,1.0
+508,84,Not enough information,0.0
+509,84,Pete Townshend,0.0
+510,85,$\it{Other}$,0.0
+511,85,Brian May,0.0
+512,85,George Harrison,0.0
+513,85,Jack White,1.0
+514,85,Not enough information,0.0
+515,85,Pete Townshend,0.0
+516,86,$\it{Other}$,0.013972331064443948
+517,86,Brian May,0.0
+518,86,George Harrison,0.0
+519,86,Jack White,0.986027668935556
+520,86,Not enough information,0.0
+521,86,Pete Townshend,0.0
+522,87,$\it{Other}$,0.0
+523,87,Brian May,0.0
+524,87,George Harrison,0.0
+525,87,Jack White,1.0
+526,87,Not enough information,0.0
+527,87,Pete Townshend,0.0
+528,88,$\it{Other}$,0.0
+529,88,Brian May,0.0
+530,88,George Harrison,0.0
+531,88,Jack White,1.0
+532,88,Not enough information,0.0
+533,88,Pete Townshend,0.0
+534,89,$\it{Other}$,0.0
+535,89,Brian May,0.0
+536,89,George Harrison,0.0
+537,89,Jack White,1.0
+538,89,Not enough information,0.0
+539,89,Pete Townshend,0.0
+540,90,$\it{Other}$,0.0
+541,90,Brian May,0.0
+542,90,George Harrison,0.0
+543,90,Jack White,1.0
+544,90,Not enough information,0.0
+545,90,Pete Townshend,0.0
+546,91,$\it{Other}$,0.0
+547,91,Brian May,0.0
+548,91,George Harrison,0.0
+549,91,Jack White,1.0
+550,91,Not enough information,0.0
+551,91,Pete Townshend,0.0
+552,92,$\it{Other}$,0.0
+553,92,Brian May,0.0
+554,92,George Harrison,0.0
+555,92,Jack White,1.0
+556,92,Not enough information,0.0
+557,92,Pete Townshend,0.0
+558,93,$\it{Other}$,0.0
+559,93,Brian May,0.0
+560,93,George Harrison,0.0
+561,93,Jack White,1.0
+562,93,Not enough information,0.0
+563,93,Pete Townshend,0.0
+564,94,$\it{Other}$,0.0
+565,94,Brian May,0.0
+566,94,George Harrison,0.0
+567,94,Jack White,1.0
+568,94,Not enough information,0.0
+569,94,Pete Townshend,0.0
+570,95,$\it{Other}$,0.0
+571,95,Brian May,0.0
+572,95,George Harrison,0.0
+573,95,Jack White,1.0
+574,95,Not enough information,0.0
+575,95,Pete Townshend,0.0
+576,96,$\it{Other}$,0.0
+577,96,Brian May,0.0
+578,96,George Harrison,0.0
+579,96,Jack White,1.0
+580,96,Not enough information,0.0
+581,96,Pete Townshend,0.0
+582,97,$\it{Other}$,0.0
+583,97,Brian May,0.0
+584,97,George Harrison,0.0
+585,97,Jack White,1.0
+586,97,Not enough information,0.0
+587,97,Pete Townshend,0.0
+588,98,$\it{Other}$,0.0
+589,98,Brian May,0.0
+590,98,George Harrison,0.0
+591,98,Jack White,0.9999999999999999
+592,98,Not enough information,0.0
+593,98,Pete Townshend,0.0

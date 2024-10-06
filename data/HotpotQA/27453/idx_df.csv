@@ -1,0 +1,1885 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.7921552770513298
+1,0,Gary Snyder,0.0659489219874946
+2,0,Mark Strand,0.049494698990289285
+3,0,May Swenson,0.005130170857484019
+4,0,The answer cannot be determined from the provided information,0.07077874614867853
+5,0,Wallace Stevens,0.016492184964723787
+6,1,$\it{Other}$,0.843371452946613
+7,1,Gary Snyder,0.03580568147159042
+8,1,Mark Strand,0.02054920228667562
+9,1,May Swenson,0.0
+10,1,The answer cannot be determined from the provided information,0.09566935321013448
+11,1,Wallace Stevens,0.004604310084986542
+12,2,$\it{Other}$,0.7575562755673109
+13,2,Gary Snyder,0.10303679703311859
+14,2,Mark Strand,0.036370130366451925
+15,2,May Swenson,0.0
+16,2,The answer cannot be determined from the provided information,0.1
+17,2,Wallace Stevens,0.0030367970331185968
+18,3,$\it{Other}$,0.6894788507885357
+19,3,Gary Snyder,0.10775008752653245
+20,3,Mark Strand,0.0347188641757993
+21,3,May Swenson,0.013232630005799939
+22,3,The answer cannot be determined from the provided information,0.13610439501826527
+23,3,Wallace Stevens,0.018715172485067426
+24,4,$\it{Other}$,0.6709190689052287
+25,4,Gary Snyder,0.10212620111928106
+26,4,Mark Strand,0.0
+27,4,May Swenson,0.0
+28,4,The answer cannot be determined from the provided information,0.22695472997549015
+29,4,Wallace Stevens,0.0
+30,5,$\it{Other}$,0.7549659631924055
+31,5,Gary Snyder,0.0265460855171923
+32,5,Mark Strand,0.006958878296372735
+33,5,May Swenson,0.0
+34,5,The answer cannot be determined from the provided information,0.18324986969076312
+35,5,Wallace Stevens,0.028279203303266474
+36,6,$\it{Other}$,0.7061804567638079
+37,6,Gary Snyder,0.056605142031116815
+38,6,Mark Strand,0.010456356429002878
+39,6,May Swenson,0.022876976904330455
+40,6,The answer cannot be determined from the provided information,0.20388106787174198
+41,6,Wallace Stevens,0.0
+42,7,$\it{Other}$,0.7386153053654994
+43,7,Gary Snyder,0.023824671905835763
+44,7,Mark Strand,0.013947181673974143
+45,7,May Swenson,0.0
+46,7,The answer cannot be determined from the provided information,0.22015533324334952
+47,7,Wallace Stevens,0.003457507811341197
+48,8,$\it{Other}$,0.7666666666666667
+49,8,Gary Snyder,0.0
+50,8,Mark Strand,0.0
+51,8,May Swenson,0.0
+52,8,The answer cannot be determined from the provided information,0.23333333333333334
+53,8,Wallace Stevens,0.0
+54,9,$\it{Other}$,0.7516045170946637
+55,9,Gary Snyder,0.01634576324773391
+56,9,Mark Strand,0.016987570085599424
+57,9,May Swenson,0.0
+58,9,The answer cannot be determined from the provided information,0.19807457948640345
+59,9,Wallace Stevens,0.016987570085599424
+60,10,$\it{Other}$,0.7333333333333333
+61,10,Gary Snyder,0.13333333333333333
+62,10,Mark Strand,0.0
+63,10,May Swenson,0.0
+64,10,The answer cannot be determined from the provided information,0.1
+65,10,Wallace Stevens,0.03333333333333333
+66,11,$\it{Other}$,0.7333333333333333
+67,11,Gary Snyder,0.03333333333333333
+68,11,Mark Strand,0.0
+69,11,May Swenson,0.0
+70,11,The answer cannot be determined from the provided information,0.23333333333333334
+71,11,Wallace Stevens,0.0
+72,12,$\it{Other}$,0.7570109935832134
+73,12,Gary Snyder,0.03984814583417733
+74,12,Mark Strand,0.02105352561062288
+75,12,May Swenson,0.005939495550947473
+76,12,The answer cannot be determined from the provided information,0.1631393956256098
+77,12,Wallace Stevens,0.013008443795429158
+78,13,$\it{Other}$,0.7
+79,13,Gary Snyder,0.03333333333333333
+80,13,Mark Strand,0.0
+81,13,May Swenson,0.0
+82,13,The answer cannot be determined from the provided information,0.23333333333333334
+83,13,Wallace Stevens,0.03333333333333333
+84,14,$\it{Other}$,0.7666666666666667
+85,14,Gary Snyder,0.06666666666666667
+86,14,Mark Strand,0.03333333333333333
+87,14,May Swenson,0.03333333333333333
+88,14,The answer cannot be determined from the provided information,0.1
+89,14,Wallace Stevens,0.0
+90,15,$\it{Other}$,0.8652440463550894
+91,15,Gary Snyder,0.011269180034619687
+92,15,Mark Strand,0.022538360069239375
+93,15,May Swenson,0.0
+94,15,The answer cannot be determined from the provided information,0.08967923350643177
+95,15,Wallace Stevens,0.011269180034619687
+96,16,$\it{Other}$,0.6874959901348158
+97,16,Gary Snyder,0.03958533826592542
+98,16,Mark Strand,0.03333333333333333
+99,16,May Swenson,0.0
+100,16,The answer cannot be determined from the provided information,0.23333333333333334
+101,16,Wallace Stevens,0.006252004932592091
+102,17,$\it{Other}$,0.7953505555874816
+103,17,Gary Snyder,0.0654039578909034
+104,17,Mark Strand,0.0033734724023867925
+105,17,May Swenson,0.0033734724023867925
+106,17,The answer cannot be determined from the provided information,0.10802291681490526
+107,17,Wallace Stevens,0.02447562490193622
+108,18,$\it{Other}$,0.8595800348141218
+109,18,Gary Snyder,0.010629947778817329
+110,18,Mark Strand,0.02979001740706089
+111,18,May Swenson,0.0
+112,18,The answer cannot be determined from the provided information,0.06666666666666667
+113,18,Wallace Stevens,0.03333333333333333
+114,19,$\it{Other}$,0.8
+115,19,Gary Snyder,0.06666666666666667
+116,19,Mark Strand,0.0
+117,19,May Swenson,0.0
+118,19,The answer cannot be determined from the provided information,0.1
+119,19,Wallace Stevens,0.03333333333333333
+120,20,$\it{Other}$,0.7666666666666667
+121,20,Gary Snyder,0.03333333333333333
+122,20,Mark Strand,0.0
+123,20,May Swenson,0.03333333333333333
+124,20,The answer cannot be determined from the provided information,0.16666666666666666
+125,20,Wallace Stevens,0.0
+126,21,$\it{Other}$,0.7626942103097414
+127,21,Gary Snyder,0.03333333333333333
+128,21,Mark Strand,0.029360876976408073
+129,21,May Swenson,0.003972456356925258
+130,21,The answer cannot be determined from the provided information,0.13730578969025858
+131,21,Wallace Stevens,0.03333333333333333
+132,22,$\it{Other}$,0.6813225114795672
+133,22,Gary Snyder,0.03333333333333334
+134,22,Mark Strand,0.09371892365161406
+135,22,May Swenson,0.0020936921161286495
+136,22,The answer cannot be determined from the provided information,0.1270522569849474
+137,22,Wallace Stevens,0.062479282434409374
+138,23,$\it{Other}$,0.9
+139,23,Gary Snyder,0.03333333333333333
+140,23,Mark Strand,0.0
+141,23,May Swenson,0.0
+142,23,The answer cannot be determined from the provided information,0.03333333333333333
+143,23,Wallace Stevens,0.03333333333333333
+144,24,$\it{Other}$,0.7452760955520752
+145,24,Gary Snyder,0.06666666666666667
+146,24,Mark Strand,0.023885524437483593
+147,24,May Swenson,0.0
+148,24,The answer cannot be determined from the provided information,0.1427811422291831
+149,24,Wallace Stevens,0.021390571114591538
+150,25,$\it{Other}$,0.7458121572027246
+151,25,Gary Snyder,0.13333333333333333
+152,25,Mark Strand,0.0
+153,25,May Swenson,0.0
+154,25,The answer cannot be determined from the provided information,0.09897421543128981
+155,25,Wallace Stevens,0.02188029403265216
+156,26,$\it{Other}$,0.7333333333333333
+157,26,Gary Snyder,0.06666666666666667
+158,26,Mark Strand,0.0
+159,26,May Swenson,0.0
+160,26,The answer cannot be determined from the provided information,0.13333333333333333
+161,26,Wallace Stevens,0.06666666666666667
+162,27,$\it{Other}$,0.8
+163,27,Gary Snyder,0.03333333333333333
+164,27,Mark Strand,0.0
+165,27,May Swenson,0.0
+166,27,The answer cannot be determined from the provided information,0.1
+167,27,Wallace Stevens,0.06666666666666667
+168,28,$\it{Other}$,0.7666666666666667
+169,28,Gary Snyder,0.03333333333333333
+170,28,Mark Strand,0.0
+171,28,May Swenson,0.0
+172,28,The answer cannot be determined from the provided information,0.2
+173,28,Wallace Stevens,0.0
+174,29,$\it{Other}$,0.9333333333333333
+175,29,Gary Snyder,0.0
+176,29,Mark Strand,0.0
+177,29,May Swenson,0.03333333333333333
+178,29,The answer cannot be determined from the provided information,0.03333333333333333
+179,29,Wallace Stevens,0.0
+180,30,$\it{Other}$,0.8333333333333334
+181,30,Gary Snyder,0.1
+182,30,Mark Strand,0.03333333333333333
+183,30,May Swenson,0.0
+184,30,The answer cannot be determined from the provided information,0.03333333333333333
+185,30,Wallace Stevens,0.0
+186,31,$\it{Other}$,0.7666666666666667
+187,31,Gary Snyder,0.13333333333333333
+188,31,Mark Strand,0.0
+189,31,May Swenson,0.0
+190,31,The answer cannot be determined from the provided information,0.1
+191,31,Wallace Stevens,0.0
+192,32,$\it{Other}$,0.7333333333333333
+193,32,Gary Snyder,0.03333333333333333
+194,32,Mark Strand,0.0
+195,32,May Swenson,0.0
+196,32,The answer cannot be determined from the provided information,0.23333333333333334
+197,32,Wallace Stevens,0.0
+198,33,$\it{Other}$,0.8666666666666667
+199,33,Gary Snyder,0.03333333333333333
+200,33,Mark Strand,0.0
+201,33,May Swenson,0.0
+202,33,The answer cannot be determined from the provided information,0.06666666666666667
+203,33,Wallace Stevens,0.03333333333333333
+204,34,$\it{Other}$,0.5333333333333333
+205,34,Gary Snyder,0.16666666666666666
+206,34,Mark Strand,0.03333333333333333
+207,34,May Swenson,0.0
+208,34,The answer cannot be determined from the provided information,0.2
+209,34,Wallace Stevens,0.06666666666666667
+210,35,$\it{Other}$,0.8666666666666667
+211,35,Gary Snyder,0.0
+212,35,Mark Strand,0.0
+213,35,May Swenson,0.0
+214,35,The answer cannot be determined from the provided information,0.13333333333333333
+215,35,Wallace Stevens,0.0
+216,36,$\it{Other}$,0.7
+217,36,Gary Snyder,0.16666666666666666
+218,36,Mark Strand,0.0
+219,36,May Swenson,0.0
+220,36,The answer cannot be determined from the provided information,0.13333333333333333
+221,36,Wallace Stevens,0.0
+222,37,$\it{Other}$,0.6666666666666666
+223,37,Gary Snyder,0.06666666666666667
+224,37,Mark Strand,0.06666666666666667
+225,37,May Swenson,0.03333333333333333
+226,37,The answer cannot be determined from the provided information,0.16666666666666666
+227,37,Wallace Stevens,0.0
+228,38,$\it{Other}$,0.6666666666666666
+229,38,Gary Snyder,0.13333333333333333
+230,38,Mark Strand,0.03333333333333333
+231,38,May Swenson,0.03333333333333333
+232,38,The answer cannot be determined from the provided information,0.1
+233,38,Wallace Stevens,0.03333333333333333
+234,39,$\it{Other}$,0.7288089169135554
+235,39,Gary Snyder,0.02390455185301198
+236,39,Mark Strand,0.01195227592650599
+237,39,May Swenson,0.015762177077810836
+238,39,The answer cannot be determined from the provided information,0.20380990115130487
+239,39,Wallace Stevens,0.015762177077810836
+240,40,$\it{Other}$,0.7050779446751559
+241,40,Gary Snyder,0.06158872199151061
+242,40,Mark Strand,0.0610155889350312
+243,40,May Swenson,0.0
+244,40,The answer cannot be determined from the provided information,0.17231774439830208
+245,40,Wallace Stevens,0.0
+246,41,$\it{Other}$,0.8
+247,41,Gary Snyder,0.0
+248,41,Mark Strand,0.1
+249,41,May Swenson,0.0
+250,41,The answer cannot be determined from the provided information,0.06666666666666667
+251,41,Wallace Stevens,0.03333333333333333
+252,42,$\it{Other}$,0.7333333333333333
+253,42,Gary Snyder,0.0
+254,42,Mark Strand,0.06666666666666667
+255,42,May Swenson,0.06666666666666667
+256,42,The answer cannot be determined from the provided information,0.13333333333333333
+257,42,Wallace Stevens,0.0
+258,43,$\it{Other}$,1.0
+259,43,Gary Snyder,0.0
+260,43,Mark Strand,0.0
+261,43,May Swenson,0.0
+262,43,The answer cannot be determined from the provided information,0.0
+263,43,Wallace Stevens,0.0
+264,44,$\it{Other}$,0.8
+265,44,Gary Snyder,0.06666666666666667
+266,44,Mark Strand,0.03333333333333333
+267,44,May Swenson,0.03333333333333333
+268,44,The answer cannot be determined from the provided information,0.06666666666666667
+269,44,Wallace Stevens,0.0
+270,45,$\it{Other}$,0.9333333333333333
+271,45,Gary Snyder,0.03333333333333333
+272,45,Mark Strand,0.0
+273,45,May Swenson,0.0
+274,45,The answer cannot be determined from the provided information,0.03333333333333333
+275,45,Wallace Stevens,0.0
+276,46,$\it{Other}$,0.9157534255779112
+277,46,Gary Snyder,0.00585996925180742
+278,46,Mark Strand,0.0
+279,46,May Swenson,0.0
+280,46,The answer cannot be determined from the provided information,0.07838660517028151
+281,46,Wallace Stevens,0.0
+282,47,$\it{Other}$,0.7333333333333333
+283,47,Gary Snyder,0.0
+284,47,Mark Strand,0.06666666666666667
+285,47,May Swenson,0.03333333333333333
+286,47,The answer cannot be determined from the provided information,0.13333333333333333
+287,47,Wallace Stevens,0.03333333333333333
+288,48,$\it{Other}$,0.8666666666666667
+289,48,Gary Snyder,0.03333333333333333
+290,48,Mark Strand,0.0
+291,48,May Swenson,0.03333333333333333
+292,48,The answer cannot be determined from the provided information,0.06666666666666667
+293,48,Wallace Stevens,0.0
+294,49,$\it{Other}$,0.7333333333333333
+295,49,Gary Snyder,0.03333333333333333
+296,49,Mark Strand,0.03333333333333333
+297,49,May Swenson,0.0
+298,49,The answer cannot be determined from the provided information,0.2
+299,49,Wallace Stevens,0.0
+300,50,$\it{Other}$,0.8333333333333334
+301,50,Gary Snyder,0.06666666666666667
+302,50,Mark Strand,0.0
+303,50,May Swenson,0.03333333333333333
+304,50,The answer cannot be determined from the provided information,0.06666666666666667
+305,50,Wallace Stevens,0.0
+306,51,$\it{Other}$,0.7
+307,51,Gary Snyder,0.0
+308,51,Mark Strand,0.03333333333333333
+309,51,May Swenson,0.03333333333333333
+310,51,The answer cannot be determined from the provided information,0.2
+311,51,Wallace Stevens,0.03333333333333333
+312,52,$\it{Other}$,0.8555455326825004
+313,52,Gary Snyder,0.031107435300061236
+314,52,Mark Strand,0.06666248857556956
+315,52,May Swenson,0.0022258980332720973
+316,52,The answer cannot be determined from the provided information,0.042232747375324606
+317,52,Wallace Stevens,0.0022258980332720973
+318,53,$\it{Other}$,0.77083287751272
+319,53,Gary Snyder,0.008332421692106608
+320,53,Mark Strand,0.004166210846053304
+321,53,May Swenson,0.09166757830789339
+322,53,The answer cannot be determined from the provided information,0.12500091164122673
+323,53,Wallace Stevens,0.0
+324,54,$\it{Other}$,0.8666666666666667
+325,54,Gary Snyder,0.06666666666666667
+326,54,Mark Strand,0.0
+327,54,May Swenson,0.0
+328,54,The answer cannot be determined from the provided information,0.03333333333333333
+329,54,Wallace Stevens,0.03333333333333333
+330,55,$\it{Other}$,0.7666666666666667
+331,55,Gary Snyder,0.06666666666666667
+332,55,Mark Strand,0.06666666666666667
+333,55,May Swenson,0.0
+334,55,The answer cannot be determined from the provided information,0.06666666666666667
+335,55,Wallace Stevens,0.03333333333333333
+336,56,$\it{Other}$,0.9333333333333333
+337,56,Gary Snyder,0.03333333333333333
+338,56,Mark Strand,0.0
+339,56,May Swenson,0.03333333333333333
+340,56,The answer cannot be determined from the provided information,0.0
+341,56,Wallace Stevens,0.0
+342,57,$\it{Other}$,0.8333333333333334
+343,57,Gary Snyder,0.0
+344,57,Mark Strand,0.03333333333333333
+345,57,May Swenson,0.0
+346,57,The answer cannot be determined from the provided information,0.13333333333333333
+347,57,Wallace Stevens,0.0
+348,58,$\it{Other}$,0.7923022685774743
+349,58,Gary Snyder,0.1
+350,58,Mark Strand,0.025635601910807514
+351,58,May Swenson,0.0
+352,58,The answer cannot be determined from the provided information,0.07436439808919248
+353,58,Wallace Stevens,0.00769773142252582
+354,59,$\it{Other}$,0.7333333333333333
+355,59,Gary Snyder,0.06666666666666667
+356,59,Mark Strand,0.0
+357,59,May Swenson,0.0
+358,59,The answer cannot be determined from the provided information,0.13333333333333333
+359,59,Wallace Stevens,0.06666666666666667
+360,60,$\it{Other}$,0.8187621840115493
+361,60,Gary Snyder,0.00728557466089198
+362,60,Mark Strand,0.00728557466089198
+363,60,May Swenson,0.0
+364,60,The answer cannot be determined from the provided information,0.10364278733044599
+365,60,Wallace Stevens,0.06302387933622067
+366,61,$\it{Other}$,0.8666666666666667
+367,61,Gary Snyder,0.06666666666666667
+368,61,Mark Strand,0.06666666666666667
+369,61,May Swenson,0.0
+370,61,The answer cannot be determined from the provided information,0.0
+371,61,Wallace Stevens,0.0
+372,62,$\it{Other}$,0.8333333333333334
+373,62,Gary Snyder,0.0
+374,62,Mark Strand,0.03333333333333333
+375,62,May Swenson,0.0
+376,62,The answer cannot be determined from the provided information,0.13333333333333333
+377,62,Wallace Stevens,0.0
+378,63,$\it{Other}$,0.7666666666666667
+379,63,Gary Snyder,0.03333333333333333
+380,63,Mark Strand,0.03333333333333333
+381,63,May Swenson,0.0
+382,63,The answer cannot be determined from the provided information,0.13333333333333333
+383,63,Wallace Stevens,0.03333333333333333
+384,64,$\it{Other}$,0.8666666666666667
+385,64,Gary Snyder,0.03333333333333333
+386,64,Mark Strand,0.0
+387,64,May Swenson,0.0
+388,64,The answer cannot be determined from the provided information,0.1
+389,64,Wallace Stevens,0.0
+390,65,$\it{Other}$,0.7
+391,65,Gary Snyder,0.03333333333333333
+392,65,Mark Strand,0.0
+393,65,May Swenson,0.0
+394,65,The answer cannot be determined from the provided information,0.23333333333333334
+395,65,Wallace Stevens,0.03333333333333333
+396,66,$\it{Other}$,0.8333333333333334
+397,66,Gary Snyder,0.03333333333333333
+398,66,Mark Strand,0.0
+399,66,May Swenson,0.03333333333333333
+400,66,The answer cannot be determined from the provided information,0.06666666666666667
+401,66,Wallace Stevens,0.03333333333333333
+402,67,$\it{Other}$,0.8666666666666667
+403,67,Gary Snyder,0.0
+404,67,Mark Strand,0.03333333333333333
+405,67,May Swenson,0.0
+406,67,The answer cannot be determined from the provided information,0.06666666666666667
+407,67,Wallace Stevens,0.03333333333333333
+408,68,$\it{Other}$,0.8666666666666667
+409,68,Gary Snyder,0.06666666666666667
+410,68,Mark Strand,0.0
+411,68,May Swenson,0.0
+412,68,The answer cannot be determined from the provided information,0.03333333333333333
+413,68,Wallace Stevens,0.03333333333333333
+414,69,$\it{Other}$,0.8198407916723504
+415,69,Gary Snyder,0.04079741522095731
+416,69,Mark Strand,0.030873913094685186
+417,69,May Swenson,0.015394045961502824
+418,69,The answer cannot be determined from the provided information,0.06938936325799966
+419,69,Wallace Stevens,0.023704470792504716
+420,70,$\it{Other}$,0.7
+421,70,Gary Snyder,0.1
+422,70,Mark Strand,0.03333333333333333
+423,70,May Swenson,0.03333333333333333
+424,70,The answer cannot be determined from the provided information,0.13333333333333333
+425,70,Wallace Stevens,0.0
+426,71,$\it{Other}$,0.8666666666666667
+427,71,Gary Snyder,0.06666666666666667
+428,71,Mark Strand,0.0
+429,71,May Swenson,0.03333333333333333
+430,71,The answer cannot be determined from the provided information,0.03333333333333333
+431,71,Wallace Stevens,0.0
+432,72,$\it{Other}$,0.8
+433,72,Gary Snyder,0.03333333333333333
+434,72,Mark Strand,0.0
+435,72,May Swenson,0.0
+436,72,The answer cannot be determined from the provided information,0.16666666666666666
+437,72,Wallace Stevens,0.0
+438,73,$\it{Other}$,0.8
+439,73,Gary Snyder,0.03333333333333333
+440,73,Mark Strand,0.0
+441,73,May Swenson,0.03333333333333333
+442,73,The answer cannot be determined from the provided information,0.13333333333333333
+443,73,Wallace Stevens,0.0
+444,74,$\it{Other}$,0.8333333333333334
+445,74,Gary Snyder,0.03333333333333333
+446,74,Mark Strand,0.03333333333333333
+447,74,May Swenson,0.03333333333333333
+448,74,The answer cannot be determined from the provided information,0.06666666666666667
+449,74,Wallace Stevens,0.0
+450,75,$\it{Other}$,0.7333333333333333
+451,75,Gary Snyder,0.1
+452,75,Mark Strand,0.03333333333333333
+453,75,May Swenson,0.0
+454,75,The answer cannot be determined from the provided information,0.13333333333333333
+455,75,Wallace Stevens,0.0
+456,76,$\it{Other}$,0.8900157481184421
+457,76,Gary Snyder,0.009565304967263457
+458,76,Mark Strand,0.0
+459,76,May Swenson,0.006750456049525557
+460,76,The answer cannot be determined from the provided information,0.06352359252052339
+461,76,Wallace Stevens,0.030144898344245514
+462,77,$\it{Other}$,0.9
+463,77,Gary Snyder,0.06666666666666667
+464,77,Mark Strand,0.0
+465,77,May Swenson,0.03333333333333333
+466,77,The answer cannot be determined from the provided information,0.0
+467,77,Wallace Stevens,0.0
+468,78,$\it{Other}$,0.8666666666666667
+469,78,Gary Snyder,0.03333333333333333
+470,78,Mark Strand,0.03333333333333333
+471,78,May Swenson,0.0
+472,78,The answer cannot be determined from the provided information,0.03333333333333333
+473,78,Wallace Stevens,0.03333333333333333
+474,79,$\it{Other}$,0.8
+475,79,Gary Snyder,0.06666666666666667
+476,79,Mark Strand,0.0
+477,79,May Swenson,0.0
+478,79,The answer cannot be determined from the provided information,0.13333333333333333
+479,79,Wallace Stevens,0.0
+480,80,$\it{Other}$,0.8724048476568433
+481,80,Gary Snyder,0.013797576171578356
+482,80,Mark Strand,0.019535757161754975
+483,80,May Swenson,0.0
+484,80,The answer cannot be determined from the provided information,0.08046424283824502
+485,80,Wallace Stevens,0.013797576171578356
+486,81,$\it{Other}$,0.7255737767213963
+487,81,Gary Snyder,0.08585850097898899
+488,81,Mark Strand,0.05463899654839795
+489,81,May Swenson,0.0
+490,81,The answer cannot be determined from the provided information,0.10931844879764316
+491,81,Wallace Stevens,0.024610276953573425
+492,82,$\it{Other}$,0.7666666666666667
+493,82,Gary Snyder,0.0
+494,82,Mark Strand,0.0
+495,82,May Swenson,0.03333333333333333
+496,82,The answer cannot be determined from the provided information,0.13333333333333333
+497,82,Wallace Stevens,0.06666666666666667
+498,83,$\it{Other}$,0.9
+499,83,Gary Snyder,0.03333333333333333
+500,83,Mark Strand,0.0
+501,83,May Swenson,0.0
+502,83,The answer cannot be determined from the provided information,0.06666666666666667
+503,83,Wallace Stevens,0.0
+504,84,$\it{Other}$,0.7545812617296647
+505,84,Gary Snyder,0.03126643691935563
+506,84,Mark Strand,0.014518067020291844
+507,84,May Swenson,0.0
+508,84,The answer cannot be determined from the provided information,0.18747984937307663
+509,84,Wallace Stevens,0.012154384957611194
+510,85,$\it{Other}$,0.8333333333333334
+511,85,Gary Snyder,0.03333333333333333
+512,85,Mark Strand,0.0
+513,85,May Swenson,0.0
+514,85,The answer cannot be determined from the provided information,0.1
+515,85,Wallace Stevens,0.03333333333333333
+516,86,$\it{Other}$,0.8011737476415675
+517,86,Gary Snyder,0.039302630101485055
+518,86,Mark Strand,0.0
+519,86,May Swenson,0.0070773610889842
+520,86,The answer cannot be determined from the provided information,0.14838639012342247
+521,86,Wallace Stevens,0.004059871044540869
+522,87,$\it{Other}$,0.7661804158511736
+523,87,Gary Snyder,0.07425039611010051
+524,87,Mark Strand,0.03048125630852658
+525,87,May Swenson,0.0
+526,87,The answer cannot be determined from the provided information,0.12338377768058595
+527,87,Wallace Stevens,0.005704154049613508
+528,88,$\it{Other}$,0.7927144696053248
+529,88,Gary Snyder,0.035154715932002145
+530,88,Mark Strand,0.0
+531,88,May Swenson,0.03333333333333334
+532,88,The answer cannot be determined from the provided information,0.10182138259866881
+533,88,Wallace Stevens,0.03697609853067096
+534,89,$\it{Other}$,0.7666666666666667
+535,89,Gary Snyder,0.03333333333333333
+536,89,Mark Strand,0.0
+537,89,May Swenson,0.03333333333333333
+538,89,The answer cannot be determined from the provided information,0.16666666666666666
+539,89,Wallace Stevens,0.0
+540,90,$\it{Other}$,0.8333333333333334
+541,90,Gary Snyder,0.03333333333333333
+542,90,Mark Strand,0.0
+543,90,May Swenson,0.0
+544,90,The answer cannot be determined from the provided information,0.13333333333333333
+545,90,Wallace Stevens,0.0
+546,91,$\it{Other}$,0.6828616418190063
+547,91,Gary Snyder,0.05311156551887328
+548,91,Mark Strand,0.04289149813000255
+549,91,May Swenson,0.02555654867165559
+550,91,The answer cannot be determined from the provided information,0.18647075290386814
+551,91,Wallace Stevens,0.009107992956593957
+552,92,$\it{Other}$,0.7
+553,92,Gary Snyder,0.0
+554,92,Mark Strand,0.0
+555,92,May Swenson,0.0
+556,92,The answer cannot be determined from the provided information,0.23333333333333334
+557,92,Wallace Stevens,0.06666666666666667
+558,93,$\it{Other}$,0.8547857673363799
+559,93,Gary Snyder,0.011880899330286928
+560,93,Mark Strand,0.011880899330286928
+561,93,May Swenson,0.0
+562,93,The answer cannot be determined from the provided information,0.1
+563,93,Wallace Stevens,0.021452434003046406
+564,94,$\it{Other}$,0.8666666666666667
+565,94,Gary Snyder,0.06666666666666667
+566,94,Mark Strand,0.0
+567,94,May Swenson,0.0
+568,94,The answer cannot be determined from the provided information,0.03333333333333333
+569,94,Wallace Stevens,0.03333333333333333
+570,95,$\it{Other}$,0.7666666666666667
+571,95,Gary Snyder,0.0
+572,95,Mark Strand,0.0
+573,95,May Swenson,0.0
+574,95,The answer cannot be determined from the provided information,0.16666666666666666
+575,95,Wallace Stevens,0.06666666666666667
+576,96,$\it{Other}$,0.7333333333333333
+577,96,Gary Snyder,0.06666666666666667
+578,96,Mark Strand,0.0
+579,96,May Swenson,0.0
+580,96,The answer cannot be determined from the provided information,0.13333333333333333
+581,96,Wallace Stevens,0.06666666666666667
+582,97,$\it{Other}$,0.7333333333333333
+583,97,Gary Snyder,0.03333333333333333
+584,97,Mark Strand,0.06666666666666667
+585,97,May Swenson,0.0
+586,97,The answer cannot be determined from the provided information,0.16666666666666666
+587,97,Wallace Stevens,0.0
+588,98,$\it{Other}$,0.8333333333333334
+589,98,Gary Snyder,0.0
+590,98,Mark Strand,0.0
+591,98,May Swenson,0.0
+592,98,The answer cannot be determined from the provided information,0.16666666666666666
+593,98,Wallace Stevens,0.0
+594,99,$\it{Other}$,0.7
+595,99,Gary Snyder,0.03333333333333333
+596,99,Mark Strand,0.06666666666666667
+597,99,May Swenson,0.0
+598,99,The answer cannot be determined from the provided information,0.13333333333333333
+599,99,Wallace Stevens,0.06666666666666667
+600,100,$\it{Other}$,0.8333333333333334
+601,100,Gary Snyder,0.06666666666666667
+602,100,Mark Strand,0.0
+603,100,May Swenson,0.0
+604,100,The answer cannot be determined from the provided information,0.1
+605,100,Wallace Stevens,0.0
+606,101,$\it{Other}$,0.8173863611217632
+607,101,Gary Snyder,0.010176776226366183
+608,101,Mark Strand,0.0
+609,101,May Swenson,0.021854866916400383
+610,101,The answer cannot be determined from the provided information,0.12687027158170225
+611,101,Wallace Stevens,0.02371172415376794
+612,102,$\it{Other}$,0.790656738831422
+613,102,Gary Snyder,0.06370720952437348
+614,102,Mark Strand,0.026789739558064123
+615,102,May Swenson,0.0
+616,102,The answer cannot be determined from the provided information,0.10295945714229318
+617,102,Wallace Stevens,0.015886854943847284
+618,103,$\it{Other}$,0.7186702021132585
+619,103,Gary Snyder,0.05733156561003744
+620,103,Mark Strand,0.0239982322767041
+621,103,May Swenson,0.0239982322767041
+622,103,The answer cannot be determined from the provided information,0.14266843438996257
+623,103,Wallace Stevens,0.03333333333333334
+624,104,$\it{Other}$,0.8333333333333334
+625,104,Gary Snyder,0.06666666666666667
+626,104,Mark Strand,0.0
+627,104,May Swenson,0.0
+628,104,The answer cannot be determined from the provided information,0.1
+629,104,Wallace Stevens,0.0
+630,105,$\it{Other}$,0.7333333333333333
+631,105,Gary Snyder,0.06666666666666667
+632,105,Mark Strand,0.0
+633,105,May Swenson,0.0
+634,105,The answer cannot be determined from the provided information,0.2
+635,105,Wallace Stevens,0.0
+636,106,$\it{Other}$,0.7
+637,106,Gary Snyder,0.03826898287343214
+638,106,Mark Strand,0.030865508563283926
+639,106,May Swenson,0.0
+640,106,The answer cannot be determined from the provided information,0.22839768379323452
+641,106,Wallace Stevens,0.002467824770049405
+642,107,$\it{Other}$,0.7
+643,107,Gary Snyder,0.1
+644,107,Mark Strand,0.03333333333333333
+645,107,May Swenson,0.0
+646,107,The answer cannot be determined from the provided information,0.16666666666666666
+647,107,Wallace Stevens,0.0
+648,108,$\it{Other}$,0.7500945098874433
+649,108,Gary Snyder,0.0833018300375189
+650,108,Mark Strand,0.0
+651,108,May Swenson,0.0
+652,108,The answer cannot be determined from the provided information,0.14990549011255672
+653,108,Wallace Stevens,0.016698169962481094
+654,109,$\it{Other}$,0.5333333333333333
+655,109,Gary Snyder,0.03333333333333333
+656,109,Mark Strand,0.03333333333333333
+657,109,May Swenson,0.0
+658,109,The answer cannot be determined from the provided information,0.4
+659,109,Wallace Stevens,0.0
+660,110,$\it{Other}$,0.7379470883452851
+661,110,Gary Snyder,0.0
+662,110,Mark Strand,0.03794708834528506
+663,110,May Swenson,0.0
+664,110,The answer cannot be determined from the provided information,0.1953862449880483
+665,110,Wallace Stevens,0.02871957832138161
+666,111,$\it{Other}$,0.7830679894326444
+667,111,Gary Snyder,0.03711551574596056
+668,111,Mark Strand,0.002671728351488706
+669,111,May Swenson,0.008466005283677792
+670,111,The answer cannot be determined from the provided information,0.16867876118622854
+671,111,Wallace Stevens,0.0
+672,112,$\it{Other}$,0.7871905939290904
+673,112,Gary Snyder,0.05387570214416071
+674,112,Mark Strand,0.007468816434794988
+675,112,May Swenson,0.0
+676,112,The answer cannot be determined from the provided information,0.10959704323347529
+677,112,Wallace Stevens,0.04186784425847871
+678,113,$\it{Other}$,0.6608330525429685
+679,113,Gary Snyder,0.07218124604386866
+680,113,Mark Strand,0.02116672282473964
+681,113,May Swenson,0.0
+682,113,The answer cannot be determined from the provided information,0.22813778870262758
+683,113,Wallace Stevens,0.017681189885795687
+684,114,$\it{Other}$,0.7165035065732905
+685,114,Gary Snyder,0.0
+686,114,Mark Strand,0.0
+687,114,May Swenson,0.0
+688,114,The answer cannot be determined from the provided information,0.28349649342670946
+689,114,Wallace Stevens,0.0
+690,115,$\it{Other}$,0.6915217530548494
+691,115,Gary Snyder,0.035433133918621657
+692,115,Mark Strand,0.031233532748045006
+693,115,May Swenson,0.0
+694,115,The answer cannot be determined from the provided information,0.2418115802784838
+695,115,Wallace Stevens,0.0
+696,116,$\it{Other}$,0.6174245309322475
+697,116,Gary Snyder,0.08028324616050822
+698,116,Mark Strand,0.039141510310749195
+699,116,May Swenson,0.0
+700,116,The answer cannot be determined from the provided information,0.2591005126541649
+701,116,Wallace Stevens,0.00405019994233002
+702,117,$\it{Other}$,0.8333333333333334
+703,117,Gary Snyder,0.03333333333333333
+704,117,Mark Strand,0.0
+705,117,May Swenson,0.0
+706,117,The answer cannot be determined from the provided information,0.13333333333333333
+707,117,Wallace Stevens,0.0
+708,118,$\it{Other}$,0.7532900260121914
+709,118,Gary Snyder,0.05264253156531073
+710,118,Mark Strand,0.02191577624687167
+711,118,May Swenson,0.012356701733842075
+712,118,The answer cannot be determined from the provided information,0.13356080459130906
+713,118,Wallace Stevens,0.026234159850475055
+714,119,$\it{Other}$,0.6698634100466592
+715,119,Gary Snyder,0.06666666666666667
+716,119,Mark Strand,0.0
+717,119,May Swenson,0.0
+718,119,The answer cannot be determined from the provided information,0.2634699232866741
+719,119,Wallace Stevens,0.0
+720,120,$\it{Other}$,0.8666666666666667
+721,120,Gary Snyder,0.03333333333333333
+722,120,Mark Strand,0.0
+723,120,May Swenson,0.0
+724,120,The answer cannot be determined from the provided information,0.1
+725,120,Wallace Stevens,0.0
+726,121,$\it{Other}$,0.738924146775513
+727,121,Gary Snyder,0.03333333333333334
+728,121,Mark Strand,0.025541163289150175
+729,121,May Swenson,0.022067397631210895
+730,121,The answer cannot be determined from the provided information,0.16107585322448714
+731,121,Wallace Stevens,0.019058105746305603
+732,122,$\it{Other}$,0.6666666666666666
+733,122,Gary Snyder,0.03333333333333333
+734,122,Mark Strand,0.03333333333333333
+735,122,May Swenson,0.0
+736,122,The answer cannot be determined from the provided information,0.23333333333333334
+737,122,Wallace Stevens,0.03333333333333333
+738,123,$\it{Other}$,0.7666666666666667
+739,123,Gary Snyder,0.0
+740,123,Mark Strand,0.0
+741,123,May Swenson,0.0
+742,123,The answer cannot be determined from the provided information,0.23333333333333334
+743,123,Wallace Stevens,0.0
+744,124,$\it{Other}$,0.7666666666666667
+745,124,Gary Snyder,0.0
+746,124,Mark Strand,0.03333333333333333
+747,124,May Swenson,0.0
+748,124,The answer cannot be determined from the provided information,0.16666666666666666
+749,124,Wallace Stevens,0.03333333333333333
+750,125,$\it{Other}$,0.7553013564385015
+751,125,Gary Snyder,0.02589228978568584
+752,125,Mark Strand,0.0039242666805177785
+753,125,May Swenson,0.0
+754,125,The answer cannot be determined from the provided information,0.21488208709529502
+755,125,Wallace Stevens,0.0
+756,126,$\it{Other}$,0.7
+757,126,Gary Snyder,0.06666666666666667
+758,126,Mark Strand,0.0
+759,126,May Swenson,0.0
+760,126,The answer cannot be determined from the provided information,0.2
+761,126,Wallace Stevens,0.03333333333333333
+762,127,$\it{Other}$,0.8
+763,127,Gary Snyder,0.0
+764,127,Mark Strand,0.0
+765,127,May Swenson,0.0
+766,127,The answer cannot be determined from the provided information,0.2
+767,127,Wallace Stevens,0.0
+768,128,$\it{Other}$,0.7029783079240208
+769,128,Gary Snyder,0.08482248729534377
+770,128,Mark Strand,0.03035502540931249
+771,128,May Swenson,0.0
+772,128,The answer cannot be determined from the provided information,0.16666666666666669
+773,128,Wallace Stevens,0.015177512704656245
+774,129,$\it{Other}$,0.7333333333333333
+775,129,Gary Snyder,0.06666666666666667
+776,129,Mark Strand,0.0
+777,129,May Swenson,0.0
+778,129,The answer cannot be determined from the provided information,0.2
+779,129,Wallace Stevens,0.0
+780,130,$\it{Other}$,0.7333333333333332
+781,130,Gary Snyder,0.08465360835479993
+782,130,Mark Strand,0.0
+783,130,May Swenson,0.0
+784,130,The answer cannot be determined from the provided information,0.17689759443013336
+785,130,Wallace Stevens,0.005115463881733357
+786,131,$\it{Other}$,0.6944882769196044
+787,131,Gary Snyder,0.0036744820535970996
+788,131,Mark Strand,0.03149609230653479
+789,131,May Swenson,0.0018372410267985498
+790,131,The answer cannot be determined from the provided information,0.2666666666666667
+791,131,Wallace Stevens,0.0018372410267985498
+792,132,$\it{Other}$,0.8
+793,132,Gary Snyder,0.06666666666666667
+794,132,Mark Strand,0.03333333333333333
+795,132,May Swenson,0.0
+796,132,The answer cannot be determined from the provided information,0.1
+797,132,Wallace Stevens,0.0
+798,133,$\it{Other}$,0.6963116793435509
+799,133,Gary Snyder,0.04059367982728745
+800,133,Mark Strand,0.027348104058087963
+801,133,May Swenson,0.0
+802,133,The answer cannot be determined from the provided information,0.23574653677107366
+803,133,Wallace Stevens,0.0
+804,134,$\it{Other}$,0.6333333333333333
+805,134,Gary Snyder,0.0
+806,134,Mark Strand,0.06666666666666667
+807,134,May Swenson,0.03333333333333333
+808,134,The answer cannot be determined from the provided information,0.26666666666666666
+809,134,Wallace Stevens,0.0
+810,135,$\it{Other}$,0.7176749419276713
+811,135,Gary Snyder,0.06666666666666667
+812,135,Mark Strand,0.03991183304683206
+813,135,May Swenson,0.0
+814,135,The answer cannot be determined from the provided information,0.16011017029857566
+815,135,Wallace Stevens,0.01563638806025425
+816,136,$\it{Other}$,0.6817017763955634
+817,136,Gary Snyder,0.05896095714972076
+818,136,Mark Strand,0.0
+819,136,May Swenson,0.0
+820,136,The answer cannot be determined from the provided information,0.20269400627398035
+821,136,Wallace Stevens,0.05664326018073551
+822,137,$\it{Other}$,0.6
+823,137,Gary Snyder,0.1
+824,137,Mark Strand,0.06666666666666667
+825,137,May Swenson,0.03333333333333333
+826,137,The answer cannot be determined from the provided information,0.2
+827,137,Wallace Stevens,0.0
+828,138,$\it{Other}$,0.8327930052543486
+829,138,Gary Snyder,0.03953376191973477
+830,138,Mark Strand,0.015156111045225842
+831,138,May Swenson,0.0021256050665576258
+832,138,The answer cannot be determined from the provided information,0.1082077793436316
+833,138,Wallace Stevens,0.0021837373705016028
+834,139,$\it{Other}$,0.8
+835,139,Gary Snyder,0.1
+836,139,Mark Strand,0.0
+837,139,May Swenson,0.0
+838,139,The answer cannot be determined from the provided information,0.1
+839,139,Wallace Stevens,0.0
+840,140,$\it{Other}$,0.7070282853738322
+841,140,Gary Snyder,0.04387388837012774
+842,140,Mark Strand,0.05090217374395996
+843,140,May Swenson,0.0
+844,140,The answer cannot be determined from the provided information,0.1929717146261678
+845,140,Wallace Stevens,0.005223937885912314
+846,141,$\it{Other}$,0.7731135754098017
+847,141,Gary Snyder,0.02728543387341111
+848,141,Mark Strand,0.013565424002025567
+849,141,May Swenson,0.00465664696070668
+850,141,The answer cannot be determined from the provided information,0.1768472382987156
+851,141,Wallace Stevens,0.00453168145533943
+852,142,$\it{Other}$,0.8666666666666667
+853,142,Gary Snyder,0.06666666666666667
+854,142,Mark Strand,0.03333333333333333
+855,142,May Swenson,0.0
+856,142,The answer cannot be determined from the provided information,0.03333333333333333
+857,142,Wallace Stevens,0.0
+858,143,$\it{Other}$,0.7698610980490737
+859,143,Gary Snyder,0.03652776471574034
+860,143,Mark Strand,0.03013890195092633
+861,143,May Swenson,0.0
+862,143,The answer cannot be determined from the provided information,0.16347223528425966
+863,143,Wallace Stevens,0.0
+864,144,$\it{Other}$,0.8046514540936454
+865,144,Gary Snyder,0.07369034298495969
+866,144,Mark Strand,0.02072849094818289
+867,144,May Swenson,0.0
+868,144,The answer cannot be determined from the provided information,0.09587578880572228
+869,144,Wallace Stevens,0.005053923167489861
+870,145,$\it{Other}$,0.7
+871,145,Gary Snyder,0.1
+872,145,Mark Strand,0.03333333333333333
+873,145,May Swenson,0.0
+874,145,The answer cannot be determined from the provided information,0.13333333333333333
+875,145,Wallace Stevens,0.03333333333333333
+876,146,$\it{Other}$,0.8333333333333334
+877,146,Gary Snyder,0.06666666666666667
+878,146,Mark Strand,0.03333333333333333
+879,146,May Swenson,0.0
+880,146,The answer cannot be determined from the provided information,0.06666666666666667
+881,146,Wallace Stevens,0.0
+882,147,$\it{Other}$,0.8666666666666667
+883,147,Gary Snyder,0.06666666666666667
+884,147,Mark Strand,0.0
+885,147,May Swenson,0.0
+886,147,The answer cannot be determined from the provided information,0.03333333333333333
+887,147,Wallace Stevens,0.03333333333333333
+888,148,$\it{Other}$,0.7373271703034119
+889,148,Gary Snyder,0.09413576887897228
+890,148,Mark Strand,0.029339496363254752
+891,148,May Swenson,0.0
+892,148,The answer cannot be determined from the provided information,0.08638280284887928
+893,148,Wallace Stevens,0.05281476160548178
+894,149,$\it{Other}$,0.8
+895,149,Gary Snyder,0.06666666666666667
+896,149,Mark Strand,0.03333333333333333
+897,149,May Swenson,0.0
+898,149,The answer cannot be determined from the provided information,0.06666666666666667
+899,149,Wallace Stevens,0.03333333333333333
+900,150,$\it{Other}$,0.8743416281095095
+901,150,Gary Snyder,0.025658371890490556
+902,150,Mark Strand,0.03333333333333333
+903,150,May Swenson,0.0
+904,150,The answer cannot be determined from the provided information,0.03333333333333333
+905,150,Wallace Stevens,0.03333333333333333
+906,151,$\it{Other}$,0.7666666666666667
+907,151,Gary Snyder,0.16666666666666666
+908,151,Mark Strand,0.0
+909,151,May Swenson,0.03333333333333333
+910,151,The answer cannot be determined from the provided information,0.03333333333333333
+911,151,Wallace Stevens,0.0
+912,152,$\it{Other}$,0.8
+913,152,Gary Snyder,0.1
+914,152,Mark Strand,0.06666666666666667
+915,152,May Swenson,0.03333333333333333
+916,152,The answer cannot be determined from the provided information,0.0
+917,152,Wallace Stevens,0.0
+918,153,$\it{Other}$,0.8333333333333334
+919,153,Gary Snyder,0.06666666666666667
+920,153,Mark Strand,0.03333333333333333
+921,153,May Swenson,0.03333333333333333
+922,153,The answer cannot be determined from the provided information,0.03333333333333333
+923,153,Wallace Stevens,0.0
+924,154,$\it{Other}$,0.8330701425693166
+925,154,Gary Snyder,0.0768227273720878
+926,154,Mark Strand,0.016826281171617635
+927,154,May Swenson,0.022076496672013345
+928,154,The answer cannot be determined from the provided information,0.03228305638826032
+929,154,Wallace Stevens,0.01892129582670442
+930,155,$\it{Other}$,0.8687357453369859
+931,155,Gary Snyder,0.03333333333333333
+932,155,Mark Strand,0.0020690786703192157
+933,155,May Swenson,0.06252850932602823
+934,155,The answer cannot be determined from the provided information,0.0020690786703192157
+935,155,Wallace Stevens,0.031264254663014114
+936,156,$\it{Other}$,0.7793319309638868
+937,156,Gary Snyder,0.1271273564245472
+938,156,Mark Strand,0.0200229656007075
+939,156,May Swenson,0.05374809188979885
+940,156,The answer cannot be determined from the provided information,0.019769655121059743
+941,156,Wallace Stevens,0.0
+942,157,$\it{Other}$,0.8333333333333334
+943,157,Gary Snyder,0.13333333333333333
+944,157,Mark Strand,0.03333333333333333
+945,157,May Swenson,0.0
+946,157,The answer cannot be determined from the provided information,0.0
+947,157,Wallace Stevens,0.0
+948,158,$\it{Other}$,0.9333333333333333
+949,158,Gary Snyder,0.0
+950,158,Mark Strand,0.03333333333333333
+951,158,May Swenson,0.0
+952,158,The answer cannot be determined from the provided information,0.0
+953,158,Wallace Stevens,0.03333333333333333
+954,159,$\it{Other}$,0.8666666666666667
+955,159,Gary Snyder,0.06666666666666667
+956,159,Mark Strand,0.0
+957,159,May Swenson,0.0
+958,159,The answer cannot be determined from the provided information,0.03333333333333333
+959,159,Wallace Stevens,0.03333333333333333
+960,160,$\it{Other}$,0.795626555268884
+961,160,Gary Snyder,0.058482796311380106
+962,160,Mark Strand,0.049454771212103066
+963,160,May Swenson,0.04340772115947089
+964,160,The answer cannot be determined from the provided information,0.022437125648933683
+965,160,Wallace Stevens,0.030591030399228225
+966,161,$\it{Other}$,0.8400898693291752
+967,161,Gary Snyder,0.04669662310972504
+968,161,Mark Strand,0.05330337689027497
+969,161,May Swenson,0.059910130670824895
+970,161,The answer cannot be determined from the provided information,0.0
+971,161,Wallace Stevens,0.0
+972,162,$\it{Other}$,0.9333333333333333
+973,162,Gary Snyder,0.03333333333333333
+974,162,Mark Strand,0.03333333333333333
+975,162,May Swenson,0.0
+976,162,The answer cannot be determined from the provided information,0.0
+977,162,Wallace Stevens,0.0
+978,163,$\it{Other}$,0.8435703547030176
+979,163,Gary Snyder,0.03708131214959919
+980,163,Mark Strand,0.06075567366592801
+981,163,May Swenson,0.0
+982,163,The answer cannot be determined from the provided information,0.0018739894081329306
+983,163,Wallace Stevens,0.056718670073322285
+984,164,$\it{Other}$,0.8309813567867295
+985,164,Gary Snyder,0.07934576214218034
+986,164,Mark Strand,0.03333333333333333
+987,164,May Swenson,0.023006214404423506
+988,164,The answer cannot be determined from the provided information,0.0
+989,164,Wallace Stevens,0.03333333333333333
+990,165,$\it{Other}$,0.840329448045444
+991,165,Gary Snyder,0.06421962197181508
+992,165,Mark Strand,0.03333333333333333
+993,165,May Swenson,0.0
+994,165,The answer cannot be determined from the provided information,0.03333333333333333
+995,165,Wallace Stevens,0.028784263316074293
+996,166,$\it{Other}$,0.9333333333333333
+997,166,Gary Snyder,0.03333333333333333
+998,166,Mark Strand,0.0
+999,166,May Swenson,0.0
+1000,166,The answer cannot be determined from the provided information,0.03333333333333333
+1001,166,Wallace Stevens,0.0
+1002,167,$\it{Other}$,0.7
+1003,167,Gary Snyder,0.16666666666666666
+1004,167,Mark Strand,0.06666666666666667
+1005,167,May Swenson,0.0
+1006,167,The answer cannot be determined from the provided information,0.0
+1007,167,Wallace Stevens,0.06666666666666667
+1008,168,$\it{Other}$,0.8666666666666667
+1009,168,Gary Snyder,0.03333333333333333
+1010,168,Mark Strand,0.06666666666666667
+1011,168,May Swenson,0.0
+1012,168,The answer cannot be determined from the provided information,0.0
+1013,168,Wallace Stevens,0.03333333333333333
+1014,169,$\it{Other}$,0.8945507933675751
+1015,169,Gary Snyder,0.044723025834098734
+1016,169,Mark Strand,0.027884126700908507
+1017,169,May Swenson,0.0
+1018,169,The answer cannot be determined from the provided information,0.027392847464992754
+1019,169,Wallace Stevens,0.005449206632424826
+1020,170,$\it{Other}$,0.8405534157612956
+1021,170,Gary Snyder,0.05121491726895155
+1022,170,Mark Strand,0.04105920803219089
+1023,170,May Swenson,0.02104183578012514
+1024,170,The answer cannot be determined from the provided information,0.0
+1025,170,Wallace Stevens,0.04613062315743681
+1026,171,$\it{Other}$,0.9
+1027,171,Gary Snyder,0.06666666666666667
+1028,171,Mark Strand,0.03333333333333333
+1029,171,May Swenson,0.0
+1030,171,The answer cannot be determined from the provided information,0.0
+1031,171,Wallace Stevens,0.0
+1032,172,$\it{Other}$,0.8333333333333334
+1033,172,Gary Snyder,0.05331107229011769
+1034,172,Mark Strand,0.026711188753097966
+1035,172,May Swenson,0.03333333333333333
+1036,172,The answer cannot be determined from the provided information,0.01997773895678435
+1037,172,Wallace Stevens,0.03333333333333333
+1038,173,$\it{Other}$,0.8709413870270464
+1039,173,Gary Snyder,0.0541306487687623
+1040,173,Mark Strand,0.02079731543542897
+1041,173,May Swenson,0.0
+1042,173,The answer cannot be determined from the provided information,0.02079731543542897
+1043,173,Wallace Stevens,0.033333333333333326
+1044,174,$\it{Other}$,0.8495532424883948
+1045,174,Gary Snyder,0.06403009754363692
+1046,174,Mark Strand,0.022494396544339216
+1047,174,May Swenson,0.030481095970288006
+1048,174,The answer cannot be determined from the provided information,0.027736692727250475
+1049,174,Wallace Stevens,0.00570447472609065
+1050,175,$\it{Other}$,0.8972519514543827
+1051,175,Gary Snyder,0.005496097091234639
+1052,175,Mark Strand,0.06391861812104935
+1053,175,May Swenson,0.030585284787716015
+1054,175,The answer cannot be determined from the provided information,0.0
+1055,175,Wallace Stevens,0.0027480485456173195
+1056,176,$\it{Other}$,0.8608737022475939
+1057,176,Gary Snyder,0.04045352894671546
+1058,176,Mark Strand,0.059683107076378805
+1059,176,May Swenson,0.015782537041208432
+1060,176,The answer cannot be determined from the provided information,0.0
+1061,176,Wallace Stevens,0.023207124688103445
+1062,177,$\it{Other}$,0.7714287358847878
+1063,177,Gary Snyder,0.07702756534837377
+1064,177,Mark Strand,0.09243851605008593
+1065,177,May Swenson,0.0068863894644849285
+1066,177,The answer cannot be determined from the provided information,0.010973364197176823
+1067,177,Wallace Stevens,0.04124542905509085
+1068,178,$\it{Other}$,0.8333333333333334
+1069,178,Gary Snyder,0.03333333333333333
+1070,178,Mark Strand,0.0
+1071,178,May Swenson,0.0
+1072,178,The answer cannot be determined from the provided information,0.0
+1073,178,Wallace Stevens,0.13333333333333333
+1074,179,$\it{Other}$,0.6496585848031442
+1075,179,Gary Snyder,0.046393534509181995
+1076,179,Mark Strand,0.12027313215748467
+1077,179,May Swenson,0.15034141519685584
+1078,179,The answer cannot be determined from the provided information,0.0032650502939621656
+1079,179,Wallace Stevens,0.030068283039371167
+1080,180,$\it{Other}$,0.7643845963542011
+1081,180,Gary Snyder,0.08964957899304407
+1082,180,Mark Strand,0.10812197446152377
+1083,180,May Swenson,0.0
+1084,180,The answer cannot be determined from the provided information,0.00968572736137568
+1085,180,Wallace Stevens,0.02815812282985537
+1086,181,$\it{Other}$,0.8
+1087,181,Gary Snyder,0.06666666666666667
+1088,181,Mark Strand,0.1
+1089,181,May Swenson,0.03333333333333333
+1090,181,The answer cannot be determined from the provided information,0.0
+1091,181,Wallace Stevens,0.0
+1092,182,$\it{Other}$,0.7538214479827283
+1093,182,Gary Snyder,0.06264795086454499
+1094,182,Mark Strand,0.07509863390969666
+1095,182,May Swenson,0.05421598362151499
+1096,182,The answer cannot be determined from the provided information,0.0
+1097,182,Wallace Stevens,0.05421598362151499
+1098,183,$\it{Other}$,0.8924937801563502
+1099,183,Gary Snyder,0.03168299285631817
+1100,183,Mark Strand,0.03359780855655928
+1101,183,May Swenson,0.00889208509743901
+1102,183,The answer cannot be determined from the provided information,0.0
+1103,183,Wallace Stevens,0.03333333333333333
+1104,184,$\it{Other}$,0.8678106509609774
+1105,184,Gary Snyder,0.0462090729489424
+1106,184,Mark Strand,0.0268954635255288
+1107,184,May Swenson,0.012875739615609068
+1108,184,The answer cannot be determined from the provided information,0.0
+1109,184,Wallace Stevens,0.0462090729489424
+1110,185,$\it{Other}$,0.7049147921996384
+1111,185,Gary Snyder,0.11385087796099869
+1112,185,Mark Strand,0.1479009965060295
+1113,185,May Swenson,0.030817635746383718
+1114,185,The answer cannot be determined from the provided information,0.0
+1115,185,Wallace Stevens,0.002515697586949611
+1116,186,$\it{Other}$,0.7626580884250544
+1117,186,Gary Snyder,0.06804596828832186
+1118,186,Mark Strand,0.11188824410624722
+1119,186,May Swenson,0.041729728308583625
+1120,186,The answer cannot be determined from the provided information,0.005685757497815995
+1121,186,Wallace Stevens,0.009992213373976783
+1122,187,$\it{Other}$,0.6758588334643925
+1123,187,Gary Snyder,0.10215520995351247
+1124,187,Mark Strand,0.12394111781025953
+1125,187,May Swenson,0.04794481440916154
+1126,187,The answer cannot be determined from the provided information,0.0
+1127,187,Wallace Stevens,0.05010002436267401
+1128,188,$\it{Other}$,0.6666666666666666
+1129,188,Gary Snyder,0.13333333333333333
+1130,188,Mark Strand,0.13333333333333333
+1131,188,May Swenson,0.03333333333333333
+1132,188,The answer cannot be determined from the provided information,0.0
+1133,188,Wallace Stevens,0.03333333333333333
+1134,189,$\it{Other}$,0.6333333333333333
+1135,189,Gary Snyder,0.03333333333333333
+1136,189,Mark Strand,0.2
+1137,189,May Swenson,0.06666666666666667
+1138,189,The answer cannot be determined from the provided information,0.03333333333333333
+1139,189,Wallace Stevens,0.03333333333333333
+1140,190,$\it{Other}$,0.5
+1141,190,Gary Snyder,0.06666666666666667
+1142,190,Mark Strand,0.3
+1143,190,May Swenson,0.06666666666666667
+1144,190,The answer cannot be determined from the provided information,0.0
+1145,190,Wallace Stevens,0.06666666666666667
+1146,191,$\it{Other}$,0.559860727090766
+1147,191,Gary Snyder,0.14310662498445337
+1148,191,Mark Strand,0.11657923122702074
+1149,191,May Swenson,0.11081939795587388
+1150,191,The answer cannot be determined from the provided information,0.0029673520752193498
+1151,191,Wallace Stevens,0.06666666666666667
+1152,192,$\it{Other}$,0.5685993799565684
+1153,192,Gary Snyder,0.09806728671009826
+1154,192,Mark Strand,0.13719875991313685
+1155,192,May Swenson,0.12560248017372636
+1156,192,The answer cannot be determined from the provided information,0.0
+1157,192,Wallace Stevens,0.07053209324647017
+1158,193,$\it{Other}$,0.6
+1159,193,Gary Snyder,0.1
+1160,193,Mark Strand,0.13333333333333333
+1161,193,May Swenson,0.06666666666666667
+1162,193,The answer cannot be determined from the provided information,0.0
+1163,193,Wallace Stevens,0.1
+1164,194,$\it{Other}$,0.6333333333333333
+1165,194,Gary Snyder,0.13333333333333333
+1166,194,Mark Strand,0.16666666666666666
+1167,194,May Swenson,0.03333333333333333
+1168,194,The answer cannot be determined from the provided information,0.0
+1169,194,Wallace Stevens,0.03333333333333333
+1170,195,$\it{Other}$,0.5851545605699928
+1171,195,Gary Snyder,0.11004741368125351
+1172,195,Mark Strand,0.12319794545326995
+1173,195,May Swenson,0.10791242727860866
+1174,195,The answer cannot be determined from the provided information,0.0
+1175,195,Wallace Stevens,0.07368765301687503
+1176,196,$\it{Other}$,0.6333333333333333
+1177,196,Gary Snyder,0.03333333333333333
+1178,196,Mark Strand,0.16666666666666666
+1179,196,May Swenson,0.0
+1180,196,The answer cannot be determined from the provided information,0.0
+1181,196,Wallace Stevens,0.16666666666666666
+1182,197,$\it{Other}$,0.5023197458273887
+1183,197,Gary Snyder,0.16666666666666666
+1184,197,Mark Strand,0.14884012708630565
+1185,197,May Swenson,0.164346920839278
+1186,197,The answer cannot be determined from the provided information,0.0
+1187,197,Wallace Stevens,0.01782653958036102
+1188,198,$\it{Other}$,0.5773093598034964
+1189,198,Gary Snyder,0.0595715379087802
+1190,198,Mark Strand,0.20354756437894322
+1191,198,May Swenson,0.0702142310456099
+1192,198,The answer cannot be determined from the provided information,0.0
+1193,198,Wallace Stevens,0.0893573068631703
+1194,199,$\it{Other}$,0.5
+1195,199,Gary Snyder,0.1
+1196,199,Mark Strand,0.2
+1197,199,May Swenson,0.1
+1198,199,The answer cannot be determined from the provided information,0.0
+1199,199,Wallace Stevens,0.1
+1200,200,$\it{Other}$,0.5333333333333333
+1201,200,Gary Snyder,0.03333333333333333
+1202,200,Mark Strand,0.26666666666666666
+1203,200,May Swenson,0.13333333333333333
+1204,200,The answer cannot be determined from the provided information,0.0
+1205,200,Wallace Stevens,0.03333333333333333
+1206,201,$\it{Other}$,0.6666666666666666
+1207,201,Gary Snyder,0.06666666666666667
+1208,201,Mark Strand,0.06666666666666667
+1209,201,May Swenson,0.13333333333333333
+1210,201,The answer cannot be determined from the provided information,0.0
+1211,201,Wallace Stevens,0.06666666666666667
+1212,202,$\it{Other}$,0.7333333333333333
+1213,202,Gary Snyder,0.03333333333333333
+1214,202,Mark Strand,0.0
+1215,202,May Swenson,0.03333333333333333
+1216,202,The answer cannot be determined from the provided information,0.0
+1217,202,Wallace Stevens,0.2
+1218,203,$\it{Other}$,0.5333333333333333
+1219,203,Gary Snyder,0.16666666666666666
+1220,203,Mark Strand,0.06666666666666667
+1221,203,May Swenson,0.1
+1222,203,The answer cannot be determined from the provided information,0.03333333333333333
+1223,203,Wallace Stevens,0.1
+1224,204,$\it{Other}$,0.7
+1225,204,Gary Snyder,0.06666666666666667
+1226,204,Mark Strand,0.03333333333333333
+1227,204,May Swenson,0.03333333333333333
+1228,204,The answer cannot be determined from the provided information,0.0
+1229,204,Wallace Stevens,0.16666666666666666
+1230,205,$\it{Other}$,0.6305000822517214
+1231,205,Gary Snyder,0.12766683117010938
+1232,205,Mark Strand,0.11133300432644791
+1233,205,May Swenson,0.1248335800884974
+1234,205,The answer cannot be determined from the provided information,0.0
+1235,205,Wallace Stevens,0.00566650216322395
+1236,206,$\it{Other}$,0.6
+1237,206,Gary Snyder,0.07599781991103798
+1238,206,Mark Strand,0.22400218008896203
+1239,206,May Swenson,0.05733551342229536
+1240,206,The answer cannot be determined from the provided information,0.0
+1241,206,Wallace Stevens,0.04266448657770464
+1242,207,$\it{Other}$,0.49208036827487067
+1243,207,Gary Snyder,0.13729314919589794
+1244,207,Mark Strand,0.1519799079312823
+1245,207,May Swenson,0.1706264825292313
+1246,207,The answer cannot be determined from the provided information,0.0
+1247,207,Wallace Stevens,0.048020092068717685
+1248,208,$\it{Other}$,0.5
+1249,208,Gary Snyder,0.1
+1250,208,Mark Strand,0.13333333333333333
+1251,208,May Swenson,0.2
+1252,208,The answer cannot be determined from the provided information,0.0
+1253,208,Wallace Stevens,0.06666666666666667
+1254,209,$\it{Other}$,0.5798953663840914
+1255,209,Gary Snyder,0.10704501948510965
+1256,209,Mark Strand,0.060221402394580084
+1257,209,May Swenson,0.19292945147039703
+1258,209,The answer cannot be determined from the provided information,0.0
+1259,209,Wallace Stevens,0.059908760265821884
+1260,210,$\it{Other}$,0.5884428150568485
+1261,210,Gary Snyder,0.1029999980106602
+1262,210,Mark Strand,0.08422384763113856
+1263,210,May Swenson,0.13684476952622773
+1264,210,The answer cannot be determined from the provided information,0.0
+1265,210,Wallace Stevens,0.0874885697751251
+1266,211,$\it{Other}$,0.6
+1267,211,Gary Snyder,0.13333333333333333
+1268,211,Mark Strand,0.0
+1269,211,May Swenson,0.13333333333333333
+1270,211,The answer cannot be determined from the provided information,0.0
+1271,211,Wallace Stevens,0.13333333333333333
+1272,212,$\it{Other}$,0.5188000086754898
+1273,212,Gary Snyder,0.0974998508258436
+1274,212,Mark Strand,0.1715738512291398
+1275,212,May Swenson,0.12720432711186383
+1276,212,The answer cannot be determined from the provided information,0.0020210477272295524
+1277,212,Wallace Stevens,0.08290091443043346
+1278,213,$\it{Other}$,0.5666666666666667
+1279,213,Gary Snyder,0.13333333333333333
+1280,213,Mark Strand,0.06666666666666667
+1281,213,May Swenson,0.1
+1282,213,The answer cannot be determined from the provided information,0.0
+1283,213,Wallace Stevens,0.13333333333333333
+1284,214,$\it{Other}$,0.6374882973393985
+1285,214,Gary Snyder,0.09439665702673954
+1286,214,Mark Strand,0.09569483295432518
+1287,214,May Swenson,0.1247229992419837
+1288,214,The answer cannot be determined from the provided information,0.014514083143829258
+1289,214,Wallace Stevens,0.03318313029372375
+1290,215,$\it{Other}$,0.3333333333333333
+1291,215,Gary Snyder,0.13333333333333333
+1292,215,Mark Strand,0.16666666666666666
+1293,215,May Swenson,0.16666666666666666
+1294,215,The answer cannot be determined from the provided information,0.0
+1295,215,Wallace Stevens,0.2
+1296,216,$\it{Other}$,0.5976071959481021
+1297,216,Gary Snyder,0.03811894143712901
+1298,216,Mark Strand,0.3189765090219463
+1299,216,May Swenson,0.007178412155693516
+1300,216,The answer cannot be determined from the provided information,0.0
+1301,216,Wallace Stevens,0.03811894143712901
+1302,217,$\it{Other}$,0.5278704820083256
+1303,217,Gary Snyder,0.061708139592817714
+1304,217,Mark Strand,0.20547119344665626
+1305,217,May Swenson,0.11797962499095611
+1306,217,The answer cannot be determined from the provided information,0.0
+1307,217,Wallace Stevens,0.08697055996124423
+1308,218,$\it{Other}$,0.26666666666666666
+1309,218,Gary Snyder,0.23333333333333334
+1310,218,Mark Strand,0.2
+1311,218,May Swenson,0.13333333333333333
+1312,218,The answer cannot be determined from the provided information,0.0
+1313,218,Wallace Stevens,0.16666666666666666
+1314,219,$\it{Other}$,0.43333333333333335
+1315,219,Gary Snyder,0.06666666666666667
+1316,219,Mark Strand,0.3
+1317,219,May Swenson,0.13333333333333333
+1318,219,The answer cannot be determined from the provided information,0.0
+1319,219,Wallace Stevens,0.06666666666666667
+1320,220,$\it{Other}$,0.5
+1321,220,Gary Snyder,0.1
+1322,220,Mark Strand,0.13333333333333333
+1323,220,May Swenson,0.06666666666666667
+1324,220,The answer cannot be determined from the provided information,0.0
+1325,220,Wallace Stevens,0.2
+1326,221,$\it{Other}$,0.614735200143479
+1327,221,Gary Snyder,0.09516542280822929
+1328,221,Mark Strand,0.15550778675275415
+1329,221,May Swenson,0.08266012377234991
+1330,221,The answer cannot be determined from the provided information,0.0
+1331,221,Wallace Stevens,0.05193146652318753
+1332,222,$\it{Other}$,0.5151572059021415
+1333,222,Gary Snyder,0.07235426675088028
+1334,222,Mark Strand,0.1844818873425146
+1335,222,May Swenson,0.07664188031212925
+1336,222,The answer cannot be determined from the provided information,0.0
+1337,222,Wallace Stevens,0.15136475969233434
+1338,223,$\it{Other}$,0.5
+1339,223,Gary Snyder,0.06666666666666667
+1340,223,Mark Strand,0.16666666666666666
+1341,223,May Swenson,0.06666666666666667
+1342,223,The answer cannot be determined from the provided information,0.0
+1343,223,Wallace Stevens,0.2
+1344,224,$\it{Other}$,0.43333333333333335
+1345,224,Gary Snyder,0.13333333333333333
+1346,224,Mark Strand,0.23333333333333334
+1347,224,May Swenson,0.03333333333333333
+1348,224,The answer cannot be determined from the provided information,0.0
+1349,224,Wallace Stevens,0.16666666666666666
+1350,225,$\it{Other}$,0.6333333333333333
+1351,225,Gary Snyder,0.13333333333333333
+1352,225,Mark Strand,0.16666666666666666
+1353,225,May Swenson,0.03333333333333333
+1354,225,The answer cannot be determined from the provided information,0.0
+1355,225,Wallace Stevens,0.03333333333333333
+1356,226,$\it{Other}$,0.3333333333333333
+1357,226,Gary Snyder,0.16666666666666666
+1358,226,Mark Strand,0.3333333333333333
+1359,226,May Swenson,0.1
+1360,226,The answer cannot be determined from the provided information,0.0
+1361,226,Wallace Stevens,0.06666666666666667
+1362,227,$\it{Other}$,0.5333333333333333
+1363,227,Gary Snyder,0.06666666666666667
+1364,227,Mark Strand,0.3333333333333333
+1365,227,May Swenson,0.0
+1366,227,The answer cannot be determined from the provided information,0.0
+1367,227,Wallace Stevens,0.06666666666666667
+1368,228,$\it{Other}$,0.33595934930308186
+1369,228,Gary Snyder,0.13566022653646984
+1370,228,Mark Strand,0.24357289179324287
+1371,228,May Swenson,0.07685737652896711
+1372,228,The answer cannot be determined from the provided information,0.0
+1373,228,Wallace Stevens,0.20795015583823834
+1374,229,$\it{Other}$,0.07166589719362271
+1375,229,Gary Snyder,0.0
+1376,229,Mark Strand,0.9283341028063772
+1377,229,May Swenson,0.0
+1378,229,The answer cannot be determined from the provided information,0.0
+1379,229,Wallace Stevens,0.0
+1380,230,$\it{Other}$,0.0
+1381,230,Gary Snyder,0.0
+1382,230,Mark Strand,1.0
+1383,230,May Swenson,0.0
+1384,230,The answer cannot be determined from the provided information,0.0
+1385,230,Wallace Stevens,0.0
+1386,231,$\it{Other}$,0.0
+1387,231,Gary Snyder,0.0
+1388,231,Mark Strand,1.0
+1389,231,May Swenson,0.0
+1390,231,The answer cannot be determined from the provided information,0.0
+1391,231,Wallace Stevens,0.0
+1392,232,$\it{Other}$,0.0
+1393,232,Gary Snyder,0.0
+1394,232,Mark Strand,1.0
+1395,232,May Swenson,0.0
+1396,232,The answer cannot be determined from the provided information,0.0
+1397,232,Wallace Stevens,0.0
+1398,233,$\it{Other}$,0.0
+1399,233,Gary Snyder,0.0
+1400,233,Mark Strand,1.0
+1401,233,May Swenson,0.0
+1402,233,The answer cannot be determined from the provided information,0.0
+1403,233,Wallace Stevens,0.0
+1404,234,$\it{Other}$,0.0
+1405,234,Gary Snyder,0.0
+1406,234,Mark Strand,1.0
+1407,234,May Swenson,0.0
+1408,234,The answer cannot be determined from the provided information,0.0
+1409,234,Wallace Stevens,0.0
+1410,235,$\it{Other}$,0.0
+1411,235,Gary Snyder,0.0
+1412,235,Mark Strand,1.0
+1413,235,May Swenson,0.0
+1414,235,The answer cannot be determined from the provided information,0.0
+1415,235,Wallace Stevens,0.0
+1416,236,$\it{Other}$,0.0
+1417,236,Gary Snyder,0.0
+1418,236,Mark Strand,1.0
+1419,236,May Swenson,0.0
+1420,236,The answer cannot be determined from the provided information,0.0
+1421,236,Wallace Stevens,0.0
+1422,237,$\it{Other}$,0.0
+1423,237,Gary Snyder,0.0
+1424,237,Mark Strand,1.0
+1425,237,May Swenson,0.0
+1426,237,The answer cannot be determined from the provided information,0.0
+1427,237,Wallace Stevens,0.0
+1428,238,$\it{Other}$,0.0
+1429,238,Gary Snyder,0.0
+1430,238,Mark Strand,1.0
+1431,238,May Swenson,0.0
+1432,238,The answer cannot be determined from the provided information,0.0
+1433,238,Wallace Stevens,0.0
+1434,239,$\it{Other}$,0.0
+1435,239,Gary Snyder,0.0
+1436,239,Mark Strand,1.0
+1437,239,May Swenson,0.0
+1438,239,The answer cannot be determined from the provided information,0.0
+1439,239,Wallace Stevens,0.0
+1440,240,$\it{Other}$,0.0
+1441,240,Gary Snyder,0.0
+1442,240,Mark Strand,1.0
+1443,240,May Swenson,0.0
+1444,240,The answer cannot be determined from the provided information,0.0
+1445,240,Wallace Stevens,0.0
+1446,241,$\it{Other}$,0.0
+1447,241,Gary Snyder,0.0
+1448,241,Mark Strand,1.0
+1449,241,May Swenson,0.0
+1450,241,The answer cannot be determined from the provided information,0.0
+1451,241,Wallace Stevens,0.0
+1452,242,$\it{Other}$,0.0
+1453,242,Gary Snyder,0.0
+1454,242,Mark Strand,1.0
+1455,242,May Swenson,0.0
+1456,242,The answer cannot be determined from the provided information,0.0
+1457,242,Wallace Stevens,0.0
+1458,243,$\it{Other}$,0.0
+1459,243,Gary Snyder,0.0
+1460,243,Mark Strand,1.0
+1461,243,May Swenson,0.0
+1462,243,The answer cannot be determined from the provided information,0.0
+1463,243,Wallace Stevens,0.0
+1464,244,$\it{Other}$,0.0
+1465,244,Gary Snyder,0.0
+1466,244,Mark Strand,1.0
+1467,244,May Swenson,0.0
+1468,244,The answer cannot be determined from the provided information,0.0
+1469,244,Wallace Stevens,0.0
+1470,245,$\it{Other}$,0.0
+1471,245,Gary Snyder,0.0
+1472,245,Mark Strand,1.0
+1473,245,May Swenson,0.0
+1474,245,The answer cannot be determined from the provided information,0.0
+1475,245,Wallace Stevens,0.0
+1476,246,$\it{Other}$,0.0
+1477,246,Gary Snyder,0.0
+1478,246,Mark Strand,1.0
+1479,246,May Swenson,0.0
+1480,246,The answer cannot be determined from the provided information,0.0
+1481,246,Wallace Stevens,0.0
+1482,247,$\it{Other}$,0.0
+1483,247,Gary Snyder,0.0
+1484,247,Mark Strand,1.0
+1485,247,May Swenson,0.0
+1486,247,The answer cannot be determined from the provided information,0.0
+1487,247,Wallace Stevens,0.0
+1488,248,$\it{Other}$,0.0
+1489,248,Gary Snyder,0.0
+1490,248,Mark Strand,0.9999999999999999
+1491,248,May Swenson,0.0
+1492,248,The answer cannot be determined from the provided information,0.0
+1493,248,Wallace Stevens,0.0
+1494,249,$\it{Other}$,0.0
+1495,249,Gary Snyder,0.0
+1496,249,Mark Strand,1.0
+1497,249,May Swenson,0.0
+1498,249,The answer cannot be determined from the provided information,0.0
+1499,249,Wallace Stevens,0.0
+1500,250,$\it{Other}$,0.0
+1501,250,Gary Snyder,0.0
+1502,250,Mark Strand,1.0
+1503,250,May Swenson,0.0
+1504,250,The answer cannot be determined from the provided information,0.0
+1505,250,Wallace Stevens,0.0
+1506,251,$\it{Other}$,0.0
+1507,251,Gary Snyder,0.0
+1508,251,Mark Strand,1.0
+1509,251,May Swenson,0.0
+1510,251,The answer cannot be determined from the provided information,0.0
+1511,251,Wallace Stevens,0.0
+1512,252,$\it{Other}$,0.0
+1513,252,Gary Snyder,0.0
+1514,252,Mark Strand,1.0
+1515,252,May Swenson,0.0
+1516,252,The answer cannot be determined from the provided information,0.0
+1517,252,Wallace Stevens,0.0
+1518,253,$\it{Other}$,0.0
+1519,253,Gary Snyder,0.0
+1520,253,Mark Strand,1.0
+1521,253,May Swenson,0.0
+1522,253,The answer cannot be determined from the provided information,0.0
+1523,253,Wallace Stevens,0.0
+1524,254,$\it{Other}$,0.0
+1525,254,Gary Snyder,0.0
+1526,254,Mark Strand,1.0
+1527,254,May Swenson,0.0
+1528,254,The answer cannot be determined from the provided information,0.0
+1529,254,Wallace Stevens,0.0
+1530,255,$\it{Other}$,0.0
+1531,255,Gary Snyder,0.0
+1532,255,Mark Strand,1.0
+1533,255,May Swenson,0.0
+1534,255,The answer cannot be determined from the provided information,0.0
+1535,255,Wallace Stevens,0.0
+1536,256,$\it{Other}$,0.0
+1537,256,Gary Snyder,0.0
+1538,256,Mark Strand,1.0
+1539,256,May Swenson,0.0
+1540,256,The answer cannot be determined from the provided information,0.0
+1541,256,Wallace Stevens,0.0
+1542,257,$\it{Other}$,0.0
+1543,257,Gary Snyder,0.0
+1544,257,Mark Strand,1.0
+1545,257,May Swenson,0.0
+1546,257,The answer cannot be determined from the provided information,0.0
+1547,257,Wallace Stevens,0.0
+1548,258,$\it{Other}$,0.0
+1549,258,Gary Snyder,0.0
+1550,258,Mark Strand,0.9999999999999999
+1551,258,May Swenson,0.0
+1552,258,The answer cannot be determined from the provided information,0.0
+1553,258,Wallace Stevens,0.0
+1554,259,$\it{Other}$,0.0
+1555,259,Gary Snyder,0.0
+1556,259,Mark Strand,1.0
+1557,259,May Swenson,0.0
+1558,259,The answer cannot be determined from the provided information,0.0
+1559,259,Wallace Stevens,0.0
+1560,260,$\it{Other}$,0.0
+1561,260,Gary Snyder,0.0
+1562,260,Mark Strand,1.0
+1563,260,May Swenson,0.0
+1564,260,The answer cannot be determined from the provided information,0.0
+1565,260,Wallace Stevens,0.0
+1566,261,$\it{Other}$,0.0
+1567,261,Gary Snyder,0.0
+1568,261,Mark Strand,1.0
+1569,261,May Swenson,0.0
+1570,261,The answer cannot be determined from the provided information,0.0
+1571,261,Wallace Stevens,0.0
+1572,262,$\it{Other}$,0.0
+1573,262,Gary Snyder,0.0
+1574,262,Mark Strand,1.0
+1575,262,May Swenson,0.0
+1576,262,The answer cannot be determined from the provided information,0.0
+1577,262,Wallace Stevens,0.0
+1578,263,$\it{Other}$,0.0
+1579,263,Gary Snyder,0.0
+1580,263,Mark Strand,1.0
+1581,263,May Swenson,0.0
+1582,263,The answer cannot be determined from the provided information,0.0
+1583,263,Wallace Stevens,0.0
+1584,264,$\it{Other}$,0.0
+1585,264,Gary Snyder,0.0
+1586,264,Mark Strand,1.0
+1587,264,May Swenson,0.0
+1588,264,The answer cannot be determined from the provided information,0.0
+1589,264,Wallace Stevens,0.0
+1590,265,$\it{Other}$,0.0
+1591,265,Gary Snyder,0.0
+1592,265,Mark Strand,1.0
+1593,265,May Swenson,0.0
+1594,265,The answer cannot be determined from the provided information,0.0
+1595,265,Wallace Stevens,0.0
+1596,266,$\it{Other}$,0.0
+1597,266,Gary Snyder,0.0
+1598,266,Mark Strand,1.0
+1599,266,May Swenson,0.0
+1600,266,The answer cannot be determined from the provided information,0.0
+1601,266,Wallace Stevens,0.0
+1602,267,$\it{Other}$,0.0
+1603,267,Gary Snyder,0.0
+1604,267,Mark Strand,1.0
+1605,267,May Swenson,0.0
+1606,267,The answer cannot be determined from the provided information,0.0
+1607,267,Wallace Stevens,0.0
+1608,268,$\it{Other}$,0.0
+1609,268,Gary Snyder,0.0
+1610,268,Mark Strand,1.0
+1611,268,May Swenson,0.0
+1612,268,The answer cannot be determined from the provided information,0.0
+1613,268,Wallace Stevens,0.0
+1614,269,$\it{Other}$,0.0
+1615,269,Gary Snyder,0.0
+1616,269,Mark Strand,0.9999999999999999
+1617,269,May Swenson,0.0
+1618,269,The answer cannot be determined from the provided information,0.0
+1619,269,Wallace Stevens,0.0
+1620,270,$\it{Other}$,0.0
+1621,270,Gary Snyder,0.0
+1622,270,Mark Strand,1.0
+1623,270,May Swenson,0.0
+1624,270,The answer cannot be determined from the provided information,0.0
+1625,270,Wallace Stevens,0.0
+1626,271,$\it{Other}$,0.0
+1627,271,Gary Snyder,0.0
+1628,271,Mark Strand,1.0
+1629,271,May Swenson,0.0
+1630,271,The answer cannot be determined from the provided information,0.0
+1631,271,Wallace Stevens,0.0
+1632,272,$\it{Other}$,0.0
+1633,272,Gary Snyder,0.0
+1634,272,Mark Strand,0.9999999999999999
+1635,272,May Swenson,0.0
+1636,272,The answer cannot be determined from the provided information,0.0
+1637,272,Wallace Stevens,0.0
+1638,273,$\it{Other}$,0.0
+1639,273,Gary Snyder,0.0
+1640,273,Mark Strand,1.0
+1641,273,May Swenson,0.0
+1642,273,The answer cannot be determined from the provided information,0.0
+1643,273,Wallace Stevens,0.0
+1644,274,$\it{Other}$,0.0
+1645,274,Gary Snyder,0.0
+1646,274,Mark Strand,1.0
+1647,274,May Swenson,0.0
+1648,274,The answer cannot be determined from the provided information,0.0
+1649,274,Wallace Stevens,0.0
+1650,275,$\it{Other}$,0.0
+1651,275,Gary Snyder,0.0
+1652,275,Mark Strand,1.0
+1653,275,May Swenson,0.0
+1654,275,The answer cannot be determined from the provided information,0.0
+1655,275,Wallace Stevens,0.0
+1656,276,$\it{Other}$,0.0
+1657,276,Gary Snyder,0.0
+1658,276,Mark Strand,1.0
+1659,276,May Swenson,0.0
+1660,276,The answer cannot be determined from the provided information,0.0
+1661,276,Wallace Stevens,0.0
+1662,277,$\it{Other}$,0.0
+1663,277,Gary Snyder,0.0
+1664,277,Mark Strand,1.0
+1665,277,May Swenson,0.0
+1666,277,The answer cannot be determined from the provided information,0.0
+1667,277,Wallace Stevens,0.0
+1668,278,$\it{Other}$,0.0
+1669,278,Gary Snyder,0.0
+1670,278,Mark Strand,1.0
+1671,278,May Swenson,0.0
+1672,278,The answer cannot be determined from the provided information,0.0
+1673,278,Wallace Stevens,0.0
+1674,279,$\it{Other}$,0.0
+1675,279,Gary Snyder,0.0
+1676,279,Mark Strand,1.0
+1677,279,May Swenson,0.0
+1678,279,The answer cannot be determined from the provided information,0.0
+1679,279,Wallace Stevens,0.0
+1680,280,$\it{Other}$,0.0
+1681,280,Gary Snyder,0.0
+1682,280,Mark Strand,1.0
+1683,280,May Swenson,0.0
+1684,280,The answer cannot be determined from the provided information,0.0
+1685,280,Wallace Stevens,0.0
+1686,281,$\it{Other}$,0.0
+1687,281,Gary Snyder,0.0
+1688,281,Mark Strand,1.0
+1689,281,May Swenson,0.0
+1690,281,The answer cannot be determined from the provided information,0.0
+1691,281,Wallace Stevens,0.0
+1692,282,$\it{Other}$,0.0
+1693,282,Gary Snyder,0.0
+1694,282,Mark Strand,1.0
+1695,282,May Swenson,0.0
+1696,282,The answer cannot be determined from the provided information,0.0
+1697,282,Wallace Stevens,0.0
+1698,283,$\it{Other}$,0.0
+1699,283,Gary Snyder,0.0
+1700,283,Mark Strand,1.0
+1701,283,May Swenson,0.0
+1702,283,The answer cannot be determined from the provided information,0.0
+1703,283,Wallace Stevens,0.0
+1704,284,$\it{Other}$,0.0
+1705,284,Gary Snyder,0.0
+1706,284,Mark Strand,1.0
+1707,284,May Swenson,0.0
+1708,284,The answer cannot be determined from the provided information,0.0
+1709,284,Wallace Stevens,0.0
+1710,285,$\it{Other}$,0.0
+1711,285,Gary Snyder,0.0
+1712,285,Mark Strand,1.0
+1713,285,May Swenson,0.0
+1714,285,The answer cannot be determined from the provided information,0.0
+1715,285,Wallace Stevens,0.0
+1716,286,$\it{Other}$,0.0
+1717,286,Gary Snyder,0.0
+1718,286,Mark Strand,1.0
+1719,286,May Swenson,0.0
+1720,286,The answer cannot be determined from the provided information,0.0
+1721,286,Wallace Stevens,0.0
+1722,287,$\it{Other}$,0.0
+1723,287,Gary Snyder,0.0
+1724,287,Mark Strand,1.0
+1725,287,May Swenson,0.0
+1726,287,The answer cannot be determined from the provided information,0.0
+1727,287,Wallace Stevens,0.0
+1728,288,$\it{Other}$,0.0
+1729,288,Gary Snyder,0.0
+1730,288,Mark Strand,1.0
+1731,288,May Swenson,0.0
+1732,288,The answer cannot be determined from the provided information,0.0
+1733,288,Wallace Stevens,0.0
+1734,289,$\it{Other}$,0.0
+1735,289,Gary Snyder,0.0
+1736,289,Mark Strand,1.0
+1737,289,May Swenson,0.0
+1738,289,The answer cannot be determined from the provided information,0.0
+1739,289,Wallace Stevens,0.0
+1740,290,$\it{Other}$,0.0
+1741,290,Gary Snyder,0.0
+1742,290,Mark Strand,1.0
+1743,290,May Swenson,0.0
+1744,290,The answer cannot be determined from the provided information,0.0
+1745,290,Wallace Stevens,0.0
+1746,291,$\it{Other}$,0.0
+1747,291,Gary Snyder,0.0
+1748,291,Mark Strand,1.0
+1749,291,May Swenson,0.0
+1750,291,The answer cannot be determined from the provided information,0.0
+1751,291,Wallace Stevens,0.0
+1752,292,$\it{Other}$,0.0
+1753,292,Gary Snyder,0.0
+1754,292,Mark Strand,1.0
+1755,292,May Swenson,0.0
+1756,292,The answer cannot be determined from the provided information,0.0
+1757,292,Wallace Stevens,0.0
+1758,293,$\it{Other}$,0.01465185156102388
+1759,293,Gary Snyder,0.0
+1760,293,Mark Strand,0.9853481484389761
+1761,293,May Swenson,0.0
+1762,293,The answer cannot be determined from the provided information,0.0
+1763,293,Wallace Stevens,0.0
+1764,294,$\it{Other}$,0.0
+1765,294,Gary Snyder,0.0
+1766,294,Mark Strand,1.0
+1767,294,May Swenson,0.0
+1768,294,The answer cannot be determined from the provided information,0.0
+1769,294,Wallace Stevens,0.0
+1770,295,$\it{Other}$,0.0
+1771,295,Gary Snyder,0.0
+1772,295,Mark Strand,0.9999999999999999
+1773,295,May Swenson,0.0
+1774,295,The answer cannot be determined from the provided information,0.0
+1775,295,Wallace Stevens,0.0
+1776,296,$\it{Other}$,0.0
+1777,296,Gary Snyder,0.0
+1778,296,Mark Strand,1.0
+1779,296,May Swenson,0.0
+1780,296,The answer cannot be determined from the provided information,0.0
+1781,296,Wallace Stevens,0.0
+1782,297,$\it{Other}$,0.0
+1783,297,Gary Snyder,0.0
+1784,297,Mark Strand,1.0
+1785,297,May Swenson,0.0
+1786,297,The answer cannot be determined from the provided information,0.0
+1787,297,Wallace Stevens,0.0
+1788,298,$\it{Other}$,0.0
+1789,298,Gary Snyder,0.0
+1790,298,Mark Strand,1.0
+1791,298,May Swenson,0.0
+1792,298,The answer cannot be determined from the provided information,0.0
+1793,298,Wallace Stevens,0.0
+1794,299,$\it{Other}$,0.0
+1795,299,Gary Snyder,0.0
+1796,299,Mark Strand,1.0
+1797,299,May Swenson,0.0
+1798,299,The answer cannot be determined from the provided information,0.0
+1799,299,Wallace Stevens,0.0
+1800,300,$\it{Other}$,0.0
+1801,300,Gary Snyder,0.0
+1802,300,Mark Strand,1.0
+1803,300,May Swenson,0.0
+1804,300,The answer cannot be determined from the provided information,0.0
+1805,300,Wallace Stevens,0.0
+1806,301,$\it{Other}$,0.0
+1807,301,Gary Snyder,0.0
+1808,301,Mark Strand,1.0
+1809,301,May Swenson,0.0
+1810,301,The answer cannot be determined from the provided information,0.0
+1811,301,Wallace Stevens,0.0
+1812,302,$\it{Other}$,0.0
+1813,302,Gary Snyder,0.0
+1814,302,Mark Strand,1.0
+1815,302,May Swenson,0.0
+1816,302,The answer cannot be determined from the provided information,0.0
+1817,302,Wallace Stevens,0.0
+1818,303,$\it{Other}$,0.0
+1819,303,Gary Snyder,0.0
+1820,303,Mark Strand,1.0
+1821,303,May Swenson,0.0
+1822,303,The answer cannot be determined from the provided information,0.0
+1823,303,Wallace Stevens,0.0
+1824,304,$\it{Other}$,0.0
+1825,304,Gary Snyder,0.0
+1826,304,Mark Strand,1.0
+1827,304,May Swenson,0.0
+1828,304,The answer cannot be determined from the provided information,0.0
+1829,304,Wallace Stevens,0.0
+1830,305,$\it{Other}$,0.0
+1831,305,Gary Snyder,0.0
+1832,305,Mark Strand,1.0
+1833,305,May Swenson,0.0
+1834,305,The answer cannot be determined from the provided information,0.0
+1835,305,Wallace Stevens,0.0
+1836,306,$\it{Other}$,0.0
+1837,306,Gary Snyder,0.0
+1838,306,Mark Strand,1.0
+1839,306,May Swenson,0.0
+1840,306,The answer cannot be determined from the provided information,0.0
+1841,306,Wallace Stevens,0.0
+1842,307,$\it{Other}$,0.0
+1843,307,Gary Snyder,0.0
+1844,307,Mark Strand,1.0
+1845,307,May Swenson,0.0
+1846,307,The answer cannot be determined from the provided information,0.0
+1847,307,Wallace Stevens,0.0
+1848,308,$\it{Other}$,0.0
+1849,308,Gary Snyder,0.0
+1850,308,Mark Strand,1.0
+1851,308,May Swenson,0.0
+1852,308,The answer cannot be determined from the provided information,0.0
+1853,308,Wallace Stevens,0.0
+1854,309,$\it{Other}$,0.0
+1855,309,Gary Snyder,0.0
+1856,309,Mark Strand,1.0
+1857,309,May Swenson,0.0
+1858,309,The answer cannot be determined from the provided information,0.0
+1859,309,Wallace Stevens,0.0
+1860,310,$\it{Other}$,0.0
+1861,310,Gary Snyder,0.0
+1862,310,Mark Strand,1.0
+1863,310,May Swenson,0.0
+1864,310,The answer cannot be determined from the provided information,0.0
+1865,310,Wallace Stevens,0.0
+1866,311,$\it{Other}$,0.0
+1867,311,Gary Snyder,0.0
+1868,311,Mark Strand,1.0
+1869,311,May Swenson,0.0
+1870,311,The answer cannot be determined from the provided information,0.0
+1871,311,Wallace Stevens,0.0
+1872,312,$\it{Other}$,0.0
+1873,312,Gary Snyder,0.0
+1874,312,Mark Strand,1.0
+1875,312,May Swenson,0.0
+1876,312,The answer cannot be determined from the provided information,0.0
+1877,312,Wallace Stevens,0.0
+1878,313,$\it{Other}$,0.0
+1879,313,Gary Snyder,0.0
+1880,313,Mark Strand,1.0
+1881,313,May Swenson,0.0
+1882,313,The answer cannot be determined from the provided information,0.0
+1883,313,Wallace Stevens,0.0

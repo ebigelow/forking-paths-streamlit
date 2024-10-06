@@ -1,0 +1,853 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.837889932325513
+1,0,Cannot be determined,0.047308652743224364
+2,0,It is difficult to determine the exact nationality,0.015057052641918608
+3,0,It is impossible to determine the nationality of the legends without more information,0.0
+4,0,Not applicable,0.052750996528484285
+5,0,Undetermined,0.046993365760859745
+6,1,$\it{Other}$,0.8
+7,1,Cannot be determined,0.084184261167284
+8,1,It is difficult to determine the exact nationality,0.04971635738868311
+9,1,It is impossible to determine the nationality of the legends without more information,0.0
+10,1,Not applicable,0.04971635738868311
+11,1,Undetermined,0.016383024055349776
+12,2,$\it{Other}$,0.7949817374448938
+13,2,Cannot be determined,0.08996347488978726
+14,2,It is difficult to determine the exact nationality,0.03333333333333333
+15,2,It is impossible to determine the nationality of the legends without more information,0.0050182625551063766
+16,2,Not applicable,0.07168492922177304
+17,2,Undetermined,0.0050182625551063766
+18,3,$\it{Other}$,0.8432602640840963
+19,3,Cannot be determined,0.09007306924923698
+20,3,It is difficult to determine the exact nationality,0.033333333333333326
+21,3,It is impossible to determine the nationality of the legends without more information,0.01442008802803211
+22,3,Not applicable,0.018913245305301217
+23,3,Undetermined,0.0
+24,4,$\it{Other}$,0.7666666666666667
+25,4,Cannot be determined,0.06666666666666667
+26,4,It is difficult to determine the exact nationality,0.03333333333333333
+27,4,It is impossible to determine the nationality of the legends without more information,0.0
+28,4,Not applicable,0.13333333333333333
+29,4,Undetermined,0.0
+30,5,$\it{Other}$,0.8568332837906623
+31,5,Cannot be determined,0.06415908930636739
+32,5,It is difficult to determine the exact nationality,0.02021628292001429
+33,5,It is impossible to determine the nationality of the legends without more information,0.010831224190620931
+34,5,Not applicable,0.02108080758485281
+35,5,Undetermined,0.026879312207482284
+36,6,$\it{Other}$,0.7171480937367379
+37,6,Cannot be determined,0.09156168910094761
+38,6,It is difficult to determine the exact nationality,0.03599238405734173
+39,6,It is impossible to determine the nationality of the legends without more information,0.0
+40,6,Not applicable,0.09202284782797483
+41,6,Undetermined,0.06327498527699787
+42,7,$\it{Other}$,0.7351976858466835
+43,7,Cannot be determined,0.06820810501473168
+44,7,It is difficult to determine the exact nationality,0.012258978076414496
+45,7,It is impossible to determine the nationality of the legends without more information,0.0026272177486782134
+46,7,Not applicable,0.13753185924455075
+47,7,Undetermined,0.044176154068941285
+48,8,$\it{Other}$,0.7333333333333333
+49,8,Cannot be determined,0.16666666666666666
+50,8,It is difficult to determine the exact nationality,0.0
+51,8,It is impossible to determine the nationality of the legends without more information,0.0
+52,8,Not applicable,0.1
+53,8,Undetermined,0.0
+54,9,$\it{Other}$,0.7333333333333333
+55,9,Cannot be determined,0.16666666666666666
+56,9,It is difficult to determine the exact nationality,0.0
+57,9,It is impossible to determine the nationality of the legends without more information,0.0
+58,9,Not applicable,0.06666666666666667
+59,9,Undetermined,0.03333333333333333
+60,10,$\it{Other}$,0.8376063215888885
+61,10,Cannot be determined,0.06321617470212175
+62,10,It is difficult to determine the exact nationality,0.0
+63,10,It is impossible to determine the nationality of the legends without more information,0.0
+64,10,Not applicable,0.09064171948256791
+65,10,Undetermined,0.008535784226421896
+66,11,$\it{Other}$,0.7
+67,11,Cannot be determined,0.06666666666666667
+68,11,It is difficult to determine the exact nationality,0.0
+69,11,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+70,11,Not applicable,0.13333333333333333
+71,11,Undetermined,0.06666666666666667
+72,12,$\it{Other}$,0.7930969277474015
+73,12,Cannot be determined,0.09654846387370068
+74,12,It is difficult to determine the exact nationality,0.0
+75,12,It is impossible to determine the nationality of the legends without more information,0.0
+76,12,Not applicable,0.07356973891926533
+77,12,Undetermined,0.03678486945963266
+78,13,$\it{Other}$,0.6333333333333333
+79,13,Cannot be determined,0.03333333333333333
+80,13,It is difficult to determine the exact nationality,0.03333333333333333
+81,13,It is impossible to determine the nationality of the legends without more information,0.0
+82,13,Not applicable,0.3
+83,13,Undetermined,0.0
+84,14,$\it{Other}$,0.8224122056290042
+85,14,Cannot be determined,0.13333333333333333
+86,14,It is difficult to determine the exact nationality,0.0
+87,14,It is impossible to determine the nationality of the legends without more information,0.0
+88,14,Not applicable,0.04425446103766266
+89,14,Undetermined,0.0
+90,15,$\it{Other}$,0.7311449180872309
+91,15,Cannot be determined,0.10877937393609749
+92,15,It is difficult to determine the exact nationality,0.012276979698617914
+93,15,It is impossible to determine the nationality of the legends without more information,0.0
+94,15,Not applicable,0.1333333333333333
+95,15,Undetermined,0.014465394944720131
+96,16,$\it{Other}$,0.7292718872798617
+97,16,Cannot be determined,0.1
+98,16,It is difficult to determine the exact nationality,0.0
+99,16,It is impossible to determine the nationality of the legends without more information,0.0
+100,16,Not applicable,0.10812289210694319
+101,16,Undetermined,0.06260522061319508
+102,17,$\it{Other}$,0.6
+103,17,Cannot be determined,0.16666666666666666
+104,17,It is difficult to determine the exact nationality,0.0
+105,17,It is impossible to determine the nationality of the legends without more information,0.0
+106,17,Not applicable,0.2
+107,17,Undetermined,0.03333333333333333
+108,18,$\it{Other}$,0.7134375852573474
+109,18,Cannot be determined,0.12417754210236354
+110,18,It is difficult to determine the exact nationality,0.01067523891198642
+111,18,It is impossible to determine the nationality of the legends without more information,0.0
+112,18,Not applicable,0.11082864667161922
+113,18,Undetermined,0.04088098705668341
+114,19,$\it{Other}$,0.8514178339354683
+115,19,Cannot be determined,0.04349922182079889
+116,19,It is difficult to determine the exact nationality,0.03079186121146694
+117,19,It is impossible to determine the nationality of the legends without more information,0.0
+118,19,Not applicable,0.038416277577066116
+119,19,Undetermined,0.03587480545519972
+120,20,$\it{Other}$,0.7666666666666667
+121,20,Cannot be determined,0.1
+122,20,It is difficult to determine the exact nationality,0.03333333333333333
+123,20,It is impossible to determine the nationality of the legends without more information,0.0
+124,20,Not applicable,0.1
+125,20,Undetermined,0.0
+126,21,$\it{Other}$,0.6414166739435165
+127,21,Cannot be determined,0.2001726129789884
+128,21,It is difficult to determine the exact nationality,0.008187500590342163
+129,21,It is impossible to determine the nationality of the legends without more information,0.0027291668634473873
+130,21,Not applicable,0.11688987915381964
+131,21,Undetermined,0.030604166469885948
+132,22,$\it{Other}$,0.8365699517225463
+133,22,Cannot be determined,0.03333333333333333
+134,22,It is difficult to determine the exact nationality,0.03009671494412035
+135,22,It is impossible to determine the nationality of the legends without more information,0.0
+136,22,Not applicable,0.09676338161078701
+137,22,Undetermined,0.0032366183892129797
+138,23,$\it{Other}$,0.759723318168474
+139,23,Cannot be determined,0.14675889394384203
+140,23,It is difficult to determine the exact nationality,0.006712780305254349
+141,23,It is impossible to determine the nationality of the legends without more information,0.0
+142,23,Not applicable,0.06666666666666667
+143,23,Undetermined,0.02013834091576305
+144,24,$\it{Other}$,0.7666666666666667
+145,24,Cannot be determined,0.06666666666666667
+146,24,It is difficult to determine the exact nationality,0.0
+147,24,It is impossible to determine the nationality of the legends without more information,0.0
+148,24,Not applicable,0.13333333333333333
+149,24,Undetermined,0.03333333333333333
+150,25,$\it{Other}$,0.7410274822861092
+151,25,Cannot be determined,0.12223115703714825
+152,25,It is difficult to determine the exact nationality,0.015113679076955534
+153,25,It is impossible to determine the nationality of the legends without more information,0.0
+154,25,Not applicable,0.06862790754689742
+155,25,Undetermined,0.05299977405288965
+156,26,$\it{Other}$,0.7666666666666667
+157,26,Cannot be determined,0.13333333333333333
+158,26,It is difficult to determine the exact nationality,0.0
+159,26,It is impossible to determine the nationality of the legends without more information,0.0
+160,26,Not applicable,0.06666666666666667
+161,26,Undetermined,0.03333333333333333
+162,27,$\it{Other}$,0.7564767032525815
+163,27,Cannot be determined,0.10101419573729553
+164,27,It is difficult to determine the exact nationality,0.0
+165,27,It is impossible to determine the nationality of the legends without more information,0.0
+166,27,Not applicable,0.10594267112708454
+167,27,Undetermined,0.03656642988303842
+168,28,$\it{Other}$,0.7850790421918842
+169,28,Cannot be determined,0.1396974940765013
+170,28,It is difficult to determine the exact nationality,0.010678183979337143
+171,28,It is impossible to determine the nationality of the legends without more information,0.0021213869143893276
+172,28,Not applicable,0.06242389283788801
+173,28,Undetermined,0.0
+174,29,$\it{Other}$,0.6839178799885991
+175,29,Cannot be determined,0.17970193265655746
+176,29,It is difficult to determine the exact nationality,0.021660872650857015
+177,29,It is impossible to determine the nationality of the legends without more information,0.0
+178,29,Not applicable,0.05675914483024072
+179,29,Undetermined,0.057960169873745686
+180,30,$\it{Other}$,0.8
+181,30,Cannot be determined,0.13333333333333333
+182,30,It is difficult to determine the exact nationality,0.0
+183,30,It is impossible to determine the nationality of the legends without more information,0.0
+184,30,Not applicable,0.06666666666666667
+185,30,Undetermined,0.0
+186,31,$\it{Other}$,0.8333333333333334
+187,31,Cannot be determined,0.1
+188,31,It is difficult to determine the exact nationality,0.0
+189,31,It is impossible to determine the nationality of the legends without more information,0.0
+190,31,Not applicable,0.0
+191,31,Undetermined,0.06666666666666667
+192,32,$\it{Other}$,0.7333333333333333
+193,32,Cannot be determined,0.16666666666666666
+194,32,It is difficult to determine the exact nationality,0.1
+195,32,It is impossible to determine the nationality of the legends without more information,0.0
+196,32,Not applicable,0.0
+197,32,Undetermined,0.0
+198,33,$\it{Other}$,0.8049539452516594
+199,33,Cannot be determined,0.14916842361174953
+200,33,It is difficult to determine the exact nationality,0.03578634054294867
+201,33,It is impossible to determine the nationality of the legends without more information,0.0
+202,33,Not applicable,0.0024530072096153417
+203,33,Undetermined,0.0076382833840270645
+204,34,$\it{Other}$,0.7333333333333333
+205,34,Cannot be determined,0.23333333333333334
+206,34,It is difficult to determine the exact nationality,0.03333333333333333
+207,34,It is impossible to determine the nationality of the legends without more information,0.0
+208,34,Not applicable,0.0
+209,34,Undetermined,0.0
+210,35,$\it{Other}$,0.6333333333333333
+211,35,Cannot be determined,0.2
+212,35,It is difficult to determine the exact nationality,0.03333333333333333
+213,35,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+214,35,Not applicable,0.06666666666666667
+215,35,Undetermined,0.03333333333333333
+216,36,$\it{Other}$,0.7291112442895766
+217,36,Cannot be determined,0.18529188147899045
+218,36,It is difficult to determine the exact nationality,0.00849907367135272
+219,36,It is impossible to determine the nationality of the legends without more information,0.0
+220,36,Not applicable,0.029361341458179983
+221,36,Undetermined,0.047736459101900316
+222,37,$\it{Other}$,0.7548709698777325
+223,37,Cannot be determined,0.16648798063607045
+224,37,It is difficult to determine the exact nationality,0.03773562261970601
+225,37,It is impossible to determine the nationality of the legends without more information,0.0
+226,37,Not applicable,0.03101446587305129
+227,37,Undetermined,0.009890960993439727
+228,38,$\it{Other}$,0.8666666666666667
+229,38,Cannot be determined,0.03333333333333333
+230,38,It is difficult to determine the exact nationality,0.06666666666666667
+231,38,It is impossible to determine the nationality of the legends without more information,0.0
+232,38,Not applicable,0.0
+233,38,Undetermined,0.03333333333333333
+234,39,$\it{Other}$,0.7938322270199953
+235,39,Cannot be determined,0.10042234560445794
+236,39,It is difficult to determine the exact nationality,0.0
+237,39,It is impossible to determine the nationality of the legends without more information,0.013705378259570291
+238,39,Not applicable,0.025373382449309815
+239,39,Undetermined,0.06666666666666667
+240,40,$\it{Other}$,0.7687118856445938
+241,40,Cannot be determined,0.11102586661750488
+242,40,It is difficult to determine the exact nationality,0.0505672007278721
+243,40,It is impossible to determine the nationality of the legends without more information,0.0
+244,40,Not applicable,0.010667061864247797
+245,40,Undetermined,0.05902798514578138
+246,41,$\it{Other}$,0.6
+247,41,Cannot be determined,0.3333333333333333
+248,41,It is difficult to determine the exact nationality,0.06666666666666667
+249,41,It is impossible to determine the nationality of the legends without more information,0.0
+250,41,Not applicable,0.0
+251,41,Undetermined,0.0
+252,42,$\it{Other}$,0.5666666666666667
+253,42,Cannot be determined,0.2
+254,42,It is difficult to determine the exact nationality,0.1
+255,42,It is impossible to determine the nationality of the legends without more information,0.0
+256,42,Not applicable,0.03333333333333333
+257,42,Undetermined,0.1
+258,43,$\it{Other}$,0.7333333333333333
+259,43,Cannot be determined,0.06666666666666667
+260,43,It is difficult to determine the exact nationality,0.06666666666666667
+261,43,It is impossible to determine the nationality of the legends without more information,0.0
+262,43,Not applicable,0.03333333333333333
+263,43,Undetermined,0.1
+264,44,$\it{Other}$,0.8
+265,44,Cannot be determined,0.16666666666666666
+266,44,It is difficult to determine the exact nationality,0.03333333333333333
+267,44,It is impossible to determine the nationality of the legends without more information,0.0
+268,44,Not applicable,0.0
+269,44,Undetermined,0.0
+270,45,$\it{Other}$,0.7333333333333333
+271,45,Cannot be determined,0.1
+272,45,It is difficult to determine the exact nationality,0.03333333333333333
+273,45,It is impossible to determine the nationality of the legends without more information,0.0
+274,45,Not applicable,0.1
+275,45,Undetermined,0.03333333333333333
+276,46,$\it{Other}$,0.7
+277,46,Cannot be determined,0.13333333333333333
+278,46,It is difficult to determine the exact nationality,0.03333333333333333
+279,46,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+280,46,Not applicable,0.06666666666666667
+281,46,Undetermined,0.03333333333333333
+282,47,$\it{Other}$,0.765299994430803
+283,47,Cannot be determined,0.09243776698919223
+284,47,It is difficult to determine the exact nationality,0.04653085004634338
+285,47,It is impossible to determine the nationality of the legends without more information,0.0
+286,47,Not applicable,0.031199027600163996
+287,47,Undetermined,0.06453236093349732
+288,48,$\it{Other}$,0.7593064709995135
+289,48,Cannot be determined,0.12554383277322012
+290,48,It is difficult to determine the exact nationality,0.0314174747456268
+291,48,It is impossible to determine the nationality of the legends without more information,0.014334852619845342
+292,48,Not applicable,0.009293121565668232
+293,48,Undetermined,0.06010424729612602
+294,49,$\it{Other}$,0.9
+295,49,Cannot be determined,0.06666666666666667
+296,49,It is difficult to determine the exact nationality,0.0
+297,49,It is impossible to determine the nationality of the legends without more information,0.0
+298,49,Not applicable,0.0
+299,49,Undetermined,0.03333333333333333
+300,50,$\it{Other}$,0.7333333333333333
+301,50,Cannot be determined,0.1
+302,50,It is difficult to determine the exact nationality,0.06666666666666667
+303,50,It is impossible to determine the nationality of the legends without more information,0.0
+304,50,Not applicable,0.0
+305,50,Undetermined,0.1
+306,51,$\it{Other}$,0.8333333333333334
+307,51,Cannot be determined,0.06666666666666667
+308,51,It is difficult to determine the exact nationality,0.06666666666666667
+309,51,It is impossible to determine the nationality of the legends without more information,0.0
+310,51,Not applicable,0.0
+311,51,Undetermined,0.03333333333333333
+312,52,$\it{Other}$,0.7
+313,52,Cannot be determined,0.13333333333333333
+314,52,It is difficult to determine the exact nationality,0.06666666666666667
+315,52,It is impossible to determine the nationality of the legends without more information,0.0
+316,52,Not applicable,0.0
+317,52,Undetermined,0.1
+318,53,$\it{Other}$,0.7080222670206165
+319,53,Cannot be determined,0.10401113351030832
+320,53,It is difficult to determine the exact nationality,0.05864439964605003
+321,53,It is impossible to determine the nationality of the legends without more information,0.004011133510308317
+322,53,Not applicable,0.0
+323,53,Undetermined,0.1253110663127167
+324,54,$\it{Other}$,0.7886212231962049
+325,54,Cannot be determined,0.12050897476685037
+326,54,It is difficult to determine the exact nationality,0.01005130604742591
+327,54,It is impossible to determine the nationality of the legends without more information,0.0027153375705364037
+328,54,Not applicable,0.0
+329,54,Undetermined,0.07810315841898241
+330,55,$\it{Other}$,0.7838264932465897
+331,55,Cannot be determined,0.08382649324658953
+332,55,It is difficult to determine the exact nationality,0.03333333333333334
+333,55,It is impossible to determine the nationality of the legends without more information,0.0
+334,55,Not applicable,0.017159826579922842
+335,55,Undetermined,0.08185385359356481
+336,56,$\it{Other}$,0.8567076105570461
+337,56,Cannot be determined,0.10000000000000002
+338,56,It is difficult to determine the exact nationality,0.03665301870320689
+339,56,It is impossible to determine the nationality of the legends without more information,0.003319685369873554
+340,56,Not applicable,0.0
+341,56,Undetermined,0.003319685369873554
+342,57,$\it{Other}$,0.74760093106601
+343,57,Cannot be determined,0.1439104731296237
+344,57,It is difficult to determine the exact nationality,0.05622807592479051
+345,57,It is impossible to determine the nationality of the legends without more information,0.0
+346,57,Not applicable,0.01673586994350177
+347,57,Undetermined,0.035524649936074
+348,58,$\it{Other}$,0.7666666666666667
+349,58,Cannot be determined,0.03333333333333333
+350,58,It is difficult to determine the exact nationality,0.16666666666666666
+351,58,It is impossible to determine the nationality of the legends without more information,0.0
+352,58,Not applicable,0.0
+353,58,Undetermined,0.03333333333333333
+354,59,$\it{Other}$,0.7646517364170605
+355,59,Cannot be determined,0.12353985590157363
+356,59,It is difficult to determine the exact nationality,0.05128919828876809
+357,59,It is impossible to determine the nationality of the legends without more information,0.0018148961110717322
+358,59,Not applicable,0.027537260529691285
+359,59,Undetermined,0.031167052751834748
+360,60,$\it{Other}$,0.6655252250934095
+361,60,Cannot be determined,0.173246109806026
+362,60,It is difficult to determine the exact nationality,0.09728099921694894
+363,60,It is impossible to determine the nationality of the legends without more information,0.0
+364,60,Not applicable,0.0
+365,60,Undetermined,0.0639476658836156
+366,61,$\it{Other}$,0.8
+367,61,Cannot be determined,0.16666666666666666
+368,61,It is difficult to determine the exact nationality,0.0
+369,61,It is impossible to determine the nationality of the legends without more information,0.0
+370,61,Not applicable,0.0
+371,61,Undetermined,0.03333333333333333
+372,62,$\it{Other}$,0.7067383459853221
+373,62,Cannot be determined,0.08397132827253782
+374,62,It is difficult to determine the exact nationality,0.07248223153406544
+375,62,It is impossible to determine the nationality of the legends without more information,0.0
+376,62,Not applicable,0.0
+377,62,Undetermined,0.1368080942080746
+378,63,$\it{Other}$,0.8666666666666667
+379,63,Cannot be determined,0.06666666666666667
+380,63,It is difficult to determine the exact nationality,0.03333333333333333
+381,63,It is impossible to determine the nationality of the legends without more information,0.0
+382,63,Not applicable,0.0
+383,63,Undetermined,0.03333333333333333
+384,64,$\it{Other}$,0.8
+385,64,Cannot be determined,0.03333333333333333
+386,64,It is difficult to determine the exact nationality,0.06666666666666667
+387,64,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+388,64,Not applicable,0.0
+389,64,Undetermined,0.06666666666666667
+390,65,$\it{Other}$,0.7666666666666667
+391,65,Cannot be determined,0.1
+392,65,It is difficult to determine the exact nationality,0.06666666666666667
+393,65,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+394,65,Not applicable,0.0
+395,65,Undetermined,0.03333333333333333
+396,66,$\it{Other}$,0.6
+397,66,Cannot be determined,0.13333333333333333
+398,66,It is difficult to determine the exact nationality,0.16666666666666666
+399,66,It is impossible to determine the nationality of the legends without more information,0.06666666666666667
+400,66,Not applicable,0.0
+401,66,Undetermined,0.03333333333333333
+402,67,$\it{Other}$,0.7496264021949848
+403,67,Cannot be determined,0.11602705447922476
+404,67,It is difficult to determine the exact nationality,0.10172433928965582
+405,67,It is impossible to determine the nationality of the legends without more information,0.014309754915857552
+406,67,Not applicable,0.0
+407,67,Undetermined,0.018312449120277054
+408,68,$\it{Other}$,0.7521734982307703
+409,68,Cannot be determined,0.07073922356490749
+410,68,It is difficult to determine the exact nationality,0.08006178674639827
+411,68,It is impossible to determine the nationality of the legends without more information,0.0031740273197073954
+412,68,Not applicable,0.012943615168876862
+413,68,Undetermined,0.08090784896933975
+414,69,$\it{Other}$,0.6778245175441429
+415,69,Cannot be determined,0.055649035088285836
+416,69,It is difficult to determine the exact nationality,0.1331931140342379
+417,69,It is impossible to determine the nationality of the legends without more information,0.06666666666666667
+418,69,Not applicable,0.0
+419,69,Undetermined,0.06666666666666667
+420,70,$\it{Other}$,0.7
+421,70,Cannot be determined,0.0
+422,70,It is difficult to determine the exact nationality,0.16666666666666666
+423,70,It is impossible to determine the nationality of the legends without more information,0.0
+424,70,Not applicable,0.0
+425,70,Undetermined,0.13333333333333333
+426,71,$\it{Other}$,0.6793371650297637
+427,71,Cannot be determined,0.11568983067043549
+428,71,It is difficult to determine the exact nationality,0.10994600859960157
+429,71,It is impossible to determine the nationality of the legends without more information,0.016640305573559243
+430,71,Not applicable,0.011772745646188142
+431,71,Undetermined,0.06661394448045183
+432,72,$\it{Other}$,0.7
+433,72,Cannot be determined,0.06666666666666667
+434,72,It is difficult to determine the exact nationality,0.13333333333333333
+435,72,It is impossible to determine the nationality of the legends without more information,0.0
+436,72,Not applicable,0.0
+437,72,Undetermined,0.1
+438,73,$\it{Other}$,0.7213764246439309
+439,73,Cannot be determined,0.1
+440,73,It is difficult to determine the exact nationality,0.08804309131059758
+441,73,It is impossible to determine the nationality of the legends without more information,0.0
+442,73,Not applicable,0.0059784543447012175
+443,73,Undetermined,0.08460202970077033
+444,74,$\it{Other}$,0.7480697541102559
+445,74,Cannot be determined,0.09180274408359965
+446,74,It is difficult to determine the exact nationality,0.1009093569790916
+447,74,It is impossible to determine the nationality of the legends without more information,0.009756823567199965
+448,74,Not applicable,0.0
+449,74,Undetermined,0.049461321259852864
+450,75,$\it{Other}$,0.7333333333333333
+451,75,Cannot be determined,0.06666666666666667
+452,75,It is difficult to determine the exact nationality,0.1
+453,75,It is impossible to determine the nationality of the legends without more information,0.06666666666666667
+454,75,Not applicable,0.0
+455,75,Undetermined,0.03333333333333333
+456,76,$\it{Other}$,0.6333333333333333
+457,76,Cannot be determined,0.03333333333333333
+458,76,It is difficult to determine the exact nationality,0.13333333333333333
+459,76,It is impossible to determine the nationality of the legends without more information,0.13333333333333333
+460,76,Not applicable,0.0
+461,76,Undetermined,0.06666666666666667
+462,77,$\it{Other}$,0.7333333333333333
+463,77,Cannot be determined,0.03333333333333333
+464,77,It is difficult to determine the exact nationality,0.16666666666666666
+465,77,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+466,77,Not applicable,0.0
+467,77,Undetermined,0.03333333333333333
+468,78,$\it{Other}$,0.5666666666666667
+469,78,Cannot be determined,0.13333333333333333
+470,78,It is difficult to determine the exact nationality,0.23333333333333334
+471,78,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+472,78,Not applicable,0.0
+473,78,Undetermined,0.03333333333333333
+474,79,$\it{Other}$,0.7601030358943368
+475,79,Cannot be determined,0.09940452544724236
+476,79,It is difficult to determine the exact nationality,0.05555330333150445
+477,79,It is impossible to determine the nationality of the legends without more information,0.0
+478,79,Not applicable,0.018419648130400763
+479,79,Undetermined,0.0665194871965156
+480,80,$\it{Other}$,0.7333333333333333
+481,80,Cannot be determined,0.03333333333333333
+482,80,It is difficult to determine the exact nationality,0.06666666666666667
+483,80,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+484,80,Not applicable,0.0
+485,80,Undetermined,0.13333333333333333
+486,81,$\it{Other}$,0.654538870482544
+487,81,Cannot be determined,0.11124425508325796
+488,81,It is difficult to determine the exact nationality,0.11337343908802672
+489,81,It is impossible to determine the nationality of the legends without more information,0.031261993982233637
+490,81,Not applicable,0.0
+491,81,Undetermined,0.08958144136393764
+492,82,$\it{Other}$,0.722157109740734
+493,82,Cannot be determined,0.03796281655968814
+494,82,It is difficult to determine the exact nationality,0.07707959913378575
+495,82,It is impossible to determine the nationality of the legends without more information,0.04623147662135774
+496,82,Not applicable,0.0
+497,82,Undetermined,0.11656899794443437
+498,83,$\it{Other}$,0.7333333333333333
+499,83,Cannot be determined,0.06666666666666667
+500,83,It is difficult to determine the exact nationality,0.0
+501,83,It is impossible to determine the nationality of the legends without more information,0.06666666666666667
+502,83,Not applicable,0.0
+503,83,Undetermined,0.13333333333333333
+504,84,$\it{Other}$,0.7666666666666667
+505,84,Cannot be determined,0.03333333333333333
+506,84,It is difficult to determine the exact nationality,0.1
+507,84,It is impossible to determine the nationality of the legends without more information,0.0
+508,84,Not applicable,0.0
+509,84,Undetermined,0.1
+510,85,$\it{Other}$,0.7585949178527274
+511,85,Cannot be determined,0.044095665085252415
+512,85,It is difficult to determine the exact nationality,0.12257100158141426
+513,85,It is impossible to determine the nationality of the legends without more information,0.030642750395353566
+514,85,Not applicable,0.0
+515,85,Undetermined,0.044095665085252415
+516,86,$\it{Other}$,0.6428246009067573
+517,86,Cannot be determined,0.06666666666666667
+518,86,It is difficult to determine the exact nationality,0.10920401110644398
+519,86,It is impossible to determine the nationality of the legends without more information,0.06652303843317663
+520,86,Not applicable,0.0
+521,86,Undetermined,0.11478168288695532
+522,87,$\it{Other}$,0.6
+523,87,Cannot be determined,0.16666666666666666
+524,87,It is difficult to determine the exact nationality,0.13333333333333333
+525,87,It is impossible to determine the nationality of the legends without more information,0.0
+526,87,Not applicable,0.0
+527,87,Undetermined,0.1
+528,88,$\it{Other}$,0.5462653453280828
+529,88,Cannot be determined,0.09676699700131265
+530,88,It is difficult to determine the exact nationality,0.1
+531,88,It is impossible to determine the nationality of the legends without more information,0.1806019820078759
+532,88,Not applicable,0.03010033033464598
+533,88,Undetermined,0.046265345328082755
+534,89,$\it{Other}$,0.711088441846794
+535,89,Cannot be determined,0.06722131407262621
+536,89,It is difficult to determine the exact nationality,0.06666666666666667
+537,89,It is impossible to determine the nationality of the legends without more information,0.0
+538,89,Not applicable,0.0
+539,89,Undetermined,0.1550235774139132
+540,90,$\it{Other}$,0.693319719730999
+541,90,Cannot be determined,0.07000680680116711
+542,90,It is difficult to determine the exact nationality,0.07668708707016801
+543,90,It is impossible to determine the nationality of the legends without more information,0.06332652653216621
+544,90,Not applicable,0.0
+545,90,Undetermined,0.09665985986549956
+546,91,$\it{Other}$,0.6060876816125116
+547,91,Cannot be determined,0.07466009735796254
+548,91,It is difficult to determine the exact nationality,0.1278146975845575
+549,91,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+550,91,Not applicable,0.027814697584557495
+551,91,Undetermined,0.13028949252707753
+552,92,$\it{Other}$,0.6821114728049438
+553,92,Cannot be determined,0.06666666666666668
+554,92,It is difficult to determine the exact nationality,0.09051803626007496
+555,92,It is impossible to determine the nationality of the legends without more information,0.06666666666666668
+556,92,Not applicable,0.0
+557,92,Undetermined,0.09403715760164794
+558,93,$\it{Other}$,0.6127973461147012
+559,93,Cannot be determined,0.11757579569660853
+560,93,It is difficult to determine the exact nationality,0.10034955387603482
+561,93,It is impossible to determine the nationality of the legends without more information,0.03765883062852233
+562,93,Not applicable,0.006334730750759525
+563,93,Undetermined,0.1252837429333736
+564,94,$\it{Other}$,0.7
+565,94,Cannot be determined,0.1
+566,94,It is difficult to determine the exact nationality,0.1
+567,94,It is impossible to determine the nationality of the legends without more information,0.0
+568,94,Not applicable,0.0
+569,94,Undetermined,0.1
+570,95,$\it{Other}$,0.6470513803866258
+571,95,Cannot be determined,0.13024924014624242
+572,95,It is difficult to determine the exact nationality,0.08334159403623147
+573,95,It is impossible to determine the nationality of the legends without more information,0.0029882703360143196
+574,95,Not applicable,0.0
+575,95,Undetermined,0.13636951509488596
+576,96,$\it{Other}$,0.593838324536656
+577,96,Cannot be determined,0.15335940397031456
+578,96,It is difficult to determine the exact nationality,0.09316841473436833
+579,96,It is impossible to determine the nationality of the legends without more information,0.013425097527816024
+580,96,Not applicable,0.00949645970726688
+581,96,Undetermined,0.1367122995235781
+582,97,$\it{Other}$,0.6236646633857748
+583,97,Cannot be determined,0.17633533661422526
+584,97,It is difficult to determine the exact nationality,0.06193373398951171
+585,97,It is impossible to determine the nationality of the legends without more information,0.0
+586,97,Not applicable,0.0
+587,97,Undetermined,0.13806626601048827
+588,98,$\it{Other}$,0.5276572431548952
+589,98,Cannot be determined,0.0896673823089672
+590,98,It is difficult to determine the exact nationality,0.147093768572989
+591,98,It is impossible to determine the nationality of the legends without more information,0.036761600125095995
+592,98,Not applicable,0.0
+593,98,Undetermined,0.19882000583805268
+594,99,$\it{Other}$,0.6860827276625919
+595,99,Cannot be determined,0.0027834544674816015
+596,99,It is difficult to determine the exact nationality,0.06945012113414827
+597,99,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+598,99,Not applicable,0.0027834544674816015
+599,99,Undetermined,0.2055669089349632
+600,100,$\it{Other}$,0.5486802709837671
+601,100,Cannot be determined,0.24959141513799885
+602,100,It is difficult to determine the exact nationality,0.08879721844384718
+603,100,It is impossible to determine the nationality of the legends without more information,0.022130551777180513
+604,100,Not applicable,0.0
+605,100,Undetermined,0.09080054365720637
+606,101,$\it{Other}$,0.7
+607,101,Cannot be determined,0.16666666666666666
+608,101,It is difficult to determine the exact nationality,0.0
+609,101,It is impossible to determine the nationality of the legends without more information,0.0
+610,101,Not applicable,0.0
+611,101,Undetermined,0.13333333333333333
+612,102,$\it{Other}$,0.5333333333333333
+613,102,Cannot be determined,0.25239164792935315
+614,102,It is difficult to determine the exact nationality,0.13618833708079603
+615,102,It is impossible to determine the nationality of the legends without more information,0.03618833708079603
+616,102,Not applicable,0.0
+617,102,Undetermined,0.04189834457572143
+618,103,$\it{Other}$,0.6333333333333333
+619,103,Cannot be determined,0.13333333333333333
+620,103,It is difficult to determine the exact nationality,0.1
+621,103,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+622,103,Not applicable,0.0
+623,103,Undetermined,0.1
+624,104,$\it{Other}$,0.6125409362672098
+625,104,Cannot be determined,0.15357220613968403
+626,104,It is difficult to determine the exact nationality,0.11928222012024554
+627,104,It is impossible to determine the nationality of the legends without more information,0.025036177463254154
+628,104,Not applicable,0.0
+629,104,Undetermined,0.08956846000960636
+630,105,$\it{Other}$,0.6
+631,105,Cannot be determined,0.13333333333333333
+632,105,It is difficult to determine the exact nationality,0.23333333333333334
+633,105,It is impossible to determine the nationality of the legends without more information,0.0
+634,105,Not applicable,0.0
+635,105,Undetermined,0.03333333333333333
+636,106,$\it{Other}$,0.5766594942379606
+637,106,Cannot be determined,0.22252123468376533
+638,106,It is difficult to determine the exact nationality,0.15350446759045297
+639,106,It is impossible to determine the nationality of the legends without more information,0.0
+640,106,Not applicable,0.0023602050481823216
+641,106,Undetermined,0.044954598439638775
+642,107,$\it{Other}$,0.8
+643,107,Cannot be determined,0.0
+644,107,It is difficult to determine the exact nationality,0.13333333333333333
+645,107,It is impossible to determine the nationality of the legends without more information,0.0
+646,107,Not applicable,0.03333333333333333
+647,107,Undetermined,0.03333333333333333
+648,108,$\it{Other}$,0.765587287130117
+649,108,Cannot be determined,0.03279364356505851
+650,108,It is difficult to determine the exact nationality,0.15681483168153013
+651,108,It is impossible to determine the nationality of the legends without more information,0.0
+652,108,Not applicable,0.0
+653,108,Undetermined,0.04480423762329432
+654,109,$\it{Other}$,0.6333333333333333
+655,109,Cannot be determined,0.0
+656,109,It is difficult to determine the exact nationality,0.36666666666666664
+657,109,It is impossible to determine the nationality of the legends without more information,0.0
+658,109,Not applicable,0.0
+659,109,Undetermined,0.0
+660,110,$\it{Other}$,0.5333333333333333
+661,110,Cannot be determined,0.0
+662,110,It is difficult to determine the exact nationality,0.36666666666666664
+663,110,It is impossible to determine the nationality of the legends without more information,0.0
+664,110,Not applicable,0.0
+665,110,Undetermined,0.1
+666,111,$\it{Other}$,0.6666666666666666
+667,111,Cannot be determined,0.0
+668,111,It is difficult to determine the exact nationality,0.3333333333333333
+669,111,It is impossible to determine the nationality of the legends without more information,0.0
+670,111,Not applicable,0.0
+671,111,Undetermined,0.0
+672,112,$\it{Other}$,0.7106213747723291
+673,112,Cannot be determined,0.028877543628498776
+674,112,It is difficult to determine the exact nationality,0.24670822632439773
+675,112,It is impossible to determine the nationality of the legends without more information,0.0
+676,112,Not applicable,0.0
+677,112,Undetermined,0.01379285527477434
+678,113,$\it{Other}$,0.03333333333333333
+679,113,Cannot be determined,0.03333333333333333
+680,113,It is difficult to determine the exact nationality,0.9
+681,113,It is impossible to determine the nationality of the legends without more information,0.0
+682,113,Not applicable,0.0
+683,113,Undetermined,0.03333333333333333
+684,114,$\it{Other}$,0.23333333333333334
+685,114,Cannot be determined,0.03333333333333333
+686,114,It is difficult to determine the exact nationality,0.6666666666666666
+687,114,It is impossible to determine the nationality of the legends without more information,0.0
+688,114,Not applicable,0.0
+689,114,Undetermined,0.06666666666666667
+690,115,$\it{Other}$,0.2747959409630728
+691,115,Cannot be determined,0.0064178481287417
+692,115,It is difficult to determine the exact nationality,0.6852389493038941
+693,115,It is impossible to determine the nationality of the legends without more information,0.0
+694,115,Not applicable,0.0
+695,115,Undetermined,0.03354726160429139
+696,116,$\it{Other}$,0.1
+697,116,Cannot be determined,0.03333333333333333
+698,116,It is difficult to determine the exact nationality,0.8
+699,116,It is impossible to determine the nationality of the legends without more information,0.0
+700,116,Not applicable,0.0
+701,116,Undetermined,0.06666666666666667
+702,117,$\it{Other}$,0.0962676015777342
+703,117,Cannot be determined,0.0
+704,117,It is difficult to determine the exact nationality,0.8925352031554684
+705,117,It is impossible to determine the nationality of the legends without more information,0.0
+706,117,Not applicable,0.0
+707,117,Undetermined,0.011197195266797398
+708,118,$\it{Other}$,0.13257953659160832
+709,118,Cannot be determined,0.00799369376208243
+710,118,It is difficult to determine the exact nationality,0.8594267696463093
+711,118,It is impossible to determine the nationality of the legends without more information,0.0
+712,118,Not applicable,0.0
+713,118,Undetermined,0.0
+714,119,$\it{Other}$,0.1654297292152418
+715,119,Cannot be determined,0.0
+716,119,It is difficult to determine the exact nationality,0.8039967216525115
+717,119,It is impossible to determine the nationality of the legends without more information,0.011421350622462004
+718,119,Not applicable,0.0
+719,119,Undetermined,0.01915219850978485
+720,120,$\it{Other}$,0.23862061698884768
+721,120,Cannot be determined,0.0020689787293004234
+722,120,It is difficult to determine the exact nationality,0.7593104042818519
+723,120,It is impossible to determine the nationality of the legends without more information,0.0
+724,120,Not applicable,0.0
+725,120,Undetermined,0.0
+726,121,$\it{Other}$,0.23333333333333334
+727,121,Cannot be determined,0.0
+728,121,It is difficult to determine the exact nationality,0.7333333333333333
+729,121,It is impossible to determine the nationality of the legends without more information,0.0
+730,121,Not applicable,0.0
+731,121,Undetermined,0.03333333333333333
+732,122,$\it{Other}$,0.034482758620689655
+733,122,Cannot be determined,0.034482758620689655
+734,122,It is difficult to determine the exact nationality,0.9310344827586207
+735,122,It is impossible to determine the nationality of the legends without more information,0.0
+736,122,Not applicable,0.0
+737,122,Undetermined,0.0
+738,123,$\it{Other}$,0.16373068059270332
+739,123,Cannot be determined,0.038341919736576316
+740,123,It is difficult to determine the exact nationality,0.7979273996707205
+741,123,It is impossible to determine the nationality of the legends without more information,0.0
+742,123,Not applicable,0.0
+743,123,Undetermined,0.0
+744,124,$\it{Other}$,0.16666666666666666
+745,124,Cannot be determined,0.0
+746,124,It is difficult to determine the exact nationality,0.8
+747,124,It is impossible to determine the nationality of the legends without more information,0.03333333333333333
+748,124,Not applicable,0.0
+749,124,Undetermined,0.0
+750,125,$\it{Other}$,0.19253853233832963
+751,125,Cannot be determined,0.008623955223887656
+752,125,It is difficult to determine the exact nationality,0.7643416915422321
+753,125,It is impossible to determine the nationality of the legends without more information,0.0
+754,125,Not applicable,0.008623955223887656
+755,125,Undetermined,0.02587186567166297
+756,126,$\it{Other}$,0.13793103448275862
+757,126,Cannot be determined,0.0
+758,126,It is difficult to determine the exact nationality,0.8275862068965517
+759,126,It is impossible to determine the nationality of the legends without more information,0.0
+760,126,Not applicable,0.0
+761,126,Undetermined,0.034482758620689655
+762,127,$\it{Other}$,0.15124247716207265
+763,127,Cannot be determined,0.01708082572069088
+764,127,It is difficult to determine the exact nationality,0.8316766971172365
+765,127,It is impossible to determine the nationality of the legends without more information,0.0
+766,127,Not applicable,0.0
+767,127,Undetermined,0.0
+768,128,$\it{Other}$,0.1588827354612396
+769,128,Cannot be determined,0.0200417327339536
+770,128,It is difficult to determine the exact nationality,0.7832500569687391
+771,128,It is impossible to determine the nationality of the legends without more information,0.009073900595233485
+772,128,Not applicable,0.0
+773,128,Undetermined,0.028751574240834188
+774,129,$\it{Other}$,0.07142857142857142
+775,129,Cannot be determined,0.0
+776,129,It is difficult to determine the exact nationality,0.8571428571428571
+777,129,It is impossible to determine the nationality of the legends without more information,0.0
+778,129,Not applicable,0.0
+779,129,Undetermined,0.07142857142857142
+780,130,$\it{Other}$,0.1078890910827755
+781,130,Cannot be determined,0.0
+782,130,It is difficult to determine the exact nationality,0.856570984014831
+783,130,It is impossible to determine the nationality of the legends without more information,0.0
+784,130,Not applicable,0.0
+785,130,Undetermined,0.03553992490239347
+786,131,$\it{Other}$,0.019849350791109357
+787,131,Cannot be determined,0.0
+788,131,It is difficult to determine the exact nationality,0.8924449619052877
+789,131,It is impossible to determine the nationality of the legends without more information,0.0
+790,131,Not applicable,0.0
+791,131,Undetermined,0.08770568730360291
+792,132,$\it{Other}$,0.037037725709580936
+793,132,Cannot be determined,0.0
+794,132,It is difficult to determine the exact nationality,0.9259245485808381
+795,132,It is impossible to determine the nationality of the legends without more information,0.0
+796,132,Not applicable,0.0
+797,132,Undetermined,0.037037725709580936
+798,133,$\it{Other}$,0.14814814814814814
+799,133,Cannot be determined,0.0
+800,133,It is difficult to determine the exact nationality,0.7777777777777778
+801,133,It is impossible to determine the nationality of the legends without more information,0.0
+802,133,Not applicable,0.0
+803,133,Undetermined,0.07407407407407407
+804,134,$\it{Other}$,0.012003860981570458
+805,134,Cannot be determined,0.00967517851284209
+806,134,It is difficult to determine the exact nationality,0.8002730946104252
+807,134,It is impossible to determine the nationality of the legends without more information,0.0
+808,134,Not applicable,0.0
+809,134,Undetermined,0.17804786589516225
+810,135,$\it{Other}$,0.016321134812171078
+811,135,Cannot be determined,0.0026967776211760325
+812,135,It is difficult to determine the exact nationality,0.8146265317412114
+813,135,It is impossible to determine the nationality of the legends without more information,0.0
+814,135,Not applicable,0.004080335700324594
+815,135,Undetermined,0.1622752201251169
+816,136,$\it{Other}$,0.08695652173913043
+817,136,Cannot be determined,0.0
+818,136,It is difficult to determine the exact nationality,0.782608695652174
+819,136,It is impossible to determine the nationality of the legends without more information,0.0
+820,136,Not applicable,0.0
+821,136,Undetermined,0.13043478260869565
+822,137,$\it{Other}$,0.05555555555555555
+823,137,Cannot be determined,0.0
+824,137,It is difficult to determine the exact nationality,0.8333333333333334
+825,137,It is impossible to determine the nationality of the legends without more information,0.0
+826,137,Not applicable,0.0
+827,137,Undetermined,0.1111111111111111
+828,138,$\it{Other}$,0.0390669769239834
+829,138,Cannot be determined,0.0
+830,138,It is difficult to determine the exact nationality,0.8973760255252583
+831,138,It is impossible to determine the nationality of the legends without more information,0.0
+832,138,Not applicable,0.0
+833,138,Undetermined,0.06355699755075819
+834,139,$\it{Other}$,0.07541085988036489
+835,139,Cannot be determined,0.005730883365487374
+836,139,It is difficult to determine the exact nationality,0.8434003578649822
+837,139,It is impossible to determine the nationality of the legends without more information,0.0
+838,139,Not applicable,0.0
+839,139,Undetermined,0.07545789888916549
+840,140,$\it{Other}$,0.11324380535877956
+841,140,Cannot be determined,0.0
+842,140,It is difficult to determine the exact nationality,0.8065350760460264
+843,140,It is impossible to determine the nationality of the legends without more information,0.0
+844,140,Not applicable,0.0
+845,140,Undetermined,0.08022111859519411
+846,141,$\it{Other}$,0.0
+847,141,Cannot be determined,0.0
+848,141,It is difficult to determine the exact nationality,1.0
+849,141,It is impossible to determine the nationality of the legends without more information,0.0
+850,141,Not applicable,0.0
+851,141,Undetermined,0.0

@@ -1,0 +1,547 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.3197812750003543
+1,0,Adelaide Festival Centre,0.11525167640104371
+2,0,"Adelaide Festival Centre, Adelaide, Australia",0.005964375381257662
+3,0,Adelaide Town Hall,0.4606964650779394
+4,0,"Adelaide Town Hall, Adelaide, Australia",0.056920343552496706
+5,0,"Adelaide Town Hall, Adelaide, South Australia",0.04138586458690828
+6,1,$\it{Other}$,0.2093185472415012
+7,1,Adelaide Festival Centre,0.07132594028741726
+8,1,"Adelaide Festival Centre, Adelaide, Australia",0.0
+9,1,Adelaide Town Hall,0.6550184826147902
+10,1,"Adelaide Town Hall, Adelaide, Australia",0.06433702985629138
+11,1,"Adelaide Town Hall, Adelaide, South Australia",0.0
+12,2,$\it{Other}$,0.18131110440300893
+13,2,Adelaide Festival Centre,0.1926777811318289
+14,2,"Adelaide Festival Centre, Adelaide, Australia",0.0
+15,2,Adelaide Town Hall,0.5227333534576399
+16,2,"Adelaide Town Hall, Adelaide, Australia",0.014644437736342266
+17,2,"Adelaide Town Hall, Adelaide, South Australia",0.08863332327118006
+18,3,$\it{Other}$,0.21282009443180236
+19,3,Adelaide Festival Centre,0.11847189857618959
+20,3,"Adelaide Festival Centre, Adelaide, Australia",0.0
+21,3,Adelaide Town Hall,0.5113036082887745
+22,3,"Adelaide Town Hall, Adelaide, Australia",0.002389430095805032
+23,3,"Adelaide Town Hall, Adelaide, South Australia",0.15501496860742858
+24,4,$\it{Other}$,0.3333333333333333
+25,4,Adelaide Festival Centre,0.03333333333333333
+26,4,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+27,4,Adelaide Town Hall,0.6
+28,4,"Adelaide Town Hall, Adelaide, Australia",0.0
+29,4,"Adelaide Town Hall, Adelaide, South Australia",0.0
+30,5,$\it{Other}$,0.31186958485026905
+31,5,Adelaide Festival Centre,0.12617875050564523
+32,5,"Adelaide Festival Centre, Adelaide, Australia",0.0026791722698550563
+33,5,Adelaide Town Hall,0.45659332010437564
+34,5,"Adelaide Town Hall, Adelaide, Australia",0.0
+35,5,"Adelaide Town Hall, Adelaide, South Australia",0.10267917226985505
+36,6,$\it{Other}$,0.2568594242087697
+37,6,Adelaide Festival Centre,0.16143864647212522
+38,6,"Adelaide Festival Centre, Adelaide, Australia",0.002614010097270714
+39,6,Adelaide Town Hall,0.5150352626524384
+40,6,"Adelaide Town Hall, Adelaide, Australia",0.0
+41,6,"Adelaide Town Hall, Adelaide, South Australia",0.06405265656939596
+42,7,$\it{Other}$,0.3824419184099946
+43,7,Adelaide Festival Centre,0.13107972594142933
+44,7,"Adelaide Festival Centre, Adelaide, Australia",0.0022536073919039896
+45,7,Adelaide Town Hall,0.41755808159000546
+46,7,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+47,7,"Adelaide Town Hall, Adelaide, South Australia",0.03333333333333333
+48,8,$\it{Other}$,0.20429519040144883
+49,8,Adelaide Festival Centre,0.08118573813260892
+50,8,"Adelaide Festival Centre, Adelaide, Australia",0.0
+51,8,Adelaide Town Hall,0.5290381429318844
+52,8,"Adelaide Town Hall, Adelaide, Australia",0.01709618570681155
+53,8,"Adelaide Town Hall, Adelaide, South Australia",0.16838474282724622
+54,9,$\it{Other}$,0.13333333333333333
+55,9,Adelaide Festival Centre,0.06666666666666667
+56,9,"Adelaide Festival Centre, Adelaide, Australia",0.0
+57,9,Adelaide Town Hall,0.7
+58,9,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+59,9,"Adelaide Town Hall, Adelaide, South Australia",0.06666666666666667
+60,10,$\it{Other}$,0.16666666666666666
+61,10,Adelaide Festival Centre,0.1
+62,10,"Adelaide Festival Centre, Adelaide, Australia",0.0
+63,10,Adelaide Town Hall,0.6666666666666666
+64,10,"Adelaide Town Hall, Adelaide, Australia",0.0
+65,10,"Adelaide Town Hall, Adelaide, South Australia",0.06666666666666667
+66,11,$\it{Other}$,0.26666666666666666
+67,11,Adelaide Festival Centre,0.1
+68,11,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+69,11,Adelaide Town Hall,0.43333333333333335
+70,11,"Adelaide Town Hall, Adelaide, Australia",0.06666666666666667
+71,11,"Adelaide Town Hall, Adelaide, South Australia",0.1
+72,12,$\it{Other}$,0.1401079477512276
+73,12,Adelaide Festival Centre,0.15650474503982528
+74,12,"Adelaide Festival Centre, Adelaide, Australia",0.0
+75,12,Adelaide Town Hall,0.6333333333333333
+76,12,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+77,12,"Adelaide Town Hall, Adelaide, South Australia",0.03672064054228046
+78,13,$\it{Other}$,0.13387678796160873
+79,13,Adelaide Festival Centre,0.1170742576378732
+80,13,"Adelaide Festival Centre, Adelaide, Australia",0.0
+81,13,Adelaide Town Hall,0.5823822877338514
+82,13,"Adelaide Town Hall, Adelaide, Australia",0.03360506064747103
+83,13,"Adelaide Town Hall, Adelaide, South Australia",0.13306160601919564
+84,14,$\it{Other}$,0.19780388179068134
+85,14,Adelaide Festival Centre,0.10658835462795609
+86,14,"Adelaide Festival Centre, Adelaide, Australia",0.002196118209318691
+87,14,Adelaide Town Hall,0.6245488604960585
+88,14,"Adelaide Town Hall, Adelaide, Australia",0.0
+89,14,"Adelaide Town Hall, Adelaide, South Australia",0.06886278487598535
+90,15,$\it{Other}$,0.2390235495475742
+91,15,Adelaide Festival Centre,0.08576849055479191
+92,15,"Adelaide Festival Centre, Adelaide, Australia",0.028862797442038547
+93,15,Adelaide Town Hall,0.5890295184571801
+94,15,"Adelaide Town Hall, Adelaide, Australia",0.03455301365627942
+95,15,"Adelaide Town Hall, Adelaide, South Australia",0.022762630342135805
+96,16,$\it{Other}$,0.2552845342682289
+97,16,Adelaide Festival Centre,0.1304878002337239
+98,16,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+99,16,Adelaide Town Hall,0.5390243995325522
+100,16,"Adelaide Town Hall, Adelaide, Australia",0.0028455330996094426
+101,16,"Adelaide Town Hall, Adelaide, South Australia",0.03902439953255222
+102,17,$\it{Other}$,0.24964585909814935
+103,17,Adelaide Festival Centre,0.07007909165510497
+104,17,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+105,17,Adelaide Town Hall,0.5593252884050279
+106,17,"Adelaide Town Hall, Adelaide, Australia",0.06996752252341769
+107,17,"Adelaide Town Hall, Adelaide, South Australia",0.017648904984966792
+108,18,$\it{Other}$,0.2
+109,18,Adelaide Festival Centre,0.06666666666666667
+110,18,"Adelaide Festival Centre, Adelaide, Australia",0.0
+111,18,Adelaide Town Hall,0.6666666666666666
+112,18,"Adelaide Town Hall, Adelaide, Australia",0.0
+113,18,"Adelaide Town Hall, Adelaide, South Australia",0.06666666666666667
+114,19,$\it{Other}$,0.1787500268841758
+115,19,Adelaide Festival Centre,0.16162956137661744
+116,19,"Adelaide Festival Centre, Adelaide, Australia",0.023231540773101748
+117,19,Adelaide Town Hall,0.5899257894199015
+118,19,"Adelaide Town Hall, Adelaide, Australia",0.023231540773101748
+119,19,"Adelaide Town Hall, Adelaide, South Australia",0.023231540773101748
+120,20,$\it{Other}$,0.23333333333333334
+121,20,Adelaide Festival Centre,0.13333333333333333
+122,20,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+123,20,Adelaide Town Hall,0.5
+124,20,"Adelaide Town Hall, Adelaide, Australia",0.0
+125,20,"Adelaide Town Hall, Adelaide, South Australia",0.1
+126,21,$\it{Other}$,0.16666666666666666
+127,21,Adelaide Festival Centre,0.16666666666666666
+128,21,"Adelaide Festival Centre, Adelaide, Australia",0.0
+129,21,Adelaide Town Hall,0.6333333333333333
+130,21,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+131,21,"Adelaide Town Hall, Adelaide, South Australia",0.0
+132,22,$\it{Other}$,0.1
+133,22,Adelaide Festival Centre,0.11556058464633262
+134,22,"Adelaide Festival Centre, Adelaide, Australia",0.016297972659888655
+135,22,Adelaide Town Hall,0.7022121640406681
+136,22,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+137,22,"Adelaide Town Hall, Adelaide, South Australia",0.03259594531977731
+138,23,$\it{Other}$,0.26666666666666666
+139,23,Adelaide Festival Centre,0.13333333333333333
+140,23,"Adelaide Festival Centre, Adelaide, Australia",0.0
+141,23,Adelaide Town Hall,0.5333333333333333
+142,23,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+143,23,"Adelaide Town Hall, Adelaide, South Australia",0.03333333333333333
+144,24,$\it{Other}$,0.21249077884169099
+145,24,Adelaide Festival Centre,0.22084255449164236
+146,24,"Adelaide Festival Centre, Adelaide, Australia",0.0
+147,24,Adelaide Town Hall,0.4408278006383479
+148,24,"Adelaide Town Hall, Adelaide, Australia",0.09250553269498542
+149,24,"Adelaide Town Hall, Adelaide, South Australia",0.03333333333333333
+150,25,$\it{Other}$,0.2
+151,25,Adelaide Festival Centre,0.06666666666666667
+152,25,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+153,25,Adelaide Town Hall,0.6
+154,25,"Adelaide Town Hall, Adelaide, Australia",0.03333333333333333
+155,25,"Adelaide Town Hall, Adelaide, South Australia",0.06666666666666667
+156,26,$\it{Other}$,0.20000000000000004
+157,26,Adelaide Festival Centre,0.16666666666666666
+158,26,"Adelaide Festival Centre, Adelaide, Australia",0.0032122476295032964
+159,26,Adelaide Town Hall,0.4763034095551766
+160,26,"Adelaide Town Hall, Adelaide, Australia",0.09357550474099342
+161,26,"Adelaide Town Hall, Adelaide, South Australia",0.060242171407660076
+162,27,$\it{Other}$,0.13333333333333333
+163,27,Adelaide Festival Centre,0.13333333333333333
+164,27,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+165,27,Adelaide Town Hall,0.5333333333333333
+166,27,"Adelaide Town Hall, Adelaide, Australia",0.06666666666666667
+167,27,"Adelaide Town Hall, Adelaide, South Australia",0.1
+168,28,$\it{Other}$,0.21697477769816362
+169,28,Adelaide Festival Centre,0.09003352304035972
+170,28,"Adelaide Festival Centre, Adelaide, Australia",0.019312341422325224
+171,28,Adelaide Town Hall,0.6456373740171352
+172,28,"Adelaide Town Hall, Adelaide, Australia",0.0
+173,28,"Adelaide Town Hall, Adelaide, South Australia",0.02804198382201622
+174,29,$\it{Other}$,0.2632229564380991
+175,29,Adelaide Festival Centre,0.03505518844761708
+176,29,"Adelaide Festival Centre, Adelaide, Australia",0.031611478219049575
+177,29,Adelaide Town Hall,0.606887420457135
+178,29,"Adelaide Town Hall, Adelaide, Australia",0.06322295643809915
+179,29,"Adelaide Town Hall, Adelaide, South Australia",0.0
+180,30,$\it{Other}$,0.13588769501136566
+181,30,Adelaide Festival Centre,0.11435507800454627
+182,30,"Adelaide Festival Centre, Adelaide, Australia",0.02639097963273959
+183,30,Adelaide Town Hall,0.6902680993196946
+184,30,"Adelaide Town Hall, Adelaide, Australia",0.033098148031653944
+185,30,"Adelaide Town Hall, Adelaide, South Australia",0.0
+186,31,$\it{Other}$,0.26666666666666666
+187,31,Adelaide Festival Centre,0.13333333333333333
+188,31,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+189,31,Adelaide Town Hall,0.4
+190,31,"Adelaide Town Hall, Adelaide, Australia",0.16666666666666666
+191,31,"Adelaide Town Hall, Adelaide, South Australia",0.0
+192,32,$\it{Other}$,0.1
+193,32,Adelaide Festival Centre,0.13333333333333333
+194,32,"Adelaide Festival Centre, Adelaide, Australia",0.0
+195,32,Adelaide Town Hall,0.7666666666666667
+196,32,"Adelaide Town Hall, Adelaide, Australia",0.0
+197,32,"Adelaide Town Hall, Adelaide, South Australia",0.0
+198,33,$\it{Other}$,0.21158167240942077
+199,33,Adelaide Festival Centre,0.12655334099033883
+200,33,"Adelaide Festival Centre, Adelaide, Australia",0.0
+201,33,Adelaide Town Hall,0.5700566628381639
+202,33,"Adelaide Town Hall, Adelaide, Australia",0.0918083237620765
+203,33,"Adelaide Town Hall, Adelaide, South Australia",0.0
+204,34,$\it{Other}$,0.3
+205,34,Adelaide Festival Centre,0.16666666666666666
+206,34,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+207,34,Adelaide Town Hall,0.36666666666666664
+208,34,"Adelaide Town Hall, Adelaide, Australia",0.13333333333333333
+209,34,"Adelaide Town Hall, Adelaide, South Australia",0.0
+210,35,$\it{Other}$,0.26666666666666666
+211,35,Adelaide Festival Centre,0.06666666666666667
+212,35,"Adelaide Festival Centre, Adelaide, Australia",0.0
+213,35,Adelaide Town Hall,0.5666666666666667
+214,35,"Adelaide Town Hall, Adelaide, Australia",0.1
+215,35,"Adelaide Town Hall, Adelaide, South Australia",0.0
+216,36,$\it{Other}$,0.2
+217,36,Adelaide Festival Centre,0.1266653121501921
+218,36,"Adelaide Festival Centre, Adelaide, Australia",0.004445347455427478
+219,36,Adelaide Town Hall,0.5088906949108549
+220,36,"Adelaide Town Hall, Adelaide, Australia",0.15999864548352546
+221,36,"Adelaide Town Hall, Adelaide, South Australia",0.0
+222,37,$\it{Other}$,0.20809569424724747
+223,37,Adelaide Festival Centre,0.054952472182782826
+224,37,"Adelaide Festival Centre, Adelaide, Australia",0.06485741654834848
+225,37,Adelaide Town Hall,0.5720944170216212
+226,37,"Adelaide Town Hall, Adelaide, Australia",0.1
+227,37,"Adelaide Town Hall, Adelaide, South Australia",0.0
+228,38,$\it{Other}$,0.16035439603349863
+229,38,Adelaide Festival Centre,0.041164747026980926
+230,38,"Adelaide Festival Centre, Adelaide, Australia",0.04490996697679729
+231,38,Adelaide Town Hall,0.46154117557048185
+232,38,"Adelaide Town Hall, Adelaide, Australia",0.2857174437590732
+233,38,"Adelaide Town Hall, Adelaide, South Australia",0.0063122706331680154
+234,39,$\it{Other}$,0.23710132545450058
+235,39,Adelaide Festival Centre,0.09348295525391692
+236,39,"Adelaide Festival Centre, Adelaide, Australia",0.012104894871166364
+237,39,Adelaide Town Hall,0.41244121606833106
+238,39,"Adelaide Town Hall, Adelaide, Australia",0.24486960835208502
+239,39,"Adelaide Town Hall, Adelaide, South Australia",0.0
+240,40,$\it{Other}$,0.2
+241,40,Adelaide Festival Centre,0.03333333333333333
+242,40,"Adelaide Festival Centre, Adelaide, Australia",0.13333333333333333
+243,40,Adelaide Town Hall,0.5
+244,40,"Adelaide Town Hall, Adelaide, Australia",0.13333333333333333
+245,40,"Adelaide Town Hall, Adelaide, South Australia",0.0
+246,41,$\it{Other}$,0.20182095412854772
+247,41,Adelaide Festival Centre,0.06940415613303452
+248,41,"Adelaide Festival Centre, Adelaide, Australia",0.06554284216782091
+249,41,Adelaide Town Hall,0.45186751138307424
+250,41,"Adelaide Town Hall, Adelaide, Australia",0.20455844359491557
+251,41,"Adelaide Town Hall, Adelaide, South Australia",0.0068060925926070595
+252,42,$\it{Other}$,0.2
+253,42,Adelaide Festival Centre,0.1
+254,42,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+255,42,Adelaide Town Hall,0.36666666666666664
+256,42,"Adelaide Town Hall, Adelaide, Australia",0.3
+257,42,"Adelaide Town Hall, Adelaide, South Australia",0.0
+258,43,$\it{Other}$,0.2
+259,43,Adelaide Festival Centre,0.03333333333333333
+260,43,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+261,43,Adelaide Town Hall,0.4
+262,43,"Adelaide Town Hall, Adelaide, Australia",0.3333333333333333
+263,43,"Adelaide Town Hall, Adelaide, South Australia",0.0
+264,44,$\it{Other}$,0.1
+265,44,Adelaide Festival Centre,0.1
+266,44,"Adelaide Festival Centre, Adelaide, Australia",0.1
+267,44,Adelaide Town Hall,0.43333333333333335
+268,44,"Adelaide Town Hall, Adelaide, Australia",0.26666666666666666
+269,44,"Adelaide Town Hall, Adelaide, South Australia",0.0
+270,45,$\it{Other}$,0.13333333333333333
+271,45,Adelaide Festival Centre,0.06666666666666667
+272,45,"Adelaide Festival Centre, Adelaide, Australia",0.06666666666666667
+273,45,Adelaide Town Hall,0.43333333333333335
+274,45,"Adelaide Town Hall, Adelaide, Australia",0.3
+275,45,"Adelaide Town Hall, Adelaide, South Australia",0.0
+276,46,$\it{Other}$,0.1537901123178151
+277,46,Adelaide Festival Centre,0.08274179624020513
+278,46,"Adelaide Festival Centre, Adelaide, Australia",0.05719336432631193
+279,46,Adelaide Town Hall,0.45532963973835616
+280,46,"Adelaide Town Hall, Adelaide, Australia",0.25094508737731175
+281,46,"Adelaide Town Hall, Adelaide, South Australia",0.0
+282,47,$\it{Other}$,0.1
+283,47,Adelaide Festival Centre,0.06212465645776998
+284,47,"Adelaide Festival Centre, Adelaide, Australia",0.0575826462488733
+285,47,Adelaide Town Hall,0.36058539458671346
+286,47,"Adelaide Town Hall, Adelaide, Australia",0.4197073027066433
+287,47,"Adelaide Town Hall, Adelaide, South Australia",0.0
+288,48,$\it{Other}$,0.11950306209773214
+289,48,Adelaide Festival Centre,0.05999231330596726
+290,48,"Adelaide Festival Centre, Adelaide, Australia",0.027178977957000007
+291,48,Adelaide Town Hall,0.42717897795700005
+292,48,"Adelaide Town Hall, Adelaide, Australia",0.3661466686823006
+293,48,"Adelaide Town Hall, Adelaide, South Australia",0.0
+294,49,$\it{Other}$,0.23333333333333334
+295,49,Adelaide Festival Centre,0.06666666666666667
+296,49,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+297,49,Adelaide Town Hall,0.4
+298,49,"Adelaide Town Hall, Adelaide, Australia",0.26666666666666666
+299,49,"Adelaide Town Hall, Adelaide, South Australia",0.0
+300,50,$\it{Other}$,0.1820311698822805
+301,50,Adelaide Festival Centre,0.03635450159500561
+302,50,"Adelaide Festival Centre, Adelaide, Australia",0.09305059026282742
+303,50,Adelaide Town Hall,0.3958980616412426
+304,50,"Adelaide Town Hall, Adelaide, Australia",0.2898921984936539
+305,50,"Adelaide Town Hall, Adelaide, South Australia",0.0027734781249899795
+306,51,$\it{Other}$,0.16666666666666666
+307,51,Adelaide Festival Centre,0.0
+308,51,"Adelaide Festival Centre, Adelaide, Australia",0.16666666666666666
+309,51,Adelaide Town Hall,0.36666666666666664
+310,51,"Adelaide Town Hall, Adelaide, Australia",0.3
+311,51,"Adelaide Town Hall, Adelaide, South Australia",0.0
+312,52,$\it{Other}$,0.13333333333333333
+313,52,Adelaide Festival Centre,0.03333333333333333
+314,52,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+315,52,Adelaide Town Hall,0.3333333333333333
+316,52,"Adelaide Town Hall, Adelaide, Australia",0.4666666666666667
+317,52,"Adelaide Town Hall, Adelaide, South Australia",0.0
+318,53,$\it{Other}$,0.043194475285264974
+319,53,Adelaide Festival Centre,0.06666666666666667
+320,53,"Adelaide Festival Centre, Adelaide, Australia",0.03662038065064388
+321,53,Adelaide Town Hall,0.4
+322,53,"Adelaide Town Hall, Adelaide, Australia",0.45351847739742446
+323,53,"Adelaide Town Hall, Adelaide, South Australia",0.0
+324,54,$\it{Other}$,0.16666666666666666
+325,54,Adelaide Festival Centre,0.06666666666666667
+326,54,"Adelaide Festival Centre, Adelaide, Australia",0.03333333333333333
+327,54,Adelaide Town Hall,0.26666666666666666
+328,54,"Adelaide Town Hall, Adelaide, Australia",0.4666666666666667
+329,54,"Adelaide Town Hall, Adelaide, South Australia",0.0
+330,55,$\it{Other}$,0.12642899283755574
+331,55,Adelaide Festival Centre,0.00950562169355942
+332,55,"Adelaide Festival Centre, Adelaide, Australia",0.09475042115704654
+333,55,Adelaide Town Hall,0.38025757211519734
+334,55,"Adelaide Town Hall, Adelaide, Australia",0.38905739219664104
+335,55,"Adelaide Town Hall, Adelaide, South Australia",0.0
+336,56,$\it{Other}$,0.06896551724137931
+337,56,Adelaide Festival Centre,0.034482758620689655
+338,56,"Adelaide Festival Centre, Adelaide, Australia",0.034482758620689655
+339,56,Adelaide Town Hall,0.27586206896551724
+340,56,"Adelaide Town Hall, Adelaide, Australia",0.5862068965517241
+341,56,"Adelaide Town Hall, Adelaide, South Australia",0.0
+342,57,$\it{Other}$,0.1
+343,57,Adelaide Festival Centre,0.0
+344,57,"Adelaide Festival Centre, Adelaide, Australia",0.1
+345,57,Adelaide Town Hall,0.36666666666666664
+346,57,"Adelaide Town Hall, Adelaide, Australia",0.43333333333333335
+347,57,"Adelaide Town Hall, Adelaide, South Australia",0.0
+348,58,$\it{Other}$,0.12112445656781279
+349,58,Adelaide Festival Centre,0.01689956525425023
+350,58,"Adelaide Festival Centre, Adelaide, Australia",0.07604804364412603
+351,58,Adelaide Town Hall,0.3201928622174785
+352,58,"Adelaide Town Hall, Adelaide, Australia",0.4657350723163324
+353,58,"Adelaide Town Hall, Adelaide, South Australia",0.0
+354,59,$\it{Other}$,0.1724137931034483
+355,59,Adelaide Festival Centre,0.0
+356,59,"Adelaide Festival Centre, Adelaide, Australia",0.0
+357,59,Adelaide Town Hall,0.3448275862068966
+358,59,"Adelaide Town Hall, Adelaide, Australia",0.4827586206896552
+359,59,"Adelaide Town Hall, Adelaide, South Australia",0.0
+360,60,$\it{Other}$,0.11861038629195927
+361,60,Adelaide Festival Centre,0.0
+362,60,"Adelaide Festival Centre, Adelaide, Australia",0.0
+363,60,Adelaide Town Hall,0.4750464632967406
+364,60,"Adelaide Town Hall, Adelaide, Australia",0.4063431504113001
+365,60,"Adelaide Town Hall, Adelaide, South Australia",0.0
+366,61,$\it{Other}$,0.015376087293791156
+367,61,Adelaide Festival Centre,0.0
+368,61,"Adelaide Festival Centre, Adelaide, Australia",0.0
+369,61,Adelaide Town Hall,0.3936642416806728
+370,61,"Adelaide Town Hall, Adelaide, Australia",0.590959671025536
+371,61,"Adelaide Town Hall, Adelaide, South Australia",0.0
+372,62,$\it{Other}$,0.12717014447373648
+373,62,Adelaide Festival Centre,0.0
+374,62,"Adelaide Festival Centre, Adelaide, Australia",0.0
+375,62,Adelaide Town Hall,0.30526122231229147
+376,62,"Adelaide Town Hall, Adelaide, Australia",0.5592107262231027
+377,62,"Adelaide Town Hall, Adelaide, South Australia",0.008357906990869399
+378,63,$\it{Other}$,0.0
+379,63,Adelaide Festival Centre,0.0
+380,63,"Adelaide Festival Centre, Adelaide, Australia",0.0
+381,63,Adelaide Town Hall,0.41379310344827586
+382,63,"Adelaide Town Hall, Adelaide, Australia",0.5862068965517241
+383,63,"Adelaide Town Hall, Adelaide, South Australia",0.0
+384,64,$\it{Other}$,0.006957880831249896
+385,64,Adelaide Festival Centre,0.0
+386,64,"Adelaide Festival Centre, Adelaide, Australia",0.0
+387,64,Adelaide Town Hall,0.39688698053679605
+388,64,"Adelaide Town Hall, Adelaide, Australia",0.5961551386319539
+389,64,"Adelaide Town Hall, Adelaide, South Australia",0.0
+390,65,$\it{Other}$,0.032524416265875745
+391,65,Adelaide Festival Centre,0.0
+392,65,"Adelaide Festival Centre, Adelaide, Australia",0.0
+393,65,Adelaide Town Hall,0.18699023349364968
+394,65,"Adelaide Town Hall, Adelaide, Australia",0.7804853502404745
+395,65,"Adelaide Town Hall, Adelaide, South Australia",0.0
+396,66,$\it{Other}$,0.0
+397,66,Adelaide Festival Centre,0.0
+398,66,"Adelaide Festival Centre, Adelaide, Australia",0.0
+399,66,Adelaide Town Hall,0.26666666666666666
+400,66,"Adelaide Town Hall, Adelaide, Australia",0.7333333333333333
+401,66,"Adelaide Town Hall, Adelaide, South Australia",0.0
+402,67,$\it{Other}$,0.0
+403,67,Adelaide Festival Centre,0.0
+404,67,"Adelaide Festival Centre, Adelaide, Australia",0.0
+405,67,Adelaide Town Hall,0.3333333333333333
+406,67,"Adelaide Town Hall, Adelaide, Australia",0.6666666666666666
+407,67,"Adelaide Town Hall, Adelaide, South Australia",0.0
+408,68,$\it{Other}$,0.0
+409,68,Adelaide Festival Centre,0.0
+410,68,"Adelaide Festival Centre, Adelaide, Australia",0.0
+411,68,Adelaide Town Hall,0.2222222222222222
+412,68,"Adelaide Town Hall, Adelaide, Australia",0.7777777777777778
+413,68,"Adelaide Town Hall, Adelaide, South Australia",0.0
+414,69,$\it{Other}$,0.0
+415,69,Adelaide Festival Centre,0.0
+416,69,"Adelaide Festival Centre, Adelaide, Australia",0.0
+417,69,Adelaide Town Hall,0.19545098830342256
+418,69,"Adelaide Town Hall, Adelaide, Australia",0.8045490116965774
+419,69,"Adelaide Town Hall, Adelaide, South Australia",0.0
+420,70,$\it{Other}$,0.0
+421,70,Adelaide Festival Centre,0.0
+422,70,"Adelaide Festival Centre, Adelaide, Australia",0.0
+423,70,Adelaide Town Hall,0.11480889532442565
+424,70,"Adelaide Town Hall, Adelaide, Australia",0.8851911046755743
+425,70,"Adelaide Town Hall, Adelaide, South Australia",0.0
+426,71,$\it{Other}$,0.0
+427,71,Adelaide Festival Centre,0.0
+428,71,"Adelaide Festival Centre, Adelaide, Australia",0.0
+429,71,Adelaide Town Hall,0.2143101825439302
+430,71,"Adelaide Town Hall, Adelaide, Australia",0.7856898174560697
+431,71,"Adelaide Town Hall, Adelaide, South Australia",0.0
+432,72,$\it{Other}$,0.0
+433,72,Adelaide Festival Centre,0.0
+434,72,"Adelaide Festival Centre, Adelaide, Australia",0.0
+435,72,Adelaide Town Hall,0.04724135769118874
+436,72,"Adelaide Town Hall, Adelaide, Australia",0.9527586423088112
+437,72,"Adelaide Town Hall, Adelaide, South Australia",0.0
+438,73,$\it{Other}$,0.05
+439,73,Adelaide Festival Centre,0.0
+440,73,"Adelaide Festival Centre, Adelaide, Australia",0.0
+441,73,Adelaide Town Hall,0.2
+442,73,"Adelaide Town Hall, Adelaide, Australia",0.75
+443,73,"Adelaide Town Hall, Adelaide, South Australia",0.0
+444,74,$\it{Other}$,0.0
+445,74,Adelaide Festival Centre,0.0
+446,74,"Adelaide Festival Centre, Adelaide, Australia",0.0
+447,74,Adelaide Town Hall,0.21052631578947367
+448,74,"Adelaide Town Hall, Adelaide, Australia",0.7894736842105263
+449,74,"Adelaide Town Hall, Adelaide, South Australia",0.0
+450,75,$\it{Other}$,0.0
+451,75,Adelaide Festival Centre,0.0
+452,75,"Adelaide Festival Centre, Adelaide, Australia",0.0
+453,75,Adelaide Town Hall,0.2424619571352985
+454,75,"Adelaide Town Hall, Adelaide, Australia",0.7575380428647016
+455,75,"Adelaide Town Hall, Adelaide, South Australia",0.0
+456,76,$\it{Other}$,0.0
+457,76,Adelaide Festival Centre,0.0
+458,76,"Adelaide Festival Centre, Adelaide, Australia",0.0
+459,76,Adelaide Town Hall,0.2857142857142857
+460,76,"Adelaide Town Hall, Adelaide, Australia",0.6428571428571429
+461,76,"Adelaide Town Hall, Adelaide, South Australia",0.07142857142857142
+462,77,$\it{Other}$,0.0
+463,77,Adelaide Festival Centre,0.0
+464,77,"Adelaide Festival Centre, Adelaide, Australia",0.0
+465,77,Adelaide Town Hall,0.3076923076923077
+466,77,"Adelaide Town Hall, Adelaide, Australia",0.6923076923076923
+467,77,"Adelaide Town Hall, Adelaide, South Australia",0.0
+468,78,$\it{Other}$,0.0
+469,78,Adelaide Festival Centre,0.0
+470,78,"Adelaide Festival Centre, Adelaide, Australia",0.0
+471,78,Adelaide Town Hall,0.23809523809523808
+472,78,"Adelaide Town Hall, Adelaide, Australia",0.7619047619047619
+473,78,"Adelaide Town Hall, Adelaide, South Australia",0.0
+474,79,$\it{Other}$,0.0
+475,79,Adelaide Festival Centre,0.0
+476,79,"Adelaide Festival Centre, Adelaide, Australia",0.0
+477,79,Adelaide Town Hall,0.25
+478,79,"Adelaide Town Hall, Adelaide, Australia",0.75
+479,79,"Adelaide Town Hall, Adelaide, South Australia",0.0
+480,80,$\it{Other}$,0.0
+481,80,Adelaide Festival Centre,0.0
+482,80,"Adelaide Festival Centre, Adelaide, Australia",0.0
+483,80,Adelaide Town Hall,0.1281944656943039
+484,80,"Adelaide Town Hall, Adelaide, Australia",0.8718055343056961
+485,80,"Adelaide Town Hall, Adelaide, South Australia",0.0
+486,81,$\it{Other}$,0.0
+487,81,Adelaide Festival Centre,0.0
+488,81,"Adelaide Festival Centre, Adelaide, Australia",0.0
+489,81,Adelaide Town Hall,0.2621816851315965
+490,81,"Adelaide Town Hall, Adelaide, Australia",0.7378183148684037
+491,81,"Adelaide Town Hall, Adelaide, South Australia",0.0
+492,82,$\it{Other}$,0.0
+493,82,Adelaide Festival Centre,0.0
+494,82,"Adelaide Festival Centre, Adelaide, Australia",0.0
+495,82,Adelaide Town Hall,0.26290767651568564
+496,82,"Adelaide Town Hall, Adelaide, Australia",0.7370923234843143
+497,82,"Adelaide Town Hall, Adelaide, South Australia",0.0
+498,83,$\it{Other}$,0.0
+499,83,Adelaide Festival Centre,0.0
+500,83,"Adelaide Festival Centre, Adelaide, Australia",0.0
+501,83,Adelaide Town Hall,0.0
+502,83,"Adelaide Town Hall, Adelaide, Australia",1.0
+503,83,"Adelaide Town Hall, Adelaide, South Australia",0.0
+504,84,$\it{Other}$,0.0
+505,84,Adelaide Festival Centre,0.0
+506,84,"Adelaide Festival Centre, Adelaide, Australia",0.0
+507,84,Adelaide Town Hall,0.25
+508,84,"Adelaide Town Hall, Adelaide, Australia",0.625
+509,84,"Adelaide Town Hall, Adelaide, South Australia",0.125
+510,85,$\it{Other}$,0.0
+511,85,Adelaide Festival Centre,0.0
+512,85,"Adelaide Festival Centre, Adelaide, Australia",0.0
+513,85,Adelaide Town Hall,0.42857142857142855
+514,85,"Adelaide Town Hall, Adelaide, Australia",0.5714285714285714
+515,85,"Adelaide Town Hall, Adelaide, South Australia",0.0
+516,86,$\it{Other}$,0.0
+517,86,Adelaide Festival Centre,0.0
+518,86,"Adelaide Festival Centre, Adelaide, Australia",0.0
+519,86,Adelaide Town Hall,0.1150882652151004
+520,86,"Adelaide Town Hall, Adelaide, Australia",0.8849117347848996
+521,86,"Adelaide Town Hall, Adelaide, South Australia",0.0
+522,87,$\it{Other}$,0.007252888231604089
+523,87,Adelaide Festival Centre,0.0
+524,87,"Adelaide Festival Centre, Adelaide, Australia",0.0
+525,87,Adelaide Town Hall,0.014505776463208178
+526,87,"Adelaide Town Hall, Adelaide, Australia",0.9709884470735837
+527,87,"Adelaide Town Hall, Adelaide, South Australia",0.007252888231604089
+528,88,$\it{Other}$,0.0
+529,88,Adelaide Festival Centre,0.0
+530,88,"Adelaide Festival Centre, Adelaide, Australia",0.0
+531,88,Adelaide Town Hall,0.0
+532,88,"Adelaide Town Hall, Adelaide, Australia",1.0
+533,88,"Adelaide Town Hall, Adelaide, South Australia",0.0
+534,89,$\it{Other}$,0.0
+535,89,Adelaide Festival Centre,0.0
+536,89,"Adelaide Festival Centre, Adelaide, Australia",0.0
+537,89,Adelaide Town Hall,0.0
+538,89,"Adelaide Town Hall, Adelaide, Australia",1.0
+539,89,"Adelaide Town Hall, Adelaide, South Australia",0.0
+540,90,$\it{Other}$,0.0
+541,90,Adelaide Festival Centre,0.0
+542,90,"Adelaide Festival Centre, Adelaide, Australia",0.0
+543,90,Adelaide Town Hall,0.0
+544,90,"Adelaide Town Hall, Adelaide, Australia",1.0
+545,90,"Adelaide Town Hall, Adelaide, South Australia",0.0

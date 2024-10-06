@@ -1,505 +1,505 @@
 ,idx,ans,weighted
-0,0,$\it{Other}$,0.3942358076120898
-1,0,Boy George,0.305888266551696
-2,0,Boy George or George Alan O'Dowd.,0.0
-3,0,Boy George.,0.13800771601033907
-4,0,"George Alan O'Dowd, also known as Boy George.",0.11807110294937107
-5,0,George Alan O'Dowd.,0.04379710687650412
-6,1,$\it{Other}$,0.27552016179377187
-7,1,Boy George,0.4266932119880044
-8,1,Boy George or George Alan O'Dowd.,0.0
-9,1,Boy George.,0.2
-10,1,"George Alan O'Dowd, also known as Boy George.",0.06445329288489035
-11,1,George Alan O'Dowd.,0.033333333333333326
-12,2,$\it{Other}$,0.3004033211493769
-13,2,Boy George,0.40040332114937693
-14,2,Boy George or George Alan O'Dowd.,0.0
-15,2,Boy George.,0.2164650060919782
-16,2,"George Alan O'Dowd, also known as Boy George.",0.06626334551728973
-17,2,George Alan O'Dowd.,0.016465006091978193
+0,0,$\it{Other}$,0.3551494370403059
+1,0,Boy George,0.44389598256203505
+2,0,Boy George or George Alan O'Dowd,0.0
+3,0,George Alan O'Dowd,0.048226023403959595
+4,0,"George Alan O'Dowd, also known as Boy George",0.11807110294937107
+5,0,George O'Dowd,0.03465745404432846
+6,1,$\it{Other}$,0.20664012134532891
+7,1,Boy George,0.6266932119880043
+8,1,Boy George or George Alan O'Dowd,0.0
+9,1,George Alan O'Dowd,0.035546707115109634
+10,1,"George Alan O'Dowd, also known as Boy George",0.06445329288489035
+11,1,George O'Dowd,0.06666666666666665
+12,2,$\it{Other}$,0.2666666666666666
+13,2,Boy George,0.6168683272413551
+14,2,Boy George or George Alan O'Dowd,0.0
+15,2,George Alan O'Dowd,0.016465006091978193
+16,2,"George Alan O'Dowd, also known as Boy George",0.06626334551728973
+17,2,George O'Dowd,0.03373665448271027
 18,3,$\it{Other}$,0.34440241611609707
-19,3,Boy George,0.4297276957291068
-20,3,Boy George or George Alan O'Dowd.,0.0
-21,3,Boy George.,0.12213816556552749
-22,3,"George Alan O'Dowd, also known as Boy George.",0.1037317225892686
-23,3,George Alan O'Dowd.,0.0
-24,4,$\it{Other}$,0.36666666666666664
-25,4,Boy George,0.3
-26,4,Boy George or George Alan O'Dowd.,0.0
-27,4,Boy George.,0.2
-28,4,"George Alan O'Dowd, also known as Boy George.",0.13333333333333333
-29,4,George Alan O'Dowd.,0.0
-30,5,$\it{Other}$,0.5502602492082955
-31,5,Boy George,0.16127247700727998
-32,5,Boy George or George Alan O'Dowd.,0.0
-33,5,Boy George.,0.11439351896812697
-34,5,"George Alan O'Dowd, also known as Boy George.",0.10514886631865279
-35,5,George Alan O'Dowd.,0.06892488849764478
-36,6,$\it{Other}$,0.4416137224012353
-37,6,Boy George,0.2747352786728432
-38,6,Boy George or George Alan O'Dowd.,0.0
-39,6,Boy George.,0.17537060985801955
-40,6,"George Alan O'Dowd, also known as Boy George.",0.0583862775987647
-41,6,George Alan O'Dowd.,0.04989411146913727
-42,7,$\it{Other}$,0.5273542502510574
-43,7,Boy George,0.24371129758318225
-44,7,Boy George or George Alan O'Dowd.,0.0
-45,7,Boy George.,0.0956011188324269
-46,7,"George Alan O'Dowd, also known as Boy George.",0.1333333333333333
-47,7,George Alan O'Dowd.,0.0
-48,8,$\it{Other}$,0.5
+19,3,Boy George,0.5518658612946343
+20,3,Boy George or George Alan O'Dowd,0.0
+21,3,George Alan O'Dowd,0.0
+22,3,"George Alan O'Dowd, also known as Boy George",0.1037317225892686
+23,3,George O'Dowd,0.0
+24,4,$\it{Other}$,0.3333333333333333
+25,4,Boy George,0.5
+26,4,Boy George or George Alan O'Dowd,0.0
+27,4,George Alan O'Dowd,0.0
+28,4,"George Alan O'Dowd, also known as Boy George",0.13333333333333333
+29,4,George O'Dowd,0.03333333333333333
+30,5,$\it{Other}$,0.4679760888132016
+31,5,Boy George,0.275665995975407
+32,5,Boy George or George Alan O'Dowd,0.0
+33,5,George Alan O'Dowd,0.06892488849764478
+34,5,"George Alan O'Dowd, also known as Boy George",0.10514886631865279
+35,5,George O'Dowd,0.082284160395094
+36,6,$\it{Other}$,0.4
+37,6,Boy George,0.45010588853086275
+38,6,Boy George or George Alan O'Dowd,0.0
+39,6,George Alan O'Dowd,0.04989411146913727
+40,6,"George Alan O'Dowd, also known as Boy George",0.0583862775987647
+41,6,George O'Dowd,0.0416137224012353
+42,7,$\it{Other}$,0.3584881430006043
+43,7,Boy George,0.33931241641560916
+44,7,Boy George or George Alan O'Dowd,0.0
+45,7,George Alan O'Dowd,0.0
+46,7,"George Alan O'Dowd, also known as Boy George",0.1333333333333333
+47,7,George O'Dowd,0.1688661072504532
+48,8,$\it{Other}$,0.4
 49,8,Boy George,0.3
-50,8,Boy George or George Alan O'Dowd.,0.0
-51,8,Boy George.,0.0
-52,8,"George Alan O'Dowd, also known as Boy George.",0.1
-53,8,George Alan O'Dowd.,0.1
-54,9,$\it{Other}$,0.43333333333333335
-55,9,Boy George,0.36666666666666664
-56,9,Boy George or George Alan O'Dowd.,0.0
-57,9,Boy George.,0.13333333333333333
-58,9,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-59,9,George Alan O'Dowd.,0.03333333333333333
-60,10,$\it{Other}$,0.4
-61,10,Boy George,0.3333333333333333
-62,10,Boy George or George Alan O'Dowd.,0.0
-63,10,Boy George.,0.13333333333333333
-64,10,"George Alan O'Dowd, also known as Boy George.",0.1
-65,10,George Alan O'Dowd.,0.03333333333333333
-66,11,$\it{Other}$,0.495059702046415
-67,11,Boy George,0.22275424674307728
-68,11,Boy George or George Alan O'Dowd.,0.0
-69,11,Boy George.,0.14699422927826708
-70,11,"George Alan O'Dowd, also known as Boy George.",0.06804470240585993
-71,11,George Alan O'Dowd.,0.06714711952638075
-72,12,$\it{Other}$,0.5333333333333333
-73,12,Boy George,0.3
-74,12,Boy George or George Alan O'Dowd.,0.03333333333333333
-75,12,Boy George.,0.06666666666666667
-76,12,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-77,12,George Alan O'Dowd.,0.03333333333333333
-78,13,$\it{Other}$,0.6333333333333333
-79,13,Boy George,0.23333333333333334
-80,13,Boy George or George Alan O'Dowd.,0.03333333333333333
-81,13,Boy George.,0.06666666666666667
-82,13,"George Alan O'Dowd, also known as Boy George.",0.0
-83,13,George Alan O'Dowd.,0.03333333333333333
-84,14,$\it{Other}$,0.43333333333333335
-85,14,Boy George,0.4
-86,14,Boy George or George Alan O'Dowd.,0.0
-87,14,Boy George.,0.03333333333333333
-88,14,"George Alan O'Dowd, also known as Boy George.",0.1
-89,14,George Alan O'Dowd.,0.03333333333333333
-90,15,$\it{Other}$,0.4966551110144327
-91,15,Boy George,0.3
-92,15,Boy George or George Alan O'Dowd.,0.0
-93,15,Boy George.,0.04806102622205467
-94,15,"George Alan O'Dowd, also known as Boy George.",0.07838650480643375
-95,15,George Alan O'Dowd.,0.07689735795707887
-96,16,$\it{Other}$,0.48302101390243846
-97,16,Boy George,0.3113247192259372
-98,16,Boy George or George Alan O'Dowd.,0.0066985519963690026
-99,16,Boy George.,0.07729437882346693
-100,16,"George Alan O'Dowd, also known as Boy George.",0.07545304128808943
-101,16,George Alan O'Dowd.,0.04620829476369903
-102,17,$\it{Other}$,0.3615357954263647
-103,17,Boy George,0.38743896038349446
-104,17,Boy George or George Alan O'Dowd.,0.0
-105,17,Boy George.,0.05714240760873162
-106,17,"George Alan O'Dowd, also known as Boy George.",0.12843498040072657
-107,17,George Alan O'Dowd.,0.06544785618068255
+50,8,Boy George or George Alan O'Dowd,0.0
+51,8,George Alan O'Dowd,0.1
+52,8,"George Alan O'Dowd, also known as Boy George",0.1
+53,8,George O'Dowd,0.1
+54,9,$\it{Other}$,0.36666666666666664
+55,9,Boy George,0.5
+56,9,Boy George or George Alan O'Dowd,0.0
+57,9,George Alan O'Dowd,0.03333333333333333
+58,9,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+59,9,George O'Dowd,0.06666666666666667
+60,10,$\it{Other}$,0.26666666666666666
+61,10,Boy George,0.4666666666666667
+62,10,Boy George or George Alan O'Dowd,0.0
+63,10,George Alan O'Dowd,0.03333333333333333
+64,10,"George Alan O'Dowd, also known as Boy George",0.1
+65,10,George O'Dowd,0.13333333333333333
+66,11,$\it{Other}$,0.4126556130125353
+67,11,Boy George,0.3697484760213443
+68,11,Boy George or George Alan O'Dowd,0.0
+69,11,George Alan O'Dowd,0.08522348335221518
+70,11,"George Alan O'Dowd, also known as Boy George",0.06804470240585993
+71,11,George O'Dowd,0.06432772520804525
+72,12,$\it{Other}$,0.5
+73,12,Boy George,0.36666666666666664
+74,12,Boy George or George Alan O'Dowd,0.03333333333333333
+75,12,George Alan O'Dowd,0.03333333333333333
+76,12,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+77,12,George O'Dowd,0.03333333333333333
+78,13,$\it{Other}$,0.5
+79,13,Boy George,0.3
+80,13,Boy George or George Alan O'Dowd,0.03333333333333333
+81,13,George Alan O'Dowd,0.1
+82,13,"George Alan O'Dowd, also known as Boy George",0.0
+83,13,George O'Dowd,0.06666666666666667
+84,14,$\it{Other}$,0.3333333333333333
+85,14,Boy George,0.43333333333333335
+86,14,Boy George or George Alan O'Dowd,0.0
+87,14,George Alan O'Dowd,0.06666666666666667
+88,14,"George Alan O'Dowd, also known as Boy George",0.1
+89,14,George O'Dowd,0.06666666666666667
+90,15,$\it{Other}$,0.35643597537625443
+91,15,Boy George,0.34806102622205465
+92,15,Boy George or George Alan O'Dowd,0.0
+93,15,George Alan O'Dowd,0.15379471591415775
+94,15,"George Alan O'Dowd, also known as Boy George",0.07838650480643375
+95,15,George O'Dowd,0.06332177768109937
+96,16,$\it{Other}$,0.4090465942358659
+97,16,Boy George,0.38861909804940414
+98,16,Boy George or George Alan O'Dowd,0.0066985519963690026
+99,16,George Alan O'Dowd,0.07047959600291354
+100,16,"George Alan O'Dowd, also known as Boy George",0.07545304128808943
+101,16,George O'Dowd,0.04970311842735804
+102,17,$\it{Other}$,0.2864489944033389
+103,17,Boy George,0.4445813679922261
+104,17,Boy George or George Alan O'Dowd,0.0
+105,17,George Alan O'Dowd,0.08925693045608084
+106,17,"George Alan O'Dowd, also known as Boy George",0.12843498040072657
+107,17,George O'Dowd,0.05127772674762757
 108,18,$\it{Other}$,0.43333333333333335
-109,18,Boy George,0.3333333333333333
-110,18,Boy George or George Alan O'Dowd.,0.0
-111,18,Boy George.,0.1
-112,18,"George Alan O'Dowd, also known as Boy George.",0.1
-113,18,George Alan O'Dowd.,0.03333333333333333
-114,19,$\it{Other}$,0.4666666666666667
-115,19,Boy George,0.3
-116,19,Boy George or George Alan O'Dowd.,0.0
-117,19,Boy George.,0.03333333333333333
-118,19,"George Alan O'Dowd, also known as Boy George.",0.1
-119,19,George Alan O'Dowd.,0.1
-120,20,$\it{Other}$,0.5595194350921756
-121,20,Boy George,0.1702402824539121
-122,20,Boy George or George Alan O'Dowd.,0.0
-123,20,Boy George.,0.13512014122695604
-124,20,"George Alan O'Dowd, also known as Boy George.",0.09999999999999999
-125,20,George Alan O'Dowd.,0.03512014122695606
-126,21,$\it{Other}$,0.33503259807364333
-127,21,Boy George,0.3925034200148285
-128,21,Boy George or George Alan O'Dowd.,0.021439469285390273
-129,21,Boy George.,0.0765283477802492
-130,21,"George Alan O'Dowd, also known as Boy George.",0.09796781706563948
-131,21,George Alan O'Dowd.,0.0765283477802492
-132,22,$\it{Other}$,0.4140398985528957
-133,22,Boy George,0.4197685271177445
-134,22,Boy George or George Alan O'Dowd.,0.0
-135,22,Boy George.,0.016429120498013258
-136,22,"George Alan O'Dowd, also known as Boy George.",0.1
-137,22,George Alan O'Dowd.,0.04976245383134659
-138,23,$\it{Other}$,0.3
-139,23,Boy George,0.5333333333333333
-140,23,Boy George or George Alan O'Dowd.,0.0
-141,23,Boy George.,0.03333333333333333
-142,23,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-143,23,George Alan O'Dowd.,0.1
-144,24,$\it{Other}$,0.4422936693173795
-145,24,Boy George,0.2938375725798022
-146,24,Boy George or George Alan O'Dowd.,0.0
-147,24,Boy George.,0.037160510738796886
-148,24,"George Alan O'Dowd, also known as Boy George.",0.14286027960988046
-149,24,George Alan O'Dowd.,0.0838479677541409
-150,25,$\it{Other}$,0.36666666666666664
+109,18,Boy George,0.43333333333333335
+110,18,Boy George or George Alan O'Dowd,0.0
+111,18,George Alan O'Dowd,0.03333333333333333
+112,18,"George Alan O'Dowd, also known as Boy George",0.1
+113,18,George O'Dowd,0.0
+114,19,$\it{Other}$,0.4
+115,19,Boy George,0.3333333333333333
+116,19,Boy George or George Alan O'Dowd,0.0
+117,19,George Alan O'Dowd,0.1
+118,19,"George Alan O'Dowd, also known as Boy George",0.1
+119,19,George O'Dowd,0.06666666666666667
+120,20,$\it{Other}$,0.45773262719855295
+121,20,Boy George,0.30536042368086813
+122,20,Boy George or George Alan O'Dowd,0.0
+123,20,George Alan O'Dowd,0.03512014122695606
+124,20,"George Alan O'Dowd, also known as Boy George",0.09999999999999999
+125,20,George O'Dowd,0.10178680789362272
+126,21,$\it{Other}$,0.22925212514669704
+127,21,Boy George,0.4690317677950777
+128,21,Boy George or George Alan O'Dowd,0.021439469285390273
+129,21,George Alan O'Dowd,0.09796781706563948
+130,21,"George Alan O'Dowd, also known as Boy George",0.09796781706563948
+131,21,George O'Dowd,0.08434100364155599
+132,22,$\it{Other}$,0.25500222980030507
+133,22,Boy George,0.4361976476157577
+134,22,Boy George or George Alan O'Dowd,0.0
+135,22,George Alan O'Dowd,0.10428959129434484
+136,22,"George Alan O'Dowd, also known as Boy George",0.1
+137,22,George O'Dowd,0.10451053128959235
+138,23,$\it{Other}$,0.23333333333333334
+139,23,Boy George,0.5666666666666667
+140,23,Boy George or George Alan O'Dowd,0.0
+141,23,George Alan O'Dowd,0.1
+142,23,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+143,23,George O'Dowd,0.06666666666666667
+144,24,$\it{Other}$,0.30410388973696745
+145,24,Boy George,0.3309980833185991
+146,24,Boy George or George Alan O'Dowd,0.0
+147,24,George Alan O'Dowd,0.0838479677541409
+148,24,"George Alan O'Dowd, also known as Boy George",0.14286027960988046
+149,24,George O'Dowd,0.138189779580412
+150,25,$\it{Other}$,0.23333333333333334
 151,25,Boy George,0.43333333333333335
-152,25,Boy George or George Alan O'Dowd.,0.0
-153,25,Boy George.,0.0
-154,25,"George Alan O'Dowd, also known as Boy George.",0.1
-155,25,George Alan O'Dowd.,0.1
-156,26,$\it{Other}$,0.48733066092945976
-157,26,Boy George,0.21325876855164425
-158,26,Boy George or George Alan O'Dowd.,0.028913743816118595
-159,26,Boy George.,0.04349816290471428
-160,26,"George Alan O'Dowd, also known as Boy George.",0.13583784283249267
-161,26,George Alan O'Dowd.,0.09116082096557053
-162,27,$\it{Other}$,0.5
+152,25,Boy George or George Alan O'Dowd,0.0
+153,25,George Alan O'Dowd,0.13333333333333333
+154,25,"George Alan O'Dowd, also known as Boy George",0.1
+155,25,George O'Dowd,0.1
+156,26,$\it{Other}$,0.20368336846136723
+157,26,Boy George,0.25675693145635853
+158,26,Boy George or George Alan O'Dowd,0.028913743816118595
+159,26,George Alan O'Dowd,0.12007456478168912
+160,26,"George Alan O'Dowd, also known as Boy George",0.13583784283249267
+161,26,George O'Dowd,0.25473354865197395
+162,27,$\it{Other}$,0.36666666666666664
 163,27,Boy George,0.2
-164,27,Boy George or George Alan O'Dowd.,0.06666666666666667
-165,27,Boy George.,0.0
-166,27,"George Alan O'Dowd, also known as Boy George.",0.06666666666666667
-167,27,George Alan O'Dowd.,0.16666666666666666
-168,28,$\it{Other}$,0.4
+164,27,Boy George or George Alan O'Dowd,0.06666666666666667
+165,27,George Alan O'Dowd,0.16666666666666666
+166,27,"George Alan O'Dowd, also known as Boy George",0.06666666666666667
+167,27,George O'Dowd,0.13333333333333333
+168,28,$\it{Other}$,0.3333333333333333
 169,28,Boy George,0.4
-170,28,Boy George or George Alan O'Dowd.,0.0
-171,28,Boy George.,0.0
-172,28,"George Alan O'Dowd, also known as Boy George.",0.13333333333333333
-173,28,George Alan O'Dowd.,0.06666666666666667
-174,29,$\it{Other}$,0.43333333333333335
+170,28,Boy George or George Alan O'Dowd,0.0
+171,28,George Alan O'Dowd,0.06666666666666667
+172,28,"George Alan O'Dowd, also known as Boy George",0.13333333333333333
+173,28,George O'Dowd,0.06666666666666667
+174,29,$\it{Other}$,0.36666666666666664
 175,29,Boy George,0.3
-176,29,Boy George or George Alan O'Dowd.,0.03333333333333333
-177,29,Boy George.,0.0
-178,29,"George Alan O'Dowd, also known as Boy George.",0.13333333333333333
-179,29,George Alan O'Dowd.,0.1
-180,30,$\it{Other}$,0.49312045888608314
-181,30,Boy George,0.28149012113075106
-182,30,Boy George or George Alan O'Dowd.,0.0
-183,30,Boy George.,0.052907584438833026
-184,30,"George Alan O'Dowd, also known as Boy George.",0.11269470999158288
-185,30,George Alan O'Dowd.,0.05978712555274984
-186,31,$\it{Other}$,0.5379405575085736
+176,29,Boy George or George Alan O'Dowd,0.03333333333333333
+177,29,George Alan O'Dowd,0.13333333333333333
+178,29,"George Alan O'Dowd, also known as Boy George",0.13333333333333333
+179,29,George O'Dowd,0.03333333333333333
+180,30,$\it{Other}$,0.3931204588860832
+181,30,Boy George,0.33439770556958404
+182,30,Boy George or George Alan O'Dowd,0.0
+183,30,George Alan O'Dowd,0.07354620778058349
+184,30,"George Alan O'Dowd, also known as Boy George",0.11269470999158288
+185,30,George O'Dowd,0.08624091777216637
+186,31,$\it{Other}$,0.4093949090349225
 187,31,Boy George,0.34290870305269766
-188,31,Boy George or George Alan O'Dowd.,0.0
-189,31,Boy George.,0.0
-190,31,"George Alan O'Dowd, also known as Boy George.",0.076242036386031
-191,31,George Alan O'Dowd.,0.04290870305269767
-192,32,$\it{Other}$,0.43333333333333335
+188,31,Boy George or George Alan O'Dowd,0.0
+189,31,George Alan O'Dowd,0.076242036386031
+190,31,"George Alan O'Dowd, also known as Boy George",0.076242036386031
+191,31,George O'Dowd,0.09521231514031783
+192,32,$\it{Other}$,0.3333333333333333
 193,32,Boy George,0.4
-194,32,Boy George or George Alan O'Dowd.,0.0
-195,32,Boy George.,0.0
-196,32,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-197,32,George Alan O'Dowd.,0.13333333333333333
-198,33,$\it{Other}$,0.44438100568633615
-199,33,Boy George,0.3725084494612373
-200,33,Boy George or George Alan O'Dowd.,0.009051703440793656
-201,33,Boy George.,0.04269842501219776
-202,33,"George Alan O'Dowd, also known as Boy George.",0.06940021976002526
-203,33,George Alan O'Dowd.,0.061960196639409854
-204,34,$\it{Other}$,0.22625987693484534
-205,34,Boy George,0.415062018857276
-206,34,Boy George or George Alan O'Dowd.,0.0
-207,34,Boy George.,0.037440606895649875
-208,34,"George Alan O'Dowd, also known as Boy George.",0.2260997886530538
-209,34,George Alan O'Dowd.,0.09513770865917501
-210,35,$\it{Other}$,0.3806849165339457
-211,35,Boy George,0.5246119170648295
-212,35,Boy George or George Alan O'Dowd.,0.0
-213,35,Boy George.,0.03096965694081623
-214,35,"George Alan O'Dowd, also known as Boy George.",0.058272867373809836
-215,35,George Alan O'Dowd.,0.005460642086598722
-216,36,$\it{Other}$,0.35382717035487493
-217,36,Boy George,0.4354065074543605
-218,36,Boy George or George Alan O'Dowd.,0.0
-219,36,Boy George.,0.020119122034829552
-220,36,"George Alan O'Dowd, also known as Boy George.",0.13273920335883493
-221,36,George Alan O'Dowd.,0.05790799679710012
+194,32,Boy George or George Alan O'Dowd,0.0
+195,32,George Alan O'Dowd,0.16666666666666666
+196,32,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+197,32,George O'Dowd,0.06666666666666667
+198,33,$\it{Other}$,0.28539319714423644
+199,33,Boy George,0.4152068744734351
+200,33,Boy George or George Alan O'Dowd,0.009051703440793656
+201,33,George Alan O'Dowd,0.08591710028325542
+202,33,"George Alan O'Dowd, also known as Boy George",0.06940021976002526
+203,33,George O'Dowd,0.13503090489825414
+204,34,$\it{Other}$,0.17813004707421395
+205,34,Boy George,0.4525026257529259
+206,34,Boy George or George Alan O'Dowd,0.0
+207,34,George Alan O'Dowd,0.11379509608286902
+208,34,"George Alan O'Dowd, also known as Boy George",0.2260997886530538
+209,34,George O'Dowd,0.0294724424369374
+210,35,$\it{Other}$,0.2768546615382996
+211,35,Boy George,0.5555815740056456
+212,35,Boy George or George Alan O'Dowd,0.0
+213,35,George Alan O'Dowd,0.07832124014142863
+214,35,"George Alan O'Dowd, also known as Boy George",0.058272867373809836
+215,35,George O'Dowd,0.03096965694081623
+216,36,$\it{Other}$,0.2508074608095697
+217,36,Boy George,0.45552562948919006
+218,36,Boy George or George Alan O'Dowd,0.0
+219,36,George Alan O'Dowd,0.07557774952454113
+220,36,"George Alan O'Dowd, also known as Boy George",0.13273920335883493
+221,36,George O'Dowd,0.08534995681786411
 222,37,$\it{Other}$,0.1724137931034483
-223,37,Boy George,0.7241379310344828
-224,37,Boy George or George Alan O'Dowd.,0.0
-225,37,Boy George.,0.034482758620689655
-226,37,"George Alan O'Dowd, also known as Boy George.",0.034482758620689655
-227,37,George Alan O'Dowd.,0.034482758620689655
-228,38,$\it{Other}$,0.3333333333333333
-229,38,Boy George,0.4444444444444444
-230,38,Boy George or George Alan O'Dowd.,0.0
-231,38,Boy George.,0.037037037037037035
-232,38,"George Alan O'Dowd, also known as Boy George.",0.07407407407407407
-233,38,George Alan O'Dowd.,0.1111111111111111
-234,39,$\it{Other}$,0.3333333333333333
+223,37,Boy George,0.7586206896551724
+224,37,Boy George or George Alan O'Dowd,0.0
+225,37,George Alan O'Dowd,0.034482758620689655
+226,37,"George Alan O'Dowd, also known as Boy George",0.034482758620689655
+227,37,George O'Dowd,0.0
+228,38,$\it{Other}$,0.25925925925925924
+229,38,Boy George,0.48148148148148145
+230,38,Boy George or George Alan O'Dowd,0.0
+231,38,George Alan O'Dowd,0.1111111111111111
+232,38,"George Alan O'Dowd, also known as Boy George",0.07407407407407407
+233,38,George O'Dowd,0.07407407407407407
+234,39,$\it{Other}$,0.2222222222222222
 235,39,Boy George,0.5925925925925926
-236,39,Boy George or George Alan O'Dowd.,0.037037037037037035
-237,39,Boy George.,0.0
-238,39,"George Alan O'Dowd, also known as Boy George.",0.0
-239,39,George Alan O'Dowd.,0.037037037037037035
-240,40,$\it{Other}$,0.37588588440322646
+236,39,Boy George or George Alan O'Dowd,0.037037037037037035
+237,39,George Alan O'Dowd,0.14814814814814814
+238,39,"George Alan O'Dowd, also known as Boy George",0.0
+239,39,George O'Dowd,0.0
+240,40,$\it{Other}$,0.26381000764970447
 241,40,Boy George,0.38597640118945836
-242,40,Boy George or George Alan O'Dowd.,0.02956773735642862
-243,40,Boy George.,0.0
-244,40,"George Alan O'Dowd, also known as Boy George.",0.15173413089618246
-245,40,George Alan O'Dowd.,0.05683584615470413
+242,40,Boy George or George Alan O'Dowd,0.02956773735642862
+243,40,George Alan O'Dowd,0.11986676498160073
+244,40,"George Alan O'Dowd, also known as Boy George",0.15173413089618246
+245,40,George O'Dowd,0.049044957926625415
 246,41,$\it{Other}$,0.19230769230769232
-247,41,Boy George,0.46153846153846156
-248,41,Boy George or George Alan O'Dowd.,0.038461538461538464
-249,41,Boy George.,0.038461538461538464
-250,41,"George Alan O'Dowd, also known as Boy George.",0.2692307692307692
-251,41,George Alan O'Dowd.,0.0
-252,42,$\it{Other}$,0.24401141211579805
+247,41,Boy George,0.5
+248,41,Boy George or George Alan O'Dowd,0.038461538461538464
+249,41,George Alan O'Dowd,0.0
+250,41,"George Alan O'Dowd, also known as Boy George",0.2692307692307692
+251,41,George O'Dowd,0.0
+252,42,$\it{Other}$,0.20002717170428105
 253,42,Boy George,0.5160374969519078
-254,42,Boy George or George Alan O'Dowd.,0.0
-255,42,Boy George.,0.0
-256,42,"George Alan O'Dowd, also known as Boy George.",0.20794402628918102
-257,42,George Alan O'Dowd.,0.03200706464311307
-258,43,$\it{Other}$,0.2554938829883107
-259,43,Boy George,0.5440046718746843
-260,43,Boy George or George Alan O'Dowd.,0.060538878656393
-261,43,Boy George.,0.01749086445136634
-262,43,"George Alan O'Dowd, also known as Boy George.",0.10605701082029038
-263,43,George Alan O'Dowd.,0.016414691208955216
+254,42,Boy George or George Alan O'Dowd,0.0
+255,42,George Alan O'Dowd,0.07599130505463005
+256,42,"George Alan O'Dowd, also known as Boy George",0.20794402628918102
+257,42,George O'Dowd,0.0
+258,43,$\it{Other}$,0.24385250660633387
+259,43,Boy George,0.5614955363260506
+260,43,Boy George or George Alan O'Dowd,0.060538878656393
+261,43,George Alan O'Dowd,0.025145723495437866
+262,43,"George Alan O'Dowd, also known as Boy George",0.10605701082029038
+263,43,George O'Dowd,0.0029103440954942167
 264,44,$\it{Other}$,0.375
 265,44,Boy George,0.4583333333333333
-266,44,Boy George or George Alan O'Dowd.,0.0
-267,44,Boy George.,0.0
-268,44,"George Alan O'Dowd, also known as Boy George.",0.125
-269,44,George Alan O'Dowd.,0.041666666666666664
-270,45,$\it{Other}$,0.25925925925925924
+266,44,Boy George or George Alan O'Dowd,0.0
+267,44,George Alan O'Dowd,0.041666666666666664
+268,44,"George Alan O'Dowd, also known as Boy George",0.125
+269,44,George O'Dowd,0.0
+270,45,$\it{Other}$,0.18518518518518517
 271,45,Boy George,0.5185185185185185
-272,45,Boy George or George Alan O'Dowd.,0.1111111111111111
-273,45,Boy George.,0.0
-274,45,"George Alan O'Dowd, also known as Boy George.",0.1111111111111111
-275,45,George Alan O'Dowd.,0.0
+272,45,Boy George or George Alan O'Dowd,0.1111111111111111
+273,45,George Alan O'Dowd,0.07407407407407407
+274,45,"George Alan O'Dowd, also known as Boy George",0.1111111111111111
+275,45,George O'Dowd,0.0
 276,46,$\it{Other}$,0.25
 277,46,Boy George,0.4642857142857143
-278,46,Boy George or George Alan O'Dowd.,0.03571428571428571
-279,46,Boy George.,0.0
-280,46,"George Alan O'Dowd, also known as Boy George.",0.25
-281,46,George Alan O'Dowd.,0.0
-282,47,$\it{Other}$,0.43478260869565216
+278,46,Boy George or George Alan O'Dowd,0.03571428571428571
+279,46,George Alan O'Dowd,0.0
+280,46,"George Alan O'Dowd, also known as Boy George",0.25
+281,46,George O'Dowd,0.0
+282,47,$\it{Other}$,0.391304347826087
 283,47,Boy George,0.34782608695652173
-284,47,Boy George or George Alan O'Dowd.,0.0
-285,47,Boy George.,0.0
-286,47,"George Alan O'Dowd, also known as Boy George.",0.21739130434782608
-287,47,George Alan O'Dowd.,0.0
-288,48,$\it{Other}$,0.2600949892212966
+284,47,Boy George or George Alan O'Dowd,0.0
+285,47,George Alan O'Dowd,0.043478260869565216
+286,47,"George Alan O'Dowd, also known as Boy George",0.21739130434782608
+287,47,George O'Dowd,0.0
+288,48,$\it{Other}$,0.22046711865132063
 289,48,Boy George,0.5510688936794238
-290,48,Boy George or George Alan O'Dowd.,0.03776722341985594
-291,48,Boy George.,0.0
-292,48,"George Alan O'Dowd, also known as Boy George.",0.15106889367942375
-293,48,George Alan O'Dowd.,0.0
-294,49,$\it{Other}$,0.4090909090909091
+290,48,Boy George or George Alan O'Dowd,0.03776722341985594
+291,48,George Alan O'Dowd,0.03776722341985594
+292,48,"George Alan O'Dowd, also known as Boy George",0.15106889367942375
+293,48,George O'Dowd,0.0018606471501200548
+294,49,$\it{Other}$,0.36363636363636365
 295,49,Boy George,0.2727272727272727
-296,49,Boy George or George Alan O'Dowd.,0.09090909090909091
-297,49,Boy George.,0.0
-298,49,"George Alan O'Dowd, also known as Boy George.",0.22727272727272727
-299,49,George Alan O'Dowd.,0.0
+296,49,Boy George or George Alan O'Dowd,0.09090909090909091
+297,49,George Alan O'Dowd,0.045454545454545456
+298,49,"George Alan O'Dowd, also known as Boy George",0.22727272727272727
+299,49,George O'Dowd,0.0
 300,50,$\it{Other}$,0.37037037037037035
 301,50,Boy George,0.3333333333333333
-302,50,Boy George or George Alan O'Dowd.,0.07407407407407407
-303,50,Boy George.,0.0
-304,50,"George Alan O'Dowd, also known as Boy George.",0.18518518518518517
-305,50,George Alan O'Dowd.,0.037037037037037035
+302,50,Boy George or George Alan O'Dowd,0.07407407407407407
+303,50,George Alan O'Dowd,0.037037037037037035
+304,50,"George Alan O'Dowd, also known as Boy George",0.18518518518518517
+305,50,George O'Dowd,0.0
 306,51,$\it{Other}$,0.3333333333333333
 307,51,Boy George,0.5833333333333334
-308,51,Boy George or George Alan O'Dowd.,0.0
-309,51,Boy George.,0.0
-310,51,"George Alan O'Dowd, also known as Boy George.",0.08333333333333333
-311,51,George Alan O'Dowd.,0.0
+308,51,Boy George or George Alan O'Dowd,0.0
+309,51,George Alan O'Dowd,0.0
+310,51,"George Alan O'Dowd, also known as Boy George",0.08333333333333333
+311,51,George O'Dowd,0.0
 312,52,$\it{Other}$,0.3888888888888889
 313,52,Boy George,0.4444444444444444
-314,52,Boy George or George Alan O'Dowd.,0.0
-315,52,Boy George.,0.0
-316,52,"George Alan O'Dowd, also known as Boy George.",0.1111111111111111
-317,52,George Alan O'Dowd.,0.05555555555555555
+314,52,Boy George or George Alan O'Dowd,0.0
+315,52,George Alan O'Dowd,0.05555555555555555
+316,52,"George Alan O'Dowd, also known as Boy George",0.1111111111111111
+317,52,George O'Dowd,0.0
 318,53,$\it{Other}$,0.3333333333333333
 319,53,Boy George,0.5416666666666666
-320,53,Boy George or George Alan O'Dowd.,0.041666666666666664
-321,53,Boy George.,0.0
-322,53,"George Alan O'Dowd, also known as Boy George.",0.08333333333333333
-323,53,George Alan O'Dowd.,0.0
-324,54,$\it{Other}$,0.24523539257557525
-325,54,Boy George,0.46988758655451335
-326,54,Boy George or George Alan O'Dowd.,0.08595888665918902
-327,54,Boy George.,0.006616307059591847
-328,54,"George Alan O'Dowd, also known as Boy George.",0.1581166643716225
-329,54,George Alan O'Dowd.,0.03418516277950804
-330,55,$\it{Other}$,0.07585983980916915
+320,53,Boy George or George Alan O'Dowd,0.041666666666666664
+321,53,George Alan O'Dowd,0.0
+322,53,"George Alan O'Dowd, also known as Boy George",0.08333333333333333
+323,53,George O'Dowd,0.0
+324,54,$\it{Other}$,0.19759673816742995
+325,54,Boy George,0.47650389361410517
+326,54,Boy George or George Alan O'Dowd,0.08595888665918902
+327,54,George Alan O'Dowd,0.0818238171876533
+328,54,"George Alan O'Dowd, also known as Boy George",0.1581166643716225
+329,54,George O'Dowd,0.0
+330,55,$\it{Other}$,0.07226844792454046
 331,55,Boy George,0.8999467738312391
-332,55,Boy George or George Alan O'Dowd.,0.007182783769257386
-333,55,Boy George.,0.0
-334,55,"George Alan O'Dowd, also known as Boy George.",0.017010602590334323
-335,55,George Alan O'Dowd.,0.0
-336,56,$\it{Other}$,0.06219466757031713
-337,56,Boy George,0.8775668455732814
-338,56,Boy George or George Alan O'Dowd.,0.011496396047618398
-339,56,Boy George.,0.009540215333702733
-340,56,"George Alan O'Dowd, also known as Boy George.",0.039201875475080326
-341,56,George Alan O'Dowd.,0.0
+332,55,Boy George or George Alan O'Dowd,0.007182783769257386
+333,55,George Alan O'Dowd,0.003591391884628693
+334,55,"George Alan O'Dowd, also known as Boy George",0.017010602590334323
+335,55,George O'Dowd,0.0
+336,56,$\it{Other}$,0.060238486856401464
+337,56,Boy George,0.8871070609069841
+338,56,Boy George or George Alan O'Dowd,0.011496396047618398
+339,56,George Alan O'Dowd,0.001956180713915665
+340,56,"George Alan O'Dowd, also known as Boy George",0.039201875475080326
+341,56,George O'Dowd,0.0
 342,57,$\it{Other}$,0.17260866225706262
 343,57,Boy George,0.8145452774759779
-344,57,Boy George or George Alan O'Dowd.,0.002348506982169428
-345,57,Boy George.,0.0
-346,57,"George Alan O'Dowd, also known as Boy George.",0.010497553284790021
-347,57,George Alan O'Dowd.,0.0
+344,57,Boy George or George Alan O'Dowd,0.002348506982169428
+345,57,George Alan O'Dowd,0.0
+346,57,"George Alan O'Dowd, also known as Boy George",0.010497553284790021
+347,57,George O'Dowd,0.0
 348,58,$\it{Other}$,0.10344827586206896
 349,58,Boy George,0.7931034482758621
-350,58,Boy George or George Alan O'Dowd.,0.06896551724137931
-351,58,Boy George.,0.0
-352,58,"George Alan O'Dowd, also known as Boy George.",0.034482758620689655
-353,58,George Alan O'Dowd.,0.0
+350,58,Boy George or George Alan O'Dowd,0.06896551724137931
+351,58,George Alan O'Dowd,0.0
+352,58,"George Alan O'Dowd, also known as Boy George",0.034482758620689655
+353,58,George O'Dowd,0.0
 354,59,$\it{Other}$,0.13333333333333333
 355,59,Boy George,0.8
-356,59,Boy George or George Alan O'Dowd.,0.03333333333333333
-357,59,Boy George.,0.0
-358,59,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-359,59,George Alan O'Dowd.,0.0
+356,59,Boy George or George Alan O'Dowd,0.03333333333333333
+357,59,George Alan O'Dowd,0.0
+358,59,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+359,59,George O'Dowd,0.0
 360,60,$\it{Other}$,0.13333333333333333
 361,60,Boy George,0.8333333333333334
-362,60,Boy George or George Alan O'Dowd.,0.0
-363,60,Boy George.,0.0
-364,60,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-365,60,George Alan O'Dowd.,0.0
+362,60,Boy George or George Alan O'Dowd,0.0
+363,60,George Alan O'Dowd,0.0
+364,60,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+365,60,George O'Dowd,0.0
 366,61,$\it{Other}$,0.08113901710336069
 367,61,Boy George,0.7931034482758621
-368,61,Boy George or George Alan O'Dowd.,0.06287876731038863
-369,61,Boy George.,0.0
-370,61,"George Alan O'Dowd, also known as Boy George.",0.06287876731038863
-371,61,George Alan O'Dowd.,0.0
+368,61,Boy George or George Alan O'Dowd,0.06287876731038863
+369,61,George Alan O'Dowd,0.0
+370,61,"George Alan O'Dowd, also known as Boy George",0.06287876731038863
+371,61,George O'Dowd,0.0
 372,62,$\it{Other}$,0.06896551724137931
 373,62,Boy George,0.8620689655172413
-374,62,Boy George or George Alan O'Dowd.,0.0
-375,62,Boy George.,0.0
-376,62,"George Alan O'Dowd, also known as Boy George.",0.06896551724137931
-377,62,George Alan O'Dowd.,0.0
+374,62,Boy George or George Alan O'Dowd,0.0
+375,62,George Alan O'Dowd,0.0
+376,62,"George Alan O'Dowd, also known as Boy George",0.06896551724137931
+377,62,George O'Dowd,0.0
 378,63,$\it{Other}$,0.06666666666666667
 379,63,Boy George,0.7666666666666667
-380,63,Boy George or George Alan O'Dowd.,0.0
-381,63,Boy George.,0.0
-382,63,"George Alan O'Dowd, also known as Boy George.",0.16666666666666666
-383,63,George Alan O'Dowd.,0.0
+380,63,Boy George or George Alan O'Dowd,0.0
+381,63,George Alan O'Dowd,0.0
+382,63,"George Alan O'Dowd, also known as Boy George",0.16666666666666666
+383,63,George O'Dowd,0.0
 384,64,$\it{Other}$,0.13533212422370075
 385,64,Boy George,0.8374192360246357
-386,64,Boy George or George Alan O'Dowd.,0.0
-387,64,Boy George.,0.0
-388,64,"George Alan O'Dowd, also known as Boy George.",0.027248639751663348
-389,64,George Alan O'Dowd.,0.0
+386,64,Boy George or George Alan O'Dowd,0.0
+387,64,George Alan O'Dowd,0.0
+388,64,"George Alan O'Dowd, also known as Boy George",0.027248639751663348
+389,64,George O'Dowd,0.0
 390,65,$\it{Other}$,0.1
 391,65,Boy George,0.9
-392,65,Boy George or George Alan O'Dowd.,0.0
-393,65,Boy George.,0.0
-394,65,"George Alan O'Dowd, also known as Boy George.",0.0
-395,65,George Alan O'Dowd.,0.0
+392,65,Boy George or George Alan O'Dowd,0.0
+393,65,George Alan O'Dowd,0.0
+394,65,"George Alan O'Dowd, also known as Boy George",0.0
+395,65,George O'Dowd,0.0
 396,66,$\it{Other}$,0.13333333333333333
 397,66,Boy George,0.7666666666666667
-398,66,Boy George or George Alan O'Dowd.,0.0
-399,66,Boy George.,0.0
-400,66,"George Alan O'Dowd, also known as Boy George.",0.1
-401,66,George Alan O'Dowd.,0.0
+398,66,Boy George or George Alan O'Dowd,0.0
+399,66,George Alan O'Dowd,0.0
+400,66,"George Alan O'Dowd, also known as Boy George",0.1
+401,66,George O'Dowd,0.0
 402,67,$\it{Other}$,0.03333333333333333
 403,67,Boy George,0.9
-404,67,Boy George or George Alan O'Dowd.,0.03333333333333333
-405,67,Boy George.,0.0
-406,67,"George Alan O'Dowd, also known as Boy George.",0.03333333333333333
-407,67,George Alan O'Dowd.,0.0
+404,67,Boy George or George Alan O'Dowd,0.03333333333333333
+405,67,George Alan O'Dowd,0.0
+406,67,"George Alan O'Dowd, also known as Boy George",0.03333333333333333
+407,67,George O'Dowd,0.0
 408,68,$\it{Other}$,0.06666666666666667
 409,68,Boy George,0.8666666666666667
-410,68,Boy George or George Alan O'Dowd.,0.0
-411,68,Boy George.,0.0
-412,68,"George Alan O'Dowd, also known as Boy George.",0.06666666666666667
-413,68,George Alan O'Dowd.,0.0
+410,68,Boy George or George Alan O'Dowd,0.0
+411,68,George Alan O'Dowd,0.0
+412,68,"George Alan O'Dowd, also known as Boy George",0.06666666666666667
+413,68,George O'Dowd,0.0
 414,69,$\it{Other}$,0.06896551724137931
-415,69,Boy George,0.8620689655172413
-416,69,Boy George or George Alan O'Dowd.,0.0
-417,69,Boy George.,0.034482758620689655
-418,69,"George Alan O'Dowd, also known as Boy George.",0.034482758620689655
-419,69,George Alan O'Dowd.,0.0
+415,69,Boy George,0.896551724137931
+416,69,Boy George or George Alan O'Dowd,0.0
+417,69,George Alan O'Dowd,0.0
+418,69,"George Alan O'Dowd, also known as Boy George",0.034482758620689655
+419,69,George O'Dowd,0.0
 420,70,$\it{Other}$,0.06082209430653379
 421,70,Boy George,0.8782174525191196
-422,70,Boy George or George Alan O'Dowd.,0.002868599014964706
-423,70,Boy George.,0.0
-424,70,"George Alan O'Dowd, also known as Boy George.",0.05809185415938187
-425,70,George Alan O'Dowd.,0.0
+422,70,Boy George or George Alan O'Dowd,0.002868599014964706
+423,70,George Alan O'Dowd,0.0
+424,70,"George Alan O'Dowd, also known as Boy George",0.05809185415938187
+425,70,George O'Dowd,0.0
 426,71,$\it{Other}$,0.12649655537062354
 427,71,Boy George,0.7946914059372814
-428,71,Boy George or George Alan O'Dowd.,0.0
-429,71,Boy George.,0.0
-430,71,"George Alan O'Dowd, also known as Boy George.",0.07881203869209495
-431,71,George Alan O'Dowd.,0.0
+428,71,Boy George or George Alan O'Dowd,0.0
+429,71,George Alan O'Dowd,0.0
+430,71,"George Alan O'Dowd, also known as Boy George",0.07881203869209495
+431,71,George O'Dowd,0.0
 432,72,$\it{Other}$,0.15615593355384477
-433,72,Boy George,0.7738653897019147
-434,72,Boy George or George Alan O'Dowd.,0.0
-435,72,Boy George.,0.034989338372120225
-436,72,"George Alan O'Dowd, also known as Boy George.",0.034989338372120225
-437,72,George Alan O'Dowd.,0.0
+433,72,Boy George,0.808854728074035
+434,72,Boy George or George Alan O'Dowd,0.0
+435,72,George Alan O'Dowd,0.0
+436,72,"George Alan O'Dowd, also known as Boy George",0.034989338372120225
+437,72,George O'Dowd,0.0
 438,73,$\it{Other}$,0.06210037530619437
 439,73,Boy George,0.8264868642831972
-440,73,Boy George or George Alan O'Dowd.,0.05570638020530423
-441,73,Boy George.,0.0
-442,73,"George Alan O'Dowd, also known as Boy George.",0.05570638020530423
-443,73,George Alan O'Dowd.,0.0
+440,73,Boy George or George Alan O'Dowd,0.05570638020530423
+441,73,George Alan O'Dowd,0.0
+442,73,"George Alan O'Dowd, also known as Boy George",0.05570638020530423
+443,73,George O'Dowd,0.0
 444,74,$\it{Other}$,0.06666666666666667
 445,74,Boy George,0.8666666666666667
-446,74,Boy George or George Alan O'Dowd.,0.0
-447,74,Boy George.,0.0
-448,74,"George Alan O'Dowd, also known as Boy George.",0.06666666666666667
-449,74,George Alan O'Dowd.,0.0
+446,74,Boy George or George Alan O'Dowd,0.0
+447,74,George Alan O'Dowd,0.0
+448,74,"George Alan O'Dowd, also known as Boy George",0.06666666666666667
+449,74,George O'Dowd,0.0
 450,75,$\it{Other}$,0.15789473684210525
 451,75,Boy George,0.8421052631578947
-452,75,Boy George or George Alan O'Dowd.,0.0
-453,75,Boy George.,0.0
-454,75,"George Alan O'Dowd, also known as Boy George.",0.0
-455,75,George Alan O'Dowd.,0.0
+452,75,Boy George or George Alan O'Dowd,0.0
+453,75,George Alan O'Dowd,0.0
+454,75,"George Alan O'Dowd, also known as Boy George",0.0
+455,75,George O'Dowd,0.0
 456,76,$\it{Other}$,0.0
 457,76,Boy George,0.9411764705882353
-458,76,Boy George or George Alan O'Dowd.,0.0
-459,76,Boy George.,0.0
-460,76,"George Alan O'Dowd, also known as Boy George.",0.058823529411764705
-461,76,George Alan O'Dowd.,0.0
+458,76,Boy George or George Alan O'Dowd,0.0
+459,76,George Alan O'Dowd,0.0
+460,76,"George Alan O'Dowd, also known as Boy George",0.058823529411764705
+461,76,George O'Dowd,0.0
 462,77,$\it{Other}$,0.22892264933858278
 463,77,Boy George,0.7710773506614171
-464,77,Boy George or George Alan O'Dowd.,0.0
-465,77,Boy George.,0.0
-466,77,"George Alan O'Dowd, also known as Boy George.",0.0
-467,77,George Alan O'Dowd.,0.0
+464,77,Boy George or George Alan O'Dowd,0.0
+465,77,George Alan O'Dowd,0.0
+466,77,"George Alan O'Dowd, also known as Boy George",0.0
+467,77,George O'Dowd,0.0
 468,78,$\it{Other}$,0.1344338598837816
 469,78,Boy George,0.5740565364950565
-470,78,Boy George or George Alan O'Dowd.,0.19811338305637446
-471,78,Boy George.,0.0
-472,78,"George Alan O'Dowd, also known as Boy George.",0.09339622056478752
-473,78,George Alan O'Dowd.,0.0
+470,78,Boy George or George Alan O'Dowd,0.19811338305637446
+471,78,George Alan O'Dowd,0.0
+472,78,"George Alan O'Dowd, also known as Boy George",0.09339622056478752
+473,78,George O'Dowd,0.0
 474,79,$\it{Other}$,0.08333333333333333
 475,79,Boy George,0.8333333333333334
-476,79,Boy George or George Alan O'Dowd.,0.08333333333333333
-477,79,Boy George.,0.0
-478,79,"George Alan O'Dowd, also known as Boy George.",0.0
-479,79,George Alan O'Dowd.,0.0
+476,79,Boy George or George Alan O'Dowd,0.08333333333333333
+477,79,George Alan O'Dowd,0.0
+478,79,"George Alan O'Dowd, also known as Boy George",0.0
+479,79,George O'Dowd,0.0
 480,80,$\it{Other}$,0.25
 481,80,Boy George,0.6666666666666666
-482,80,Boy George or George Alan O'Dowd.,0.0
-483,80,Boy George.,0.0
-484,80,"George Alan O'Dowd, also known as Boy George.",0.08333333333333333
-485,80,George Alan O'Dowd.,0.0
+482,80,Boy George or George Alan O'Dowd,0.0
+483,80,George Alan O'Dowd,0.0
+484,80,"George Alan O'Dowd, also known as Boy George",0.08333333333333333
+485,80,George O'Dowd,0.0
 486,81,$\it{Other}$,0.0
 487,81,Boy George,0.8571428571428571
-488,81,Boy George or George Alan O'Dowd.,0.0
-489,81,Boy George.,0.0
-490,81,"George Alan O'Dowd, also known as Boy George.",0.14285714285714285
-491,81,George Alan O'Dowd.,0.0
+488,81,Boy George or George Alan O'Dowd,0.0
+489,81,George Alan O'Dowd,0.0
+490,81,"George Alan O'Dowd, also known as Boy George",0.14285714285714285
+491,81,George O'Dowd,0.0
 492,82,$\it{Other}$,0.16666666666666666
 493,82,Boy George,0.6666666666666666
-494,82,Boy George or George Alan O'Dowd.,0.0
-495,82,Boy George.,0.0
-496,82,"George Alan O'Dowd, also known as Boy George.",0.16666666666666666
-497,82,George Alan O'Dowd.,0.0
+494,82,Boy George or George Alan O'Dowd,0.0
+495,82,George Alan O'Dowd,0.0
+496,82,"George Alan O'Dowd, also known as Boy George",0.16666666666666666
+497,82,George O'Dowd,0.0
 498,83,$\it{Other}$,0.23359406327118903
 499,83,Boy George,0.7613579561968691
-500,83,Boy George or George Alan O'Dowd.,0.005047980531941834
-501,83,Boy George.,0.0
-502,83,"George Alan O'Dowd, also known as Boy George.",0.0
-503,83,George Alan O'Dowd.,0.0
+500,83,Boy George or George Alan O'Dowd,0.005047980531941834
+501,83,George Alan O'Dowd,0.0
+502,83,"George Alan O'Dowd, also known as Boy George",0.0
+503,83,George O'Dowd,0.0

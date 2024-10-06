@@ -1,0 +1,547 @@
+,idx,ans,weighted
+0,0,"""Give Peace a Chance""",0.10476207237402066
+1,0,$\it{Other}$,0.4459243907963513
+2,0,Give Peace a Chance,0.449313536829628
+3,0,Give Peace a Chance (The Penguin Remix),0.0
+4,0,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+5,0,Give Peace a Chance (The Penguin Song),0.0
+6,1,"""Give Peace a Chance""",0.13333333333333333
+7,1,$\it{Other}$,0.43333333333333335
+8,1,Give Peace a Chance,0.43333333333333335
+9,1,Give Peace a Chance (The Penguin Remix),0.0
+10,1,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+11,1,Give Peace a Chance (The Penguin Song),0.0
+12,2,"""Give Peace a Chance""",0.11647060869507307
+13,2,$\it{Other}$,0.33349017971060824
+14,2,Give Peace a Chance,0.5500392115943187
+15,2,Give Peace a Chance (The Penguin Remix),0.0
+16,2,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+17,2,Give Peace a Chance (The Penguin Song),0.0
+18,3,"""Give Peace a Chance""",0.07084215339308379
+19,3,$\it{Other}$,0.3687191297908734
+20,3,Give Peace a Chance,0.5604387168160428
+21,3,Give Peace a Chance (The Penguin Remix),0.0
+22,3,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+23,3,Give Peace a Chance (The Penguin Song),0.0
+24,4,"""Give Peace a Chance""",0.16666666666666666
+25,4,$\it{Other}$,0.3
+26,4,Give Peace a Chance,0.5333333333333333
+27,4,Give Peace a Chance (The Penguin Remix),0.0
+28,4,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+29,4,Give Peace a Chance (The Penguin Song),0.0
+30,5,"""Give Peace a Chance""",0.09918277247594434
+31,5,$\it{Other}$,0.39050193662945376
+32,5,Give Peace a Chance,0.5103152908946019
+33,5,Give Peace a Chance (The Penguin Remix),0.0
+34,5,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+35,5,Give Peace a Chance (The Penguin Song),0.0
+36,6,"""Give Peace a Chance""",0.13952520696244328
+37,6,$\it{Other}$,0.45841083516118675
+38,6,Give Peace a Chance,0.40206395787637
+39,6,Give Peace a Chance (The Penguin Remix),0.0
+40,6,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+41,6,Give Peace a Chance (The Penguin Song),0.0
+42,7,"""Give Peace a Chance""",0.06381245444548317
+43,7,$\it{Other}$,0.4361875455545169
+44,7,Give Peace a Chance,0.5
+45,7,Give Peace a Chance (The Penguin Remix),0.0
+46,7,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+47,7,Give Peace a Chance (The Penguin Song),0.0
+48,8,"""Give Peace a Chance""",0.06666666666666667
+49,8,$\it{Other}$,0.5333333333333333
+50,8,Give Peace a Chance,0.4
+51,8,Give Peace a Chance (The Penguin Remix),0.0
+52,8,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+53,8,Give Peace a Chance (The Penguin Song),0.0
+54,9,"""Give Peace a Chance""",0.0
+55,9,$\it{Other}$,0.5666666666666667
+56,9,Give Peace a Chance,0.43333333333333335
+57,9,Give Peace a Chance (The Penguin Remix),0.0
+58,9,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+59,9,Give Peace a Chance (The Penguin Song),0.0
+60,10,"""Give Peace a Chance""",0.06666666666666667
+61,10,$\it{Other}$,0.6666666666666666
+62,10,Give Peace a Chance,0.26666666666666666
+63,10,Give Peace a Chance (The Penguin Remix),0.0
+64,10,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+65,10,Give Peace a Chance (The Penguin Song),0.0
+66,11,"""Give Peace a Chance""",0.1
+67,11,$\it{Other}$,0.43333333333333335
+68,11,Give Peace a Chance,0.4666666666666667
+69,11,Give Peace a Chance (The Penguin Remix),0.0
+70,11,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+71,11,Give Peace a Chance (The Penguin Song),0.0
+72,12,"""Give Peace a Chance""",0.13333333333333333
+73,12,$\it{Other}$,0.43333333333333335
+74,12,Give Peace a Chance,0.43333333333333335
+75,12,Give Peace a Chance (The Penguin Remix),0.0
+76,12,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+77,12,Give Peace a Chance (The Penguin Song),0.0
+78,13,"""Give Peace a Chance""",0.055782326741161514
+79,13,$\it{Other}$,0.5378265005660866
+80,13,Give Peace a Chance,0.4063911726927518
+81,13,Give Peace a Chance (The Penguin Remix),0.0
+82,13,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+83,13,Give Peace a Chance (The Penguin Song),0.0
+84,14,"""Give Peace a Chance""",0.06666666666666667
+85,14,$\it{Other}$,0.4666666666666667
+86,14,Give Peace a Chance,0.43333333333333335
+87,14,Give Peace a Chance (The Penguin Remix),0.03333333333333333
+88,14,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+89,14,Give Peace a Chance (The Penguin Song),0.0
+90,15,"""Give Peace a Chance""",0.06666666666666667
+91,15,$\it{Other}$,0.4666666666666667
+92,15,Give Peace a Chance,0.4666666666666667
+93,15,Give Peace a Chance (The Penguin Remix),0.0
+94,15,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+95,15,Give Peace a Chance (The Penguin Song),0.0
+96,16,"""Give Peace a Chance""",0.06666666666666667
+97,16,$\it{Other}$,0.5333333333333333
+98,16,Give Peace a Chance,0.4
+99,16,Give Peace a Chance (The Penguin Remix),0.0
+100,16,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+101,16,Give Peace a Chance (The Penguin Song),0.0
+102,17,"""Give Peace a Chance""",0.182525706648572
+103,17,$\it{Other}$,0.41310572001357104
+104,17,Give Peace a Chance,0.40436857333785703
+105,17,Give Peace a Chance (The Penguin Remix),0.0
+106,17,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+107,17,Give Peace a Chance (The Penguin Song),0.0
+108,18,"""Give Peace a Chance""",0.11843703720188474
+109,18,$\it{Other}$,0.6419253684415787
+110,18,Give Peace a Chance,0.23963759435653664
+111,18,Give Peace a Chance (The Penguin Remix),0.0
+112,18,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+113,18,Give Peace a Chance (The Penguin Song),0.0
+114,19,"""Give Peace a Chance""",0.11551652752072974
+115,19,$\it{Other}$,0.48072515905755403
+116,19,Give Peace a Chance,0.4037583134217163
+117,19,Give Peace a Chance (The Penguin Remix),0.0
+118,19,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+119,19,Give Peace a Chance (The Penguin Song),0.0
+120,20,"""Give Peace a Chance""",0.1382817996323002
+121,20,$\it{Other}$,0.3887844465066852
+122,20,Give Peace a Chance,0.4729337538610146
+123,20,Give Peace a Chance (The Penguin Remix),0.0
+124,20,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+125,20,Give Peace a Chance (The Penguin Song),0.0
+126,21,"""Give Peace a Chance""",0.1
+127,21,$\it{Other}$,0.5
+128,21,Give Peace a Chance,0.36666666666666664
+129,21,Give Peace a Chance (The Penguin Remix),0.0
+130,21,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+131,21,Give Peace a Chance (The Penguin Song),0.03333333333333333
+132,22,"""Give Peace a Chance""",0.2
+133,22,$\it{Other}$,0.5
+134,22,Give Peace a Chance,0.26666666666666666
+135,22,Give Peace a Chance (The Penguin Remix),0.03333333333333333
+136,22,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+137,22,Give Peace a Chance (The Penguin Song),0.0
+138,23,"""Give Peace a Chance""",0.06666666666666667
+139,23,$\it{Other}$,0.5666666666666667
+140,23,Give Peace a Chance,0.36666666666666664
+141,23,Give Peace a Chance (The Penguin Remix),0.0
+142,23,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+143,23,Give Peace a Chance (The Penguin Song),0.0
+144,24,"""Give Peace a Chance""",0.03333333333333333
+145,24,$\it{Other}$,0.23333333333333334
+146,24,Give Peace a Chance,0.7333333333333333
+147,24,Give Peace a Chance (The Penguin Remix),0.0
+148,24,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+149,24,Give Peace a Chance (The Penguin Song),0.0
+150,25,"""Give Peace a Chance""",0.18052495429971277
+151,25,$\it{Other}$,0.4113359702077346
+152,25,Give Peace a Chance,0.40438084034962685
+153,25,Give Peace a Chance (The Penguin Remix),0.0037582351429258057
+154,25,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+155,25,Give Peace a Chance (The Penguin Song),0.0
+156,26,"""Give Peace a Chance""",0.1917094719016137
+157,26,$\it{Other}$,0.3416238614317196
+158,26,Give Peace a Chance,0.4666666666666666
+159,26,Give Peace a Chance (The Penguin Remix),0.0
+160,26,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+161,26,Give Peace a Chance (The Penguin Song),0.0
+162,27,"""Give Peace a Chance""",0.06666666666666667
+163,27,$\it{Other}$,0.26666666666666666
+164,27,Give Peace a Chance,0.6666666666666666
+165,27,Give Peace a Chance (The Penguin Remix),0.0
+166,27,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+167,27,Give Peace a Chance (The Penguin Song),0.0
+168,28,"""Give Peace a Chance""",0.13333333333333333
+169,28,$\it{Other}$,0.43333333333333335
+170,28,Give Peace a Chance,0.43333333333333335
+171,28,Give Peace a Chance (The Penguin Remix),0.0
+172,28,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+173,28,Give Peace a Chance (The Penguin Song),0.0
+174,29,"""Give Peace a Chance""",0.06666666666666667
+175,29,$\it{Other}$,0.43333333333333335
+176,29,Give Peace a Chance,0.5
+177,29,Give Peace a Chance (The Penguin Remix),0.0
+178,29,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+179,29,Give Peace a Chance (The Penguin Song),0.0
+180,30,"""Give Peace a Chance""",0.03333333333333333
+181,30,$\it{Other}$,0.4666666666666667
+182,30,Give Peace a Chance,0.5
+183,30,Give Peace a Chance (The Penguin Remix),0.0
+184,30,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+185,30,Give Peace a Chance (The Penguin Song),0.0
+186,31,"""Give Peace a Chance""",0.07780037195585601
+187,31,$\it{Other}$,0.40771959498710936
+188,31,Give Peace a Chance,0.5144800330570345
+189,31,Give Peace a Chance (The Penguin Remix),0.0
+190,31,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+191,31,Give Peace a Chance (The Penguin Song),0.0
+192,32,"""Give Peace a Chance""",0.03333333333333333
+193,32,$\it{Other}$,0.4
+194,32,Give Peace a Chance,0.5666666666666667
+195,32,Give Peace a Chance (The Penguin Remix),0.0
+196,32,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+197,32,Give Peace a Chance (The Penguin Song),0.0
+198,33,"""Give Peace a Chance""",0.08185236585821906
+199,33,$\it{Other}$,0.3913424150200016
+200,33,Give Peace a Chance,0.5268052191217792
+201,33,Give Peace a Chance (The Penguin Remix),0.0
+202,33,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+203,33,Give Peace a Chance (The Penguin Song),0.0
+204,34,"""Give Peace a Chance""",0.08218744672530912
+205,34,$\it{Other}$,0.364110900556733
+206,34,Give Peace a Chance,0.5374421342730984
+207,34,Give Peace a Chance (The Penguin Remix),0.0
+208,34,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+209,34,Give Peace a Chance (The Penguin Song),0.0162595184448595
+210,35,"""Give Peace a Chance""",0.1070215881056086
+211,35,$\it{Other}$,0.5927672551145912
+212,35,Give Peace a Chance,0.25879177521333585
+213,35,Give Peace a Chance (The Penguin Remix),0.0
+214,35,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+215,35,Give Peace a Chance (The Penguin Song),0.04141938156646428
+216,36,"""Give Peace a Chance""",0.03333333333333333
+217,36,$\it{Other}$,0.7
+218,36,Give Peace a Chance,0.26666666666666666
+219,36,Give Peace a Chance (The Penguin Remix),0.0
+220,36,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+221,36,Give Peace a Chance (The Penguin Song),0.0
+222,37,"""Give Peace a Chance""",0.06666666666666667
+223,37,$\it{Other}$,0.7333333333333333
+224,37,Give Peace a Chance,0.2
+225,37,Give Peace a Chance (The Penguin Remix),0.0
+226,37,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+227,37,Give Peace a Chance (The Penguin Song),0.0
+228,38,"""Give Peace a Chance""",0.06666666666666667
+229,38,$\it{Other}$,0.7666666666666667
+230,38,Give Peace a Chance,0.16666666666666666
+231,38,Give Peace a Chance (The Penguin Remix),0.0
+232,38,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+233,38,Give Peace a Chance (The Penguin Song),0.0
+234,39,"""Give Peace a Chance""",0.0
+235,39,$\it{Other}$,0.8333333333333334
+236,39,Give Peace a Chance,0.16666666666666666
+237,39,Give Peace a Chance (The Penguin Remix),0.0
+238,39,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+239,39,Give Peace a Chance (The Penguin Song),0.0
+240,40,"""Give Peace a Chance""",0.06666666666666667
+241,40,$\it{Other}$,0.7666666666666667
+242,40,Give Peace a Chance,0.16666666666666666
+243,40,Give Peace a Chance (The Penguin Remix),0.0
+244,40,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+245,40,Give Peace a Chance (The Penguin Song),0.0
+246,41,"""Give Peace a Chance""",0.046590202013071035
+247,41,$\it{Other}$,0.5825749090823519
+248,41,Give Peace a Chance,0.37083488890457705
+249,41,Give Peace a Chance (The Penguin Remix),0.0
+250,41,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+251,41,Give Peace a Chance (The Penguin Song),0.0
+252,42,"""Give Peace a Chance""",0.07572414032730479
+253,42,$\it{Other}$,0.7242758596726951
+254,42,Give Peace a Chance,0.17119540349698573
+255,42,Give Peace a Chance (The Penguin Remix),0.028804596503014267
+256,42,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+257,42,Give Peace a Chance (The Penguin Song),0.0
+258,43,"""Give Peace a Chance""",0.03512546785668808
+259,43,$\it{Other}$,0.697552914900764
+260,43,Give Peace a Chance,0.208392080643037
+261,43,Give Peace a Chance (The Penguin Remix),0.025596203266177522
+262,43,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0059449955438010535
+263,43,Give Peace a Chance (The Penguin Song),0.02738833778953228
+264,44,"""Give Peace a Chance""",0.0
+265,44,$\it{Other}$,0.8333333333333334
+266,44,Give Peace a Chance,0.16666666666666666
+267,44,Give Peace a Chance (The Penguin Remix),0.0
+268,44,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+269,44,Give Peace a Chance (The Penguin Song),0.0
+270,45,"""Give Peace a Chance""",0.07940718829670806
+271,45,$\it{Other}$,0.6836006664042675
+272,45,Give Peace a Chance,0.17857159714266208
+273,45,Give Peace a Chance (The Penguin Remix),0.03894703210424156
+274,45,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+275,45,Give Peace a Chance (The Penguin Song),0.01947351605212078
+276,46,"""Give Peace a Chance""",0.0
+277,46,$\it{Other}$,0.602063687314328
+278,46,Give Peace a Chance,0.3979363126856721
+279,46,Give Peace a Chance (The Penguin Remix),0.0
+280,46,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+281,46,Give Peace a Chance (The Penguin Song),0.0
+282,47,"""Give Peace a Chance""",0.03333333333333333
+283,47,$\it{Other}$,0.7
+284,47,Give Peace a Chance,0.26666666666666666
+285,47,Give Peace a Chance (The Penguin Remix),0.0
+286,47,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+287,47,Give Peace a Chance (The Penguin Song),0.0
+288,48,"""Give Peace a Chance""",0.0
+289,48,$\it{Other}$,0.5333333333333333
+290,48,Give Peace a Chance,0.36666666666666664
+291,48,Give Peace a Chance (The Penguin Remix),0.0
+292,48,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+293,48,Give Peace a Chance (The Penguin Song),0.1
+294,49,"""Give Peace a Chance""",0.01161445015578326
+295,49,$\it{Other}$,0.6404177320870672
+296,49,Give Peace a Chance,0.26538949299082437
+297,49,Give Peace a Chance (The Penguin Remix),0.08257832476632511
+298,49,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+299,49,Give Peace a Chance (The Penguin Song),0.0
+300,50,"""Give Peace a Chance""",0.0
+301,50,$\it{Other}$,0.7
+302,50,Give Peace a Chance,0.26666666666666666
+303,50,Give Peace a Chance (The Penguin Remix),0.03333333333333333
+304,50,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+305,50,Give Peace a Chance (The Penguin Song),0.0
+306,51,"""Give Peace a Chance""",0.0
+307,51,$\it{Other}$,0.6911176667334836
+308,51,Give Peace a Chance,0.2401399005793127
+309,51,Give Peace a Chance (The Penguin Remix),0.022914144229067897
+310,51,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+311,51,Give Peace a Chance (The Penguin Song),0.045828288458135795
+312,52,"""Give Peace a Chance""",0.005243616281534114
+313,52,$\it{Other}$,0.3311283992851494
+314,52,Give Peace a Chance,0.1921459501302165
+315,52,Give Peace a Chance (The Penguin Remix),0.23974517046934823
+316,52,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+317,52,Give Peace a Chance (The Penguin Song),0.23173686383375167
+318,53,"""Give Peace a Chance""",0.0
+319,53,$\it{Other}$,0.16666666666666666
+320,53,Give Peace a Chance,0.06666666666666667
+321,53,Give Peace a Chance (The Penguin Remix),0.7666666666666667
+322,53,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+323,53,Give Peace a Chance (The Penguin Song),0.0
+324,54,"""Give Peace a Chance""",0.006576193099066884
+325,54,$\it{Other}$,0.05044014190049572
+326,54,Give Peace a Chance,0.1553344942246691
+327,54,Give Peace a Chance (The Penguin Remix),0.7608920305415017
+328,54,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.026757140234266445
+329,54,Give Peace a Chance (The Penguin Song),0.0
+330,55,"""Give Peace a Chance""",0.0
+331,55,$\it{Other}$,0.0
+332,55,Give Peace a Chance,0.03333333333333333
+333,55,Give Peace a Chance (The Penguin Remix),0.9666666666666667
+334,55,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+335,55,Give Peace a Chance (The Penguin Song),0.0
+336,56,"""Give Peace a Chance""",0.0
+337,56,$\it{Other}$,0.0
+338,56,Give Peace a Chance,0.1
+339,56,Give Peace a Chance (The Penguin Remix),0.8333333333333334
+340,56,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.06666666666666667
+341,56,Give Peace a Chance (The Penguin Song),0.0
+342,57,"""Give Peace a Chance""",0.0
+343,57,$\it{Other}$,0.03333333333333333
+344,57,Give Peace a Chance,0.03333333333333333
+345,57,Give Peace a Chance (The Penguin Remix),0.9
+346,57,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.03333333333333333
+347,57,Give Peace a Chance (The Penguin Song),0.0
+348,58,"""Give Peace a Chance""",0.0
+349,58,$\it{Other}$,0.0
+350,58,Give Peace a Chance,0.13333333333333333
+351,58,Give Peace a Chance (The Penguin Remix),0.8666666666666667
+352,58,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+353,58,Give Peace a Chance (The Penguin Song),0.0
+354,59,"""Give Peace a Chance""",0.015615202970410986
+355,59,$\it{Other}$,0.05390016516970955
+356,59,Give Peace a Chance,0.09742535368392867
+357,59,Give Peace a Chance (The Penguin Remix),0.8242467045445445
+358,59,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.008812573631406308
+359,59,Give Peace a Chance (The Penguin Song),0.0
+360,60,"""Give Peace a Chance""",0.0
+361,60,$\it{Other}$,0.04935330742402676
+362,60,Give Peace a Chance,0.06013569466130038
+363,60,Give Peace a Chance (The Penguin Remix),0.858471049733286
+364,60,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.03203994818138685
+365,60,Give Peace a Chance (The Penguin Song),0.0
+366,61,"""Give Peace a Chance""",0.0
+367,61,$\it{Other}$,0.06258800826715821
+368,61,Give Peace a Chance,0.09824388640026073
+369,61,Give Peace a Chance (The Penguin Remix),0.8058347719992478
+370,61,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.03333333333333333
+371,61,Give Peace a Chance (The Penguin Song),0.0
+372,62,"""Give Peace a Chance""",0.0
+373,62,$\it{Other}$,0.06896551724137931
+374,62,Give Peace a Chance,0.10344827586206896
+375,62,Give Peace a Chance (The Penguin Remix),0.7931034482758621
+376,62,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.034482758620689655
+377,62,Give Peace a Chance (The Penguin Song),0.0
+378,63,"""Give Peace a Chance""",0.0
+379,63,$\it{Other}$,0.035161042951672175
+380,63,Give Peace a Chance,0.1364647235613747
+381,63,Give Peace a Chance (The Penguin Remix),0.812883436133774
+382,63,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.015490797353179098
+383,63,Give Peace a Chance (The Penguin Song),0.0
+384,64,"""Give Peace a Chance""",0.0
+385,64,$\it{Other}$,0.03333333333333333
+386,64,Give Peace a Chance,0.13333333333333333
+387,64,Give Peace a Chance (The Penguin Remix),0.8
+388,64,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.03333333333333333
+389,64,Give Peace a Chance (The Penguin Song),0.0
+390,65,"""Give Peace a Chance""",0.01430110104761162
+391,65,$\it{Other}$,0.09846004579252152
+392,65,Give Peace a Chance,0.09185871578230231
+393,65,Give Peace a Chance (The Penguin Remix),0.7953801373775646
+394,65,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+395,65,Give Peace a Chance (The Penguin Song),0.0
+396,66,"""Give Peace a Chance""",0.03112336194266943
+397,66,$\it{Other}$,0.0
+398,66,Give Peace a Chance,0.1209323002943519
+399,66,Give Peace a Chance (The Penguin Remix),0.8206537466990544
+400,66,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.02729059106392428
+401,66,Give Peace a Chance (The Penguin Song),0.0
+402,67,"""Give Peace a Chance""",0.034482758620689655
+403,67,$\it{Other}$,0.0
+404,67,Give Peace a Chance,0.13793103448275862
+405,67,Give Peace a Chance (The Penguin Remix),0.7241379310344828
+406,67,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.10344827586206896
+407,67,Give Peace a Chance (The Penguin Song),0.0
+408,68,"""Give Peace a Chance""",0.04028039253328783
+409,68,$\it{Other}$,0.045534033371457824
+410,68,Give Peace a Chance,0.053414494628712825
+411,68,Give Peace a Chance (The Penguin Remix),0.8607710794665415
+412,68,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+413,68,Give Peace a Chance (The Penguin Song),0.0
+414,69,"""Give Peace a Chance""",0.0
+415,69,$\it{Other}$,0.038461538461538464
+416,69,Give Peace a Chance,0.11538461538461539
+417,69,Give Peace a Chance (The Penguin Remix),0.8076923076923077
+418,69,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.038461538461538464
+419,69,Give Peace a Chance (The Penguin Song),0.0
+420,70,"""Give Peace a Chance""",0.04
+421,70,$\it{Other}$,0.08
+422,70,Give Peace a Chance,0.2
+423,70,Give Peace a Chance (The Penguin Remix),0.68
+424,70,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+425,70,Give Peace a Chance (The Penguin Song),0.0
+426,71,"""Give Peace a Chance""",0.0
+427,71,$\it{Other}$,0.14285714285714285
+428,71,Give Peace a Chance,0.10714285714285714
+429,71,Give Peace a Chance (The Penguin Remix),0.6785714285714286
+430,71,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.07142857142857142
+431,71,Give Peace a Chance (The Penguin Song),0.0
+432,72,"""Give Peace a Chance""",0.0
+433,72,$\it{Other}$,0.045454545454545456
+434,72,Give Peace a Chance,0.045454545454545456
+435,72,Give Peace a Chance (The Penguin Remix),0.8636363636363636
+436,72,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.045454545454545456
+437,72,Give Peace a Chance (The Penguin Song),0.0
+438,73,"""Give Peace a Chance""",0.0
+439,73,$\it{Other}$,0.047619047619047616
+440,73,Give Peace a Chance,0.09523809523809523
+441,73,Give Peace a Chance (The Penguin Remix),0.8095238095238095
+442,73,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.047619047619047616
+443,73,Give Peace a Chance (The Penguin Song),0.0
+444,74,"""Give Peace a Chance""",0.0
+445,74,$\it{Other}$,0.1111111111111111
+446,74,Give Peace a Chance,0.037037037037037035
+447,74,Give Peace a Chance (The Penguin Remix),0.8148148148148148
+448,74,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.037037037037037035
+449,74,Give Peace a Chance (The Penguin Song),0.0
+450,75,"""Give Peace a Chance""",0.016232257314185778
+451,75,$\it{Other}$,0.016232257314185778
+452,75,Give Peace a Chance,0.06492902925674311
+453,75,Give Peace a Chance (The Penguin Remix),0.8512661330183879
+454,75,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.051340323096497276
+455,75,Give Peace a Chance (The Penguin Song),0.0
+456,76,"""Give Peace a Chance""",0.027884964181213577
+457,76,$\it{Other}$,0.11231368502571099
+458,76,Give Peace a Chance,0.026764389471536764
+459,76,Give Peace a Chance (The Penguin Remix),0.7645630228728029
+460,76,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.06847393844873581
+461,76,Give Peace a Chance (The Penguin Song),0.0
+462,77,"""Give Peace a Chance""",0.0
+463,77,$\it{Other}$,0.1111111111111111
+464,77,Give Peace a Chance,0.0
+465,77,Give Peace a Chance (The Penguin Remix),0.7777777777777778
+466,77,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.1111111111111111
+467,77,Give Peace a Chance (The Penguin Song),0.0
+468,78,"""Give Peace a Chance""",0.0
+469,78,$\it{Other}$,0.0
+470,78,Give Peace a Chance,0.0
+471,78,Give Peace a Chance (The Penguin Remix),0.9166666666666666
+472,78,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.08333333333333333
+473,78,Give Peace a Chance (The Penguin Song),0.0
+474,79,"""Give Peace a Chance""",0.0
+475,79,$\it{Other}$,0.0112723861592748
+476,79,Give Peace a Chance,0.0
+477,79,Give Peace a Chance (The Penguin Remix),0.9887276138407252
+478,79,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+479,79,Give Peace a Chance (The Penguin Song),0.0
+480,80,"""Give Peace a Chance""",0.0
+481,80,$\it{Other}$,0.0
+482,80,Give Peace a Chance,0.0
+483,80,Give Peace a Chance (The Penguin Remix),0.8114580837314093
+484,80,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.1885419162685908
+485,80,Give Peace a Chance (The Penguin Song),0.0
+486,81,"""Give Peace a Chance""",0.0
+487,81,$\it{Other}$,0.0
+488,81,Give Peace a Chance,0.0
+489,81,Give Peace a Chance (The Penguin Remix),0.75
+490,81,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.25
+491,81,Give Peace a Chance (The Penguin Song),0.0
+492,82,"""Give Peace a Chance""",0.0
+493,82,$\it{Other}$,0.0
+494,82,Give Peace a Chance,0.0
+495,82,Give Peace a Chance (The Penguin Remix),0.8333333333333334
+496,82,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.16666666666666666
+497,82,Give Peace a Chance (The Penguin Song),0.0
+498,83,"""Give Peace a Chance""",0.0
+499,83,$\it{Other}$,0.0
+500,83,Give Peace a Chance,0.0
+501,83,Give Peace a Chance (The Penguin Remix),1.0
+502,83,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+503,83,Give Peace a Chance (The Penguin Song),0.0
+504,84,"""Give Peace a Chance""",0.0
+505,84,$\it{Other}$,0.0
+506,84,Give Peace a Chance,0.0
+507,84,Give Peace a Chance (The Penguin Remix),0.8333333333333334
+508,84,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.16666666666666666
+509,84,Give Peace a Chance (The Penguin Song),0.0
+510,85,"""Give Peace a Chance""",0.0
+511,85,$\it{Other}$,0.0
+512,85,Give Peace a Chance,0.0
+513,85,Give Peace a Chance (The Penguin Remix),0.8333333333333334
+514,85,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.16666666666666666
+515,85,Give Peace a Chance (The Penguin Song),0.0
+516,86,"""Give Peace a Chance""",0.0
+517,86,$\it{Other}$,0.0
+518,86,Give Peace a Chance,0.0
+519,86,Give Peace a Chance (The Penguin Remix),0.8333333333333334
+520,86,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.16666666666666666
+521,86,Give Peace a Chance (The Penguin Song),0.0
+522,87,"""Give Peace a Chance""",0.0
+523,87,$\it{Other}$,0.0
+524,87,Give Peace a Chance,0.0
+525,87,Give Peace a Chance (The Penguin Remix),0.75
+526,87,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.25
+527,87,Give Peace a Chance (The Penguin Song),0.0
+528,88,"""Give Peace a Chance""",0.0
+529,88,$\it{Other}$,0.0
+530,88,Give Peace a Chance,0.0
+531,88,Give Peace a Chance (The Penguin Remix),1.0
+532,88,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+533,88,Give Peace a Chance (The Penguin Song),0.0
+534,89,"""Give Peace a Chance""",0.0
+535,89,$\it{Other}$,0.0
+536,89,Give Peace a Chance,0.0
+537,89,Give Peace a Chance (The Penguin Remix),0.8333333333333334
+538,89,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.16666666666666666
+539,89,Give Peace a Chance (The Penguin Song),0.0
+540,90,"""Give Peace a Chance""",0.0
+541,90,$\it{Other}$,0.0
+542,90,Give Peace a Chance,0.0
+543,90,Give Peace a Chance (The Penguin Remix),1.0
+544,90,Give Peace a Chance (The Penguin Remix) by The Incredible Penguins,0.0
+545,90,Give Peace a Chance (The Penguin Song),0.0

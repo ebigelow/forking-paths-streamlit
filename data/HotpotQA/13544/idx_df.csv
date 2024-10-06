@@ -1,0 +1,1099 @@
+,idx,ans,weighted
+0,0,$\it{Other}$,0.9219660487160053
+1,0,Cannot be determined,0.006846524880759343
+2,0,Not enough information,0.026951571430411998
+3,0,Racing,0.0442358549728233
+4,0,The answer cannot be determined,0.0
+5,0,The answer cannot be determined from the information provided,0.0
+6,1,$\it{Other}$,0.9
+7,1,Cannot be determined,0.0
+8,1,Not enough information,0.0
+9,1,Racing,0.0911366971117488
+10,1,The answer cannot be determined,0.0
+11,1,The answer cannot be determined from the information provided,0.008863302888251195
+12,2,$\it{Other}$,0.9666666666666668
+13,2,Cannot be determined,0.0
+14,2,Not enough information,0.0046241900182425084
+15,2,Racing,0.0
+16,2,The answer cannot be determined,0.0
+17,2,The answer cannot be determined from the information provided,0.028709143315090828
+18,3,$\it{Other}$,0.8589602742396664
+19,3,Cannot be determined,0.0
+20,3,Not enough information,0.02917106708495469
+21,3,Racing,0.11186865867537907
+22,3,The answer cannot be determined,0.0
+23,3,The answer cannot be determined from the information provided,0.0
+24,4,$\it{Other}$,0.9666666666666667
+25,4,Cannot be determined,0.0
+26,4,Not enough information,0.03333333333333333
+27,4,Racing,0.0
+28,4,The answer cannot be determined,0.0
+29,4,The answer cannot be determined from the information provided,0.0
+30,5,$\it{Other}$,0.9333333333333333
+31,5,Cannot be determined,0.0
+32,5,Not enough information,0.0
+33,5,Racing,0.06666666666666667
+34,5,The answer cannot be determined,0.0
+35,5,The answer cannot be determined from the information provided,0.0
+36,6,$\it{Other}$,0.9333333333333333
+37,6,Cannot be determined,0.03333333333333333
+38,6,Not enough information,0.03333333333333333
+39,6,Racing,0.0
+40,6,The answer cannot be determined,0.0
+41,6,The answer cannot be determined from the information provided,0.0
+42,7,$\it{Other}$,0.9333333333333333
+43,7,Cannot be determined,0.0
+44,7,Not enough information,0.03333333333333333
+45,7,Racing,0.03333333333333333
+46,7,The answer cannot be determined,0.0
+47,7,The answer cannot be determined from the information provided,0.0
+48,8,$\it{Other}$,0.8666666666666667
+49,8,Cannot be determined,0.0
+50,8,Not enough information,0.0
+51,8,Racing,0.1
+52,8,The answer cannot be determined,0.0
+53,8,The answer cannot be determined from the information provided,0.03333333333333333
+54,9,$\it{Other}$,0.9333333333333333
+55,9,Cannot be determined,0.03333333333333333
+56,9,Not enough information,0.0
+57,9,Racing,0.03333333333333333
+58,9,The answer cannot be determined,0.0
+59,9,The answer cannot be determined from the information provided,0.0
+60,10,$\it{Other}$,0.9666666666666667
+61,10,Cannot be determined,0.0
+62,10,Not enough information,0.0
+63,10,Racing,0.03333333333333333
+64,10,The answer cannot be determined,0.0
+65,10,The answer cannot be determined from the information provided,0.0
+66,11,$\it{Other}$,0.8333333333333334
+67,11,Cannot be determined,0.0
+68,11,Not enough information,0.0
+69,11,Racing,0.13333333333333333
+70,11,The answer cannot be determined,0.0
+71,11,The answer cannot be determined from the information provided,0.03333333333333333
+72,12,$\it{Other}$,0.9504962898402309
+73,12,Cannot be determined,0.0
+74,12,Not enough information,0.023798467575849372
+75,12,Racing,0.025705242583919725
+76,12,The answer cannot be determined,0.0
+77,12,The answer cannot be determined from the information provided,0.0
+78,13,$\it{Other}$,0.9666666666666667
+79,13,Cannot be determined,0.0
+80,13,Not enough information,0.03333333333333333
+81,13,Racing,0.0
+82,13,The answer cannot be determined,0.0
+83,13,The answer cannot be determined from the information provided,0.0
+84,14,$\it{Other}$,0.8666666666666667
+85,14,Cannot be determined,0.0
+86,14,Not enough information,0.06666666666666667
+87,14,Racing,0.06666666666666667
+88,14,The answer cannot be determined,0.0
+89,14,The answer cannot be determined from the information provided,0.0
+90,15,$\it{Other}$,0.8666666666666667
+91,15,Cannot be determined,0.0
+92,15,Not enough information,0.06666666666666667
+93,15,Racing,0.06666666666666667
+94,15,The answer cannot be determined,0.0
+95,15,The answer cannot be determined from the information provided,0.0
+96,16,$\it{Other}$,0.9227477343928656
+97,16,Cannot be determined,0.0
+98,16,Not enough information,0.033329998699843294
+99,16,Racing,0.04392226690729111
+100,16,The answer cannot be determined,0.0
+101,16,The answer cannot be determined from the information provided,0.0
+102,17,$\it{Other}$,0.9666666666666667
+103,17,Cannot be determined,0.0
+104,17,Not enough information,0.0
+105,17,Racing,0.0
+106,17,The answer cannot be determined,0.0
+107,17,The answer cannot be determined from the information provided,0.03333333333333333
+108,18,$\it{Other}$,0.9
+109,18,Cannot be determined,0.0
+110,18,Not enough information,0.0
+111,18,Racing,0.06666666666666667
+112,18,The answer cannot be determined,0.0
+113,18,The answer cannot be determined from the information provided,0.03333333333333333
+114,19,$\it{Other}$,0.9333333333333333
+115,19,Cannot be determined,0.021263408676411362
+116,19,Not enough information,0.012069924656921971
+117,19,Racing,0.03333333333333333
+118,19,The answer cannot be determined,0.0
+119,19,The answer cannot be determined from the information provided,0.0
+120,20,$\it{Other}$,0.9630486409949168
+121,20,Cannot be determined,0.0
+122,20,Not enough information,0.0
+123,20,Racing,0.00723605134349969
+124,20,The answer cannot be determined,0.0
+125,20,The answer cannot be determined from the information provided,0.02971530766158349
+126,21,$\it{Other}$,0.9
+127,21,Cannot be determined,0.0
+128,21,Not enough information,0.0
+129,21,Racing,0.06666666666666667
+130,21,The answer cannot be determined,0.0
+131,21,The answer cannot be determined from the information provided,0.03333333333333333
+132,22,$\it{Other}$,0.9390374288479968
+133,22,Cannot be determined,0.0
+134,22,Not enough information,0.0
+135,22,Racing,0.06096257115200319
+136,22,The answer cannot be determined,0.0
+137,22,The answer cannot be determined from the information provided,0.0
+138,23,$\it{Other}$,0.9
+139,23,Cannot be determined,0.0
+140,23,Not enough information,0.0
+141,23,Racing,0.1
+142,23,The answer cannot be determined,0.0
+143,23,The answer cannot be determined from the information provided,0.0
+144,24,$\it{Other}$,0.9902377139286779
+145,24,Cannot be determined,0.0
+146,24,Not enough information,0.0019791610548112594
+147,24,Racing,0.00778312501651072
+148,24,The answer cannot be determined,0.0
+149,24,The answer cannot be determined from the information provided,0.0
+150,25,$\it{Other}$,0.8947446426212323
+151,25,Cannot be determined,0.04364516928525738
+152,25,Not enough information,0.02182258464262869
+153,25,Racing,0.03273248745866453
+154,25,The answer cannot be determined,0.0
+155,25,The answer cannot be determined from the information provided,0.007055115992217166
+156,26,$\it{Other}$,0.9666666666666667
+157,26,Cannot be determined,0.0
+158,26,Not enough information,0.0
+159,26,Racing,0.03333333333333333
+160,26,The answer cannot be determined,0.0
+161,26,The answer cannot be determined from the information provided,0.0
+162,27,$\it{Other}$,0.9283201778074418
+163,27,Cannot be determined,0.0
+164,27,Not enough information,0.0033421036839277178
+165,27,Racing,0.060853610250030735
+166,27,The answer cannot be determined,0.0
+167,27,The answer cannot be determined from the information provided,0.007484108258599789
+168,28,$\it{Other}$,0.9357401533782924
+169,28,Cannot be determined,0.0
+170,28,Not enough information,0.015463256644187125
+171,28,Racing,0.048796589977520455
+172,28,The answer cannot be determined,0.0
+173,28,The answer cannot be determined from the information provided,0.0
+174,29,$\it{Other}$,0.9
+175,29,Cannot be determined,0.0
+176,29,Not enough information,0.0
+177,29,Racing,0.1
+178,29,The answer cannot be determined,0.0
+179,29,The answer cannot be determined from the information provided,0.0
+180,30,$\it{Other}$,0.9462128302684456
+181,30,Cannot be determined,0.0
+182,30,Not enough information,0.0
+183,30,Racing,0.053787169731554355
+184,30,The answer cannot be determined,0.0
+185,30,The answer cannot be determined from the information provided,0.0
+186,31,$\it{Other}$,0.9688980533714532
+187,31,Cannot be determined,0.0
+188,31,Not enough information,0.0
+189,31,Racing,0.031101946628546873
+190,31,The answer cannot be determined,0.0
+191,31,The answer cannot be determined from the information provided,0.0
+192,32,$\it{Other}$,0.9666666666666667
+193,32,Cannot be determined,0.03333333333333333
+194,32,Not enough information,0.0
+195,32,Racing,0.0
+196,32,The answer cannot be determined,0.0
+197,32,The answer cannot be determined from the information provided,0.0
+198,33,$\it{Other}$,0.9
+199,33,Cannot be determined,0.0
+200,33,Not enough information,0.03333333333333333
+201,33,Racing,0.06666666666666667
+202,33,The answer cannot be determined,0.0
+203,33,The answer cannot be determined from the information provided,0.0
+204,34,$\it{Other}$,0.9292926701730422
+205,34,Cannot be determined,0.0
+206,34,Not enough information,0.0
+207,34,Racing,0.04389564523708797
+208,34,The answer cannot be determined,0.0
+209,34,The answer cannot be determined from the information provided,0.02681168458986983
+210,35,$\it{Other}$,0.9074976811508083
+211,35,Cannot be determined,0.0
+212,35,Not enough information,0.0
+213,35,Racing,0.09250231884919174
+214,35,The answer cannot be determined,0.0
+215,35,The answer cannot be determined from the information provided,0.0
+216,36,$\it{Other}$,0.9666666666666667
+217,36,Cannot be determined,0.0
+218,36,Not enough information,0.0
+219,36,Racing,0.03333333333333333
+220,36,The answer cannot be determined,0.0
+221,36,The answer cannot be determined from the information provided,0.0
+222,37,$\it{Other}$,0.8666666666666667
+223,37,Cannot be determined,0.0
+224,37,Not enough information,0.0
+225,37,Racing,0.13333333333333333
+226,37,The answer cannot be determined,0.0
+227,37,The answer cannot be determined from the information provided,0.0
+228,38,$\it{Other}$,0.9081358700300943
+229,38,Cannot be determined,0.0
+230,38,Not enough information,0.02926539831828617
+231,38,Racing,0.0625987316516195
+232,38,The answer cannot be determined,0.0
+233,38,The answer cannot be determined from the information provided,0.0
+234,39,$\it{Other}$,0.9666666666666667
+235,39,Cannot be determined,0.0
+236,39,Not enough information,0.03333333333333333
+237,39,Racing,0.0
+238,39,The answer cannot be determined,0.0
+239,39,The answer cannot be determined from the information provided,0.0
+240,40,$\it{Other}$,1.0
+241,40,Cannot be determined,0.0
+242,40,Not enough information,0.0
+243,40,Racing,0.0
+244,40,The answer cannot be determined,0.0
+245,40,The answer cannot be determined from the information provided,0.0
+246,41,$\it{Other}$,0.9
+247,41,Cannot be determined,0.0
+248,41,Not enough information,0.0
+249,41,Racing,0.1
+250,41,The answer cannot be determined,0.0
+251,41,The answer cannot be determined from the information provided,0.0
+252,42,$\it{Other}$,0.9
+253,42,Cannot be determined,0.0
+254,42,Not enough information,0.0
+255,42,Racing,0.1
+256,42,The answer cannot be determined,0.0
+257,42,The answer cannot be determined from the information provided,0.0
+258,43,$\it{Other}$,0.9333333333333333
+259,43,Cannot be determined,0.0
+260,43,Not enough information,0.0
+261,43,Racing,0.06666666666666667
+262,43,The answer cannot be determined,0.0
+263,43,The answer cannot be determined from the information provided,0.0
+264,44,$\it{Other}$,0.8
+265,44,Cannot be determined,0.06666666666666667
+266,44,Not enough information,0.03333333333333333
+267,44,Racing,0.1
+268,44,The answer cannot be determined,0.0
+269,44,The answer cannot be determined from the information provided,0.0
+270,45,$\it{Other}$,0.8666666666666667
+271,45,Cannot be determined,0.03333333333333333
+272,45,Not enough information,0.03333333333333333
+273,45,Racing,0.06666666666666667
+274,45,The answer cannot be determined,0.0
+275,45,The answer cannot be determined from the information provided,0.0
+276,46,$\it{Other}$,0.9666666666666667
+277,46,Cannot be determined,0.0
+278,46,Not enough information,0.0
+279,46,Racing,0.03333333333333333
+280,46,The answer cannot be determined,0.0
+281,46,The answer cannot be determined from the information provided,0.0
+282,47,$\it{Other}$,0.9333333333333333
+283,47,Cannot be determined,0.0
+284,47,Not enough information,0.03333333333333333
+285,47,Racing,0.0
+286,47,The answer cannot be determined,0.0
+287,47,The answer cannot be determined from the information provided,0.03333333333333333
+288,48,$\it{Other}$,0.9
+289,48,Cannot be determined,0.0
+290,48,Not enough information,0.0
+291,48,Racing,0.1
+292,48,The answer cannot be determined,0.0
+293,48,The answer cannot be determined from the information provided,0.0
+294,49,$\it{Other}$,0.9666666666666667
+295,49,Cannot be determined,0.0
+296,49,Not enough information,0.0
+297,49,Racing,0.03333333333333333
+298,49,The answer cannot be determined,0.0
+299,49,The answer cannot be determined from the information provided,0.0
+300,50,$\it{Other}$,0.8
+301,50,Cannot be determined,0.03333333333333333
+302,50,Not enough information,0.03333333333333333
+303,50,Racing,0.1
+304,50,The answer cannot be determined,0.0
+305,50,The answer cannot be determined from the information provided,0.03333333333333333
+306,51,$\it{Other}$,0.9201867256987151
+307,51,Cannot be determined,0.0
+308,51,Not enough information,0.045497931082828034
+309,51,Racing,0.034315343218456876
+310,51,The answer cannot be determined,0.0
+311,51,The answer cannot be determined from the information provided,0.0
+312,52,$\it{Other}$,0.9
+313,52,Cannot be determined,0.0
+314,52,Not enough information,0.03333333333333333
+315,52,Racing,0.06666666666666667
+316,52,The answer cannot be determined,0.0
+317,52,The answer cannot be determined from the information provided,0.0
+318,53,$\it{Other}$,0.9291358522917608
+319,53,Cannot be determined,0.0
+320,53,Not enough information,0.004197481041572438
+321,53,Racing,0.06666666666666667
+322,53,The answer cannot be determined,0.0
+323,53,The answer cannot be determined from the information provided,0.0
+324,54,$\it{Other}$,0.9
+325,54,Cannot be determined,0.0
+326,54,Not enough information,0.03333333333333333
+327,54,Racing,0.06666666666666667
+328,54,The answer cannot be determined,0.0
+329,54,The answer cannot be determined from the information provided,0.0
+330,55,$\it{Other}$,1.0
+331,55,Cannot be determined,0.0
+332,55,Not enough information,0.0
+333,55,Racing,0.0
+334,55,The answer cannot be determined,0.0
+335,55,The answer cannot be determined from the information provided,0.0
+336,56,$\it{Other}$,0.9000000000000001
+337,56,Cannot be determined,0.0
+338,56,Not enough information,0.022789639949512767
+339,56,Racing,0.07721036005048725
+340,56,The answer cannot be determined,0.0
+341,56,The answer cannot be determined from the information provided,0.0
+342,57,$\it{Other}$,0.8895696960304343
+343,57,Cannot be determined,0.02569899021207741
+344,57,Not enough information,0.0
+345,57,Racing,0.08473131375748816
+346,57,The answer cannot be determined,0.0
+347,57,The answer cannot be determined from the information provided,0.0
+348,58,$\it{Other}$,0.9209808745191908
+349,58,Cannot be determined,0.002640775382898938
+350,58,Not enough information,0.009429891641168918
+351,58,Racing,0.054855841715621814
+352,58,The answer cannot be determined,0.0
+353,58,The answer cannot be determined from the information provided,0.012092616741119565
+354,59,$\it{Other}$,0.9
+355,59,Cannot be determined,0.0
+356,59,Not enough information,0.03333333333333333
+357,59,Racing,0.06666666666666667
+358,59,The answer cannot be determined,0.0
+359,59,The answer cannot be determined from the information provided,0.0
+360,60,$\it{Other}$,0.8666666666666667
+361,60,Cannot be determined,0.0
+362,60,Not enough information,0.0
+363,60,Racing,0.13333333333333333
+364,60,The answer cannot be determined,0.0
+365,60,The answer cannot be determined from the information provided,0.0
+366,61,$\it{Other}$,0.9666666666666667
+367,61,Cannot be determined,0.0
+368,61,Not enough information,0.0
+369,61,Racing,0.03333333333333333
+370,61,The answer cannot be determined,0.0
+371,61,The answer cannot be determined from the information provided,0.0
+372,62,$\it{Other}$,0.9381944963056081
+373,62,Cannot be determined,0.0
+374,62,Not enough information,0.011644069782932512
+375,62,Racing,0.050161433911459455
+376,62,The answer cannot be determined,0.0
+377,62,The answer cannot be determined from the information provided,0.0
+378,63,$\it{Other}$,0.9922634470844819
+379,63,Cannot be determined,0.0
+380,63,Not enough information,0.0
+381,63,Racing,0.007736552915518157
+382,63,The answer cannot be determined,0.0
+383,63,The answer cannot be determined from the information provided,0.0
+384,64,$\it{Other}$,0.9333333333333333
+385,64,Cannot be determined,0.0
+386,64,Not enough information,0.0
+387,64,Racing,0.03333333333333333
+388,64,The answer cannot be determined,0.0
+389,64,The answer cannot be determined from the information provided,0.03333333333333333
+390,65,$\it{Other}$,0.9369479585973388
+391,65,Cannot be determined,0.0
+392,65,Not enough information,0.029718708069327804
+393,65,Racing,0.003614625264005529
+394,65,The answer cannot be determined,0.0
+395,65,The answer cannot be determined from the information provided,0.029718708069327804
+396,66,$\it{Other}$,0.8375761168551961
+397,66,Cannot be determined,0.031211941572401977
+398,66,Not enough information,0.031211941572401977
+399,66,Racing,0.09787860823906866
+400,66,The answer cannot be determined,0.0021213917609313577
+401,66,The answer cannot be determined from the information provided,0.0
+402,67,$\it{Other}$,0.8697707529346463
+403,67,Cannot be determined,0.013098618538011345
+404,67,Not enough information,0.027932431731336388
+405,67,Racing,0.0615465754040216
+406,67,The answer cannot be determined,0.02023471479532199
+407,67,The answer cannot be determined from the information provided,0.0074169065966625215
+408,68,$\it{Other}$,0.8704928192980376
+409,68,Cannot be determined,0.03142025701764787
+410,68,Not enough information,0.0019130763156854638
+411,68,Racing,0.09617384736862908
+412,68,The answer cannot be determined,0.0
+413,68,The answer cannot be determined from the information provided,0.0
+414,69,$\it{Other}$,0.9333333333333333
+415,69,Cannot be determined,0.0
+416,69,Not enough information,0.0
+417,69,Racing,0.06666666666666667
+418,69,The answer cannot be determined,0.0
+419,69,The answer cannot be determined from the information provided,0.0
+420,70,$\it{Other}$,0.9666666666666667
+421,70,Cannot be determined,0.0
+422,70,Not enough information,0.0
+423,70,Racing,0.03333333333333333
+424,70,The answer cannot be determined,0.0
+425,70,The answer cannot be determined from the information provided,0.0
+426,71,$\it{Other}$,0.9
+427,71,Cannot be determined,0.0
+428,71,Not enough information,0.0
+429,71,Racing,0.1
+430,71,The answer cannot be determined,0.0
+431,71,The answer cannot be determined from the information provided,0.0
+432,72,$\it{Other}$,0.9186201381248003
+433,72,Cannot be determined,0.0
+434,72,Not enough information,0.049430841085826134
+435,72,Racing,0.03194902078937365
+436,72,The answer cannot be determined,0.0
+437,72,The answer cannot be determined from the information provided,0.0
+438,73,$\it{Other}$,0.9666666666666667
+439,73,Cannot be determined,0.03333333333333333
+440,73,Not enough information,0.0
+441,73,Racing,0.0
+442,73,The answer cannot be determined,0.0
+443,73,The answer cannot be determined from the information provided,0.0
+444,74,$\it{Other}$,0.8529666438655511
+445,74,Cannot be determined,0.02527736587007006
+446,74,Not enough information,0.04259525685930207
+447,74,Racing,0.07916073340507679
+448,74,The answer cannot be determined,0.0
+449,74,The answer cannot be determined from the information provided,0.0
+450,75,$\it{Other}$,0.8622307275078014
+451,75,Cannot be determined,0.0
+452,75,Not enough information,0.02889739417446797
+453,75,Racing,0.10887187831773074
+454,75,The answer cannot be determined,0.0
+455,75,The answer cannot be determined from the information provided,0.0
+456,76,$\it{Other}$,0.9
+457,76,Cannot be determined,0.03333333333333333
+458,76,Not enough information,0.03333333333333333
+459,76,Racing,0.0
+460,76,The answer cannot be determined,0.0
+461,76,The answer cannot be determined from the information provided,0.03333333333333333
+462,77,$\it{Other}$,0.9380338661675424
+463,77,Cannot be determined,0.0
+464,77,Not enough information,0.0
+465,77,Racing,0.061966133832457665
+466,77,The answer cannot be determined,0.0
+467,77,The answer cannot be determined from the information provided,0.0
+468,78,$\it{Other}$,0.9333333333333333
+469,78,Cannot be determined,0.0
+470,78,Not enough information,0.0
+471,78,Racing,0.03333333333333333
+472,78,The answer cannot be determined,0.0
+473,78,The answer cannot be determined from the information provided,0.03333333333333333
+474,79,$\it{Other}$,0.8333333333333334
+475,79,Cannot be determined,0.0
+476,79,Not enough information,0.13333333333333333
+477,79,Racing,0.03333333333333333
+478,79,The answer cannot be determined,0.0
+479,79,The answer cannot be determined from the information provided,0.0
+480,80,$\it{Other}$,0.9333333333333333
+481,80,Cannot be determined,0.0
+482,80,Not enough information,0.0
+483,80,Racing,0.06666666666666667
+484,80,The answer cannot be determined,0.0
+485,80,The answer cannot be determined from the information provided,0.0
+486,81,$\it{Other}$,0.8194891101096591
+487,81,Cannot be determined,0.0031742152147270753
+488,81,Not enough information,0.0
+489,81,Racing,0.17098824424615983
+490,81,The answer cannot be determined,0.0031742152147270753
+491,81,The answer cannot be determined from the information provided,0.0031742152147270753
+492,82,$\it{Other}$,0.9333333333333333
+493,82,Cannot be determined,0.03333333333333333
+494,82,Not enough information,0.0
+495,82,Racing,0.03333333333333333
+496,82,The answer cannot be determined,0.0
+497,82,The answer cannot be determined from the information provided,0.0
+498,83,$\it{Other}$,0.8920531811828587
+499,83,Cannot be determined,0.019923974713500915
+500,83,Not enough information,0.02135617743697362
+501,83,Racing,0.06187600445797742
+502,83,The answer cannot be determined,0.0
+503,83,The answer cannot be determined from the information provided,0.004790662208689243
+504,84,$\it{Other}$,0.8997724357629824
+505,84,Cannot be determined,0.0
+506,84,Not enough information,0.01137393384281066
+507,84,Racing,0.08885363039420699
+508,84,The answer cannot be determined,0.0
+509,84,The answer cannot be determined from the information provided,0.0
+510,85,$\it{Other}$,0.7666666666666667
+511,85,Cannot be determined,0.0
+512,85,Not enough information,0.0
+513,85,Racing,0.23333333333333334
+514,85,The answer cannot be determined,0.0
+515,85,The answer cannot be determined from the information provided,0.0
+516,86,$\it{Other}$,0.8333333333333334
+517,86,Cannot be determined,0.03333333333333333
+518,86,Not enough information,0.0
+519,86,Racing,0.1
+520,86,The answer cannot be determined,0.0
+521,86,The answer cannot be determined from the information provided,0.03333333333333333
+522,87,$\it{Other}$,0.8333333333333333
+523,87,Cannot be determined,0.0
+524,87,Not enough information,0.009654851232949891
+525,87,Racing,0.15701181543371676
+526,87,The answer cannot be determined,0.0
+527,87,The answer cannot be determined from the information provided,0.0
+528,88,$\it{Other}$,0.9
+529,88,Cannot be determined,0.0
+530,88,Not enough information,0.06666666666666667
+531,88,Racing,0.03333333333333333
+532,88,The answer cannot be determined,0.0
+533,88,The answer cannot be determined from the information provided,0.0
+534,89,$\it{Other}$,0.775237858124603
+535,89,Cannot be determined,0.0
+536,89,Not enough information,0.08285761708412737
+537,89,Racing,0.14190452479126964
+538,89,The answer cannot be determined,0.0
+539,89,The answer cannot be determined from the information provided,0.0
+540,90,$\it{Other}$,0.8333333333333334
+541,90,Cannot be determined,0.0
+542,90,Not enough information,0.05868309452817722
+543,90,Racing,0.10798357213848944
+544,90,The answer cannot be determined,0.0
+545,90,The answer cannot be determined from the information provided,0.0
+546,91,$\it{Other}$,0.7903106698042437
+547,91,Cannot be determined,0.011822001568788532
+548,91,Not enough information,0.06666666666666667
+549,91,Racing,0.11937866039151253
+550,91,The answer cannot be determined,0.0
+551,91,The answer cannot be determined from the information provided,0.011822001568788532
+552,92,$\it{Other}$,0.7333333333333333
+553,92,Cannot be determined,0.0
+554,92,Not enough information,0.06666666666666667
+555,92,Racing,0.2
+556,92,The answer cannot be determined,0.0
+557,92,The answer cannot be determined from the information provided,0.0
+558,93,$\it{Other}$,0.7666666666666667
+559,93,Cannot be determined,0.03333333333333333
+560,93,Not enough information,0.16666666666666666
+561,93,Racing,0.03333333333333333
+562,93,The answer cannot be determined,0.0
+563,93,The answer cannot be determined from the information provided,0.0
+564,94,$\it{Other}$,0.9044941271005706
+565,94,Cannot be determined,0.0
+566,94,Not enough information,0.020724179855365284
+567,94,Racing,0.0747816930440639
+568,94,The answer cannot be determined,0.0
+569,94,The answer cannot be determined from the information provided,0.0
+570,95,$\it{Other}$,0.8666666666666667
+571,95,Cannot be determined,0.0
+572,95,Not enough information,0.03333333333333333
+573,95,Racing,0.1
+574,95,The answer cannot be determined,0.0
+575,95,The answer cannot be determined from the information provided,0.0
+576,96,$\it{Other}$,0.8666666666666667
+577,96,Cannot be determined,0.0
+578,96,Not enough information,0.06666666666666667
+579,96,Racing,0.06666666666666667
+580,96,The answer cannot be determined,0.0
+581,96,The answer cannot be determined from the information provided,0.0
+582,97,$\it{Other}$,0.8333333333333334
+583,97,Cannot be determined,0.0
+584,97,Not enough information,0.13333333333333333
+585,97,Racing,0.03333333333333333
+586,97,The answer cannot be determined,0.0
+587,97,The answer cannot be determined from the information provided,0.0
+588,98,$\it{Other}$,0.8333333333333334
+589,98,Cannot be determined,0.0
+590,98,Not enough information,0.06666666666666667
+591,98,Racing,0.06666666666666667
+592,98,The answer cannot be determined,0.0
+593,98,The answer cannot be determined from the information provided,0.03333333333333333
+594,99,$\it{Other}$,0.935054518726177
+595,99,Cannot be determined,0.006601373999522334
+596,99,Not enough information,0.051742733274778296
+597,99,Racing,0.006601373999522334
+598,99,The answer cannot be determined,0.0
+599,99,The answer cannot be determined from the information provided,0.0
+600,100,$\it{Other}$,0.9
+601,100,Cannot be determined,0.03333333333333333
+602,100,Not enough information,0.03333333333333333
+603,100,Racing,0.03333333333333333
+604,100,The answer cannot be determined,0.0
+605,100,The answer cannot be determined from the information provided,0.0
+606,101,$\it{Other}$,0.6666666666666666
+607,101,Cannot be determined,0.0
+608,101,Not enough information,0.1
+609,101,Racing,0.23333333333333334
+610,101,The answer cannot be determined,0.0
+611,101,The answer cannot be determined from the information provided,0.0
+612,102,$\it{Other}$,0.7666666666666667
+613,102,Cannot be determined,0.03333333333333333
+614,102,Not enough information,0.06666666666666667
+615,102,Racing,0.13333333333333333
+616,102,The answer cannot be determined,0.0
+617,102,The answer cannot be determined from the information provided,0.0
+618,103,$\it{Other}$,0.8028028611579345
+619,103,Cannot be determined,0.002802861157934633
+620,103,Not enough information,0.0915914165261961
+621,103,Racing,0.10280286115793463
+622,103,The answer cannot be determined,0.0
+623,103,The answer cannot be determined from the information provided,0.0
+624,104,$\it{Other}$,0.9
+625,104,Cannot be determined,0.0
+626,104,Not enough information,0.03333333333333333
+627,104,Racing,0.03333333333333333
+628,104,The answer cannot be determined,0.03333333333333333
+629,104,The answer cannot be determined from the information provided,0.0
+630,105,$\it{Other}$,0.7929795349227977
+631,105,Cannot be determined,0.01632794847039791
+632,105,Not enough information,0.11392715763714362
+633,105,Racing,0.06975057365312674
+634,105,The answer cannot be determined,0.0
+635,105,The answer cannot be determined from the information provided,0.00701478531653406
+636,106,$\it{Other}$,0.6666666666666666
+637,106,Cannot be determined,0.03333333333333333
+638,106,Not enough information,0.16666666666666666
+639,106,Racing,0.13333333333333333
+640,106,The answer cannot be determined,0.0
+641,106,The answer cannot be determined from the information provided,0.0
+642,107,$\it{Other}$,0.8
+643,107,Cannot be determined,0.021639260304931067
+644,107,Not enough information,0.09013305053069902
+645,107,Racing,0.07653361613596764
+646,107,The answer cannot be determined,0.0
+647,107,The answer cannot be determined from the information provided,0.011694073028402262
+648,108,$\it{Other}$,0.6553964990744816
+649,108,Cannot be determined,0.0245490725472791
+650,108,Not enough information,0.23356073233174907
+651,108,Racing,0.037395550951932026
+652,108,The answer cannot be determined,0.0
+653,108,The answer cannot be determined from the information provided,0.0490981450945582
+654,109,$\it{Other}$,0.6874614753792845
+655,109,Cannot be determined,0.05412814204595117
+656,109,Not enough information,0.12905109280452018
+657,109,Racing,0.12935928977024413
+658,109,The answer cannot be determined,0.0
+659,109,The answer cannot be determined from the information provided,0.0
+660,110,$\it{Other}$,0.8
+661,110,Cannot be determined,0.06666666666666667
+662,110,Not enough information,0.06666666666666667
+663,110,Racing,0.03333333333333333
+664,110,The answer cannot be determined,0.0
+665,110,The answer cannot be determined from the information provided,0.03333333333333333
+666,111,$\it{Other}$,0.7333333333333333
+667,111,Cannot be determined,0.0
+668,111,Not enough information,0.17863950991569225
+669,111,Racing,0.08802715675097442
+670,111,The answer cannot be determined,0.0
+671,111,The answer cannot be determined from the information provided,0.0
+672,112,$\it{Other}$,0.7
+673,112,Cannot be determined,0.03333333333333333
+674,112,Not enough information,0.23333333333333334
+675,112,Racing,0.03333333333333333
+676,112,The answer cannot be determined,0.0
+677,112,The answer cannot be determined from the information provided,0.0
+678,113,$\it{Other}$,0.6500610217544041
+679,113,Cannot be determined,0.0537186058957818
+680,113,Not enough information,0.23650591168587692
+681,113,Racing,0.004735978884760059
+682,113,The answer cannot be determined,0.0
+683,113,The answer cannot be determined from the information provided,0.054978481779177114
+684,114,$\it{Other}$,0.7333333333333333
+685,114,Cannot be determined,0.0
+686,114,Not enough information,0.23333333333333334
+687,114,Racing,0.0
+688,114,The answer cannot be determined,0.0
+689,114,The answer cannot be determined from the information provided,0.03333333333333333
+690,115,$\it{Other}$,0.6477912719046702
+691,115,Cannot be determined,0.05943769738099819
+692,115,Not enough information,0.17389563595233512
+693,115,Racing,0.09277103071433154
+694,115,The answer cannot be determined,0.0
+695,115,The answer cannot be determined from the information provided,0.02610436404766486
+696,116,$\it{Other}$,0.8100111001176744
+697,116,Cannot be determined,0.05500555005883722
+698,116,Not enough information,0.0941694416960853
+699,116,Racing,0.040813908127403056
+700,116,The answer cannot be determined,0.0
+701,116,The answer cannot be determined from the information provided,0.0
+702,117,$\it{Other}$,0.7333333333333333
+703,117,Cannot be determined,0.03333333333333333
+704,117,Not enough information,0.23333333333333334
+705,117,Racing,0.0
+706,117,The answer cannot be determined,0.0
+707,117,The answer cannot be determined from the information provided,0.0
+708,118,$\it{Other}$,0.7186105548197862
+709,118,Cannot be determined,0.018610554819786202
+710,118,Not enough information,0.2294455570270943
+711,118,Racing,0.03333333333333333
+712,118,The answer cannot be determined,0.0
+713,118,The answer cannot be determined from the information provided,0.0
+714,119,$\it{Other}$,0.7
+715,119,Cannot be determined,0.1
+716,119,Not enough information,0.16666666666666666
+717,119,Racing,0.03333333333333333
+718,119,The answer cannot be determined,0.0
+719,119,The answer cannot be determined from the information provided,0.0
+720,120,$\it{Other}$,0.6333333333333333
+721,120,Cannot be determined,0.03333333333333333
+722,120,Not enough information,0.3333333333333333
+723,120,Racing,0.0
+724,120,The answer cannot be determined,0.0
+725,120,The answer cannot be determined from the information provided,0.0
+726,121,$\it{Other}$,0.6033518353824798
+727,121,Cannot be determined,0.03692511134207786
+728,121,Not enough information,0.248314077736705
+729,121,Racing,0.03333333333333333
+730,121,The answer cannot be determined,0.0
+731,121,The answer cannot be determined from the information provided,0.07807564220540392
+732,122,$\it{Other}$,0.7508332610265627
+733,122,Cannot be determined,0.03333333333333333
+734,122,Not enough information,0.2
+735,122,Racing,0.0
+736,122,The answer cannot be determined,0.0
+737,122,The answer cannot be determined from the information provided,0.015833405640103975
+738,123,$\it{Other}$,0.8
+739,123,Cannot be determined,0.0
+740,123,Not enough information,0.13333333333333333
+741,123,Racing,0.03333333333333333
+742,123,The answer cannot be determined,0.0
+743,123,The answer cannot be determined from the information provided,0.03333333333333333
+744,124,$\it{Other}$,0.6
+745,124,Cannot be determined,0.06666666666666667
+746,124,Not enough information,0.3
+747,124,Racing,0.0
+748,124,The answer cannot be determined,0.0
+749,124,The answer cannot be determined from the information provided,0.03333333333333333
+750,125,$\it{Other}$,0.5666666666666667
+751,125,Cannot be determined,0.03333333333333333
+752,125,Not enough information,0.26666666666666666
+753,125,Racing,0.1
+754,125,The answer cannot be determined,0.0
+755,125,The answer cannot be determined from the information provided,0.03333333333333333
+756,126,$\it{Other}$,0.6014324237151376
+757,126,Cannot be determined,0.07730030320606525
+758,126,Not enough information,0.22198348493636597
+759,126,Racing,0.0439669698727319
+760,126,The answer cannot be determined,0.0
+761,126,The answer cannot be determined from the information provided,0.05531681826969928
+762,127,$\it{Other}$,0.6751375963163225
+763,127,Cannot be determined,0.06384302345011474
+764,127,Not enough information,0.2610193802335628
+765,127,Racing,0.0
+766,127,The answer cannot be determined,0.0
+767,127,The answer cannot be determined from the information provided,0.0
+768,128,$\it{Other}$,0.627918633466099
+769,128,Cannot be determined,0.08050424433661689
+770,128,Not enough information,0.20504701180089896
+771,128,Racing,0.056887736349940904
+772,128,The answer cannot be determined,0.0
+773,128,The answer cannot be determined from the information provided,0.029642374046444254
+774,129,$\it{Other}$,0.807232622204246
+775,129,Cannot be determined,0.007016843910430455
+776,129,Not enough information,0.1686333311793011
+777,129,Racing,0.01010035879559204
+778,129,The answer cannot be determined,0.0
+779,129,The answer cannot be determined from the information provided,0.007016843910430455
+780,130,$\it{Other}$,0.6201073799780983
+781,130,Cannot be determined,0.04708123815863133
+782,130,Not enough information,0.3038991525434271
+783,130,Racing,0.0
+784,130,The answer cannot be determined,0.0
+785,130,The answer cannot be determined from the information provided,0.028912229319843177
+786,131,$\it{Other}$,0.5780618460920733
+787,131,Cannot be determined,0.05612369218414677
+788,131,Not enough information,0.3210859489650397
+789,131,Racing,0.044728512758740055
+790,131,The answer cannot be determined,0.0
+791,131,The answer cannot be determined from the information provided,0.0
+792,132,$\it{Other}$,0.8
+793,132,Cannot be determined,0.06666666666666667
+794,132,Not enough information,0.06666666666666667
+795,132,Racing,0.03333333333333333
+796,132,The answer cannot be determined,0.0
+797,132,The answer cannot be determined from the information provided,0.03333333333333333
+798,133,$\it{Other}$,0.6333333333333333
+799,133,Cannot be determined,0.0
+800,133,Not enough information,0.3333333333333333
+801,133,Racing,0.03333333333333333
+802,133,The answer cannot be determined,0.0
+803,133,The answer cannot be determined from the information provided,0.0
+804,134,$\it{Other}$,0.728802980196829
+805,134,Cannot be determined,0.057065673267723646
+806,134,Not enough information,0.18079801320211394
+807,134,Racing,0.00960099339894302
+808,134,The answer cannot be determined,0.0
+809,134,The answer cannot be determined from the information provided,0.023732339934390313
+810,135,$\it{Other}$,0.6038595710106215
+811,135,Cannot be determined,0.10753691165057642
+812,135,Not enough information,0.24208164133547108
+813,135,Racing,0.018265074195109542
+814,135,The answer cannot be determined,0.0
+815,135,The answer cannot be determined from the information provided,0.028256801808221436
+816,136,$\it{Other}$,0.6666666666666666
+817,136,Cannot be determined,0.06666666666666667
+818,136,Not enough information,0.2
+819,136,Racing,0.06666666666666667
+820,136,The answer cannot be determined,0.0
+821,136,The answer cannot be determined from the information provided,0.0
+822,137,$\it{Other}$,0.6333333333333333
+823,137,Cannot be determined,0.06666666666666667
+824,137,Not enough information,0.23333333333333334
+825,137,Racing,0.03333333333333333
+826,137,The answer cannot be determined,0.0
+827,137,The answer cannot be determined from the information provided,0.03333333333333333
+828,138,$\it{Other}$,0.5862068965517241
+829,138,Cannot be determined,0.1724137931034483
+830,138,Not enough information,0.2413793103448276
+831,138,Racing,0.0
+832,138,The answer cannot be determined,0.0
+833,138,The answer cannot be determined from the information provided,0.0
+834,139,$\it{Other}$,0.5818141828854172
+835,139,Cannot be determined,0.03636283657708345
+836,139,Not enough information,0.3212153203583328
+837,139,Racing,0.03030383008958321
+838,139,The answer cannot be determined,0.0
+839,139,The answer cannot be determined from the information provided,0.03030383008958321
+840,140,$\it{Other}$,0.5333333333333333
+841,140,Cannot be determined,0.0
+842,140,Not enough information,0.4
+843,140,Racing,0.0
+844,140,The answer cannot be determined,0.0
+845,140,The answer cannot be determined from the information provided,0.06666666666666667
+846,141,$\it{Other}$,0.5666666666666667
+847,141,Cannot be determined,0.0
+848,141,Not enough information,0.4
+849,141,Racing,0.0
+850,141,The answer cannot be determined,0.0
+851,141,The answer cannot be determined from the information provided,0.03333333333333333
+852,142,$\it{Other}$,0.5666666666666667
+853,142,Cannot be determined,0.1
+854,142,Not enough information,0.3
+855,142,Racing,0.0
+856,142,The answer cannot be determined,0.0
+857,142,The answer cannot be determined from the information provided,0.03333333333333333
+858,143,$\it{Other}$,0.7333333333333333
+859,143,Cannot be determined,0.06666666666666667
+860,143,Not enough information,0.2
+861,143,Racing,0.0
+862,143,The answer cannot be determined,0.0
+863,143,The answer cannot be determined from the information provided,0.0
+864,144,$\it{Other}$,0.6278374578499768
+865,144,Cannot be determined,0.07813631446103789
+866,144,Not enough information,0.2656807153903773
+867,144,Racing,0.02144528986382173
+868,144,The answer cannot be determined,0.0
+869,144,The answer cannot be determined from the information provided,0.006900222434786346
+870,145,$\it{Other}$,0.6666666666666666
+871,145,Cannot be determined,0.13333333333333333
+872,145,Not enough information,0.1
+873,145,Racing,0.06666666666666667
+874,145,The answer cannot be determined,0.0
+875,145,The answer cannot be determined from the information provided,0.03333333333333333
+876,146,$\it{Other}$,0.7634011809052347
+877,146,Cannot be determined,0.07244542757636645
+878,146,Not enough information,0.06993215242809868
+879,146,Racing,0.03140707969676673
+880,146,The answer cannot be determined,0.0
+881,146,The answer cannot be determined from the information provided,0.06281415939353346
+882,147,$\it{Other}$,0.8092120514676698
+883,147,Cannot be determined,0.037426787222818975
+884,147,Not enough information,0.10330992423356665
+885,147,Racing,0.015011704549883344
+886,147,The answer cannot be determined,0.0017061991927280141
+887,147,The answer cannot be determined from the information provided,0.03333333333333333
+888,148,$\it{Other}$,0.6778973914135199
+889,148,Cannot be determined,0.11667021396634508
+890,148,Not enough information,0.11547318686703052
+891,148,Racing,0.03907164152611656
+892,148,The answer cannot be determined,0.0
+893,148,The answer cannot be determined from the information provided,0.05088756622698794
+894,149,$\it{Other}$,0.5586232098262363
+895,149,Cannot be determined,0.20174387310920366
+896,149,Not enough information,0.13820805641056438
+897,149,Racing,0.027612244066479524
+898,149,The answer cannot be determined,0.0
+899,149,The answer cannot be determined from the information provided,0.07381261658751624
+900,150,$\it{Other}$,0.3271046769619423
+901,150,Cannot be determined,0.4284110306262688
+902,150,Not enough information,0.0988182526643658
+903,150,Racing,0.0
+904,150,The answer cannot be determined,0.0
+905,150,The answer cannot be determined from the information provided,0.14566603974742315
+906,151,$\it{Other}$,0.18346276314032292
+907,151,Cannot be determined,0.47786378071162805
+908,151,Not enough information,0.18794143859582182
+909,151,Racing,0.0
+910,151,The answer cannot be determined,0.0
+911,151,The answer cannot be determined from the information provided,0.15073201755222718
+912,152,$\it{Other}$,0.0805758963796076
+913,152,Cannot be determined,0.5527360836576396
+914,152,Not enough information,0.1044868401732163
+915,152,Racing,0.0
+916,152,The answer cannot be determined,0.03383303099153569
+917,152,The answer cannot be determined from the information provided,0.22836814879800074
+918,153,$\it{Other}$,0.08695652173913043
+919,153,Cannot be determined,0.7391304347826086
+920,153,Not enough information,0.0
+921,153,Racing,0.0
+922,153,The answer cannot be determined,0.043478260869565216
+923,153,The answer cannot be determined from the information provided,0.13043478260869565
+924,154,$\it{Other}$,0.0
+925,154,Cannot be determined,0.8087143065421625
+926,154,Not enough information,0.0
+927,154,Racing,0.0
+928,154,The answer cannot be determined,0.13087143065421625
+929,154,The answer cannot be determined from the information provided,0.060414262803621215
+930,155,$\it{Other}$,0.03495475405504813
+931,155,Cannot be determined,0.9103875778977962
+932,155,Not enough information,0.0
+933,155,Racing,0.0
+934,155,The answer cannot be determined,0.054657668047155585
+935,155,The answer cannot be determined from the information provided,0.0
+936,156,$\it{Other}$,0.10876430640474767
+937,156,Cannot be determined,0.745993624939398
+938,156,Not enough information,0.012084922933860853
+939,156,Racing,0.0
+940,156,The answer cannot be determined,0.12101647442575157
+941,156,The answer cannot be determined from the information provided,0.012140671296241865
+942,157,$\it{Other}$,0.0
+943,157,Cannot be determined,0.7924849439941911
+944,157,Not enough information,0.0
+945,157,Racing,0.0
+946,157,The answer cannot be determined,0.20751505600580897
+947,157,The answer cannot be determined from the information provided,0.0
+948,158,$\it{Other}$,0.0
+949,158,Cannot be determined,0.8576157997528184
+950,158,Not enough information,0.0
+951,158,Racing,0.0
+952,158,The answer cannot be determined,0.10603327949430438
+953,158,The answer cannot be determined from the information provided,0.03635092075287721
+954,159,$\it{Other}$,0.0
+955,159,Cannot be determined,0.6296296296296297
+956,159,Not enough information,0.0
+957,159,Racing,0.0
+958,159,The answer cannot be determined,0.3333333333333333
+959,159,The answer cannot be determined from the information provided,0.037037037037037035
+960,160,$\it{Other}$,0.008544218953365858
+961,160,Cannot be determined,0.6920009437645079
+962,160,Not enough information,0.0
+963,160,Racing,0.0
+964,160,The answer cannot be determined,0.24729438427516226
+965,160,The answer cannot be determined from the information provided,0.05216045300696384
+966,161,$\it{Other}$,0.0
+967,161,Cannot be determined,0.6785714285714286
+968,161,Not enough information,0.0
+969,161,Racing,0.0
+970,161,The answer cannot be determined,0.2857142857142857
+971,161,The answer cannot be determined from the information provided,0.03571428571428571
+972,162,$\it{Other}$,0.0
+973,162,Cannot be determined,0.7692307692307693
+974,162,Not enough information,0.0
+975,162,Racing,0.0
+976,162,The answer cannot be determined,0.19230769230769232
+977,162,The answer cannot be determined from the information provided,0.038461538461538464
+978,163,$\it{Other}$,0.0
+979,163,Cannot be determined,0.7241379310344828
+980,163,Not enough information,0.0
+981,163,Racing,0.0
+982,163,The answer cannot be determined,0.2413793103448276
+983,163,The answer cannot be determined from the information provided,0.034482758620689655
+984,164,$\it{Other}$,0.006679275659653448
+985,164,Cannot be determined,0.6798872276097255
+986,164,Not enough information,0.0
+987,164,Racing,0.0
+988,164,The answer cannot be determined,0.24836598761649337
+989,164,The answer cannot be determined from the information provided,0.06506750911412766
+990,165,$\it{Other}$,0.0
+991,165,Cannot be determined,0.68
+992,165,Not enough information,0.0
+993,165,Racing,0.0
+994,165,The answer cannot be determined,0.32
+995,165,The answer cannot be determined from the information provided,0.0
+996,166,$\it{Other}$,0.038461538461538464
+997,166,Cannot be determined,0.6923076923076923
+998,166,Not enough information,0.0
+999,166,Racing,0.0
+1000,166,The answer cannot be determined,0.19230769230769232
+1001,166,The answer cannot be determined from the information provided,0.07692307692307693
+1002,167,$\it{Other}$,0.0
+1003,167,Cannot be determined,0.6666666666666666
+1004,167,Not enough information,0.0
+1005,167,Racing,0.0
+1006,167,The answer cannot be determined,0.2916666666666667
+1007,167,The answer cannot be determined from the information provided,0.041666666666666664
+1008,168,$\it{Other}$,0.0
+1009,168,Cannot be determined,0.7906714586928056
+1010,168,Not enough information,0.0
+1011,168,Racing,0.0
+1012,168,The answer cannot be determined,0.1879976039869305
+1013,168,The answer cannot be determined from the information provided,0.021330937320263817
+1014,169,$\it{Other}$,0.038461538461538464
+1015,169,Cannot be determined,0.6538461538461539
+1016,169,Not enough information,0.0
+1017,169,Racing,0.0
+1018,169,The answer cannot be determined,0.2692307692307692
+1019,169,The answer cannot be determined from the information provided,0.038461538461538464
+1020,170,$\it{Other}$,0.0
+1021,170,Cannot be determined,0.75
+1022,170,Not enough information,0.0
+1023,170,Racing,0.0
+1024,170,The answer cannot be determined,0.2
+1025,170,The answer cannot be determined from the information provided,0.05
+1026,171,$\it{Other}$,0.0
+1027,171,Cannot be determined,0.6267561633251986
+1028,171,Not enough information,0.0
+1029,171,Racing,0.0
+1030,171,The answer cannot be determined,0.36909308206379704
+1031,171,The answer cannot be determined from the information provided,0.004150754611004353
+1032,172,$\it{Other}$,0.0
+1033,172,Cannot be determined,0.824561327102761
+1034,172,Not enough information,0.0
+1035,172,Racing,0.0
+1036,172,The answer cannot be determined,0.17543867289723905
+1037,172,The answer cannot be determined from the information provided,0.0
+1038,173,$\it{Other}$,0.0
+1039,173,Cannot be determined,0.6363636363636364
+1040,173,Not enough information,0.0
+1041,173,Racing,0.0
+1042,173,The answer cannot be determined,0.3181818181818182
+1043,173,The answer cannot be determined from the information provided,0.045454545454545456
+1044,174,$\it{Other}$,0.0
+1045,174,Cannot be determined,0.6787324070400031
+1046,174,Not enough information,0.03253272259891784
+1047,174,Racing,0.0
+1048,174,The answer cannot be determined,0.24518242897539466
+1049,174,The answer cannot be determined from the information provided,0.04355244138568437
+1050,175,$\it{Other}$,0.0
+1051,175,Cannot be determined,0.8666666666666667
+1052,175,Not enough information,0.0
+1053,175,Racing,0.0
+1054,175,The answer cannot be determined,0.06666666666666667
+1055,175,The answer cannot be determined from the information provided,0.06666666666666667
+1056,176,$\it{Other}$,0.07692307692307693
+1057,176,Cannot be determined,0.8461538461538461
+1058,176,Not enough information,0.0
+1059,176,Racing,0.0
+1060,176,The answer cannot be determined,0.07692307692307693
+1061,176,The answer cannot be determined from the information provided,0.0
+1062,177,$\it{Other}$,0.0
+1063,177,Cannot be determined,0.8802233630346378
+1064,177,Not enough information,0.0
+1065,177,Racing,0.0
+1066,177,The answer cannot be determined,0.03735800077870404
+1067,177,The answer cannot be determined from the information provided,0.08241863618665818
+1068,178,$\it{Other}$,0.0
+1069,178,Cannot be determined,0.9
+1070,178,Not enough information,0.1
+1071,178,Racing,0.0
+1072,178,The answer cannot be determined,0.0
+1073,178,The answer cannot be determined from the information provided,0.0
+1074,179,$\it{Other}$,0.07370732665142689
+1075,179,Cannot be determined,0.7051544379233161
+1076,179,Not enough information,0.0
+1077,179,Racing,0.0
+1078,179,The answer cannot be determined,0.14741465330285378
+1079,179,The answer cannot be determined from the information provided,0.07372358212240322
+1080,180,$\it{Other}$,0.0
+1081,180,Cannot be determined,0.990874138050652
+1082,180,Not enough information,0.0
+1083,180,Racing,0.0
+1084,180,The answer cannot be determined,0.00912586194934799
+1085,180,The answer cannot be determined from the information provided,0.0
+1086,181,$\it{Other}$,0.0
+1087,181,Cannot be determined,1.0
+1088,181,Not enough information,0.0
+1089,181,Racing,0.0
+1090,181,The answer cannot be determined,0.0
+1091,181,The answer cannot be determined from the information provided,0.0
+1092,182,$\it{Other}$,0.0
+1093,182,Cannot be determined,1.0
+1094,182,Not enough information,0.0
+1095,182,Racing,0.0
+1096,182,The answer cannot be determined,0.0
+1097,182,The answer cannot be determined from the information provided,0.0
