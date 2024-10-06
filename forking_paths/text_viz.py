@@ -6,8 +6,8 @@ def rgb_to_htmlstr(c):
     c = [int(np.round(255*c_)) for c_ in c]
     return f'rgb({c[0]}, {c[1]}, {c[2]})'
 
-def text_colors_html(tokens, probs, prompt=None, c_map=sns.color_palette('YlOrRd_r', as_cmap=True), print_newln=True, width='500px', height='400px', 
-                     add_start_tok=''):
+def text_colors_html(tokens, probs, prompt=None, c_map=sns.color_palette('YlOrRd_r', as_cmap=True), 
+                     print_newln=True, width='500px', height='400px', add_start_tok=''):
 
     if (add_start_tok is not None):
         if prompt is not None:
